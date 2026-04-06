@@ -1,0 +1,16 @@
+BACKLINK REMINDER — PierSeeker Cross-Links
+
+Add the following to the RampSeeker project (D:\rampseeker):
+
+1. FOOTER (src/app/layout.tsx):
+   Add to "From Global AI Bots" section:
+   - PierSeeker → pierseeker.com (fishing piers)
+   - BarkSeeker → barkseeker.com (dog parks) [coming soon]
+
+2. ABOUT PAGE (src/app/about/page.tsx):
+   Add paragraph: "PierSeeker is our sister site for finding fishing piers. Looking for fishing piers instead of boat ramps? Visit pierseeker.com."
+
+3. BLOG:
+   Consider adding a blog post mentioning PierSeeker as a complementary resource for pier fishing vs boat ramp fishing.
+
+Date: April 5, 2026
