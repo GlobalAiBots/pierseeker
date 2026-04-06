@@ -1,22 +1,22 @@
 const items = [
   {
-    name: "Trailer Guide-Ons",
-    desc: "Makes solo launching easy. Guide your boat onto the trailer every time, even in wind and current.",
+    name: "Pier Fishing Rod Holder",
+    desc: "Clamps to pier railings. Holds your rod hands-free so you can manage multiple lines.",
     link: "#",
   },
   {
-    name: "Dock Bumpers",
-    desc: "Protect your boat at the courtesy dock. Essential for busy ramps where boats raft up.",
+    name: "Pier Cart / Fishing Wagon",
+    desc: "Haul your tackle, cooler, and rods down the pier. Wide wheels for boardwalk surfaces.",
+    link: "#",
+  },
+  {
+    name: "Drop Net",
+    desc: "Essential for pier fishing. Lower it down to net fish you've reeled to the surface.",
     link: "#",
   },
   {
     name: "Waterproof Phone Case",
-    desc: "Keep your phone dry while checking GPS coordinates at the ramp. Touchscreen-compatible.",
-    link: "#",
-  },
-  {
-    name: "Boat Ramp Mat",
-    desc: "Prevent slipping on wet concrete ramps. Non-slip surface for your truck tires and your feet.",
+    desc: "Keep your phone dry while checking GPS coordinates on the pier. Touchscreen-compatible.",
     link: "#",
   },
 ];
@@ -34,7 +34,7 @@ export default function GearRecommendation() {
               href={item.link}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block mt-2 text-xs font-semibold text-sunset hover:text-sunset-dark transition"
+              className="inline-block mt-2 text-xs font-semibold text-coral hover:text-coral-dark transition"
             >
               View on Amazon &rarr;
             </a>

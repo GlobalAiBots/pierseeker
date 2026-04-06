@@ -92,17 +92,3922 @@
     }
   },
   {
-    "id": 1377203981,
-    "name": "Fishing Pier",
-    "latitude": 40.3917339,
-    "longitude": -95.648296,
+    "id": 1377195557,
+    "name": "Spirit of Brownville Pier",
+    "latitude": 40.3920806,
+    "longitude": -95.6481027,
     "state": "Missouri",
     "stateAbbr": "MO",
     "tags": {
-      "dock": "drydock",
-      "intermittent": "yes",
-      "surface": "ground",
-      "waterway": "dock"
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Spirit of Brownville Pier",
+      "surface": "steel",
+      "tourism": "attraction",
+      "website": "https://www.river-inn-resort.com/the-spirit-of-brownville-nebraska/"
+    }
+  },
+  {
+    "id": 885319277,
+    "name": "Fishing Pier",
+    "latitude": 36.3558444,
+    "longitude": -89.3955091,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1023438483,
+    "name": "Fishing Pier",
+    "latitude": 36.1230972,
+    "longitude": -89.3317275,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1231190140,
+    "name": "Fishing Pier",
+    "latitude": 36.3537626,
+    "longitude": -89.4248041,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 6919115646,
+    "name": "Fishing Pier",
+    "latitude": 39.1323607,
+    "longitude": -93.182356,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 117201633,
+    "name": "Fishing Pier",
+    "latitude": 38.0336258,
+    "longitude": -92.8357605,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "covered": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 117597756,
+    "name": "Fishing Pier",
+    "latitude": 38.0369713,
+    "longitude": -92.8290683,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 117597761,
+    "name": "Fishing Pier",
+    "latitude": 38.028581,
+    "longitude": -92.8317033,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 117954148,
+    "name": "Fishing Pier",
+    "latitude": 39.4231835,
+    "longitude": -92.462447,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 145579213,
+    "name": "Fishing Pier",
+    "latitude": 39.0015786,
+    "longitude": -94.3369658,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 188861534,
+    "name": "Fishing Pier",
+    "latitude": 39.9333615,
+    "longitude": -94.0579423,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 217806244,
+    "name": "Fishing Pier",
+    "latitude": 38.9179123,
+    "longitude": -94.4755129,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 249294918,
+    "name": "Harbor Towne Dock G",
+    "latitude": 38.215361,
+    "longitude": -92.6428571,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "name": "Harbor Towne Dock G"
+    }
+  },
+  {
+    "id": 249294919,
+    "name": "Harbor Towne Dock H",
+    "latitude": 38.2151367,
+    "longitude": -92.6423968,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "name": "Harbor Towne Dock H"
+    }
+  },
+  {
+    "id": 252786030,
+    "name": "Fishing Pier",
+    "latitude": 39.5686731,
+    "longitude": -92.6273139,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 252979875,
+    "name": "Fishing Pier",
+    "latitude": 39.7213361,
+    "longitude": -92.4695719,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 264859957,
+    "name": "Fishing Pier",
+    "latitude": 37.1109859,
+    "longitude": -93.2593907,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 288268865,
+    "name": "Fishing Pier",
+    "latitude": 38.1032387,
+    "longitude": -92.6320057,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 288268867,
+    "name": "Fishing Pier",
+    "latitude": 38.1028665,
+    "longitude": -92.6328651,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 311359481,
+    "name": "Fishing Pier",
+    "latitude": 40.1842971,
+    "longitude": -92.6444836,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 318410994,
+    "name": "Fishing Pier",
+    "latitude": 39.174605,
+    "longitude": -94.4858365,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "bridge": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322757640,
+    "name": "Fishing Pier",
+    "latitude": 36.9190326,
+    "longitude": -90.7725358,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 323560481,
+    "name": "Fishing Pier",
+    "latitude": 38.8896089,
+    "longitude": -94.3295467,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 324106646,
+    "name": "Fishing Pier",
+    "latitude": 37.6190916,
+    "longitude": -93.7963776,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 331463416,
+    "name": "Fishing Pier",
+    "latitude": 39.2142162,
+    "longitude": -94.5833161,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 338729160,
+    "name": "Fishing Pier",
+    "latitude": 38.2949833,
+    "longitude": -93.3698967,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 344949832,
+    "name": "Wheelchair Accessible Covered Dock",
+    "latitude": 38.5930098,
+    "longitude": -92.3078576,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing",
+      "man_made": "pier",
+      "name": "Wheelchair Accessible Covered Dock"
+    }
+  },
+  {
+    "id": 389292924,
+    "name": "Fishing Pier",
+    "latitude": 39.3242281,
+    "longitude": -94.1957197,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 403821339,
+    "name": "Fishing Pier",
+    "latitude": 39.0801345,
+    "longitude": -94.5136739,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 417072333,
+    "name": "Fishing Pier",
+    "latitude": 38.9057916,
+    "longitude": -92.1256021,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472109702,
+    "name": "Fishing Pier",
+    "latitude": 39.0997614,
+    "longitude": -93.2061305,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 488204697,
+    "name": "Fishing Pier",
+    "latitude": 38.8220312,
+    "longitude": -94.2951975,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "building": "roof",
+      "floating": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 489183468,
+    "name": "Fishing Pier",
+    "latitude": 38.97543,
+    "longitude": -94.3163554,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 490871567,
+    "name": "Fishing Pier",
+    "latitude": 37.3123601,
+    "longitude": -93.1842113,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 492965532,
+    "name": "Fishing Pier",
+    "latitude": 39.0383363,
+    "longitude": -94.3698117,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 494707732,
+    "name": "Fishing Pier",
+    "latitude": 39.0195407,
+    "longitude": -94.3052698,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "foot": "designated",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 500752722,
+    "name": "Fishing Pier",
+    "latitude": 38.9995442,
+    "longitude": -94.3693022,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 500752735,
+    "name": "Fishing Pier",
+    "latitude": 38.9972108,
+    "longitude": -94.3701708,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 520154137,
+    "name": "Fishing Pier",
+    "latitude": 38.9277986,
+    "longitude": -92.3809909,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 565559045,
+    "name": "Fishing Pier",
+    "latitude": 38.927619,
+    "longitude": -94.314363,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "bicycle": "unknown",
+      "foot": "designated",
+      "highway": "footway",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 568043346,
+    "name": "Fishing Pier",
+    "latitude": 38.8948206,
+    "longitude": -92.2936787,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 597148493,
+    "name": "Fishing Pier",
+    "latitude": 38.6387134,
+    "longitude": -92.8887937,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 597954005,
+    "name": "Fishing Pier",
+    "latitude": 38.5663727,
+    "longitude": -93.2403459,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 597954007,
+    "name": "Fishing Pier",
+    "latitude": 38.5681854,
+    "longitude": -93.2410733,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 597954471,
+    "name": "Fishing Pier",
+    "latitude": 38.59047,
+    "longitude": -92.8037821,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 600381716,
+    "name": "Fishing Pier",
+    "latitude": 38.9489153,
+    "longitude": -94.3280254,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 600381718,
+    "name": "Fishing Pier",
+    "latitude": 38.9497484,
+    "longitude": -94.3274282,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 606875460,
+    "name": "Fishing Pier",
+    "latitude": 39.7737863,
+    "longitude": -92.8914114,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 638665212,
+    "name": "Accessible fishing pier",
+    "latitude": 38.9836379,
+    "longitude": -94.3260739,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "name": "Accessible fishing pier",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 638962568,
+    "name": "Fishing Pier",
+    "latitude": 38.9947911,
+    "longitude": -94.3101836,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 638970981,
+    "name": "Accessible fishing dock",
+    "latitude": 38.9884004,
+    "longitude": -94.310578,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "name": "Accessible fishing dock",
+      "surface": "wood",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 663968128,
+    "name": "Fishing Pier",
+    "latitude": 39.8711922,
+    "longitude": -94.3800717,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 678800163,
+    "name": "Fishing Pier",
+    "latitude": 39.1058918,
+    "longitude": -94.3962652,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679284714,
+    "name": "Fishing Pier",
+    "latitude": 38.9820765,
+    "longitude": -94.3786554,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679284724,
+    "name": "Fishing Pier",
+    "latitude": 38.9903428,
+    "longitude": -94.3749314,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679284750,
+    "name": "Dock P37",
+    "latitude": 38.9917777,
+    "longitude": -94.3617477,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access": "permit",
+      "man_made": "pier",
+      "name": "Dock P37",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 679284759,
+    "name": "Fishing Pier",
+    "latitude": 38.9934887,
+    "longitude": -94.3649898,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679284772,
+    "name": "Fishing Pier",
+    "latitude": 38.9908866,
+    "longitude": -94.3676998,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679308479,
+    "name": "Fishing Pier",
+    "latitude": 38.9900131,
+    "longitude": -94.3785956,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 679362599,
+    "name": "Fishing Pier",
+    "latitude": 38.9842757,
+    "longitude": -94.3820326,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679433551,
+    "name": "Fishing Pier",
+    "latitude": 38.9787123,
+    "longitude": -94.3754885,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679433586,
+    "name": "Fishing Pier",
+    "latitude": 38.9802023,
+    "longitude": -94.3843957,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 680831560,
+    "name": "Fishing Pier",
+    "latitude": 38.9824847,
+    "longitude": -94.3960104,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 680831580,
+    "name": "Fishing Pier",
+    "latitude": 39.0003865,
+    "longitude": -94.3874336,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 680920563,
+    "name": "Fishing Pier",
+    "latitude": 38.9632123,
+    "longitude": -94.431347,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 681889357,
+    "name": "Fishing Pier",
+    "latitude": 37.832989,
+    "longitude": -93.3007295,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 682535633,
+    "name": "Fishing Pier",
+    "latitude": 38.9768401,
+    "longitude": -94.4338417,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 683033191,
+    "name": "Fishing Pier",
+    "latitude": 38.9618066,
+    "longitude": -94.3841271,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 683040417,
+    "name": "Fishing Pier",
+    "latitude": 38.9698396,
+    "longitude": -94.3899419,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 684265870,
+    "name": "Fishing Pier",
+    "latitude": 38.9858899,
+    "longitude": -94.4204072,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 684482139,
+    "name": "Fishing Pier",
+    "latitude": 38.9583498,
+    "longitude": -94.3823192,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 687183236,
+    "name": "Fishing Pier",
+    "latitude": 38.9261313,
+    "longitude": -94.4329561,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 692731316,
+    "name": "Fishing Pier",
+    "latitude": 38.2805046,
+    "longitude": -93.4273327,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 692731318,
+    "name": "Fishing Pier",
+    "latitude": 38.2797655,
+    "longitude": -93.4280756,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697244302,
+    "name": "Fishing Pier",
+    "latitude": 38.8577532,
+    "longitude": -94.4830047,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 710407026,
+    "name": "Fishing Pier",
+    "latitude": 39.7564355,
+    "longitude": -93.5563369,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 744417616,
+    "name": "Fishing Pier",
+    "latitude": 38.1687967,
+    "longitude": -92.7499541,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "description": "Dock at 352 Lamp Post Lane",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 745357055,
+    "name": "Fishing Pier",
+    "latitude": 38.9730394,
+    "longitude": -94.3850564,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 773886958,
+    "name": "Fishing Pier",
+    "latitude": 39.5899474,
+    "longitude": -92.8850867,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "lit": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 817355833,
+    "name": "Fishing Pier",
+    "latitude": 38.9901318,
+    "longitude": -92.2616115,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 817616410,
+    "name": "Junior Lake Dock",
+    "latitude": 38.8631967,
+    "longitude": -91.9483266,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Junior Lake Dock"
+    }
+  },
+  {
+    "id": 835471673,
+    "name": "Fishing Pier",
+    "latitude": 39.1747775,
+    "longitude": -94.4883367,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 835832123,
+    "name": "Fishing Pier",
+    "latitude": 39.1719212,
+    "longitude": -94.4822655,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 894425638,
+    "name": "Fishing Pier",
+    "latitude": 39.4163243,
+    "longitude": -94.5434973,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 894428470,
+    "name": "Fishing Pier",
+    "latitude": 39.4148618,
+    "longitude": -94.5406163,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 894439568,
+    "name": "Fishing Pier",
+    "latitude": 39.4049194,
+    "longitude": -94.5157119,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 894441723,
+    "name": "Fishing Pier",
+    "latitude": 39.3981901,
+    "longitude": -94.5212103,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "building": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 899655300,
+    "name": "Fishing Pier",
+    "latitude": 40.3577777,
+    "longitude": -94.7772785,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 910658795,
+    "name": "Fishing Pier",
+    "latitude": 38.9014715,
+    "longitude": -94.4674835,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 910658797,
+    "name": "Fishing Pier",
+    "latitude": 38.9009647,
+    "longitude": -94.4678292,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 911697868,
+    "name": "Fishing Pier",
+    "latitude": 38.2118984,
+    "longitude": -92.7151401,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 917638953,
+    "name": "Fishing Pier",
+    "latitude": 39.0408325,
+    "longitude": -94.1495995,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 917638967,
+    "name": "Fishing Pier",
+    "latitude": 39.0484215,
+    "longitude": -94.1418577,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 945329945,
+    "name": "Fishing Pier",
+    "latitude": 38.8400142,
+    "longitude": -94.4633977,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access": "private",
+      "floating": "yes",
+      "foot": "private",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 945329953,
+    "name": "Fishing Pier",
+    "latitude": 38.8401609,
+    "longitude": -94.4616653,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access": "private",
+      "floating": "yes",
+      "foot": "private",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 958543104,
+    "name": "Fishing Pier",
+    "latitude": 38.9359925,
+    "longitude": -94.3245913,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1007069782,
+    "name": "Fishing Pier",
+    "latitude": 38.9731011,
+    "longitude": -92.3856351,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1021545102,
+    "name": "Fishing Pier",
+    "latitude": 38.1727854,
+    "longitude": -92.9771423,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access": "no",
+      "foot": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1021620659,
+    "name": "Fishing Pier",
+    "latitude": 38.1731685,
+    "longitude": -92.9777248,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1054545142,
+    "name": "Fishing Pier",
+    "latitude": 40.3525448,
+    "longitude": -94.7722974,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1074882035,
+    "name": "Fishing Pier",
+    "latitude": 38.2810458,
+    "longitude": -91.8735305,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1085637278,
+    "name": "Boat Launch Dock",
+    "latitude": 38.6016253,
+    "longitude": -92.3054433,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Boat Launch Dock"
+    }
+  },
+  {
+    "id": 1085737960,
+    "name": "Binder Bait Shop Pavilion Dock",
+    "latitude": 38.602585,
+    "longitude": -92.3044367,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Binder Bait Shop Pavilion Dock"
+    }
+  },
+  {
+    "id": 1090387943,
+    "name": "Fishing Pier",
+    "latitude": 40.1146721,
+    "longitude": -91.5727974,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1095777914,
+    "name": "Fishing Pier",
+    "latitude": 39.7435737,
+    "longitude": -92.453549,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1098419314,
+    "name": "Fishing Pier",
+    "latitude": 38.9434807,
+    "longitude": -92.222295,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1103899963,
+    "name": "Fishing Pier",
+    "latitude": 39.747056,
+    "longitude": -94.0385064,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1105659134,
+    "name": "Fishing Pier",
+    "latitude": 39.7095161,
+    "longitude": -92.9599735,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1112162478,
+    "name": "Fishing Pier",
+    "latitude": 38.9951032,
+    "longitude": -94.5205469,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1135212867,
+    "name": "Fishing Pier",
+    "latitude": 39.3857881,
+    "longitude": -93.4835238,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1146036970,
+    "name": "Fishing Pier",
+    "latitude": 39.1561225,
+    "longitude": -92.7090711,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1151014194,
+    "name": "Fishing Pier",
+    "latitude": 39.4186993,
+    "longitude": -92.4616204,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1151395227,
+    "name": "Fishing Pier",
+    "latitude": 40.3358538,
+    "longitude": -92.0972721,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1156597582,
+    "name": "Fishing Pier",
+    "latitude": 39.0631472,
+    "longitude": -93.6713424,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1157351392,
+    "name": "Accessible fishing jetty",
+    "latitude": 38.8940389,
+    "longitude": -94.1946521,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "foot": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "name": "Accessible fishing jetty",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1161131519,
+    "name": "Fishing Pier",
+    "latitude": 39.4314407,
+    "longitude": -94.5263222,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1189758516,
+    "name": "Fishing Pier",
+    "latitude": 39.6636509,
+    "longitude": -92.9966965,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1193065568,
+    "name": "Fishing Pier",
+    "latitude": 39.1517574,
+    "longitude": -94.4940256,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1202445003,
+    "name": "Fishing Pier",
+    "latitude": 38.9913837,
+    "longitude": -94.3246944,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1208337517,
+    "name": "Fishing Pier",
+    "latitude": 40.1984849,
+    "longitude": -92.5911929,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1208536440,
+    "name": "Fishing Pier",
+    "latitude": 39.7228966,
+    "longitude": -92.9207794,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1208959473,
+    "name": "Fishing Pier",
+    "latitude": 39.0867961,
+    "longitude": -94.3576993,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "bicycle": "no",
+      "fishing": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "note": "Sometimes this pier is moved to the north end of the adjacent lake instead.",
+      "surface": "plastic"
+    }
+  },
+  {
+    "id": 1209892252,
+    "name": "Fishing Pier",
+    "latitude": 39.3344202,
+    "longitude": -94.1862333,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1214343546,
+    "name": "Fishing pier",
+    "latitude": 37.9740172,
+    "longitude": -92.7746395,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "name": "Fishing pier",
+      "surface": "metal",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 1219696036,
+    "name": "Fishing Pier",
+    "latitude": 39.245848,
+    "longitude": -92.4591053,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1225661611,
+    "name": "Fishing Pier",
+    "latitude": 37.315825,
+    "longitude": -93.2042245,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1226325452,
+    "name": "Fishing Pier",
+    "latitude": 40.0664864,
+    "longitude": -95.3447113,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1239507198,
+    "name": "Fishing Pier",
+    "latitude": 36.9478492,
+    "longitude": -90.3272927,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1239507199,
+    "name": "Fishing Pier",
+    "latitude": 36.9355933,
+    "longitude": -90.324818,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1265694313,
+    "name": "Accessible fishing pier",
+    "latitude": 38.638836,
+    "longitude": -93.5229367,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access:disabled": "yes",
+      "area": "yes",
+      "bicycle": "no",
+      "fishing": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "name": "Accessible fishing pier",
+      "surface": "wood",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 1287269198,
+    "name": "Fishing Pier",
+    "latitude": 38.9428387,
+    "longitude": -92.3752232,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1289269502,
+    "name": "Fishing Pier",
+    "latitude": 38.2688913,
+    "longitude": -92.924999,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1309066722,
+    "name": "Paradise Marina & WaterSports",
+    "latitude": 38.2017454,
+    "longitude": -92.6313883,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "bicycle": "no",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "mooring": "commercial",
+      "motor_vehicle": "no",
+      "name": "Paradise Marina & WaterSports",
+      "surface": "wood",
+      "width": "20"
+    }
+  },
+  {
+    "id": 1311905676,
+    "name": "Fishing Pier",
+    "latitude": 39.8173745,
+    "longitude": -94.3851521,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "covered": "yes",
+      "fishing": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1311915992,
+    "name": "Fishing Pier",
+    "latitude": 39.8015432,
+    "longitude": -94.3805169,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "covered": "yes",
+      "fishing": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 1329511446,
+    "name": "Fishing Pier",
+    "latitude": 37.6052165,
+    "longitude": -93.7539223,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1329511456,
+    "name": "Fishing Pier",
+    "latitude": 37.6036979,
+    "longitude": -93.7353439,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1348581943,
+    "name": "Fishing Pier",
+    "latitude": 38.8698429,
+    "longitude": -94.3382136,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "bicycle": "no",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1348581954,
+    "name": "Fishing Pier",
+    "latitude": 38.8897268,
+    "longitude": -94.3259581,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1348581960,
+    "name": "Fishing Pier",
+    "latitude": 38.8901157,
+    "longitude": -94.3171469,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1348866109,
+    "name": "Fishing Pier",
+    "latitude": 39.0405512,
+    "longitude": -94.5891937,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1351095430,
+    "name": "Fishing Pier",
+    "latitude": 39.0140828,
+    "longitude": -94.3439412,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358894454,
+    "name": "Fishing Pier",
+    "latitude": 37.8805146,
+    "longitude": -93.3247248,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358899695,
+    "name": "Fishing Pier",
+    "latitude": 37.8753366,
+    "longitude": -93.3159129,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358944968,
+    "name": "Fishing Pier",
+    "latitude": 37.8919877,
+    "longitude": -93.2989299,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359118208,
+    "name": "Fishing Pier",
+    "latitude": 38.2936062,
+    "longitude": -93.4544161,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359433262,
+    "name": "Fishing Pier",
+    "latitude": 37.6024699,
+    "longitude": -93.7315201,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359451825,
+    "name": "Fishing Pier",
+    "latitude": 38.118747,
+    "longitude": -92.6642068,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359451841,
+    "name": "Fishing Pier",
+    "latitude": 38.1149372,
+    "longitude": -92.6678994,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359713047,
+    "name": "Fishing Pier",
+    "latitude": 38.0740771,
+    "longitude": -92.5762887,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359902083,
+    "name": "Fishing Pier",
+    "latitude": 38.8907795,
+    "longitude": -92.3103387,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1362942391,
+    "name": "Fishing Pier",
+    "latitude": 39.0773102,
+    "longitude": -92.3057785,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1363170471,
+    "name": "Fishing Pier",
+    "latitude": 38.7801639,
+    "longitude": -92.6010318,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1364612095,
+    "name": "Fishing Pier",
+    "latitude": 39.765183,
+    "longitude": -92.5226386,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1364792551,
+    "name": "Fishing Pier",
+    "latitude": 39.150762,
+    "longitude": -91.876974,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1364809354,
+    "name": "Fishing Pier",
+    "latitude": 39.1550788,
+    "longitude": -91.8905635,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1364859506,
+    "name": "Fishing Pier",
+    "latitude": 39.1813114,
+    "longitude": -91.8952791,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1365078114,
+    "name": "Fishing Pier",
+    "latitude": 39.1329878,
+    "longitude": -93.1826522,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1365078140,
+    "name": "Fishing Pier",
+    "latitude": 39.133802,
+    "longitude": -93.1822565,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1365084172,
+    "name": "Fishing Pier",
+    "latitude": 39.0373148,
+    "longitude": -93.3656903,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1365095714,
+    "name": "Fishing Pier",
+    "latitude": 39.2698922,
+    "longitude": -93.2693297,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366018959,
+    "name": "Fishing Pier",
+    "latitude": 38.6796292,
+    "longitude": -93.289657,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366025853,
+    "name": "Fishing Pier",
+    "latitude": 38.5284508,
+    "longitude": -93.5111451,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366071509,
+    "name": "Fishing Pier",
+    "latitude": 39.4000472,
+    "longitude": -92.8022202,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366267614,
+    "name": "Rotary Fishing Dock",
+    "latitude": 39.4170684,
+    "longitude": -92.4645015,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Rotary Fishing Dock"
+    }
+  },
+  {
+    "id": 1366269993,
+    "name": "Fishing Pier",
+    "latitude": 39.4771804,
+    "longitude": -92.4675189,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366269994,
+    "name": "Fishing Pier",
+    "latitude": 39.4772347,
+    "longitude": -92.4674866,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366280576,
+    "name": "Fishing Pier",
+    "latitude": 39.6220732,
+    "longitude": -92.6195873,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366280597,
+    "name": "Fishing Pier",
+    "latitude": 39.580848,
+    "longitude": -92.6168628,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366295654,
+    "name": "Fishing Pier",
+    "latitude": 39.7603746,
+    "longitude": -92.4917607,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366332964,
+    "name": "Fishing Pier",
+    "latitude": 40.0140788,
+    "longitude": -92.4289814,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366335191,
+    "name": "Fishing Pier",
+    "latitude": 40.0363329,
+    "longitude": -92.4770219,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366357297,
+    "name": "Fishing Pier",
+    "latitude": 39.2096954,
+    "longitude": -92.1260729,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366362367,
+    "name": "Fishing Pier",
+    "latitude": 39.5110205,
+    "longitude": -91.6542697,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366362369,
+    "name": "Fishing Pier",
+    "latitude": 39.5128096,
+    "longitude": -91.6530379,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366362370,
+    "name": "Fishing Pier",
+    "latitude": 39.5127268,
+    "longitude": -91.6521904,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366388936,
+    "name": "Fishing Pier",
+    "latitude": 39.5511907,
+    "longitude": -91.6691105,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366708114,
+    "name": "Fishing Pier",
+    "latitude": 39.5155794,
+    "longitude": -91.7817397,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366708122,
+    "name": "Fishing Pier",
+    "latitude": 39.5114713,
+    "longitude": -91.7951375,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1366708144,
+    "name": "Fishing Pier",
+    "latitude": 39.4920881,
+    "longitude": -91.8069321,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1367172929,
+    "name": "Fishing Pier",
+    "latitude": 39.4548492,
+    "longitude": -94.2037854,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1367196860,
+    "name": "Fishing Pier",
+    "latitude": 39.5180772,
+    "longitude": -91.7283982,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1367196869,
+    "name": "Fishing Pier",
+    "latitude": 39.5179623,
+    "longitude": -91.7272194,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1367201352,
+    "name": "Fishing Pier",
+    "latitude": 39.5279902,
+    "longitude": -91.7407615,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1368444936,
+    "name": "Fishing Pier",
+    "latitude": 38.2530974,
+    "longitude": -92.7364681,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1368447874,
+    "name": "Fishing Pier",
+    "latitude": 38.309819,
+    "longitude": -92.8179564,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1368459462,
+    "name": "Fishing Pier",
+    "latitude": 38.2425841,
+    "longitude": -93.0101497,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1368459464,
+    "name": "Fishing Pier",
+    "latitude": 38.2421853,
+    "longitude": -93.0101191,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1373872769,
+    "name": "Fishing Pier",
+    "latitude": 40.1784143,
+    "longitude": -92.6483015,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1374170933,
+    "name": "Fishing Pier",
+    "latitude": 39.6027248,
+    "longitude": -94.3975643,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1374804972,
+    "name": "Fishing Pier",
+    "latitude": 37.5561254,
+    "longitude": -91.8768316,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1375862304,
+    "name": "Fishing Pier",
+    "latitude": 38.8157111,
+    "longitude": -92.3832666,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377195569,
+    "name": "Fishing Pier",
+    "latitude": 40.3899663,
+    "longitude": -95.6469428,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "surface": "stee"
+    }
+  },
+  {
+    "id": 1377207079,
+    "name": "Fishing Pier",
+    "latitude": 40.3979616,
+    "longitude": -95.6523946,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1377207080,
+    "name": "Fishing Pier",
+    "latitude": 40.3981749,
+    "longitude": -95.6525672,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1378101363,
+    "name": "Fishing Pier",
+    "latitude": 38.9022425,
+    "longitude": -92.3423824,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1378910525,
+    "name": "Project Office Dock",
+    "latitude": 39.2244958,
+    "longitude": -92.8482599,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Project Office Dock",
+      "source_ref": "https://services7.arcgis.com/n1YM8pTrFmm7L4hs/arcgis/rest/services/Docks/FeatureServer",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1379111874,
+    "name": "Fishing Pier",
+    "latitude": 38.6719576,
+    "longitude": -91.5518179,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "source_ref": "https://www.nap.usace.army.mil/Missions/Factsheets/Fact-Sheet-Article-View/Article/2869373/kansas-city-dock-barge/",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1379111875,
+    "name": "Fishing Pier",
+    "latitude": 38.6728165,
+    "longitude": -91.551045,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1379111880,
+    "name": "Hydrofoil Pier",
+    "latitude": 38.67089,
+    "longitude": -91.5527982,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Hydrofoil Pier",
+      "surface": "steel",
+      "tourism": "attraction",
+      "website": "https://www.ussaries.org/"
+    }
+  },
+  {
+    "id": 1381818210,
+    "name": "Fishing Pier",
+    "latitude": 37.7207614,
+    "longitude": -92.8580017,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1382152991,
+    "name": "Fishing Pier",
+    "latitude": 37.5628074,
+    "longitude": -92.0226377,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1390586057,
+    "name": "Fishing Pier",
+    "latitude": 37.007624,
+    "longitude": -91.8466928,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1390586058,
+    "name": "Fishing Pier",
+    "latitude": 37.0072361,
+    "longitude": -91.8468479,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1390586062,
+    "name": "Fishing Pier",
+    "latitude": 37.1611846,
+    "longitude": -92.1850911,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1391974980,
+    "name": "Fishing Pier",
+    "latitude": 38.5392441,
+    "longitude": -94.4331086,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "bicycle": "no",
+      "floating": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1391974982,
+    "name": "Fishing Pier",
+    "latitude": 38.5373304,
+    "longitude": -94.4335175,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "bicycle": "no",
+      "floating": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1409213756,
+    "name": "Fishing Pier",
+    "latitude": 38.9463151,
+    "longitude": -92.0277215,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409272035,
+    "name": "Fishing Pier",
+    "latitude": 38.1254026,
+    "longitude": -92.717561,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409272036,
+    "name": "Fishing Pier",
+    "latitude": 38.1260273,
+    "longitude": -92.7173059,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410337151,
+    "name": "URSA Farmer's Cooperative",
+    "latitude": 40.146164,
+    "longitude": -91.5068663,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "URSA Farmer's Cooperative",
+      "source:1": "USACE Docks",
+      "source:1:date": "2024/12/03",
+      "source:2": "USACE Inland Navigational Chart U37UM301",
+      "source:2:date": "2024-07-02",
+      "source_ref:1": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "source_ref:2": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1410370566,
+    "name": "Fishing Pier",
+    "latitude": 40.1324139,
+    "longitude": -91.5141571,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410531696,
+    "name": "Fishing Pier",
+    "latitude": 40.1206421,
+    "longitude": -91.5132172,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1410531701,
+    "name": "Lewis County Port Authority Dock",
+    "latitude": 40.1231774,
+    "longitude": -91.5133273,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "access": "customers",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Lewis County Port Authority Dock",
+      "source": "USACE Inland Navigational Chart U37UM301",
+      "source:date": "2024-07-02",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1410535880,
+    "name": "Ayer's Oil Company",
+    "latitude": 40.1347731,
+    "longitude": -91.5144527,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Ayer's Oil Company",
+      "source": "USACE Inland Navigational Chart U37UM301",
+      "source:date": "2024-07-02",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1410568927,
+    "name": "Guard Wall",
+    "latitude": 40.1451673,
+    "longitude": -91.5146352,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "maritime",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "name": "Guard Wall",
+      "nrhp:criteria": "(A), (C)",
+      "nrhp:inscription_date": "2004-03-10",
+      "protection_title": "U.S. Army Corps of Engineers",
+      "ref:nrhp": "04000180",
+      "source_ref": "https://catalog.archives.gov/id/28891319",
+      "start_date": "1942",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1410568929,
+    "name": "Mooring Cell",
+    "latitude": 40.1418259,
+    "longitude": -91.514932,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "name": "Mooring Cell",
+      "note": "Not a contributing feature to the Lock & Dam No. 20 Historic District",
+      "protection_title": "U.S. Army Corps of Engineers",
+      "source_ref": "https://catalog.archives.gov/id/28891319",
+      "start_date": "1987",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1412210365,
+    "name": "Fishing Pier",
+    "latitude": 37.8601261,
+    "longitude": -93.2728936,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414543465,
+    "name": "Fishing Pier",
+    "latitude": 39.7638922,
+    "longitude": -92.5209683,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1415278074,
+    "name": "Fishing Pier",
+    "latitude": 40.0000384,
+    "longitude": -91.5196472,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1415278079,
+    "name": "Fishing Pier",
+    "latitude": 40.0068313,
+    "longitude": -91.5106933,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1415278086,
+    "name": "Fishing Pier",
+    "latitude": 40.0121006,
+    "longitude": -91.5111194,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1415278129,
+    "name": "Fishing Pier",
+    "latitude": 39.9960608,
+    "longitude": -91.5183947,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1418825124,
+    "name": "Fishing Pier",
+    "latitude": 38.0734084,
+    "longitude": -94.4310511,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "fishing": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1418953878,
+    "name": "Fishing Pier",
+    "latitude": 38.2131186,
+    "longitude": -93.0277913,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1427040736,
+    "name": "Fishing Pier",
+    "latitude": 39.0292694,
+    "longitude": -94.2373572,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "surface": "plastic"
+    }
+  },
+  {
+    "id": 1430443050,
+    "name": "Fishing Pier",
+    "latitude": 39.855329,
+    "longitude": -93.6454267,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1430443051,
+    "name": "Fishing Pier",
+    "latitude": 39.8544038,
+    "longitude": -93.6480082,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1430443100,
+    "name": "Fishing Pier",
+    "latitude": 39.8759564,
+    "longitude": -93.6509583,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1430444518,
+    "name": "Fishing Pier",
+    "latitude": 39.8583156,
+    "longitude": -93.6419009,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1430445344,
+    "name": "Fishing Pier",
+    "latitude": 39.859876,
+    "longitude": -93.6119204,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435797534,
+    "name": "Fishing Pier",
+    "latitude": 38.2603357,
+    "longitude": -93.3945174,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435797556,
+    "name": "Fishing Pier",
+    "latitude": 38.2609247,
+    "longitude": -93.4010169,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435797567,
+    "name": "Fishing Pier",
+    "latitude": 38.2644404,
+    "longitude": -93.3967502,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1442130296,
+    "name": "Fishing Pier",
+    "latitude": 38.9727083,
+    "longitude": -93.989994,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1450155946,
+    "name": "Fishing Pier",
+    "latitude": 38.6785588,
+    "longitude": -93.2441959,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1457363654,
+    "name": "Fishing Pier",
+    "latitude": 39.0443042,
+    "longitude": -94.2912937,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "bicycle": "no",
+      "covered": "no",
+      "floating": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1461936610,
+    "name": "Fishing Pier",
+    "latitude": 37.865109,
+    "longitude": -94.0379368,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1467830515,
+    "name": "Fishing Pier",
+    "latitude": 38.1757958,
+    "longitude": -92.6767559,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "building": "yes",
+      "man_made": "pier",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "id": 1467830561,
+    "name": "Fishing Pier",
+    "latitude": 38.176362,
+    "longitude": -92.6900115,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "addr:city": "Sunrise Beach",
+      "addr:housenumber": "1514",
+      "addr:postcode": "65079",
+      "addr:state": "MO",
+      "addr:street": "Grand Cove Road",
+      "building": "yes",
+      "man_made": "pier",
+      "source": "esri_USDOT_CamdenCountyMO;microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "id": 1474037253,
+    "name": "Fishing Pier",
+    "latitude": 40.0078758,
+    "longitude": -91.9744777,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "bicycle": "no",
+      "covered": "no",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1484406017,
+    "name": "Fishing Pier",
+    "latitude": 39.8985522,
+    "longitude": -93.6920499,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "bicycle": "no",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 1484425184,
+    "name": "Fishing Pier",
+    "latitude": 38.9297308,
+    "longitude": -92.2710651,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1483561131,
+    "name": "Fishing Pier",
+    "latitude": 39.5239803,
+    "longitude": -91.8292121,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 6985167816,
+    "name": "Fishing Pier",
+    "latitude": 37.1099135,
+    "longitude": -93.8175022,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 6985167817,
+    "name": "Fishing Pier",
+    "latitude": 37.1100835,
+    "longitude": -93.8171548,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088644,
+    "name": "Fishing Pier",
+    "latitude": 39.5418116,
+    "longitude": -91.6620468,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088645,
+    "name": "Fishing Pier",
+    "latitude": 39.5426933,
+    "longitude": -91.6621241,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088647,
+    "name": "Fishing Pier",
+    "latitude": 39.5516401,
+    "longitude": -91.6603188,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088648,
+    "name": "Fishing Pier",
+    "latitude": 39.5466573,
+    "longitude": -91.6656603,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088651,
+    "name": "Fishing Pier",
+    "latitude": 39.5475045,
+    "longitude": -91.6667254,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088655,
+    "name": "Fishing Pier",
+    "latitude": 39.5463588,
+    "longitude": -91.670182,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088661,
+    "name": "Fishing Pier",
+    "latitude": 39.5539348,
+    "longitude": -91.6725727,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088663,
+    "name": "Fishing Pier",
+    "latitude": 39.5469229,
+    "longitude": -91.6754104,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088664,
+    "name": "Fishing Pier",
+    "latitude": 39.5447238,
+    "longitude": -91.7024384,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088665,
+    "name": "Fishing Pier",
+    "latitude": 39.544353,
+    "longitude": -91.7049799,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088667,
+    "name": "Fishing Pier",
+    "latitude": 39.5437738,
+    "longitude": -91.7088856,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088669,
+    "name": "Fishing Pier",
+    "latitude": 39.5419684,
+    "longitude": -91.7079901,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088672,
+    "name": "Fishing Pier",
+    "latitude": 39.5279757,
+    "longitude": -91.7430095,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088675,
+    "name": "Fishing Pier",
+    "latitude": 39.5213511,
+    "longitude": -91.7394083,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088679,
+    "name": "Fishing Pier",
+    "latitude": 39.5158532,
+    "longitude": -91.7433064,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088686,
+    "name": "Fishing Pier",
+    "latitude": 39.515841,
+    "longitude": -91.7770316,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088689,
+    "name": "Fishing Pier",
+    "latitude": 39.514405,
+    "longitude": -91.7835688,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088692,
+    "name": "Fishing Pier",
+    "latitude": 39.5000121,
+    "longitude": -91.8107675,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088695,
+    "name": "Fishing Pier",
+    "latitude": 39.4958793,
+    "longitude": -91.8062378,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657088699,
+    "name": "Fishing Pier",
+    "latitude": 39.4940746,
+    "longitude": -91.8082934,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657129104,
+    "name": "Fishing Pier",
+    "latitude": 39.5216324,
+    "longitude": -91.8305005,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657129107,
+    "name": "Fishing Pier",
+    "latitude": 39.5208342,
+    "longitude": -91.8326735,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657129112,
+    "name": "Fishing Pier",
+    "latitude": 39.5174417,
+    "longitude": -91.8344585,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657129114,
+    "name": "Fishing Pier",
+    "latitude": 39.45818,
+    "longitude": -91.8271019,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657129115,
+    "name": "Fishing Pier",
+    "latitude": 39.4557732,
+    "longitude": -91.8269058,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12657129120,
+    "name": "Fishing Pier",
+    "latitude": 39.4512469,
+    "longitude": -91.8181814,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 154833486,
+    "name": "Fishing Pier",
+    "latitude": 36.6399934,
+    "longitude": -93.2125197,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 154833488,
+    "name": "Fishing Pier",
+    "latitude": 36.6399794,
+    "longitude": -93.2123483,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 154833489,
+    "name": "Fishing Pier",
+    "latitude": 36.6353243,
+    "longitude": -93.2170946,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 154833498,
+    "name": "Fishing Pier",
+    "latitude": 36.6426539,
+    "longitude": -93.2125018,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 263223871,
+    "name": "Fishing Pier",
+    "latitude": 36.6497495,
+    "longitude": -93.2144869,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 263572417,
+    "name": "Fishing Pier",
+    "latitude": 36.581211,
+    "longitude": -93.3114666,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 263592542,
+    "name": "Fishing Pier",
+    "latitude": 36.5789622,
+    "longitude": -93.3022193,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 263592545,
+    "name": "Fishing Pier",
+    "latitude": 36.5784808,
+    "longitude": -93.3044712,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 263596354,
+    "name": "Fishing Pier",
+    "latitude": 36.5772481,
+    "longitude": -93.3063599,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 263599516,
+    "name": "Fishing Pier",
+    "latitude": 36.5869687,
+    "longitude": -93.318,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 263754156,
+    "name": "Fishing Pier",
+    "latitude": 36.6213871,
+    "longitude": -93.3130325,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 264040197,
+    "name": "Fishing Pier",
+    "latitude": 36.6634767,
+    "longitude": -93.213555,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 364443968,
+    "name": "Restaurant Slips",
+    "latitude": 36.6327704,
+    "longitude": -93.425406,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "name": "Restaurant Slips"
+    }
+  },
+  {
+    "id": 399475103,
+    "name": "Fishing Pier",
+    "latitude": 36.55935,
+    "longitude": -93.6776636,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 609391924,
+    "name": "Fishing Pier",
+    "latitude": 36.5744482,
+    "longitude": -93.3106013,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 706048255,
+    "name": "Fishing Pier",
+    "latitude": 36.6323102,
+    "longitude": -93.3266434,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 706048256,
+    "name": "Fishing Pier",
+    "latitude": 36.6336315,
+    "longitude": -93.3253494,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 940390730,
+    "name": "Fishing Pier",
+    "latitude": 36.6084249,
+    "longitude": -93.3115223,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 940390740,
+    "name": "Fishing Pier",
+    "latitude": 36.6139597,
+    "longitude": -93.3077155,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 940390758,
+    "name": "Fishing Pier",
+    "latitude": 36.6141613,
+    "longitude": -93.3074832,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 941560270,
+    "name": "Fishing Pier",
+    "latitude": 36.6355295,
+    "longitude": -93.3406672,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier",
+      "tunnel": "building_passage"
+    }
+  },
+  {
+    "id": 1022855034,
+    "name": "Fishing Pier",
+    "latitude": 36.5703224,
+    "longitude": -90.7336938,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1022855040,
+    "name": "Fishing Pier",
+    "latitude": 36.5722297,
+    "longitude": -90.7312737,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1295828803,
+    "name": "Fishing Pier",
+    "latitude": 36.5492151,
+    "longitude": -93.292647,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1429856888,
+    "name": "Fishing Pier",
+    "latitude": 36.5941184,
+    "longitude": -93.3143448,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 137485566,
+    "name": "Fishing Pier",
+    "latitude": 36.4986095,
+    "longitude": -95.0491757,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 137485571,
+    "name": "Fishing Pier",
+    "latitude": 36.4982534,
+    "longitude": -95.0469356,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 142670054,
+    "name": "Fishing Pier",
+    "latitude": 36.004249,
+    "longitude": -95.2618709,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 142670057,
+    "name": "Fishing Pier",
+    "latitude": 36.0064588,
+    "longitude": -95.2638218,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 161488012,
+    "name": "Blue Whale",
+    "latitude": 36.1938342,
+    "longitude": -95.732895,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "alt_name": "Blue Whale of Catoosa",
+      "building": "yes",
+      "man_made": "pier",
+      "mimics": "whale",
+      "name": "Blue Whale",
+      "tourism": "attraction",
+      "wikidata": "Q4930019",
+      "wikipedia": "en:Blue Whale of Catoosa"
+    }
+  },
+  {
+    "id": 310693992,
+    "name": "Fishing Pier",
+    "latitude": 36.1753448,
+    "longitude": -95.2777719,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 749006960,
+    "name": "Fishing Pier",
+    "latitude": 36.2214034,
+    "longitude": -95.7169156,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1098351868,
+    "name": "Fishing Pier",
+    "latitude": 36.4256716,
+    "longitude": -95.1695792,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1157958001,
+    "name": "Fishing Pier",
+    "latitude": 36.2931738,
+    "longitude": -95.7332387,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1167158717,
+    "name": "Fishing Pier",
+    "latitude": 36.0598358,
+    "longitude": -95.5378098,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1167158718,
+    "name": "Fishing Pier",
+    "latitude": 36.0585769,
+    "longitude": -95.5364497,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1290415099,
+    "name": "Fishing Pier",
+    "latitude": 36.4810883,
+    "longitude": -95.0056206,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1290415110,
+    "name": "Fishing Pier",
+    "latitude": 36.4817526,
+    "longitude": -94.9987179,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1374481155,
+    "name": "Fishing Pier",
+    "latitude": 36.3312675,
+    "longitude": -95.583558,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1444555779,
+    "name": "Fishing Pier",
+    "latitude": 36.018398,
+    "longitude": -95.7526392,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1492018661,
+    "name": "Fishing Pier",
+    "latitude": 36.1883852,
+    "longitude": -95.6608448,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1492018669,
+    "name": "Fishing Pier",
+    "latitude": 36.1983365,
+    "longitude": -95.6623874,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1492018673,
+    "name": "Fishing Pier",
+    "latitude": 36.1779139,
+    "longitude": -95.6632273,
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
     }
   }
 ]

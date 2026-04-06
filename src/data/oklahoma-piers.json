@@ -1,0 +1,3047 @@
+[
+  {
+    "place_id": "osm_289412463",
+    "name": "Parthenia Lake Dock",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0611884,
+    "longitude": -96.0571013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_289412473",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0620891,
+    "longitude": -96.0518044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_67026422",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.6766792,
+    "longitude": -97.5862932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_67026443",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.678553,
+    "longitude": -97.586541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_67029306",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.6693973,
+    "longitude": -97.597742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_67029367",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.6698811,
+    "longitude": -97.5971412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_132489689",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4572579,
+    "longitude": -97.5044204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_139873189",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.0335394,
+    "longitude": -96.3694938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_139873191",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.0319029,
+    "longitude": -96.3695541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_162118029",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.231467,
+    "longitude": -97.23657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_162118054",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2313409,
+    "longitude": -97.2379531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_170934702",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3725543,
+    "longitude": -97.3705464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_170945710",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3299434,
+    "longitude": -97.3410499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_170945720",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3490891,
+    "longitude": -97.3391855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_170974998",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.701717,
+    "longitude": -95.3138766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_170980109",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3425255,
+    "longitude": -97.3643105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_175946177",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4587432,
+    "longitude": -97.5400707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_185320101",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.484969,
+    "longitude": -97.7494108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_185398129",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5614362,
+    "longitude": -97.5758483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_185398137",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5646776,
+    "longitude": -97.5777339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_186007385",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5500345,
+    "longitude": -97.5991336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_186007387",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5499783,
+    "longitude": -97.5972957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_186007388",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5470467,
+    "longitude": -97.593913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188291208",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4820212,
+    "longitude": -97.4633408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188291210",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4827103,
+    "longitude": -97.4621552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_221136278",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.5451081,
+    "longitude": -101.4508058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_221136280",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.5446991,
+    "longitude": -101.4421397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_228008709",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5543165,
+    "longitude": -97.5959204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_228563483",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5519136,
+    "longitude": -97.5879547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229190500",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2182012,
+    "longitude": -98.48492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229191287",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2168023,
+    "longitude": -98.499973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229192680",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.1718107,
+    "longitude": -98.4484432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229192691",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.172081,
+    "longitude": -98.4472835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229193094",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2189641,
+    "longitude": -98.4779992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229193245",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.1636513,
+    "longitude": -98.4714049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229193749",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.1972158,
+    "longitude": -98.494038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229193946",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2061972,
+    "longitude": -98.5003227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_229926886",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5967608,
+    "longitude": -97.4592637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_230991225",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4440543,
+    "longitude": -97.5941811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_236664869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0293814,
+    "longitude": -95.911609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_247768652",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3553827,
+    "longitude": -97.5236609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_248759460",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4025581,
+    "longitude": -97.5110953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_249732985",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.2101482,
+    "longitude": -95.9064759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250152899",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3327636,
+    "longitude": -96.1020652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250152901",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.332785,
+    "longitude": -96.1030394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250152903",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3323641,
+    "longitude": -96.1017833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250152908",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3710472,
+    "longitude": -96.1322696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250152913",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3726323,
+    "longitude": -96.131886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250155122",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3100847,
+    "longitude": -96.1233163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250155130",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.2985637,
+    "longitude": -96.1416774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250174304",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3507554,
+    "longitude": -96.1514897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250203373",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.4145443,
+    "longitude": -96.2242635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250212926",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3801809,
+    "longitude": -96.1524175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250212935",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3780328,
+    "longitude": -96.1963721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250212957",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.321196,
+    "longitude": -96.1117767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250228979",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3771734,
+    "longitude": -96.2268257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_288523930",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.7022958,
+    "longitude": -97.5015434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_289732358",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.4161197,
+    "longitude": -101.0658413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_291366787",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.6264059,
+    "longitude": -97.4127904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_293591371",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4540505,
+    "longitude": -95.7295469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_294465401",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3589017,
+    "longitude": -97.5292303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_297465313",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4918704,
+    "longitude": -97.6884701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_320469225",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.7152512,
+    "longitude": -98.6382893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_385647587",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2286768,
+    "longitude": -97.2471778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_385649810",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2498753,
+    "longitude": -97.2399175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_385650443",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2261463,
+    "longitude": -97.280685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_385765312",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2171827,
+    "longitude": -97.2401543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_399720805",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.978823,
+    "longitude": -95.3611441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_404366411",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.7629411,
+    "longitude": -96.6549562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_407401643",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2419682,
+    "longitude": -97.4176117,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_422767116",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.6121152,
+    "longitude": -101.8745598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_428779843",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1442294,
+    "longitude": -96.0039879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_431424706",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5814012,
+    "longitude": -99.2117634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_446305231",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.4535568,
+    "longitude": -97.047238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_446305237",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.4531255,
+    "longitude": -97.0485013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_446406498",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.4919372,
+    "longitude": -96.9865686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_448354363",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3644673,
+    "longitude": -99.4149027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451796396",
+    "name": "Sping Canyon Birdwalk",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.7153147,
+    "longitude": -101.5478772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_463119976",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1466864,
+    "longitude": -97.0673541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_471303252",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8313875,
+    "longitude": -96.8110168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_471303258",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8355229,
+    "longitude": -96.8116447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_471303269",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8299346,
+    "longitude": -96.8134984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_472267916",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.9898098,
+    "longitude": -97.3779739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_490958152",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0532563,
+    "longitude": -97.0867149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_490958160",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0519932,
+    "longitude": -97.0876384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_490958167",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0542744,
+    "longitude": -97.0898045,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_495966498",
+    "name": "Beavers Bend Marina Boat Docks",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.1607657,
+    "longitude": -94.7142407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_495966502",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.1624267,
+    "longitude": -94.7122385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_495966503",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.1625313,
+    "longitude": -94.7120153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_496235955",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2395603,
+    "longitude": -97.2368351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_498170655",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4577625,
+    "longitude": -97.5025346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545558231",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5385546,
+    "longitude": -94.9082882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_673071365",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.6165896,
+    "longitude": -101.8743296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_685775358",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.1590451,
+    "longitude": -101.8060098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_735321861",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3403328,
+    "longitude": -97.5993112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_799262443",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.9702352,
+    "longitude": -101.907461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_800556738",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.4239441,
+    "longitude": -97.4982246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_803138763",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.5427146,
+    "longitude": -102.3110984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_809264281",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.907006,
+    "longitude": -98.5617774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_825058603",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.091801,
+    "longitude": -98.6061164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_826273021",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.4813187,
+    "longitude": -97.9526676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_827150874",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.111955,
+    "longitude": -98.6136885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_832448235",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5646663,
+    "longitude": -97.5774881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_833091764",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.452482,
+    "longitude": -97.6287701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_835536621",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0102816,
+    "longitude": -95.8413661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_837454602",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0185296,
+    "longitude": -95.9723827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854029294",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8179459,
+    "longitude": -96.7706261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854029299",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8174799,
+    "longitude": -96.7720556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854029301",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8166874,
+    "longitude": -96.7735864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854362011",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.9940642,
+    "longitude": -100.9061851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_859376182",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.4522745,
+    "longitude": -97.0190583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_879890465",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3498754,
+    "longitude": -97.4215539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_949243133",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.4647701,
+    "longitude": -97.0412856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_969948666",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.7547484,
+    "longitude": -98.387554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_969948669",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.7542436,
+    "longitude": -98.3837401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_971006577",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.7739912,
+    "longitude": -102.1433567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_976787366",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4260505,
+    "longitude": -95.5884541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_997728472",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.1068683,
+    "longitude": -99.7475411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1000965492",
+    "name": "Altus Lake Dock #2",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.6567927,
+    "longitude": -99.3188848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023939755",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.256475,
+    "longitude": -95.5842358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1024207390",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.8955596,
+    "longitude": -95.1793002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1025359495",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.7612522,
+    "longitude": -99.0167747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1025682523",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.2648739,
+    "longitude": -98.0394874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1031376160",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.6579625,
+    "longitude": -95.3349689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1031380388",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.6571923,
+    "longitude": -95.3321439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1065131357",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.352892,
+    "longitude": -101.1272625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1065131364",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.3539351,
+    "longitude": -101.1278744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1073540179",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4486672,
+    "longitude": -97.5954251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1079575064",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.600948,
+    "longitude": -98.5112371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1079752156",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.2368061,
+    "longitude": -98.0543409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1080331628",
+    "name": "ADA Trail",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.6258983,
+    "longitude": -97.3895229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1089982126",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5372472,
+    "longitude": -99.1925973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1089982128",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5374086,
+    "longitude": -99.1921482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1089982129",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5375348,
+    "longitude": -99.1917679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090882612",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.7497679,
+    "longitude": -97.0364713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1091536389",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.7698777,
+    "longitude": -97.2068292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1093420838",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5225106,
+    "longitude": -96.319078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1102489123",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8193113,
+    "longitude": -96.6045681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1136872040",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0478941,
+    "longitude": -97.0855484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167160868",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5534015,
+    "longitude": -95.167232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167160869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5550511,
+    "longitude": -95.1679363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167162368",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3476784,
+    "longitude": -94.7723588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167162369",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3474242,
+    "longitude": -94.7722111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167198155",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4495579,
+    "longitude": -97.5238473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167198158",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4582644,
+    "longitude": -97.567134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167198163",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4517271,
+    "longitude": -97.5097262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167199086",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4861912,
+    "longitude": -97.666139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167801450",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.6433599,
+    "longitude": -98.3442054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167801456",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.6458796,
+    "longitude": -98.3378864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1173422673",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4862199,
+    "longitude": -95.0993897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1173422680",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4865754,
+    "longitude": -95.097118,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1173422692",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4875022,
+    "longitude": -95.0959874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1175978545",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.7828183,
+    "longitude": -94.6945252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1200709975",
+    "name": "Stoney Point Floating Docks",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4568316,
+    "longitude": -95.0261498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1205252012",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.718282,
+    "longitude": -101.55236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1205254814",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.706558,
+    "longitude": -101.5552651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1227060609",
+    "name": "Lake Elmer Thomas Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.7342727,
+    "longitude": -98.520411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1239105267",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.407163,
+    "longitude": -97.0513431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1240246490",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2620133,
+    "longitude": -95.2312765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1248286687",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.6298983,
+    "longitude": -97.3897228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1273396090",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8417003,
+    "longitude": -98.5353719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1296174878",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.7387027,
+    "longitude": -101.0031103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1303130677",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3923319,
+    "longitude": -97.3499182,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1310505980",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.6229439,
+    "longitude": -95.1640442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1310629634",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4018725,
+    "longitude": -95.5902854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1311920886",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.7458215,
+    "longitude": -96.5703326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1313073793",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.7540534,
+    "longitude": -94.9111836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1315726086",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4587108,
+    "longitude": -97.5534223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323971817",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1364317,
+    "longitude": -95.9940465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1340343918",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.7680054,
+    "longitude": -95.2982598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1351837137",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0213014,
+    "longitude": -95.4155215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1351837140",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0225397,
+    "longitude": -95.416277,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1351837864",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0257734,
+    "longitude": -95.4503151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1351897768",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.3197667,
+    "longitude": -95.8766811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1351898087",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.3327678,
+    "longitude": -95.9075481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1353731124",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.2902595,
+    "longitude": -96.7007424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1355691515",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.8255015,
+    "longitude": -96.6149723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1370962382",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1244764,
+    "longitude": -95.9850371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377279295",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3683261,
+    "longitude": -94.8289732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1378624825",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3694011,
+    "longitude": -94.8266157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1378630631",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3652941,
+    "longitude": -94.8266825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411774784",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2268847,
+    "longitude": -101.8151243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429767441",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.8795722,
+    "longitude": -95.2778809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442877326",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.408577,
+    "longitude": -97.021483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450775820",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1404923,
+    "longitude": -96.2763809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450775824",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1419492,
+    "longitude": -96.2776461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450775825",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.143226,
+    "longitude": -96.2769699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450777438",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.208228,
+    "longitude": -96.2293392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450777442",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.2065785,
+    "longitude": -96.2285108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1470093518",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.2982569,
+    "longitude": -96.7118046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1485555535",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.2674112,
+    "longitude": -97.2780511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1496335606",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.0725678,
+    "longitude": -97.0917056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2530016198",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.524406,
+    "longitude": -97.6044222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5580216761",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.8309045,
+    "longitude": -96.406995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6336193994",
+    "name": "Fishing Dock",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.8960869,
+    "longitude": -95.8001589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6336193997",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.8936815,
+    "longitude": -95.795119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6703526289",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 33.7867478,
+    "longitude": -96.8094471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7289377219",
+    "name": "Fishing Jetty",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0875089,
+    "longitude": -98.5943074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7289377239",
+    "name": "Fishing Jetty",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0919952,
+    "longitude": -98.58597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7289377260",
+    "name": "Fishing Jetty",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0962152,
+    "longitude": -98.5782321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7742228122",
+    "name": "Fishing Pier",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.419202,
+    "longitude": -96.9789241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11133041278",
+    "name": "Tuff Ramp Deck",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.433096,
+    "longitude": -94.9732763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11133073403",
+    "name": "Reeve's Slough Fishing Dock",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4345119,
+    "longitude": -95.0076713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

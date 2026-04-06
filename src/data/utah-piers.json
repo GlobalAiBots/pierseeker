@@ -1,0 +1,2207 @@
+[
+  {
+    "place_id": "osm_32945915",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1089698,
+    "longitude": -112.0168817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_37031140",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7424678,
+    "longitude": -111.7894955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_37031145",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7426029,
+    "longitude": -111.790525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_38819920",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.051332,
+    "longitude": -111.6762788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_43008992",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.2765084,
+    "longitude": -111.8189896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_43008993",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.2527589,
+    "longitude": -111.7879756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_45683482",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.3538152,
+    "longitude": -112.0757916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_45783140",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4069399,
+    "longitude": -112.0531369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_45783142",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4098758,
+    "longitude": -112.0542717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_61241297",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.3725357,
+    "longitude": -111.8909239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_82360643",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3411615,
+    "longitude": -111.8015248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_82360644",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3427463,
+    "longitude": -111.7999716,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_85467965",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1709262,
+    "longitude": -112.0815008,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_92196974",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1775847,
+    "longitude": -111.1536373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_92196975",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1771164,
+    "longitude": -111.1538757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_92320740",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1581926,
+    "longitude": -111.0509086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_92320743",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1289326,
+    "longitude": -111.0362644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_92356754",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1247575,
+    "longitude": -111.1523976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_93279944",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5008189,
+    "longitude": -111.9418835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_109757526",
+    "name": "Rainbow Bridge Tour Boat dock",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0847896,
+    "longitude": -110.9716901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_110642904",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1842902,
+    "longitude": -111.9382073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_121932346",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.7893155,
+    "longitude": -111.1295521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_121932349",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.7995972,
+    "longitude": -111.1350984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_121935397",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.8063644,
+    "longitude": -111.139718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_156728598",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5068311,
+    "longitude": -109.4480027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_175962969",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1799893,
+    "longitude": -111.9521576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188988288",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.0221081,
+    "longitude": -111.9411044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_190262356",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0084746,
+    "longitude": -111.5025448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_190262357",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0073447,
+    "longitude": -111.501888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_190262358",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0075035,
+    "longitude": -111.5013778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_204494421",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.0610666,
+    "longitude": -112.2377776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_212785357",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7438215,
+    "longitude": -111.873468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_253081756",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9119712,
+    "longitude": -109.4497394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_253104669",
+    "name": "Jarvies Canyon Campground",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9295934,
+    "longitude": -109.4776205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_273903016",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0803188,
+    "longitude": -113.6001927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_303089567",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6231841,
+    "longitude": -111.4173064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_303089572",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.623684,
+    "longitude": -111.4178348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329946004",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.988519,
+    "longitude": -110.1503794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_333355394",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.4737824,
+    "longitude": -110.7208139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_333355395",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.472114,
+    "longitude": -110.7190389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_333355401",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.4672527,
+    "longitude": -110.716094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_339457321",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.9644482,
+    "longitude": -111.3984341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_372930292",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5107715,
+    "longitude": -111.9254166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_382539714",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5605401,
+    "longitude": -112.0024656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_382921874",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5495616,
+    "longitude": -111.9982721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_391564163",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7724506,
+    "longitude": -112.0136635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_404288351",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5556269,
+    "longitude": -112.0035766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_404288404",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5511171,
+    "longitude": -112.0034357,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_404288420",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5495086,
+    "longitude": -111.9971709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_405148473",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5543095,
+    "longitude": -112.0002494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_424714215",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0052503,
+    "longitude": -111.4970829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_424977951",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5106913,
+    "longitude": -112.0257831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_426842831",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.964022,
+    "longitude": -111.3974644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_434091238",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6556588,
+    "longitude": -111.9232005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_436809300",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.9361269,
+    "longitude": -111.6948141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_464946902",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2906899,
+    "longitude": -111.8701401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_468810082",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3268204,
+    "longitude": -111.7646562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_469559036",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.238129,
+    "longitude": -111.7375146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_475389733",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.0526097,
+    "longitude": -111.6786776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_475389735",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.0520501,
+    "longitude": -111.6782356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_476383296",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.0134087,
+    "longitude": -111.6971176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_476979066",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.0191067,
+    "longitude": -111.6386284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_476979074",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1688621,
+    "longitude": -111.4970243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_490924430",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2388493,
+    "longitude": -111.7374531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_492847566",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7204928,
+    "longitude": -110.8844215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_502138841",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5050727,
+    "longitude": -112.0707154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_517457762",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.0730619,
+    "longitude": -111.933521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_517457764",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.0705464,
+    "longitude": -111.9349344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_518097009",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.2031743,
+    "longitude": -111.6656953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_521619290",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.5168567,
+    "longitude": -110.7397002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_521619295",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.5176226,
+    "longitude": -110.7419694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_524178629",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5604595,
+    "longitude": -112.0025698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_548415888",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.6264765,
+    "longitude": -111.8661479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_566809093",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2410388,
+    "longitude": -111.744895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_609387697",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7353853,
+    "longitude": -112.2123151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_609387704",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7321288,
+    "longitude": -112.2113085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_643197453",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5994437,
+    "longitude": -111.9340439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1198338651",
+    "name": "Koi View Pier At Thanksgiving Point",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.4325772,
+    "longitude": -111.9121857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_676612649",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.9720475,
+    "longitude": -111.6949614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_680434151",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.415616,
+    "longitude": -111.7807351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_725725022",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6374006,
+    "longitude": -111.9166938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_728907772",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.937695,
+    "longitude": -111.6957575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_736351898",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9219736,
+    "longitude": -111.590758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_836863636",
+    "name": "High Star Ranch Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6573196,
+    "longitude": -111.2759653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_897814020",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4890565,
+    "longitude": -111.9980536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_897814027",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4905493,
+    "longitude": -111.9964596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_922909199",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7817293,
+    "longitude": -111.9435221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_937548153",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.8385566,
+    "longitude": -110.0014931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_937716815",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5861853,
+    "longitude": -109.4408698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_959901489",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9613472,
+    "longitude": -110.3876671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_959901497",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9531478,
+    "longitude": -110.3957089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1007902980",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.6746903,
+    "longitude": -111.9192561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1019274441",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1797252,
+    "longitude": -111.3080001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1028747586",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.6442312,
+    "longitude": -112.7823561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1038311048",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1698066,
+    "longitude": -110.493937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1057039726",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.621753,
+    "longitude": -111.8542694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090600037",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.4706008,
+    "longitude": -111.2549643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1094517113",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.8244392,
+    "longitude": -111.4778924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1101274444",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9926566,
+    "longitude": -111.8885623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116078243",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3358822,
+    "longitude": -111.5299078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1117279207",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.9366759,
+    "longitude": -111.6393704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1127669670",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.56496,
+    "longitude": -111.8955476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1133558845",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.9201326,
+    "longitude": -111.8280567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1133558847",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.9235704,
+    "longitude": -111.8239875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1153090176",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.2581904,
+    "longitude": -112.4998845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1160552700",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.5230739,
+    "longitude": -112.798669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1174868728",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.912806,
+    "longitude": -109.4480068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1183756089",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.533709,
+    "longitude": -111.4905942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1184838354",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4090853,
+    "longitude": -112.052495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1214886083",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7462711,
+    "longitude": -111.7481876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1220395240",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.8967315,
+    "longitude": -110.9923097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1235253762",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9407425,
+    "longitude": -109.6402419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1235878269",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.3131455,
+    "longitude": -111.9822606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1247497175",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.962727,
+    "longitude": -110.3855989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1272847731",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1470313,
+    "longitude": -112.9872529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1278312029",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.9074526,
+    "longitude": -111.3703537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1278315252",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.909345,
+    "longitude": -111.3789683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1278943672",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.6901078,
+    "longitude": -112.8515002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1280641196",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.9005085,
+    "longitude": -111.3686382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1280642531",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.9376006,
+    "longitude": -111.3905818,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1280642547",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.9374909,
+    "longitude": -111.3902798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1294818978",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0080567,
+    "longitude": -112.516395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1298610909",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.2694182,
+    "longitude": -110.9566991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1300707699",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1180605,
+    "longitude": -109.6280169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1311251235",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.9732496,
+    "longitude": -112.3013403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1318022281",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6166792,
+    "longitude": -111.4215008,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1320909916",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1859195,
+    "longitude": -113.3933911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1321464392",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7476331,
+    "longitude": -111.9222265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323283626",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.0610066,
+    "longitude": -112.2374265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329423945",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.2687985,
+    "longitude": -111.8184606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1340614631",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7746969,
+    "longitude": -111.3913566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377155240",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4342105,
+    "longitude": -112.6599119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377155245",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4325301,
+    "longitude": -112.6629036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1380472515",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.4157029,
+    "longitude": -111.5077836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1380480931",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.4439763,
+    "longitude": -111.4799215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393560745",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9053708,
+    "longitude": -111.921554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409816472",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4070873,
+    "longitude": -112.0523667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409816480",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4229395,
+    "longitude": -112.0577215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1422300406",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.701897,
+    "longitude": -111.9264415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1422881469",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7433072,
+    "longitude": -111.9184698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1434933309",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.359593,
+    "longitude": -111.8962849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451547891",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1427805,
+    "longitude": -111.8024789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1458218472",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1130991,
+    "longitude": -113.5690015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1458622216",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5479739,
+    "longitude": -112.0460349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1463608254",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6466724,
+    "longitude": -112.3002615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1479955333",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3039176,
+    "longitude": -111.8796191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1488675037",
+    "name": "Fishing Pier",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.178198,
+    "longitude": -113.3760539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

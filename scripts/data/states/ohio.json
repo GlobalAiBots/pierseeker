@@ -1,367 +1,1265 @@
 [
   {
-    "id": 256971418,
+    "id": 26349780,
     "name": "Fishing Pier",
-    "latitude": 39.2368762,
-    "longitude": -84.3024587,
+    "latitude": 39.2146384,
+    "longitude": -84.2798172,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "created_by": "Potlatch 0.8a",
-      "leisure": "fishing"
+      "created_by": "Potlatch 0.10b",
+      "man_made": "pier"
     }
   },
   {
-    "id": 2175977671,
+    "id": 32617026,
     "name": "Fishing Pier",
-    "latitude": 41.6177368,
-    "longitude": -81.5212454,
+    "latitude": 39.2662864,
+    "longitude": -84.2998145,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "created_by": "Potlatch 0.10f",
+      "man_made": "pier"
     }
   },
   {
-    "id": 2514547596,
+    "id": 33808156,
     "name": "Fishing Pier",
-    "latitude": 41.5613359,
-    "longitude": -81.3701538,
+    "latitude": 39.3198337,
+    "longitude": -84.2721624,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2514568156,
+    "id": 33810226,
     "name": "Fishing Pier",
-    "latitude": 41.589383,
-    "longitude": -81.4025869,
+    "latitude": 39.3158374,
+    "longitude": -84.2809829,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 3654378196,
+    "id": 34221520,
     "name": "Fishing Pier",
-    "latitude": 41.7142012,
-    "longitude": -81.3470764,
+    "latitude": 39.3192458,
+    "longitude": -84.2784857,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 4100956227,
+    "id": 108446914,
     "name": "Fishing Pier",
-    "latitude": 41.6830818,
-    "longitude": -81.1323541,
+    "latitude": 39.4827444,
+    "longitude": -84.0651464,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "area": "yes",
+      "man_made": "pier",
+      "sport": "fishing"
     }
   },
   {
-    "id": 4407383235,
+    "id": 170415186,
     "name": "Fishing Pier",
-    "latitude": 41.7278923,
-    "longitude": -81.1376051,
+    "latitude": 39.216664,
+    "longitude": -84.0844556,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "floating": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 4909669310,
+    "id": 289112166,
     "name": "Fishing Pier",
-    "latitude": 41.2339914,
-    "longitude": -81.5689941,
+    "latitude": 38.4999404,
+    "longitude": -81.8460573,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 5612315237,
-    "name": "East 72nd Street Fishing Area",
-    "latitude": 41.5394798,
-    "longitude": -81.6397617,
+    "id": 332725751,
+    "name": "Fishing Pier",
+    "latitude": 39.3931513,
+    "longitude": -83.9107648,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 332725752,
+    "name": "Fishing Pier",
+    "latitude": 39.3932861,
+    "longitude": -83.9146728,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 383712487,
+    "name": "Bee Run Marina",
+    "latitude": 38.657675,
+    "longitude": -80.6826458,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Bee Run Marina",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 417583537,
+    "name": "Bee Run Marina",
+    "latitude": 38.6568142,
+    "longitude": -80.6833525,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Bee Run Marina",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 417583542,
+    "name": "Bee Run Marina",
+    "latitude": 38.6569066,
+    "longitude": -80.6824429,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "name": "Bee Run Marina",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 546246878,
+    "name": "Fishing Pier",
+    "latitude": 38.4168776,
+    "longitude": -81.8296344,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 637041173,
+    "name": "Fishing Pier",
+    "latitude": 39.3513222,
+    "longitude": -82.0375602,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 637041187,
+    "name": "Fishing Pier",
+    "latitude": 39.3484127,
+    "longitude": -82.036417,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 645557275,
+    "name": "Fishing Pier",
+    "latitude": 39.4889766,
+    "longitude": -84.0566145,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 672360243,
+    "name": "Fishing Pier",
+    "latitude": 39.2724303,
+    "longitude": -81.5290015,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 759234561,
+    "name": "Fishing Pier",
+    "latitude": 39.4658406,
+    "longitude": -83.8982027,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 772558807,
+    "name": "Fishing Pier",
+    "latitude": 39.4154799,
+    "longitude": -81.4580902,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 781607654,
+    "name": "Fishing Pier",
+    "latitude": 39.4106808,
+    "longitude": -81.4463802,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "leisure": "fishing",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 786404838,
+    "name": "Fishing Pier",
+    "latitude": 39.3855729,
+    "longitude": -83.9155926,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 790453989,
+    "name": "Fishing Pier",
+    "latitude": 39.4887209,
+    "longitude": -84.0487303,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 802337841,
+    "name": "Fishing Pier",
+    "latitude": 38.8166286,
+    "longitude": -81.7882017,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814749008,
+    "name": "Fishing Pier",
+    "latitude": 39.1596443,
+    "longitude": -83.2208523,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814779694,
+    "name": "Fishing Pier",
+    "latitude": 39.187878,
+    "longitude": -83.4478008,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814779701,
+    "name": "Fishing Pier",
+    "latitude": 39.1878672,
+    "longitude": -83.4474856,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 815061957,
+    "name": "Fishing Pier",
+    "latitude": 39.187223,
+    "longitude": -83.4478606,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 829911632,
+    "name": "Fishing Pier",
+    "latitude": 39.2743858,
+    "longitude": -81.5615416,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 830325062,
+    "name": "Fishing Pier",
+    "latitude": 39.2851857,
+    "longitude": -81.5608074,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 830581519,
+    "name": "Fishing Pier",
+    "latitude": 39.2585008,
+    "longitude": -81.5354973,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 840665590,
+    "name": "Fishing Pier",
+    "latitude": 39.4258667,
+    "longitude": -84.0731409,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "bicycle": "no",
+      "floating": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "wood",
+      "width": "6"
+    }
+  },
+  {
+    "id": 847016719,
+    "name": "Fishing Pier",
+    "latitude": 39.4112102,
+    "longitude": -81.4547817,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "note": "Formerly a crane, but is no longer visible on 2023-24 imagery.",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 891385447,
+    "name": "Fishing Pier",
+    "latitude": 39.1245998,
+    "longitude": -84.2439714,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 892040662,
+    "name": "Fishing Pier",
+    "latitude": 39.3452585,
+    "longitude": -82.2579478,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 892913873,
+    "name": "Fishing Pier",
+    "latitude": 39.3211097,
+    "longitude": -82.3555385,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 907952434,
+    "name": "Fishing Pier",
+    "latitude": 39.3546702,
+    "longitude": -81.3249832,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "surface": "metal"
+    }
+  },
+  {
+    "id": 907952447,
+    "name": "Fishing Pier",
+    "latitude": 39.3565856,
+    "longitude": -81.3211968,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "surface": "metal"
+    }
+  },
+  {
+    "id": 908609276,
+    "name": "Fishing Pier",
+    "latitude": 39.4119714,
+    "longitude": -81.4578958,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 915215939,
+    "name": "Fishing Pier",
+    "latitude": 39.4196762,
+    "longitude": -81.4624416,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 915528007,
+    "name": "Fishing Pier",
+    "latitude": 39.4132337,
+    "longitude": -81.4566012,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 915528023,
+    "name": "Fishing Pier",
+    "latitude": 39.4215851,
+    "longitude": -81.4653823,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 915528030,
+    "name": "Fishing Pier",
+    "latitude": 39.4227318,
+    "longitude": -81.4673938,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 915528036,
+    "name": "Fishing Pier",
+    "latitude": 39.4236652,
+    "longitude": -81.4697223,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 915528040,
+    "name": "Fishing Pier",
+    "latitude": 39.4372118,
+    "longitude": -81.4660868,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 919777039,
+    "name": "Fishing Pier",
+    "latitude": 39.3144379,
+    "longitude": -81.5628822,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "id": 965330989,
+    "name": "Fishing Pier",
+    "latitude": 38.8826809,
+    "longitude": -80.855024,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1021503919,
+    "name": "Fishing Pier",
+    "latitude": 39.2341703,
+    "longitude": -84.2211337,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1022359201,
+    "name": "Fishing Pier",
+    "latitude": 39.2761674,
+    "longitude": -81.6330324,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1066438494,
+    "name": "Fishing Pier",
+    "latitude": 39.1483924,
+    "longitude": -82.5122252,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1095287167,
+    "name": "Fishing Pier",
+    "latitude": 39.2443043,
+    "longitude": -82.1930494,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1098103064,
+    "name": "Fishing Pier",
+    "latitude": 39.4595458,
+    "longitude": -81.1207173,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1120088689,
+    "name": "Fishing Pier",
+    "latitude": 39.3856282,
+    "longitude": -81.6614655,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1146048458,
+    "name": "Fishing Pier",
+    "latitude": 39.2800958,
+    "longitude": -81.5654268,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1147215767,
+    "name": "Fishing Pier",
+    "latitude": 39.27139,
+    "longitude": -83.4076039,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148119665,
+    "name": "Fishing Pier",
+    "latitude": 39.4428233,
+    "longitude": -81.1326851,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148122410,
+    "name": "Fishing Pier",
+    "latitude": 39.3777886,
+    "longitude": -81.2856043,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148122411,
+    "name": "Fishing Pier",
+    "latitude": 39.3773009,
+    "longitude": -81.2874223,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148122412,
+    "name": "Fishing Pier",
+    "latitude": 39.3693768,
+    "longitude": -81.2971357,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148122415,
+    "name": "Fishing Pier",
+    "latitude": 39.3469497,
+    "longitude": -81.3378884,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148122416,
+    "name": "Fishing Pier",
+    "latitude": 39.3431634,
+    "longitude": -81.3573436,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148124033,
+    "name": "Fishing Pier",
+    "latitude": 39.3979546,
+    "longitude": -81.4694211,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148125410,
+    "name": "Fishing Pier",
+    "latitude": 39.3832137,
+    "longitude": -81.4908042,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148126788,
+    "name": "Fishing Pier",
+    "latitude": 39.3529719,
+    "longitude": -81.5369088,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148126789,
+    "name": "Fishing Pier",
+    "latitude": 39.3517898,
+    "longitude": -81.5387978,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148126790,
+    "name": "Fishing Pier",
+    "latitude": 39.3470662,
+    "longitude": -81.5522677,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148126791,
+    "name": "Fishing Pier",
+    "latitude": 39.3463611,
+    "longitude": -81.5526519,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1163747830,
+    "name": "Fishing Pier",
+    "latitude": 39.3342456,
+    "longitude": -81.559912,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1180216321,
+    "name": "Fishing Pier",
+    "latitude": 39.2748495,
+    "longitude": -81.5980253,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182798569,
+    "name": "Fishing Pier",
+    "latitude": 39.2762819,
+    "longitude": -81.6135546,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182798572,
+    "name": "Fishing Pier",
+    "latitude": 39.2751567,
+    "longitude": -81.6203587,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182798577,
+    "name": "Fishing Pier",
+    "latitude": 39.2749815,
+    "longitude": -81.6231331,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182798579,
+    "name": "Fishing Pier",
+    "latitude": 39.2754132,
+    "longitude": -81.627827,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182807121,
+    "name": "Fishing Pier",
+    "latitude": 39.2677743,
+    "longitude": -81.5735299,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182807126,
+    "name": "Fishing Pier",
+    "latitude": 39.2686611,
+    "longitude": -81.5798676,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182807128,
+    "name": "Fishing Pier",
+    "latitude": 39.2691064,
+    "longitude": -81.5826871,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182807136,
+    "name": "Fishing Pier",
+    "latitude": 39.2700334,
+    "longitude": -81.5875524,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182807139,
+    "name": "Fishing Pier",
+    "latitude": 39.2737291,
+    "longitude": -81.5948034,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182807978,
+    "name": "Fishing Pier",
+    "latitude": 39.2709407,
+    "longitude": -81.5685479,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182813622,
+    "name": "Fishing Pier",
+    "latitude": 39.2839404,
+    "longitude": -81.5657397,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182948764,
+    "name": "Fishing Pier",
+    "latitude": 39.2752093,
+    "longitude": -81.5662081,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185068669,
+    "name": "Fishing Pier",
+    "latitude": 39.3168003,
+    "longitude": -81.5621074,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185068672,
+    "name": "Fishing Pier",
+    "latitude": 39.3195855,
+    "longitude": -81.5612421,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185522465,
+    "name": "Fishing Pier",
+    "latitude": 39.3527285,
+    "longitude": -81.5479806,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185522470,
+    "name": "Fishing Pier",
+    "latitude": 39.3532127,
+    "longitude": -81.5474382,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1197156881,
+    "name": "Fishing Pier",
+    "latitude": 39.4354445,
+    "longitude": -82.1702854,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1221261544,
+    "name": "Fishing Pier",
+    "latitude": 39.2354174,
+    "longitude": -84.2842979,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1233224454,
+    "name": "Fishing Pier",
+    "latitude": 39.3973646,
+    "longitude": -81.2065588,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233224455,
+    "name": "Fishing Pier",
+    "latitude": 39.3979096,
+    "longitude": -81.2063898,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1235587498,
+    "name": "Fishing Pier",
+    "latitude": 38.8420479,
+    "longitude": -80.6172085,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1235587499,
+    "name": "Fishing Pier",
+    "latitude": 38.8419315,
+    "longitude": -80.6175671,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1289739721,
+    "name": "Fishing Pier",
+    "latitude": 39.2190223,
+    "longitude": -84.0614873,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1312939286,
+    "name": "Salamander Pond Dock",
+    "latitude": 39.3249698,
+    "longitude": -83.0703498,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Salamander Pond Dock"
+    }
+  },
+  {
+    "id": 1329263323,
+    "name": "Fishing Pier",
+    "latitude": 39.1562167,
+    "longitude": -84.1403709,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1329972327,
+    "name": "Fishing Pier",
+    "latitude": 39.0600349,
+    "longitude": -81.3997109,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1346014630,
+    "name": "Fishing Pier",
+    "latitude": 39.402455,
+    "longitude": -81.9530999,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1346014642,
+    "name": "Fishing Pier",
+    "latitude": 39.4012039,
+    "longitude": -81.9495587,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1378182233,
+    "name": "Fishing Pier",
+    "latitude": 39.2423294,
+    "longitude": -83.3581649,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1378182235,
+    "name": "Fishing Pier",
+    "latitude": 39.242618,
+    "longitude": -83.3574928,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1433298671,
+    "name": "Fishing Pier",
+    "latitude": 39.4101679,
+    "longitude": -81.4524849,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1433315370,
+    "name": "Fishing Pier",
+    "latitude": 39.4100677,
+    "longitude": -81.4397928,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1456577906,
+    "name": "Fishing Pier",
+    "latitude": 39.1383393,
+    "longitude": -82.9789368,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1492942486,
+    "name": "Fishing Pier",
+    "latitude": 39.4096858,
+    "longitude": -83.0583932,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1495572900,
+    "name": "Fishing Pier",
+    "latitude": 39.3408143,
+    "longitude": -82.9122523,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1895578757,
+    "name": "D dock",
+    "latitude": 40.5365107,
+    "longitude": -81.2766738,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "D dock"
+    }
+  },
+  {
+    "id": 1895582186,
+    "name": "Cabin dock (Atwood Lake)",
+    "latitude": 40.5453212,
+    "longitude": -81.2572926,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Cabin dock (Atwood Lake)"
+    }
+  },
+  {
+    "id": 2514547602,
+    "name": "Fishing Pier",
+    "latitude": 41.5617559,
+    "longitude": -81.370867,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
       "leisure": "fishing",
-      "name": "East 72nd Street Fishing Area",
-      "operator": "Cleveland Metroparks"
-    }
-  },
-  {
-    "id": 6363943762,
-    "name": "Fishing Pier",
-    "latitude": 40.9237064,
-    "longitude": -84.0612333,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 6363943763,
-    "name": "Fishing Pier",
-    "latitude": 40.92596,
-    "longitude": -84.0540879,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 6370920246,
-    "name": "Fishing Pier",
-    "latitude": 40.9276278,
-    "longitude": -84.0243788,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 6370920248,
-    "name": "Fishing Pier",
-    "latitude": 40.9270989,
-    "longitude": -84.0259318,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 7425586168,
-    "name": "Fishing Pier",
-    "latitude": 41.5873403,
-    "longitude": -81.5664838,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 8246372018,
-    "name": "Fishing Pier",
-    "latitude": 39.435444,
-    "longitude": -82.1702421,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "access": "yes",
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 8538575761,
-    "name": "Fishing Pier",
-    "latitude": 39.3502696,
-    "longitude": -82.039856,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "id": 8627191215,
-    "name": "Fishing Pier",
-    "latitude": 41.6394964,
-    "longitude": -83.7915439,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9069219757,
-    "name": "Miller Road Fishing Pier",
-    "latitude": 41.5044607,
-    "longitude": -82.0609327,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing",
-      "name": "Miller Road Fishing Pier"
-    }
-  },
-  {
-    "id": 9085192068,
-    "name": "Fishing Pier",
-    "latitude": 41.6855886,
-    "longitude": -83.4942933,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9262745568,
-    "name": "Bradstreet Fishing Pier",
-    "latitude": 41.4833987,
-    "longitude": -81.8680261,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing",
-      "name": "Bradstreet Fishing Pier"
-    }
-  },
-  {
-    "id": 9674919670,
-    "name": "Fishing Pier",
-    "latitude": 41.3200761,
-    "longitude": -80.7658018,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9674967340,
-    "name": "Fishing Pier",
-    "latitude": 41.3898375,
-    "longitude": -80.7550862,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9674967341,
-    "name": "Fishing Pier",
-    "latitude": 41.3897436,
-    "longitude": -80.7506928,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9674967347,
-    "name": "Fishing Pier",
-    "latitude": 41.3898274,
-    "longitude": -80.7441306,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9675019444,
-    "name": "Fishing Pier",
-    "latitude": 41.3884191,
-    "longitude": -80.7411035,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9675053833,
-    "name": "Fishing Pier",
-    "latitude": 41.3301243,
-    "longitude": -80.7429738,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9675061133,
-    "name": "Fishing Pier",
-    "latitude": 41.3080788,
-    "longitude": -80.7503103,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9675061134,
-    "name": "Fishing Pier",
-    "latitude": 41.3012426,
-    "longitude": -80.7544189,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9675061135,
-    "name": "Fishing Pier",
-    "latitude": 41.3090483,
-    "longitude": -80.7624545,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9675061167,
-    "name": "Fishing Pier",
-    "latitude": 41.3084131,
-    "longitude": -80.765188,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing"
-    }
-  },
-  {
-    "id": 9704601899,
-    "name": "Reel Fun Charters",
-    "latitude": 41.6280461,
-    "longitude": -83.5839929,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "addr:city": "Toledo",
-      "addr:housenumber": "632",
-      "addr:postcode": "43609",
-      "addr:state": "OH",
-      "addr:street": "Ogden Avenue",
-      "fax": "+1-419-382-0179",
-      "leisure": "fishing",
-      "name": "Reel Fun Charters",
-      "note": "Please check the position, could be spam!",
-      "opening_hours": "Mo-Su 06:00-21:00",
-      "payment:american_express": "yes",
-      "payment:cash": "yes",
-      "payment:cheque": "yes",
-      "payment:discover_card": "yes",
-      "payment:mastercard": "yes",
-      "payment:visa": "yes",
-      "phone": "+1-419-262-4453",
-      "website": "https://reelfuncharters.org"
+      "man_made": "pier"
     }
   },
   {
@@ -378,373 +1276,7734 @@
     }
   },
   {
-    "id": 9793867528,
+    "id": 23692346,
     "name": "Fishing Pier",
-    "latitude": 41.3051004,
-    "longitude": -80.7663216,
+    "latitude": 39.2360127,
+    "longitude": -84.3037911,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 9833950339,
+    "id": 31875905,
     "name": "Fishing Pier",
-    "latitude": 41.2990666,
-    "longitude": -80.7584125,
+    "latitude": 39.2842261,
+    "longitude": -84.3905889,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "created_by": "Potlatch 0.10f",
+      "man_made": "pier"
     }
   },
   {
-    "id": 9892135769,
+    "id": 91332001,
     "name": "Fishing Pier",
-    "latitude": 41.3344862,
-    "longitude": -80.7413632,
+    "latitude": 39.1002603,
+    "longitude": -84.5452265,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "layer": "2",
+      "man_made": "pier",
+      "mooring": "private"
     }
   },
   {
-    "id": 9892135808,
+    "id": 96552275,
     "name": "Fishing Pier",
-    "latitude": 41.3206515,
-    "longitude": -80.7428319,
+    "latitude": 39.125712,
+    "longitude": -84.7081372,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9892172480,
-    "name": "Fishing Pier",
-    "latitude": 41.3051454,
-    "longitude": -80.7513313,
+    "id": 106366859,
+    "name": "Pier 4",
+    "latitude": 41.4784306,
+    "longitude": -82.6840512,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier 4"
     }
   },
   {
-    "id": 9892174237,
-    "name": "Fishing Pier",
-    "latitude": 41.3013853,
-    "longitude": -80.7627081,
+    "id": 106366860,
+    "name": "Pier 6",
+    "latitude": 41.4771876,
+    "longitude": -82.6826452,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier 6"
     }
   },
   {
-    "id": 9892174239,
-    "name": "Fishing Pier",
-    "latitude": 41.3062185,
-    "longitude": -80.7615105,
+    "id": 106366866,
+    "name": "Pier 7",
+    "latitude": 41.4768391,
+    "longitude": -82.6822807,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier 7"
     }
   },
   {
-    "id": 9893264686,
+    "id": 138362323,
     "name": "Fishing Pier",
-    "latitude": 41.32314,
-    "longitude": -80.7416144,
+    "latitude": 39.1163284,
+    "longitude": -84.4580895,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9894004111,
+    "id": 138362338,
     "name": "Fishing Pier",
-    "latitude": 41.31363,
-    "longitude": -80.7461724,
+    "latitude": 39.1175114,
+    "longitude": -84.4607075,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9894081007,
+    "id": 138362390,
     "name": "Fishing Pier",
-    "latitude": 41.1456394,
-    "longitude": -81.087957,
+    "latitude": 39.1159564,
+    "longitude": -84.4571684,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9895263500,
+    "id": 158460422,
     "name": "Fishing Pier",
-    "latitude": 41.1392225,
-    "longitude": -81.1004299,
+    "latitude": 41.6808307,
+    "longitude": -82.8556378,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier",
+      "source": "Bing"
     }
   },
   {
-    "id": 9895359269,
+    "id": 158460423,
     "name": "Fishing Pier",
-    "latitude": 41.1572938,
-    "longitude": -81.0714519,
+    "latitude": 41.677881,
+    "longitude": -82.8457862,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier",
+      "source": "Bing"
     }
   },
   {
-    "id": 9919552138,
+    "id": 158686524,
     "name": "Fishing Pier",
-    "latitude": 41.1341564,
-    "longitude": -81.1399102,
+    "latitude": 41.5490545,
+    "longitude": -83.0132288,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9964681035,
+    "id": 158686525,
     "name": "Fishing Pier",
-    "latitude": 41.5472124,
-    "longitude": -80.5261118,
+    "latitude": 41.5498532,
+    "longitude": -83.0119428,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9964694613,
+    "id": 163614634,
     "name": "Fishing Pier",
-    "latitude": 41.5689983,
-    "longitude": -80.5286551,
+    "latitude": 39.1092407,
+    "longitude": -84.4461347,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 10981558751,
+    "id": 181985266,
     "name": "Fishing Pier",
-    "latitude": 41.3302318,
-    "longitude": -80.7532417,
+    "latitude": 39.8448843,
+    "longitude": -84.4229881,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 189153147,
+    "name": "Fishing Pier",
+    "latitude": 40.5467996,
+    "longitude": -84.5515507,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 189170564,
+    "name": "Fishing Pier",
+    "latitude": 40.5440713,
+    "longitude": -84.5077742,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 189192772,
+    "name": "Fishing Pier",
+    "latitude": 40.3699008,
+    "longitude": -84.357295,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 189298950,
+    "name": "Fishing Pier",
+    "latitude": 40.7660264,
+    "longitude": -82.3721016,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 189298951,
+    "name": "Fishing Pier",
+    "latitude": 40.7645922,
+    "longitude": -82.3744138,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 189298954,
+    "name": "Fishing Pier",
+    "latitude": 40.7684063,
+    "longitude": -82.3717631,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 189298960,
+    "name": "Fishing Pier",
+    "latitude": 40.7711222,
+    "longitude": -82.376029,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 189436000,
+    "name": "Fishing Pier",
+    "latitude": 40.771349,
+    "longitude": -82.3830255,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 189793952,
+    "name": "Fishing Pier",
+    "latitude": 39.5705574,
+    "longitude": -84.741699,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 190661989,
+    "name": "Fishing Pier",
+    "latitude": 40.737604,
+    "longitude": -82.3710614,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 191502047,
+    "name": "Fishing Pier",
+    "latitude": 40.744903,
+    "longitude": -82.3732564,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 191502048,
+    "name": "Fishing Pier",
+    "latitude": 40.7503869,
+    "longitude": -82.3795789,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 192334413,
+    "name": "Fishing Pier",
+    "latitude": 41.3500688,
+    "longitude": -83.6521889,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 192708174,
+    "name": "Fishing Pier",
+    "latitude": 40.7255939,
+    "longitude": -82.4288777,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing-aerial"
+    }
+  },
+  {
+    "id": 198861550,
+    "name": "Fishing Pier",
+    "latitude": 39.3252083,
+    "longitude": -84.5099259,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 200662899,
+    "name": "Fishing Pier",
+    "latitude": 39.1309477,
+    "longitude": -84.7084307,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 202429981,
+    "name": "Fishing Pier",
+    "latitude": 40.113559,
+    "longitude": -83.1680535,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 207373136,
+    "name": "Fishing Pier",
+    "latitude": 41.6173701,
+    "longitude": -81.5212257,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "fishing": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 210305446,
+    "name": "Fishing Pier",
+    "latitude": 41.2246961,
+    "longitude": -84.3395335,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 223358213,
+    "name": "Fishing Pier",
+    "latitude": 41.4776622,
+    "longitude": -82.6821871,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 231782309,
+    "name": "Fishing Pier",
+    "latitude": 41.0086829,
+    "longitude": -83.5664428,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 241055306,
+    "name": "Fishing Pier",
+    "latitude": 41.4526923,
+    "longitude": -82.7434479,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 241055307,
+    "name": "Fishing Pier",
+    "latitude": 41.4510808,
+    "longitude": -82.7437393,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 241055311,
+    "name": "Fishing Pier",
+    "latitude": 41.4520426,
+    "longitude": -82.7420934,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 241245835,
+    "name": "Fishing Pier",
+    "latitude": 40.7185351,
+    "longitude": -82.4119821,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 264409975,
+    "name": "Fishing Pier",
+    "latitude": 40.2121303,
+    "longitude": -82.8815698,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 265140855,
+    "name": "Fishing Pier",
+    "latitude": 39.137282,
+    "longitude": -84.5144799,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 272220487,
+    "name": "Fishing Pier",
+    "latitude": 40.7575795,
+    "longitude": -84.0505988,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 297413191,
+    "name": "Fishing Pier",
+    "latitude": 41.1726948,
+    "longitude": -81.6492547,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 297413192,
+    "name": "Fishing Pier",
+    "latitude": 41.172264,
+    "longitude": -81.6471964,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 308324820,
+    "name": "Fishing Pier",
+    "latitude": 39.1094935,
+    "longitude": -84.440094,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 308324832,
+    "name": "Fishing Pier",
+    "latitude": 39.114722,
+    "longitude": -84.4457702,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 314867114,
+    "name": "Fishing Pier",
+    "latitude": 40.8631548,
+    "longitude": -81.4536538,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 314867115,
+    "name": "Fishing Pier",
+    "latitude": 40.8623255,
+    "longitude": -81.4502946,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 314867117,
+    "name": "Fishing Pier",
+    "latitude": 40.8662976,
+    "longitude": -81.4511416,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 314867118,
+    "name": "Fishing Pier",
+    "latitude": 40.8569459,
+    "longitude": -81.4571368,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 331123589,
+    "name": "Fishing Pier",
+    "latitude": 40.1996458,
+    "longitude": -82.9741501,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 334910577,
+    "name": "Fishing Pier",
+    "latitude": 41.4594103,
+    "longitude": -82.7101451,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345413458,
+    "name": "Fishing Pier",
+    "latitude": 41.5950839,
+    "longitude": -82.7225811,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345413459,
+    "name": "Fishing Pier",
+    "latitude": 41.5952142,
+    "longitude": -82.7215829,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345413601,
+    "name": "Fishing Pier",
+    "latitude": 41.609629,
+    "longitude": -82.7245976,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345733239,
+    "name": "Fishing Pier",
+    "latitude": 41.5928065,
+    "longitude": -82.7075756,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345733240,
+    "name": "Fishing Pier",
+    "latitude": 41.5920903,
+    "longitude": -82.7053815,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345733433,
+    "name": "Fishing Pier",
+    "latitude": 41.5935447,
+    "longitude": -82.7125218,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345734908,
+    "name": "Fishing Pier",
+    "latitude": 41.5989414,
+    "longitude": -82.729921,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345734913,
+    "name": "Fishing Pier",
+    "latitude": 41.6015058,
+    "longitude": -82.734859,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345735738,
+    "name": "Fishing Pier",
+    "latitude": 41.6109407,
+    "longitude": -82.6962207,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345738408,
+    "name": "Fishing Pier",
+    "latitude": 41.6115594,
+    "longitude": -82.6901908,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345738409,
+    "name": "Fishing Pier",
+    "latitude": 41.6156034,
+    "longitude": -82.6853871,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 345745324,
+    "name": "Fishing Pier",
+    "latitude": 41.5872908,
+    "longitude": -82.7037073,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 346028230,
+    "name": "Fishing Pier",
+    "latitude": 41.5886847,
+    "longitude": -82.685131,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 346590682,
+    "name": "Fishing Pier",
+    "latitude": 41.5892147,
+    "longitude": -82.7018174,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 346989774,
+    "name": "Fishing Pier",
+    "latitude": 41.3943074,
+    "longitude": -82.5538977,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 348346656,
+    "name": "Fishing Pier",
+    "latitude": 41.6889626,
+    "longitude": -82.8188014,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 348346716,
+    "name": "Fishing Pier",
+    "latitude": 41.6929162,
+    "longitude": -82.7899877,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 348439901,
+    "name": "Fishing Pier",
+    "latitude": 41.5864956,
+    "longitude": -82.6897154,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 352409491,
+    "name": "Fishing Pier",
+    "latitude": 41.0635946,
+    "longitude": -81.9041156,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 355787612,
+    "name": "Fishing Pier",
+    "latitude": 41.6884219,
+    "longitude": -81.3833849,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 357934452,
+    "name": "Catawba Island Dock",
+    "latitude": 41.5877567,
+    "longitude": -82.8368768,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Catawba Island Dock"
+    }
+  },
+  {
+    "id": 358962054,
+    "name": "Fishing Pier",
+    "latitude": 41.7267406,
+    "longitude": -81.3499759,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 358962182,
+    "name": "Fishing Pier",
+    "latitude": 41.7247138,
+    "longitude": -81.3415945,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 843333020,
+    "name": "45 RBM",
+    "latitude": 41.5097926,
+    "longitude": -81.6937696,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "description": "The Coast Guard 45-foot Response Boat Medium is a fast and maneuverable craft for search and rescue; law enforcement; drug and migrant interdiction; and National Defense Operations. Max speed: 43 knots, Range: 250 nautical miles.",
+      "floating": "yes",
+      "image": "https://www.facebook.com/uscgstationclevelandhbr/photos/a.390530637957416/1171472813196524/?type=3&theater",
+      "man_made": "pier",
+      "name": "45 RBM",
+      "operator": "USCG"
+    }
+  },
+  {
+    "id": 360192340,
+    "name": "Fishing Pier",
+    "latitude": 41.4530725,
+    "longitude": -82.7411929,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 360346883,
+    "name": "Fishing Pier",
+    "latitude": 41.4596451,
+    "longitude": -82.713038,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 360807372,
+    "name": "Fishing Pier",
+    "latitude": 41.5118259,
+    "longitude": -84.1518662,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 360807373,
+    "name": "Fishing Pier",
+    "latitude": 41.5122518,
+    "longitude": -84.1531262,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 360889501,
+    "name": "Fishing Pier",
+    "latitude": 41.7143425,
+    "longitude": -81.3472433,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "fishing": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 361440056,
+    "name": "Fishing Pier",
+    "latitude": 41.0577442,
+    "longitude": -83.6874457,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 361440057,
+    "name": "Fishing Pier",
+    "latitude": 41.0567046,
+    "longitude": -83.6870004,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 363643938,
+    "name": "Winton Woods Boathouse",
+    "latitude": 39.2572997,
+    "longitude": -84.5166495,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "addr:city": "Cincinnati",
+      "addr:housenumber": "10245",
+      "addr:postcode": "45231",
+      "addr:state": "OH",
+      "addr:street": "Winton Road",
+      "area": "yes",
+      "description": "County-owned park offering camping, hiking, golf, paddleboating on a lake, a working farm & more.",
+      "floating": "yes",
+      "internet_access": "wlan",
+      "man_made": "pier",
+      "name": "Winton Woods Boathouse",
+      "operator": "Great Parks of Hamilton County",
+      "sanitary_dump_station": "no"
+    }
+  },
+  {
+    "id": 364840622,
+    "name": "Fishing Pier",
+    "latitude": 40.7059043,
+    "longitude": -83.3844565,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 365222150,
+    "name": "Fishing Pier",
+    "latitude": 41.5425264,
+    "longitude": -82.8108256,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 365948023,
+    "name": "Fishing Pier",
+    "latitude": 41.1086034,
+    "longitude": -83.9267922,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 369426857,
+    "name": "Fishing Pier",
+    "latitude": 39.5713108,
+    "longitude": -84.7513722,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "bicycle": "no",
+      "highway": "footway",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "asphalt",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 372415816,
+    "name": "Fishing Pier",
+    "latitude": 41.4706152,
+    "longitude": -83.7204635,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 372415817,
+    "name": "Fishing Pier",
+    "latitude": 41.4672045,
+    "longitude": -83.7213674,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 372540269,
+    "name": "Lakefront Activity Center",
+    "latitude": 41.0316747,
+    "longitude": -83.5603534,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Lakefront Activity Center",
+      "tourism": "information"
+    }
+  },
+  {
+    "id": 373029545,
+    "name": "Fishing Pier",
+    "latitude": 41.2319018,
+    "longitude": -84.0352254,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 375121184,
+    "name": "Fishing Pier",
+    "latitude": 41.5260517,
+    "longitude": -81.6645663,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 375123354,
+    "name": "Fishing Pier",
+    "latitude": 41.5276504,
+    "longitude": -81.6586558,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 375134884,
+    "name": "Fishing Pier",
+    "latitude": 41.4980335,
+    "longitude": -81.7193755,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 375134892,
+    "name": "Fishing Pier",
+    "latitude": 41.4980602,
+    "longitude": -81.7166884,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 375253214,
+    "name": "Edgewater Fishing Pier",
+    "latitude": 41.4925104,
+    "longitude": -81.7369633,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Edgewater Fishing Pier"
+    }
+  },
+  {
+    "id": 375292416,
+    "name": "Fishing Pier",
+    "latitude": 41.4929163,
+    "longitude": -81.7282408,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 375292433,
+    "name": "Fishing Pier",
+    "latitude": 41.4924823,
+    "longitude": -81.7294741,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 375375789,
+    "name": "Fishing Pier",
+    "latitude": 41.2412528,
+    "longitude": -83.0164302,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377184912,
+    "name": "Fishing Pier",
+    "latitude": 41.1335049,
+    "longitude": -83.6314333,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377406648,
+    "name": "Fishing Pier",
+    "latitude": 41.6365046,
+    "longitude": -82.8384912,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377770592,
+    "name": "Fishing Pier",
+    "latitude": 41.6558395,
+    "longitude": -82.8258697,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 380441873,
+    "name": "Fishing Pier",
+    "latitude": 41.6747575,
+    "longitude": -82.8109813,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1016751350,
+    "name": "B Dock",
+    "latitude": 41.6543042,
+    "longitude": -82.8177758,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "B Dock"
+    }
+  },
+  {
+    "id": 382769060,
+    "name": "Fishing Pier",
+    "latitude": 41.4694556,
+    "longitude": -82.8187209,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 382769061,
+    "name": "Fishing Pier",
+    "latitude": 41.4693234,
+    "longitude": -82.8171605,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 382769104,
+    "name": "Fishing Pier",
+    "latitude": 41.48968,
+    "longitude": -82.8226255,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 383644506,
+    "name": "Fishing Pier",
+    "latitude": 41.5854836,
+    "longitude": -82.6961441,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 384569570,
+    "name": "Fishing Pier",
+    "latitude": 41.7595877,
+    "longitude": -81.2773274,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388142056,
+    "name": "Fishing Pier",
+    "latitude": 41.4957513,
+    "longitude": -82.8224436,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 389837011,
+    "name": "Fishing Pier",
+    "latitude": 40.6806127,
+    "longitude": -83.6264682,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 390787245,
+    "name": "Fishing Pier",
+    "latitude": 41.5613667,
+    "longitude": -83.6315744,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 390827081,
+    "name": "Fishing Pier",
+    "latitude": 41.5713113,
+    "longitude": -83.6384318,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 390827432,
+    "name": "Fishing Pier",
+    "latitude": 41.5929232,
+    "longitude": -83.5979976,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 391083261,
+    "name": "Fishing Pier",
+    "latitude": 41.3972862,
+    "longitude": -82.5965681,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 395860087,
+    "name": "Fishing Pier",
+    "latitude": 41.6799421,
+    "longitude": -83.3742362,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 395860090,
+    "name": "Fishing Pier",
+    "latitude": 41.6835868,
+    "longitude": -83.3728434,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 395862391,
+    "name": "Fishing Pier",
+    "latitude": 41.6858521,
+    "longitude": -83.36985,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 396261655,
+    "name": "Fishing Pier",
+    "latitude": 41.6777034,
+    "longitude": -82.8485102,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 396428044,
+    "name": "Fishing Pier",
+    "latitude": 41.6922321,
+    "longitude": -82.8293458,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 396818321,
+    "name": "Fishing Pier",
+    "latitude": 41.4572734,
+    "longitude": -82.7172614,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 396984764,
+    "name": "Fishing Pier",
+    "latitude": 40.1095796,
+    "longitude": -82.8846205,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 405152323,
+    "name": "Fishing Pier",
+    "latitude": 41.2793238,
+    "longitude": -81.4098331,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 406119370,
+    "name": "Fishing Pier",
+    "latitude": 40.1082272,
+    "longitude": -82.8806005,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "handrail:left": "yes",
+      "highway": "steps",
+      "incline": "down",
+      "man_made": "pier",
+      "ramp": "no",
+      "surface": "concrete",
+      "tactile_paving": "no"
+    }
+  },
+  {
+    "id": 408075514,
+    "name": "Fishing Pier",
+    "latitude": 41.6830772,
+    "longitude": -81.1322806,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "fishing": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 408705558,
+    "name": "Fishing Pier",
+    "latitude": 41.4944813,
+    "longitude": -82.7344387,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 414659022,
+    "name": "East Pierhead",
+    "latitude": 41.5102002,
+    "longitude": -81.7154686,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "barrier": "wall",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "name": "East Pierhead",
+      "surface": "concrete",
+      "wall": "seawall"
+    }
+  },
+  {
+    "id": 414659281,
+    "name": "West Pierhead",
+    "latitude": 41.5090096,
+    "longitude": -81.717738,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "barrier": "wall",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "name": "West Pierhead",
+      "surface": "concrete",
+      "wall": "seawall"
+    }
+  },
+  {
+    "id": 415865446,
+    "name": "Fishing Pier",
+    "latitude": 39.2506433,
+    "longitude": -84.5323207,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 418136556,
+    "name": "Pier D",
+    "latitude": 41.4452766,
+    "longitude": -82.6751805,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Pier D"
+    }
+  },
+  {
+    "id": 425337499,
+    "name": "Fishing Pier",
+    "latitude": 40.1698839,
+    "longitude": -82.0236525,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1353943385,
+    "name": "East Pier",
+    "latitude": 41.4747702,
+    "longitude": -82.1776296,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "yes",
+      "name": "East Pier",
+      "source_ref": "https://dam.assets.ohio.gov/image/upload/ohiodnr.gov/documents/coastal/public-access/pag-le-06-lorain-county.pdf",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 435057465,
+    "name": "Fishing Pier",
+    "latitude": 41.4729725,
+    "longitude": -82.1749595,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 442866528,
+    "name": "Fishing Pier",
+    "latitude": 40.4583626,
+    "longitude": -82.3367134,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 453617667,
+    "name": "Fishing Pier",
+    "latitude": 41.6498909,
+    "longitude": -83.5274232,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 454895512,
+    "name": "Fishing Pier",
+    "latitude": 41.5414992,
+    "longitude": -82.7684586,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 454895513,
+    "name": "Fishing Pier",
+    "latitude": 41.5415495,
+    "longitude": -82.7667654,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 454895514,
+    "name": "Fishing Pier",
+    "latitude": 41.5222656,
+    "longitude": -82.7162793,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461033964,
+    "name": "Fishing Pier",
+    "latitude": 40.4189004,
+    "longitude": -82.353009,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461176310,
+    "name": "Fishing Pier",
+    "latitude": 40.4133355,
+    "longitude": -82.3524633,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461176313,
+    "name": "Fishing Pier",
+    "latitude": 40.4136047,
+    "longitude": -82.3465111,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461176319,
+    "name": "Fishing Pier",
+    "latitude": 40.4178342,
+    "longitude": -82.3455058,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461264163,
+    "name": "Fishing Pier",
+    "latitude": 41.3650332,
+    "longitude": -81.8510976,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
       "bridge": "yes",
-      "leisure": "fishing",
-      "location": "underwater"
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "surface": "concrete"
     }
   },
   {
-    "id": 10981558752,
+    "id": 461433912,
     "name": "Fishing Pier",
-    "latitude": 41.3080628,
-    "longitude": -80.756166,
+    "latitude": 40.4583142,
+    "longitude": -82.3375286,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "bridge": "yes",
-      "leisure": "fishing",
-      "location": "underwater"
+      "man_made": "pier"
     }
   },
   {
-    "id": 10981558753,
+    "id": 461937257,
     "name": "Fishing Pier",
-    "latitude": 41.3353788,
-    "longitude": -80.7617084,
+    "latitude": 40.4488501,
+    "longitude": -82.3410233,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "bridge": "yes",
-      "leisure": "fishing",
-      "location": "underwater"
+      "man_made": "pier"
     }
   },
   {
-    "id": 10981558754,
+    "id": 463487748,
     "name": "Fishing Pier",
-    "latitude": 41.3389784,
-    "longitude": -80.7616222,
+    "latitude": 41.0166289,
+    "longitude": -83.5607004,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "bridge": "yes",
-      "leisure": "fishing",
-      "location": "underwater"
+      "man_made": "pier"
     }
   },
   {
-    "id": 10981588136,
+    "id": 463487754,
     "name": "Fishing Pier",
-    "latitude": 41.3149812,
-    "longitude": -80.760094,
+    "latitude": 41.0122616,
+    "longitude": -83.5772875,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "bridge": "yes",
-      "leisure": "fishing",
-      "location": "underwater"
+      "man_made": "pier"
     }
   },
   {
-    "id": 11108351311,
+    "id": 463487756,
     "name": "Fishing Pier",
-    "latitude": 41.4843247,
-    "longitude": -83.7405231,
+    "latitude": 41.0203883,
+    "longitude": -83.5811763,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "highway": "service",
+      "man_made": "pier"
     }
   },
   {
-    "id": 11108351316,
+    "id": 469145275,
     "name": "Fishing Pier",
-    "latitude": 41.4823833,
-    "longitude": -83.7432257,
+    "latitude": 40.1618822,
+    "longitude": -83.1257851,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "highway": "footway",
+      "man_made": "pier",
+      "surface": "boardwalk"
     }
   },
   {
-    "id": 11234614477,
-    "name": "Youth Fishing",
-    "latitude": 39.9944721,
-    "longitude": -82.9887364,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing",
-      "name": "Youth Fishing"
-    }
-  },
-  {
-    "id": 11483613676,
+    "id": 469265457,
     "name": "Fishing Pier",
-    "latitude": 41.6083449,
-    "longitude": -80.5373861,
+    "latitude": 39.2575487,
+    "longitude": -84.7445303,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 12173677349,
-    "name": "Skeepa Pond",
-    "latitude": 41.7136484,
-    "longitude": -81.2769851,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "access": "unknown",
-      "leisure": "fishing",
-      "name": "Skeepa Pond"
-    }
-  },
-  {
-    "id": 12535226439,
-    "name": "Hubbard Conservation Club",
-    "latitude": 41.198302,
-    "longitude": -80.5893774,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing",
-      "name": "Hubbard Conservation Club"
-    }
-  },
-  {
-    "id": 12961074787,
+    "id": 469905965,
     "name": "Fishing Pier",
-    "latitude": 40.5165727,
-    "longitude": -84.5769467,
+    "latitude": 40.7415206,
+    "longitude": -84.0552947,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier",
+      "source": "OSIP 6in"
     }
   },
   {
-    "id": 12988189543,
+    "id": 480038002,
     "name": "Fishing Pier",
-    "latitude": 39.868658,
-    "longitude": -83.3742358,
+    "latitude": 39.1326719,
+    "longitude": -84.7033918,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 12988189598,
+    "id": 480975827,
     "name": "Fishing Pier",
-    "latitude": 39.8692683,
-    "longitude": -83.3775377,
+    "latitude": 40.0864233,
+    "longitude": -82.9995888,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 13173189700,
+    "id": 481412668,
+    "name": "Steubenville Pier 1",
+    "latitude": 40.3798254,
+    "longitude": -80.6165932,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Steubenville Pier 1"
+    }
+  },
+  {
+    "id": 486055462,
     "name": "Fishing Pier",
-    "latitude": 39.4101679,
-    "longitude": -81.4524849,
+    "latitude": 40.4373136,
+    "longitude": -82.34813,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
-      "leisure": "fishing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 13621276254,
-    "name": "Fishing Beacg",
-    "latitude": 40.2605932,
-    "longitude": -81.6044461,
-    "state": "Ohio",
-    "stateAbbr": "OH",
-    "tags": {
-      "leisure": "fishing",
-      "name": "Fishing Beacg"
-    }
-  },
-  {
-    "id": 13623857363,
+    "id": 486055465,
     "name": "Fishing Pier",
-    "latitude": 40.5964878,
-    "longitude": -83.2022267,
+    "latitude": 40.4395018,
+    "longitude": -82.3477759,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 486055466,
+    "name": "Fishing Pier",
+    "latitude": 40.4408346,
+    "longitude": -82.3413049,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 524120693,
+    "name": "Fishing Pier",
+    "latitude": 41.4893187,
+    "longitude": -81.7028059,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 530904700,
+    "name": "Fishing Pier",
+    "latitude": 39.4247096,
+    "longitude": -84.4409879,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 540725330,
+    "name": "Fishing Pier",
+    "latitude": 41.6914671,
+    "longitude": -82.8092264,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545361515,
+    "name": "Fishing Pier",
+    "latitude": 41.5939293,
+    "longitude": -83.0903737,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553180965,
+    "name": "Fishing Pier",
+    "latitude": 41.399794,
+    "longitude": -81.3439359,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553180969,
+    "name": "Fishing Pier",
+    "latitude": 41.4005092,
+    "longitude": -81.3422308,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553712762,
+    "name": "Fishing Pier",
+    "latitude": 41.5319816,
+    "longitude": -81.6530121,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553712765,
+    "name": "Fishing Pier",
+    "latitude": 41.533075,
+    "longitude": -81.65236,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553716552,
+    "name": "Fishing Pier",
+    "latitude": 41.5405995,
+    "longitude": -81.6357334,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 554689200,
+    "name": "Fishing Pier",
+    "latitude": 39.9433891,
+    "longitude": -83.0024028,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 559332894,
+    "name": "Fishing Pier",
+    "latitude": 40.3004131,
+    "longitude": -83.0815678,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572468030,
+    "name": "Fishing Pier",
+    "latitude": 40.1588518,
+    "longitude": -82.9072335,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572783105,
+    "name": "Fishing Pier",
+    "latitude": 39.964727,
+    "longitude": -83.0089454,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572914634,
+    "name": "Aces Marina",
+    "latitude": 39.1025921,
+    "longitude": -84.4358495,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Aces Marina"
+    }
+  },
+  {
+    "id": 587541169,
+    "name": "Fishing Pier",
+    "latitude": 39.8748886,
+    "longitude": -84.0894768,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 589938753,
+    "name": "Fishing Pier",
+    "latitude": 41.4116971,
+    "longitude": -82.343755,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 590810964,
+    "name": "Fishing Pier",
+    "latitude": 39.7849381,
+    "longitude": -84.1351863,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 590841278,
+    "name": "Fishing Pier",
+    "latitude": 41.4303099,
+    "longitude": -82.3141454,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 603078195,
+    "name": "Fishing Pier",
+    "latitude": 40.0194657,
+    "longitude": -83.0943671,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1016751336,
+    "name": "C Dock",
+    "latitude": 41.6545796,
+    "longitude": -82.8173012,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "C Dock"
+    }
+  },
+  {
+    "id": 618036750,
+    "name": "Fishing Pier",
+    "latitude": 40.2578185,
+    "longitude": -83.0696377,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 619915559,
+    "name": "Fishing Pier",
+    "latitude": 41.0387386,
+    "longitude": -81.8507161,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Fishing Pier"
+    }
+  },
+  {
+    "id": 620508839,
+    "name": "Fishing Pier",
+    "latitude": 41.3077997,
+    "longitude": -81.4793943,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623159144,
+    "name": "Fishing Pier",
+    "latitude": 40.4065843,
+    "longitude": -83.696241,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "bicycle": "no",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 623159408,
+    "name": "Fishing Pier",
+    "latitude": 40.4078546,
+    "longitude": -83.6963914,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "bicycle": "no",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 627678764,
+    "name": "Fishing Pier",
+    "latitude": 40.0429824,
+    "longitude": -83.0712174,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 629150556,
+    "name": "Fishing Pier",
+    "latitude": 41.3233715,
+    "longitude": -83.1559046,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 641389364,
+    "name": "Fishing Pier",
+    "latitude": 40.9936505,
+    "longitude": -81.6859866,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 643265323,
+    "name": "Fishing Pier",
+    "latitude": 39.5194264,
+    "longitude": -84.3059563,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 643265374,
+    "name": "Fishing Pier",
+    "latitude": 39.5178281,
+    "longitude": -84.3278741,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 644985534,
+    "name": "Fishing Pier",
+    "latitude": 39.58832,
+    "longitude": -84.2842677,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 646140165,
+    "name": "Fishing Pier",
+    "latitude": 39.5851552,
+    "longitude": -84.236936,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 646241003,
+    "name": "Fishing Pier",
+    "latitude": 39.5779612,
+    "longitude": -84.3064582,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 646241106,
+    "name": "Fishing Pier",
+    "latitude": 39.5764199,
+    "longitude": -84.3195032,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 646770483,
+    "name": "Fishing Pier",
+    "latitude": 39.573973,
+    "longitude": -84.3504822,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 648081125,
+    "name": "Fishing Pier",
+    "latitude": 39.5966763,
+    "longitude": -84.3771422,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 660427262,
+    "name": "Fishing Pier",
+    "latitude": 39.112055,
+    "longitude": -84.4821373,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 663220509,
+    "name": "Fishing Pier",
+    "latitude": 41.6502215,
+    "longitude": -83.5318756,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 678923345,
+    "name": "Quarry dock",
+    "latitude": 40.9270333,
+    "longitude": -84.0254961,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Quarry dock",
+      "operator": "City of Columbus Grove"
+    }
+  },
+  {
+    "id": 679401199,
+    "name": "Fishing Pier",
+    "latitude": 39.1088066,
+    "longitude": -84.6985854,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 685333769,
+    "name": "Fishing Pier",
+    "latitude": 41.1227154,
+    "longitude": -81.4956299,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 694037462,
+    "name": "Fishing Pier",
+    "latitude": 40.7082661,
+    "longitude": -82.6508291,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 694037463,
+    "name": "Fishing Pier",
+    "latitude": 40.7085386,
+    "longitude": -82.6526879,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 698809766,
+    "name": "Fishing Pier",
+    "latitude": 41.6089774,
+    "longitude": -80.5021119,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 698809773,
+    "name": "Fishing Pier",
+    "latitude": 41.6076865,
+    "longitude": -80.5030043,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 702294158,
+    "name": "Fishing Pier",
+    "latitude": 40.1089862,
+    "longitude": -81.5329829,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 702294159,
+    "name": "Fishing Pier",
+    "latitude": 40.1085949,
+    "longitude": -81.5320826,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 702303223,
+    "name": "Fishing Pier",
+    "latitude": 40.1224886,
+    "longitude": -81.5221766,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 702303229,
+    "name": "Fishing Pier",
+    "latitude": 40.1221664,
+    "longitude": -81.5228603,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 703456821,
+    "name": "Fishing Pier",
+    "latitude": 40.6137651,
+    "longitude": -82.7845079,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 713283541,
+    "name": "Fishing Pier",
+    "latitude": 40.699211,
+    "longitude": -82.5556985,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 719533296,
+    "name": "Fishing Pier",
+    "latitude": 41.2510183,
+    "longitude": -81.4068877,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 727912112,
+    "name": "Fishing Pier",
+    "latitude": 41.1643315,
+    "longitude": -83.4389128,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 728232619,
+    "name": "Fishing Pier",
+    "latitude": 41.2914739,
+    "longitude": -81.3182247,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 732666422,
+    "name": "Fishing Pier",
+    "latitude": 39.6571073,
+    "longitude": -84.1187671,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 743017249,
+    "name": "B&O Station Dock",
+    "latitude": 41.1032098,
+    "longitude": -80.6580398,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "B&O Station Dock"
+    }
+  },
+  {
+    "id": 743764267,
+    "name": "Fishing Pier",
+    "latitude": 40.8220294,
+    "longitude": -84.0986381,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "OSIP 6in"
+    }
+  },
+  {
+    "id": 743764268,
+    "name": "Fishing Pier",
+    "latitude": 40.8220502,
+    "longitude": -84.0960946,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "OSIP 6in"
+    }
+  },
+  {
+    "id": 743764269,
+    "name": "Fishing Pier",
+    "latitude": 40.823288,
+    "longitude": -84.0971369,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "source": "OSIP 6in"
+    }
+  },
+  {
+    "id": 746279274,
+    "name": "Fishing Pier",
+    "latitude": 41.5458189,
+    "longitude": -83.8438911,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 749224889,
+    "name": "Fishing Pier",
+    "latitude": 40.7460486,
+    "longitude": -84.2016024,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 755411585,
+    "name": "Fishing Pier",
+    "latitude": 41.6863496,
+    "longitude": -83.4831507,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 756819719,
+    "name": "Fishing Pier",
+    "latitude": 39.1559611,
+    "longitude": -84.7648478,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 761873522,
+    "name": "Fishing Pier",
+    "latitude": 41.1062086,
+    "longitude": -83.778961,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 761959355,
+    "name": "Fishing Pier",
+    "latitude": 41.1690588,
+    "longitude": -83.4232755,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 762424583,
+    "name": "Fishing Pier",
+    "latitude": 41.5170509,
+    "longitude": -83.8004959,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 782262010,
+    "name": "Fishing Pier",
+    "latitude": 41.181157,
+    "longitude": -81.6533747,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814041424,
+    "name": "Fishing Pier",
+    "latitude": 41.6646245,
+    "longitude": -82.8019101,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814047768,
+    "name": "Fishing Pier",
+    "latitude": 41.6598977,
+    "longitude": -82.8095141,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814323768,
+    "name": "Fishing Pier",
+    "latitude": 41.6641388,
+    "longitude": -82.8037664,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814688593,
+    "name": "Fishing Pier",
+    "latitude": 41.6607638,
+    "longitude": -82.7960039,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814688595,
+    "name": "Fishing Pier",
+    "latitude": 41.6573812,
+    "longitude": -82.7995877,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 814695377,
+    "name": "Fishing Pier",
+    "latitude": 41.6548078,
+    "longitude": -82.8025896,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 815580174,
+    "name": "Fishing Pier",
+    "latitude": 41.6519464,
+    "longitude": -82.8123571,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 815580191,
+    "name": "Fishing Pier",
+    "latitude": 41.6509686,
+    "longitude": -82.81317,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 817863069,
+    "name": "Fishing Pier",
+    "latitude": 39.6230135,
+    "longitude": -82.4710611,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 823261838,
+    "name": "Fishing Pier",
+    "latitude": 41.6063223,
+    "longitude": -80.5014736,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 832977235,
+    "name": "Fishing Pier",
+    "latitude": 41.1985634,
+    "longitude": -81.4311832,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 832977236,
+    "name": "Fishing Pier",
+    "latitude": 41.19774,
+    "longitude": -81.4267051,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 833003342,
+    "name": "Fishing Pier",
+    "latitude": 41.3376143,
+    "longitude": -81.5566625,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 833014744,
+    "name": "Fishing Pier",
+    "latitude": 41.336884,
+    "longitude": -81.5569412,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 836941471,
+    "name": "Fishing Pier",
+    "latitude": 41.3568898,
+    "longitude": -83.6047429,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 842775512,
+    "name": "29 RBS",
+    "latitude": 41.6936875,
+    "longitude": -83.4736212,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "description": "The Coast Guard 29-foot Response Boat Small is designed year-round operation in waters along coastal borders for port and waterway security, search and rescue, drug and migrant interdiction, National Defense missions, and environmental protection.",
+      "floating": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "name": "29 RBS",
+      "operator": "USCG"
+    }
+  },
+  {
+    "id": 842908928,
+    "name": "45 RBM",
+    "latitude": 41.5436142,
+    "longitude": -82.7312553,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "description": "The Coast Guard 45-foot Response Boat Medium is a fast and maneuverable craft for search and rescue; law enforcement; drug and migrant interdiction; and National Defense Operations. Max speed: 43 knots, Range: 250 nautical miles.",
+      "man_made": "pier",
+      "name": "45 RBM"
+    }
+  },
+  {
+    "id": 843254608,
+    "name": "Fishing Pier",
+    "latitude": 41.4838757,
+    "longitude": -82.6865168,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355937462,
+    "name": "B Dock",
+    "latitude": 41.4711973,
+    "longitude": -82.1787477,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "B Dock",
+      "source_ref": "https://lorainhbc.org/DCK-BasinLayout.html"
+    }
+  },
+  {
+    "id": 843511970,
+    "name": "29 RBS",
+    "latitude": 41.7599881,
+    "longitude": -81.2810269,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "description": "The Coast Guard 29-foot Response Boat Small is designed year-round operation in waters along coastal borders for port and waterway security, search and rescue, drug and migrant interdiction, National Defense missions, and environmental protection.",
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "29 RBS",
+      "operator": "USCG"
+    }
+  },
+  {
+    "id": 843699615,
+    "name": "Fishing Pier",
+    "latitude": 41.4837548,
+    "longitude": -82.6925382,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 852161536,
+    "name": "Boggy Bridge",
+    "latitude": 41.484189,
+    "longitude": -82.6891888,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier",
+      "name": "Boggy Bridge"
+    }
+  },
+  {
+    "id": 845839658,
+    "name": "Fishing Pier",
+    "latitude": 41.4802519,
+    "longitude": -82.6876952,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 845868800,
+    "name": "Fishing Pier",
+    "latitude": 41.4422613,
+    "longitude": -82.6777254,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 845870155,
+    "name": "Fishing Pier",
+    "latitude": 41.4420193,
+    "longitude": -82.6774684,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 848232978,
+    "name": "Fishing Pier",
+    "latitude": 41.4475619,
+    "longitude": -82.6718387,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 848232980,
+    "name": "Fishing Pier",
+    "latitude": 41.4473714,
+    "longitude": -82.6721932,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 849654819,
+    "name": "Fishing Pier",
+    "latitude": 41.4128603,
+    "longitude": -82.5922259,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 849655800,
+    "name": "Fishing Pier",
+    "latitude": 41.4130114,
+    "longitude": -82.5926599,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 849935466,
+    "name": "Fishing Pier",
+    "latitude": 41.4124822,
+    "longitude": -82.5912701,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 849935467,
+    "name": "Fishing Pier",
+    "latitude": 41.411891,
+    "longitude": -82.5927612,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 850686678,
+    "name": "Fishing Pier",
+    "latitude": 41.602787,
+    "longitude": -82.6795603,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 851576479,
+    "name": "Fishing Pier",
+    "latitude": 41.156987,
+    "longitude": -83.4324859,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 870163852,
+    "name": "Fishing Pier",
+    "latitude": 41.097471,
+    "longitude": -80.6776405,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 870163854,
+    "name": "Fishing Pier",
+    "latitude": 41.0975475,
+    "longitude": -80.6777389,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 874447886,
+    "name": "Fishing Pier",
+    "latitude": 41.1262769,
+    "longitude": -80.6574287,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 881150980,
+    "name": "Fishing Pier",
+    "latitude": 41.6494154,
+    "longitude": -83.5326543,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 884668680,
+    "name": "Fishing Pier",
+    "latitude": 39.9160944,
+    "longitude": -80.7517288,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 884668682,
+    "name": "Fishing Pier",
+    "latitude": 39.9118059,
+    "longitude": -80.7525219,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 886863393,
+    "name": "Main Dock",
+    "latitude": 41.6576288,
+    "longitude": -82.822156,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Main Dock"
+    }
+  },
+  {
+    "id": 886914665,
+    "name": "Fishing Pier",
+    "latitude": 41.6594008,
+    "longitude": -82.8266166,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 887377864,
+    "name": "Fishing Pier",
+    "latitude": 41.6588442,
+    "longitude": -82.8278668,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 893612687,
+    "name": "Fishing Pier",
+    "latitude": 41.3103999,
+    "longitude": -83.9223071,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 893802490,
+    "name": "Fishing Pier",
+    "latitude": 41.0882496,
+    "longitude": -80.6814423,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 894402571,
+    "name": "Fishing Pier",
+    "latitude": 41.9024404,
+    "longitude": -80.7977489,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 895020159,
+    "name": "Norfolk Southern Corp., Ashtabula Coal Dock",
+    "latitude": 41.9052985,
+    "longitude": -80.7987211,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Norfolk Southern Corp., Ashtabula Coal Dock",
+      "note": "Name from NOAA Coast Pilot 6, Chapter 6 (50th. ed 2020)."
+    }
+  },
+  {
+    "id": 894929742,
+    "name": "Fishing Pier",
+    "latitude": 41.900482,
+    "longitude": -80.7972004,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 895020151,
+    "name": "Pinney Dock and Transport Co., Ashtabula Dock No. 1",
+    "latitude": 41.9089067,
+    "longitude": -80.787953,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Pinney Dock and Transport Co., Ashtabula Dock No. 1",
+      "note": "Name from NOAA Electronic Nautical Chart and NOAA Coast Pilot 6, Chapter 6 (50th ed. 2020)."
+    }
+  },
+  {
+    "id": 895020152,
+    "name": "Pinney Dock and Transport Co., Ashtabula Dock No. 2",
+    "latitude": 41.9090049,
+    "longitude": -80.7870506,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Pinney Dock and Transport Co., Ashtabula Dock No. 2",
+      "note": "Name from NOAA Electronic Nautical Chart and NOAA Coast Pilot 6, Chapter 6 (50th ed. 2020)."
+    }
+  },
+  {
+    "id": 895020156,
+    "name": "Pinney Dock and Transport Co. Dock No. 2 Extension",
+    "latitude": 41.906095,
+    "longitude": -80.7934796,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Pinney Dock and Transport Co. Dock No. 2 Extension",
+      "note": "Name from NOAA Nautical Chart"
+    }
+  },
+  {
+    "id": 895020157,
+    "name": "Pinney Dock and Transport Co. Dock No. 1 Extension",
+    "latitude": 41.9083599,
+    "longitude": -80.7947169,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Pinney Dock and Transport Co. Dock No. 1 Extension",
+      "note": "Name from NOAA Nautical Chart"
+    }
+  },
+  {
+    "id": 895107836,
+    "name": "Fishing Pier",
+    "latitude": 41.0538359,
+    "longitude": -84.0848656,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 901849803,
+    "name": "Fishing Pier",
+    "latitude": 41.8566476,
+    "longitude": -80.972296,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 901849804,
+    "name": "Fishing Pier",
+    "latitude": 41.8570652,
+    "longitude": -80.9729849,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 901849941,
+    "name": "Fishing Pier",
+    "latitude": 41.8498435,
+    "longitude": -81.0091661,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 906243113,
+    "name": "Fishing Pier",
+    "latitude": 41.3536565,
+    "longitude": -80.7417789,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 908557682,
+    "name": "Fishing Pier",
+    "latitude": 40.5776012,
+    "longitude": -83.3353262,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 909760323,
+    "name": "Fishing Pier",
+    "latitude": 41.1124463,
+    "longitude": -82.0836956,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 909760325,
+    "name": "Fishing Pier",
+    "latitude": 41.1125523,
+    "longitude": -82.085041,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 910023745,
+    "name": "Fishing Pier",
+    "latitude": 40.6483336,
+    "longitude": -80.7713679,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 915146343,
+    "name": "Fishing Pier",
+    "latitude": 40.7927921,
+    "longitude": -80.5183964,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 918367788,
+    "name": "Fishing Pier",
+    "latitude": 41.0968811,
+    "longitude": -80.9747838,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 925530640,
+    "name": "Fishing Pier",
+    "latitude": 41.4879919,
+    "longitude": -82.6946898,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 925748639,
+    "name": "Dock Number 20",
+    "latitude": 41.5010517,
+    "longitude": -81.7093115,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "ele": "177",
+      "floating": "no",
+      "gnis:feature_id": "1073068",
+      "man_made": "pier",
+      "name": "Dock Number 20"
+    }
+  },
+  {
+    "id": 925641692,
+    "name": "Fishing Pier",
+    "latitude": 40.358182,
+    "longitude": -81.9504594,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 925748641,
+    "name": "Dock Number 24",
+    "latitude": 41.5049588,
+    "longitude": -81.7059023,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "ele": "176",
+      "floating": "no",
+      "gnis:feature_id": "1073069",
+      "man_made": "pier",
+      "name": "Dock Number 24"
+    }
+  },
+  {
+    "id": 925748644,
+    "name": "Dock Number 28",
+    "latitude": 41.5075441,
+    "longitude": -81.7034622,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "ele": "175",
+      "floating": "no",
+      "gnis:feature_id": "1073071",
+      "man_made": "pier",
+      "name": "Dock Number 28"
+    }
+  },
+  {
+    "id": 925748647,
+    "name": "Dock Number 32",
+    "latitude": 41.5092406,
+    "longitude": -81.6982045,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "ele": "176",
+      "floating": "no",
+      "gnis:feature_id": "1073073",
+      "man_made": "pier",
+      "name": "Dock Number 32"
+    }
+  },
+  {
+    "id": 925759718,
+    "name": "Fishing Pier",
+    "latitude": 41.5105218,
+    "longitude": -81.6917174,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 928473926,
+    "name": "Fishing Pier",
+    "latitude": 41.4903343,
+    "longitude": -81.7601986,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 931693355,
+    "name": "Fishing Pier",
+    "latitude": 41.3994206,
+    "longitude": -84.1106827,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 934374356,
+    "name": "Fishing Pier",
+    "latitude": 39.6334757,
+    "longitude": -84.1453263,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 934374359,
+    "name": "Fishing Pier",
+    "latitude": 39.6323049,
+    "longitude": -84.1461677,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 934374361,
+    "name": "Fishing Pier",
+    "latitude": 39.6347891,
+    "longitude": -84.1492148,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 940565852,
+    "name": "Fishing Pier",
+    "latitude": 41.3463474,
+    "longitude": -83.6638068,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958917618,
+    "name": "Fishing Pier",
+    "latitude": 41.6561126,
+    "longitude": -83.5141042,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 963261444,
+    "name": "Lime Kiln Dock",
+    "latitude": 41.628875,
+    "longitude": -82.8372695,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Lime Kiln Dock",
+      "source": "PGS"
+    }
+  },
+  {
+    "id": 973903938,
+    "name": "West Newport Dock",
+    "latitude": 41.0631362,
+    "longitude": -80.6782409,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "West Newport Dock"
+    }
+  },
+  {
+    "id": 977540762,
+    "name": "Fishing Pier",
+    "latitude": 41.5412212,
+    "longitude": -82.7188151,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "building": "house",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 977990085,
+    "name": "Fishing Pier",
+    "latitude": 41.5429887,
+    "longitude": -82.7274642,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 996017068,
+    "name": "Fishing Pier",
+    "latitude": 41.6154747,
+    "longitude": -83.8633799,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1001929984,
+    "name": "Fishing Pier",
+    "latitude": 41.4803083,
+    "longitude": -81.8326706,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1002130946,
+    "name": "Fishing Pier",
+    "latitude": 41.3605076,
+    "longitude": -81.8598315,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1002738875,
+    "name": "Fishing Pier",
+    "latitude": 41.3465453,
+    "longitude": -84.4383782,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1003849099,
+    "name": "Bradstreet Fishing Pier",
+    "latitude": 41.483609,
+    "longitude": -81.8680305,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Bradstreet Fishing Pier"
+    }
+  },
+  {
+    "id": 1007925340,
+    "name": "Fishing Pier",
+    "latitude": 41.5036963,
+    "longitude": -82.0615028,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1008236129,
+    "name": "Fishing Pier",
+    "latitude": 41.4901159,
+    "longitude": -81.9247504,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1009341977,
+    "name": "Fishing Pier",
+    "latitude": 41.1190436,
+    "longitude": -80.9813209,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1009342000,
+    "name": "Fishing Pier",
+    "latitude": 41.1240469,
+    "longitude": -80.9791736,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011527452,
+    "name": "Fishing Pier",
+    "latitude": 39.5520563,
+    "longitude": -82.0249964,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1017474677,
+    "name": "Fishing Pier",
+    "latitude": 41.4910527,
+    "longitude": -81.8376385,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1019254500,
+    "name": "Fishing Pier",
+    "latitude": 40.5338896,
+    "longitude": -84.5737285,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1019254504,
+    "name": "Fishing Pier",
+    "latitude": 40.5324159,
+    "longitude": -84.5735067,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1026865084,
+    "name": "Fishing Pier",
+    "latitude": 41.6470143,
+    "longitude": -82.8124371,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1026868147,
+    "name": "Fishing Pier",
+    "latitude": 41.6456171,
+    "longitude": -82.8129996,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1028203768,
+    "name": "Fishing Pier",
+    "latitude": 41.6565207,
+    "longitude": -82.8350346,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1028786615,
+    "name": "Fishing Pier",
+    "latitude": 41.6421715,
+    "longitude": -82.8375722,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1028786617,
+    "name": "Fishing Pier",
+    "latitude": 41.6423397,
+    "longitude": -82.8373943,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1029665833,
+    "name": "Fishing Pier",
+    "latitude": 41.4105722,
+    "longitude": -82.6601192,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1030837033,
+    "name": "Fishing Pier",
+    "latitude": 41.4881251,
+    "longitude": -81.8356162,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1030837061,
+    "name": "Fishing Pier",
+    "latitude": 41.4874665,
+    "longitude": -81.8337275,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1030837076,
+    "name": "Fishing Pier",
+    "latitude": 41.4851626,
+    "longitude": -81.8315644,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1038320453,
+    "name": "Fishing Pier",
+    "latitude": 41.3080094,
+    "longitude": -80.7666746,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1038320467,
+    "name": "Fishing Pier",
+    "latitude": 41.3081213,
+    "longitude": -80.7624315,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1038762180,
+    "name": "Fishing Pier",
+    "latitude": 41.3050116,
+    "longitude": -80.7508414,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1038793079,
+    "name": "Fishing Pier",
+    "latitude": 41.3136323,
+    "longitude": -80.7455513,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1038803864,
+    "name": "Fishing Pier",
+    "latitude": 41.3883138,
+    "longitude": -80.7404322,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1041224443,
+    "name": "Fishing Pier",
+    "latitude": 41.4836531,
+    "longitude": -81.8603737,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1052742753,
+    "name": "Fishing Pier",
+    "latitude": 41.3200644,
+    "longitude": -80.765798,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1056583463,
+    "name": "Fishing Pier",
+    "latitude": 40.1560176,
+    "longitude": -81.1731024,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1056583466,
+    "name": "Fishing Pier",
+    "latitude": 40.1617874,
+    "longitude": -81.1855062,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1056583468,
+    "name": "Fishing Pier",
+    "latitude": 40.1561391,
+    "longitude": -81.1716044,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1059156122,
+    "name": "Fishing Pier",
+    "latitude": 41.6801608,
+    "longitude": -84.6949824,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1066581575,
+    "name": "Fishing Pier",
+    "latitude": 41.3051267,
+    "longitude": -80.7664242,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1069694581,
+    "name": "Fishing Pier",
+    "latitude": 41.3318879,
+    "longitude": -81.3793563,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1071166976,
+    "name": "Fishing Pier",
+    "latitude": 41.2548941,
+    "longitude": -83.607268,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1073698223,
+    "name": "Fishing Pier",
+    "latitude": 41.5025347,
+    "longitude": -81.7123902,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1074937592,
+    "name": "Fishing Pier",
+    "latitude": 41.6861531,
+    "longitude": -83.4823131,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1074951376,
+    "name": "Fishing Pier",
+    "latitude": 41.6879871,
+    "longitude": -83.4825062,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1074961449,
+    "name": "Fishing Pier",
+    "latitude": 41.6920174,
+    "longitude": -83.4751313,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1075236715,
+    "name": "Fishing Pier",
+    "latitude": 41.5061949,
+    "longitude": -81.7162567,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "barrier": "wall",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "surface": "concrete",
+      "wall": "seawall"
+    }
+  },
+  {
+    "id": 1075897348,
+    "name": "Fishing Pier",
+    "latitude": 41.5701945,
+    "longitude": -82.8547353,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078836086,
+    "name": "Fishing Pier",
+    "latitude": 41.0654019,
+    "longitude": -80.9675,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078836105,
+    "name": "Fishing Pier",
+    "latitude": 41.0951714,
+    "longitude": -80.97242,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078836132,
+    "name": "Fishing Pier",
+    "latitude": 41.109031,
+    "longitude": -80.9850561,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078849672,
+    "name": "Fishing Pier",
+    "latitude": 40.5099906,
+    "longitude": -84.5399015,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078849696,
+    "name": "Fishing Pier",
+    "latitude": 40.5019741,
+    "longitude": -84.5598473,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078879901,
+    "name": "Fishing Pier",
+    "latitude": 40.5195341,
+    "longitude": -84.5744802,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078879905,
+    "name": "Fishing Pier",
+    "latitude": 40.5294395,
+    "longitude": -84.5723325,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1079322187,
+    "name": "Fishing Pier",
+    "latitude": 41.1453456,
+    "longitude": -81.0879148,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1079330245,
+    "name": "Fishing Pier",
+    "latitude": 41.1423321,
+    "longitude": -81.0920708,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1079330246,
+    "name": "Fishing Pier",
+    "latitude": 41.1413546,
+    "longitude": -81.0927716,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1080322570,
+    "name": "Fishing Pier",
+    "latitude": 41.5560227,
+    "longitude": -83.6710276,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1080842665,
+    "name": "Fishing Pier",
+    "latitude": 39.2486576,
+    "longitude": -84.388599,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082355794,
+    "name": "Fishing Pier",
+    "latitude": 41.1343278,
+    "longitude": -81.1396419,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082987031,
+    "name": "Fishing Pier",
+    "latitude": 41.857619,
+    "longitude": -80.9714175,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082987033,
+    "name": "Fishing Pier",
+    "latitude": 41.8576031,
+    "longitude": -80.9729286,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1086461199,
+    "name": "Fishing Pier",
+    "latitude": 40.9738672,
+    "longitude": -81.1236293,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1087586879,
+    "name": "Fishing Pier",
+    "latitude": 41.5709168,
+    "longitude": -80.5284171,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1087592199,
+    "name": "Fishing Pier",
+    "latitude": 41.5781131,
+    "longitude": -80.5323642,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1087595430,
+    "name": "Fishing Pier",
+    "latitude": 41.5971585,
+    "longitude": -80.537859,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1087596347,
+    "name": "Fishing Pier",
+    "latitude": 41.599395,
+    "longitude": -80.5393401,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1087804731,
+    "name": "Fishing Pier",
+    "latitude": 41.7679418,
+    "longitude": -81.2787874,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1089198222,
+    "name": "Fishing Pier",
+    "latitude": 41.4544847,
+    "longitude": -81.4101614,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090591393,
+    "name": "Fishing Pier",
+    "latitude": 41.558106,
+    "longitude": -83.7750889,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1091372647,
+    "name": "Water's Edge",
+    "latitude": 40.157271,
+    "longitude": -83.1241599,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "name": "Water's Edge"
+    }
+  },
+  {
+    "id": 1093265643,
+    "name": "Fishing Pier",
+    "latitude": 41.507531,
+    "longitude": -83.0701436,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1095299641,
+    "name": "Fishing Pier",
+    "latitude": 41.6309199,
+    "longitude": -82.8324908,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1098160771,
+    "name": "Fishing Pier",
+    "latitude": 40.856823,
+    "longitude": -81.869801,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1105301656,
+    "name": "Fishing Pier",
+    "latitude": 39.9611052,
+    "longitude": -81.9940085,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1107376709,
+    "name": "Fishing Pier",
+    "latitude": 41.0231112,
+    "longitude": -81.4390123,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1115831347,
+    "name": "Fishing Pier",
+    "latitude": 39.9820722,
+    "longitude": -82.4131111,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1121057788,
+    "name": "Fishing Pier",
+    "latitude": 39.6791444,
+    "longitude": -82.6575376,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1124825713,
+    "name": "Fishing Pier",
+    "latitude": 41.5614075,
+    "longitude": -83.7234982,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1132092365,
+    "name": "Fishing Pier",
+    "latitude": 41.4634649,
+    "longitude": -81.6501187,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1137718180,
+    "name": "Fishing Pier",
+    "latitude": 41.0600823,
+    "longitude": -80.6743576,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148084712,
+    "name": "Fishing Pier",
+    "latitude": 40.2538391,
+    "longitude": -80.6416449,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148084714,
+    "name": "Fishing Pier",
+    "latitude": 40.2509706,
+    "longitude": -80.646082,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148084715,
+    "name": "Fishing Pier",
+    "latitude": 40.2477238,
+    "longitude": -80.650511,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148084716,
+    "name": "Fishing Pier",
+    "latitude": 40.2457634,
+    "longitude": -80.6523931,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148084717,
+    "name": "Fishing Pier",
+    "latitude": 40.2431796,
+    "longitude": -80.6548431,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148089262,
+    "name": "Fishing Pier",
+    "latitude": 40.0939544,
+    "longitude": -80.7188187,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148092133,
+    "name": "Fishing Pier",
+    "latitude": 40.0359452,
+    "longitude": -80.7322714,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148092134,
+    "name": "Fishing Pier",
+    "latitude": 40.035317,
+    "longitude": -80.7325656,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148092136,
+    "name": "Fishing Pier",
+    "latitude": 40.0229147,
+    "longitude": -80.7342137,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148092137,
+    "name": "Fishing Pier",
+    "latitude": 40.0210347,
+    "longitude": -80.7379956,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148112193,
+    "name": "Fishing Pier",
+    "latitude": 40.0103024,
+    "longitude": -80.7378173,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148112195,
+    "name": "Fishing Pier",
+    "latitude": 39.9996907,
+    "longitude": -80.7377536,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148112203,
+    "name": "Fishing Pier",
+    "latitude": 39.9734467,
+    "longitude": -80.7409894,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148114063,
+    "name": "Fishing Pier",
+    "latitude": 39.8515442,
+    "longitude": -80.812469,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148114064,
+    "name": "Fishing Pier",
+    "latitude": 39.8509645,
+    "longitude": -80.8139077,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148114065,
+    "name": "Fishing Pier",
+    "latitude": 39.8483672,
+    "longitude": -80.8181627,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148114066,
+    "name": "Fishing Pier",
+    "latitude": 39.8528555,
+    "longitude": -80.8170894,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148114731,
+    "name": "Fishing Pier",
+    "latitude": 39.8352731,
+    "longitude": -80.8228863,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148115509,
+    "name": "Fishing Pier",
+    "latitude": 39.7568629,
+    "longitude": -80.8639516,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148115510,
+    "name": "Fishing Pier",
+    "latitude": 39.7486923,
+    "longitude": -80.8572866,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148115511,
+    "name": "Fishing Pier",
+    "latitude": 39.72778,
+    "longitude": -80.8355697,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148115512,
+    "name": "Fishing Pier",
+    "latitude": 39.7028385,
+    "longitude": -80.8369027,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148115513,
+    "name": "Fishing Pier",
+    "latitude": 39.7001581,
+    "longitude": -80.8447588,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1148118040,
+    "name": "Fishing Pier",
+    "latitude": 39.6537903,
+    "longitude": -80.8634708,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1150081260,
+    "name": "Fishing Pier",
+    "latitude": 41.42675,
+    "longitude": -84.1365964,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1151098030,
+    "name": "Fishing Pier",
+    "latitude": 41.2174174,
+    "longitude": -81.5263621,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1151102429,
+    "name": "Fishing Pier",
+    "latitude": 41.2793026,
+    "longitude": -84.5149976,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1154000179,
+    "name": "Fishing Pier",
+    "latitude": 41.2890784,
+    "longitude": -84.2615329,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1155236398,
+    "name": "Fishing Pier",
+    "latitude": 41.2493621,
+    "longitude": -84.3748714,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522460,
+    "name": "Fishing Pier",
+    "latitude": 40.9745649,
+    "longitude": -80.6098088,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522465,
+    "name": "Fishing Pier",
+    "latitude": 40.9779153,
+    "longitude": -80.6076825,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522467,
+    "name": "Fishing Pier",
+    "latitude": 40.9799804,
+    "longitude": -80.6217027,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522472,
+    "name": "Fishing Pier",
+    "latitude": 40.9761398,
+    "longitude": -80.621233,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522478,
+    "name": "Fishing Pier",
+    "latitude": 40.9723937,
+    "longitude": -80.621901,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522479,
+    "name": "Fishing Pier",
+    "latitude": 40.9662329,
+    "longitude": -80.6186196,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522480,
+    "name": "Fishing Pier",
+    "latitude": 40.9673034,
+    "longitude": -80.6147256,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522481,
+    "name": "Fishing Pier",
+    "latitude": 40.9684393,
+    "longitude": -80.6141352,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522484,
+    "name": "Fishing Pier",
+    "latitude": 40.9712462,
+    "longitude": -80.6113672,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1158522487,
+    "name": "Fishing Pier",
+    "latitude": 40.9733082,
+    "longitude": -80.6045352,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1159539095,
+    "name": "Fishing Pier",
+    "latitude": 40.9937411,
+    "longitude": -83.6553789,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1164000655,
+    "name": "Fishing Pier",
+    "latitude": 39.5318001,
+    "longitude": -81.5107786,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1164874972,
+    "name": "Fishing Pier",
+    "latitude": 40.993132,
+    "longitude": -81.5965639,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1165463328,
+    "name": "Fishing Pier",
+    "latitude": 39.8607352,
+    "longitude": -82.8245294,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1165513943,
+    "name": "Fishing Pier",
+    "latitude": 39.6267073,
+    "longitude": -83.2312029,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1168544147,
+    "name": "Fishing Pier",
+    "latitude": 39.6675607,
+    "longitude": -82.6481658,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174464549,
+    "name": "Fishing Pier",
+    "latitude": 41.2339783,
+    "longitude": -81.5689847,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178481215,
+    "name": "Fishing Pier",
+    "latitude": 39.8854954,
+    "longitude": -82.8947342,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178584835,
+    "name": "Fishing Pier",
+    "latitude": 41.5216484,
+    "longitude": -80.5011977,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1180372111,
+    "name": "Fishing Pier",
+    "latitude": 40.4648838,
+    "longitude": -80.5976771,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1180386469,
+    "name": "Fishing Pier",
+    "latitude": 39.8340395,
+    "longitude": -84.0504508,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1181489425,
+    "name": "Fishing Pier",
+    "latitude": 40.4781834,
+    "longitude": -80.5979377,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1181899904,
+    "name": "Fishing Pier",
+    "latitude": 40.946414,
+    "longitude": -80.6198062,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Fishing Pier"
+    }
+  },
+  {
+    "id": 1182526838,
+    "name": "Fishing Pier",
+    "latitude": 41.4142424,
+    "longitude": -80.7749099,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182527629,
+    "name": "Fishing Pier",
+    "latitude": 41.4024181,
+    "longitude": -80.7678397,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1183774358,
+    "name": "Fishing Pier",
+    "latitude": 41.3824121,
+    "longitude": -80.7408156,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185039941,
+    "name": "Fishing Pier",
+    "latitude": 40.2897359,
+    "longitude": -81.8724254,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185061253,
+    "name": "Fishing Pier",
+    "latitude": 40.2893459,
+    "longitude": -81.8727898,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1186312015,
+    "name": "Fishing Pier",
+    "latitude": 41.5542728,
+    "longitude": -82.8545783,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1187360224,
+    "name": "Fishing Pier",
+    "latitude": 41.0945674,
+    "longitude": -80.9847805,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1188276873,
+    "name": "Fishing Pier",
+    "latitude": 39.604571,
+    "longitude": -80.9426932,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1188276874,
+    "name": "Fishing Pier",
+    "latitude": 39.604765,
+    "longitude": -80.942483,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1188349291,
+    "name": "Fishing Pier",
+    "latitude": 39.5636976,
+    "longitude": -81.0009744,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1192407487,
+    "name": "Fishing Pier",
+    "latitude": 40.6870113,
+    "longitude": -81.6013717,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1193016253,
+    "name": "Fishing Pier",
+    "latitude": 40.9909194,
+    "longitude": -80.6391939,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1193831139,
+    "name": "Fishing Pier",
+    "latitude": 39.9054141,
+    "longitude": -82.5066201,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1193831141,
+    "name": "Fishing Pier",
+    "latitude": 39.9046511,
+    "longitude": -82.5082369,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1195623435,
+    "name": "Fishing Pier",
+    "latitude": 39.4227162,
+    "longitude": -84.496314,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1195623438,
+    "name": "Fishing Pier",
+    "latitude": 39.422397,
+    "longitude": -84.4960515,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1198651557,
+    "name": "Fishing Pier",
+    "latitude": 40.3248009,
+    "longitude": -81.1808648,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204794542,
+    "name": "Fishing Pier",
+    "latitude": 41.505717,
+    "longitude": -82.0556555,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204794544,
+    "name": "Fishing Pier",
+    "latitude": 41.5082564,
+    "longitude": -82.054167,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204794550,
+    "name": "Fishing Pier",
+    "latitude": 41.5065456,
+    "longitude": -82.0516166,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1208420517,
+    "name": "Fishing Pier",
+    "latitude": 40.0975498,
+    "longitude": -80.7126945,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1226588815,
+    "name": "Fishing Pier",
+    "latitude": 41.3809725,
+    "longitude": -83.5919957,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1226590066,
+    "name": "Fishing Pier",
+    "latitude": 41.386234,
+    "longitude": -83.5972427,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1227448785,
+    "name": "Fishing Pier",
+    "latitude": 40.0579322,
+    "longitude": -83.290685,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1227696153,
+    "name": "Fishing Pier",
+    "latitude": 40.0693324,
+    "longitude": -83.2610909,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1231385011,
+    "name": "Fishing Pier",
+    "latitude": 41.5130463,
+    "longitude": -82.7254501,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1231386120,
+    "name": "Fishing Pier",
+    "latitude": 41.5117628,
+    "longitude": -82.7253575,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1231386131,
+    "name": "Fishing Pier",
+    "latitude": 41.5102775,
+    "longitude": -82.7224318,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233444131,
+    "name": "Fishing Pier",
+    "latitude": 41.6387871,
+    "longitude": -82.8232992,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233447040,
+    "name": "Fishing Pier",
+    "latitude": 41.6421629,
+    "longitude": -82.8176134,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233731129,
+    "name": "Fishing Pier",
+    "latitude": 41.6953131,
+    "longitude": -82.7815308,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233731138,
+    "name": "Fishing Pier",
+    "latitude": 41.6934322,
+    "longitude": -82.7871523,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1234762632,
+    "name": "Fishing Pier",
+    "latitude": 41.6773395,
+    "longitude": -82.8482293,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1236685818,
+    "name": "Fishing Pier",
+    "latitude": 40.5446231,
+    "longitude": -84.5676213,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1236685819,
+    "name": "Fishing Pier",
+    "latitude": 40.5445761,
+    "longitude": -84.5674331,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1237353005,
+    "name": "Fishing Pier",
+    "latitude": 41.6953816,
+    "longitude": -82.7976075,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1237353012,
+    "name": "Fishing Pier",
+    "latitude": 41.6935105,
+    "longitude": -82.7945993,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1237917214,
+    "name": "Fishing Pier",
+    "latitude": 41.6709887,
+    "longitude": -82.8137052,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1237917215,
+    "name": "Fishing Pier",
+    "latitude": 41.670857,
+    "longitude": -82.8114613,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1237952391,
+    "name": "Fishing Pier",
+    "latitude": 41.690938,
+    "longitude": -82.8251127,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1239345050,
+    "name": "Fishing Pier",
+    "latitude": 41.6853694,
+    "longitude": -82.8244509,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1240234259,
+    "name": "Fishing Pier",
+    "latitude": 41.6538361,
+    "longitude": -80.5219176,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1243786442,
+    "name": "Fishing Pier",
+    "latitude": 41.138926,
+    "longitude": -81.7803174,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1251185582,
+    "name": "Fishing Pier",
+    "latitude": 41.4427447,
+    "longitude": -80.5117119,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1261353161,
+    "name": "Lakeside Dock",
+    "latitude": 41.5470927,
+    "longitude": -82.7509936,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Lakeside Dock"
+    }
+  },
+  {
+    "id": 1262980172,
+    "name": "Fishing Pier",
+    "latitude": 41.1626815,
+    "longitude": -81.4669938,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1266147641,
+    "name": "Fishing Pier",
+    "latitude": 41.157805,
+    "longitude": -81.4604305,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1272455321,
+    "name": "Fishing Pier",
+    "latitude": 40.5453128,
+    "longitude": -84.4573347,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1273390214,
+    "name": "Fishing Pier",
+    "latitude": 41.3083794,
+    "longitude": -80.7498188,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1273872819,
+    "name": "Fishing Pier",
+    "latitude": 41.6530161,
+    "longitude": -83.5230537,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1277856045,
+    "name": "Fishing Pier",
+    "latitude": 40.541946,
+    "longitude": -84.5714573,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1279678630,
+    "name": "Fishing Pier",
+    "latitude": 39.5215697,
+    "longitude": -82.0412334,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1279922365,
+    "name": "Fishing Pier",
+    "latitude": 39.5194596,
+    "longitude": -82.0469875,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1279931682,
+    "name": "Fishing Pier",
+    "latitude": 39.5331139,
+    "longitude": -82.0436064,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1279931684,
+    "name": "Fishing Pier",
+    "latitude": 39.5320928,
+    "longitude": -82.0415074,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1280081769,
+    "name": "Fishing Pier",
+    "latitude": 39.5305241,
+    "longitude": -82.0363732,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1280728285,
+    "name": "Fishing Pier",
+    "latitude": 39.9065189,
+    "longitude": -81.4299262,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1280997412,
+    "name": "Fishing Pier",
+    "latitude": 41.5690672,
+    "longitude": -81.5908241,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281207425,
+    "name": "Fishing Pier",
+    "latitude": 39.910704,
+    "longitude": -81.4188543,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281229010,
+    "name": "Fishing Pier",
+    "latitude": 41.966762,
+    "longitude": -80.5555839,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281229036,
+    "name": "Fishing Pier",
+    "latitude": 41.9685097,
+    "longitude": -80.5541306,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281234320,
+    "name": "Fishing Pier",
+    "latitude": 41.9711178,
+    "longitude": -80.5522926,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281240091,
+    "name": "Fishing Pier",
+    "latitude": 39.9310737,
+    "longitude": -81.4313238,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281240104,
+    "name": "Fishing Pier",
+    "latitude": 39.9280501,
+    "longitude": -81.4326324,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281240124,
+    "name": "Fishing Pier",
+    "latitude": 39.927425,
+    "longitude": -81.4324735,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1281990087,
+    "name": "Fishing Pier",
+    "latitude": 40.5380746,
+    "longitude": -84.5733632,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1282496089,
+    "name": "Fishing Pier",
+    "latitude": 41.7668975,
+    "longitude": -81.2335551,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1284779339,
+    "name": "Fishing Pier",
+    "latitude": 41.5694012,
+    "longitude": -82.8522705,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1286468015,
+    "name": "Fishing Pier",
+    "latitude": 39.6336248,
+    "longitude": -82.8839424,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1286468018,
+    "name": "Fishing Pier",
+    "latitude": 39.6280819,
+    "longitude": -82.8848378,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1290354475,
+    "name": "Fishing Pier",
+    "latitude": 41.6820589,
+    "longitude": -82.8204333,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1291348758,
+    "name": "Fishing Pier",
+    "latitude": 39.7809319,
+    "longitude": -84.1375771,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1291348760,
+    "name": "Fishing Pier",
+    "latitude": 39.7809854,
+    "longitude": -84.1374351,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1292838501,
+    "name": "Fishing Pier",
+    "latitude": 41.4255886,
+    "longitude": -81.6630776,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302392864,
+    "name": "Fishing Pier",
+    "latitude": 39.9981779,
+    "longitude": -83.0861683,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302392865,
+    "name": "Fishing Pier",
+    "latitude": 39.9999955,
+    "longitude": -83.0888261,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1309157891,
+    "name": "Fishing Pier",
+    "latitude": 41.5078587,
+    "longitude": -83.0193435,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1309158001,
+    "name": "Pier D",
+    "latitude": 41.5049946,
+    "longitude": -83.0187264,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "name": "Pier D"
+    }
+  },
+  {
+    "id": 1310012909,
+    "name": "Fishing Pier",
+    "latitude": 40.4501748,
+    "longitude": -80.6060399,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1311894676,
+    "name": "58 Partners Church Fishing Dock",
+    "latitude": 40.0554248,
+    "longitude": -83.1002156,
     "state": "Ohio",
     "stateAbbr": "OH",
     "tags": {
       "access": "yes",
-      "description": "Fishing is allowed only during daylight hours, and anyone 16 or older must have an Ohio fishing license. The observation deck is off limits for fishing, except for people who need a handicap-accessible fishing location",
-      "fishing": "licence",
-      "leisure": "fishing"
+      "area": "yes",
+      "fishing": "yes",
+      "man_made": "pier",
+      "name": "58 Partners Church Fishing Dock"
+    }
+  },
+  {
+    "id": 1312926331,
+    "name": "Fishing Pier",
+    "latitude": 40.6148968,
+    "longitude": -80.5757814,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1313879893,
+    "name": "Fishing Pier",
+    "latitude": 41.0309312,
+    "longitude": -80.704064,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1316996266,
+    "name": "Fishing Pier",
+    "latitude": 40.5413837,
+    "longitude": -84.4197111,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1320748155,
+    "name": "Fishing Pier",
+    "latitude": 40.6960436,
+    "longitude": -84.1367089,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 1324681469,
+    "name": "Fishing Pier",
+    "latitude": 39.753329,
+    "longitude": -84.2000909,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "bridge:support": "pier",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1327656355,
+    "name": "Canal Dock",
+    "latitude": 40.1811648,
+    "longitude": -84.2518616,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Canal Dock"
+    }
+  },
+  {
+    "id": 1328707421,
+    "name": "Fishing Pier",
+    "latitude": 41.0848943,
+    "longitude": -83.0543815,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1330088530,
+    "name": "Fishing Pier",
+    "latitude": 39.6828446,
+    "longitude": -82.5648536,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1338623845,
+    "name": "Fishing Pier",
+    "latitude": 40.0485499,
+    "longitude": -81.0239028,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1338743471,
+    "name": "Fishing Pier",
+    "latitude": 41.4327444,
+    "longitude": -82.0575024,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1338753243,
+    "name": "Fishing Pier",
+    "latitude": 40.9114205,
+    "longitude": -81.0249165,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1339955301,
+    "name": "Fishing Pier",
+    "latitude": 40.287757,
+    "longitude": -82.9560501,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1339955302,
+    "name": "Fishing Pier",
+    "latitude": 40.2874456,
+    "longitude": -82.9559712,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1340339227,
+    "name": "Fishing Pier",
+    "latitude": 39.1287782,
+    "longitude": -84.3493595,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1340339239,
+    "name": "Fishing Pier",
+    "latitude": 39.1281617,
+    "longitude": -84.3435263,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1342563282,
+    "name": "Fishing Pier",
+    "latitude": 40.1932205,
+    "longitude": -83.9750674,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1344377554,
+    "name": "Fishing Pier",
+    "latitude": 41.0150907,
+    "longitude": -81.3586938,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "foot": "yes",
+      "man_made": "pier",
+      "mooring": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 1344377559,
+    "name": "Fishing Pier",
+    "latitude": 41.0143556,
+    "longitude": -81.3642242,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "fishing": "yes",
+      "man_made": "pier",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 1344685763,
+    "name": "Fishing Pier",
+    "latitude": 40.9854148,
+    "longitude": -82.1894635,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1346538182,
+    "name": "Fishing Pier",
+    "latitude": 41.6103725,
+    "longitude": -83.5906808,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1346952642,
+    "name": "Fishing Pier",
+    "latitude": 41.6142165,
+    "longitude": -81.5297046,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1347817422,
+    "name": "Fishing Pier",
+    "latitude": 41.6100236,
+    "longitude": -81.536377,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1347817443,
+    "name": "Fishing Pier",
+    "latitude": 41.6063913,
+    "longitude": -81.5417774,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1349119348,
+    "name": "Fishing Pier",
+    "latitude": 41.6800451,
+    "longitude": -82.8038021,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1352312342,
+    "name": "Fishing Pier",
+    "latitude": 41.3880686,
+    "longitude": -82.5244249,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "leisure": "marina",
+      "man_made": "pier",
+      "mooring": "yes",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1352325602,
+    "name": "Fishing Pier",
+    "latitude": 41.387492,
+    "longitude": -82.5244019,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1352325627,
+    "name": "Fishing Pier",
+    "latitude": 41.3856769,
+    "longitude": -82.5189864,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1352535674,
+    "name": "Fishing Pier",
+    "latitude": 41.4026408,
+    "longitude": -82.5625974,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1352908795,
+    "name": "Huron Harbor-Dredge Pump-out Facility",
+    "latitude": 41.4006868,
+    "longitude": -82.5472148,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "addr:city": "Huron",
+      "addr:postcode": "44839",
+      "addr:state": "OH",
+      "addr:street": "Foot of Wall Street",
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "name": "Huron Harbor-Dredge Pump-out Facility",
+      "operator": "United States Army Corps of Engineers",
+      "operator:short": "USACE",
+      "operator:type": "military",
+      "operator:wikidata": "Q1049334",
+      "source": "USACE Docks",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1352908796,
+    "name": "Fishing Pier",
+    "latitude": 41.4044121,
+    "longitude": -82.5437266,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "start_date": "1935",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1352931055,
+    "name": "Fishing Pier",
+    "latitude": 41.3967748,
+    "longitude": -82.5500479,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1352937681,
+    "name": "Fishing Pier",
+    "latitude": 41.3904388,
+    "longitude": -82.5527019,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1353943373,
+    "name": "Fishing Pier",
+    "latitude": 41.4775696,
+    "longitude": -82.1905528,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence": "railing",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1353959587,
+    "name": "Fishing Pier",
+    "latitude": 41.477819,
+    "longitude": -82.1540383,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "area": "yes",
+      "fishing": "yes",
+      "leisure": "fishing",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1353963238,
+    "name": "Fishing Pier",
+    "latitude": 41.4774033,
+    "longitude": -82.1548557,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1353963251,
+    "name": "Fishing Pier",
+    "latitude": 41.4765436,
+    "longitude": -82.1578371,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1354164635,
+    "name": "Fishing Pier",
+    "latitude": 41.4749104,
+    "longitude": -82.1637534,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1354167804,
+    "name": "Fishing Pier",
+    "latitude": 41.4628247,
+    "longitude": -82.1975781,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1354167815,
+    "name": "Fishing Pier",
+    "latitude": 41.4647375,
+    "longitude": -82.1932827,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1354168911,
+    "name": "Fishing Pier",
+    "latitude": 41.4650647,
+    "longitude": -82.1924477,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1354173830,
+    "name": "Fishing Pier",
+    "latitude": 41.470787,
+    "longitude": -82.1853055,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1355010651,
+    "name": "Fishing Pier",
+    "latitude": 41.1754258,
+    "longitude": -80.6595196,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355920202,
+    "name": "Fishing Pier",
+    "latitude": 41.4704714,
+    "longitude": -82.1768106,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1357783610,
+    "name": "Fishing Pier",
+    "latitude": 41.7616818,
+    "longitude": -81.2859608,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1357810751,
+    "name": "Fishing Pier",
+    "latitude": 41.758577,
+    "longitude": -81.2656458,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "leisure": "outdoor_seating",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1358109683,
+    "name": "Fishing Pier",
+    "latitude": 41.7570563,
+    "longitude": -81.2773919,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence": "railing",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1358171500,
+    "name": "Water Front Docks",
+    "latitude": 40.6770136,
+    "longitude": -80.948295,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Water Front Docks"
+    }
+  },
+  {
+    "id": 1368802069,
+    "name": "Fishing Pier",
+    "latitude": 41.1597514,
+    "longitude": -80.5993769,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1369344372,
+    "name": "Fishing Pier",
+    "latitude": 39.6234954,
+    "longitude": -83.2345802,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1369676999,
+    "name": "Fishing Pier",
+    "latitude": 41.1539588,
+    "longitude": -80.6221702,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1369678089,
+    "name": "Fishing Pier",
+    "latitude": 40.9733607,
+    "longitude": -81.1468096,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1369706582,
+    "name": "Fishing Pier",
+    "latitude": 40.993425,
+    "longitude": -81.0665784,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371955316,
+    "name": "Fishing Pier",
+    "latitude": 41.4952629,
+    "longitude": -81.7807168,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1375161952,
+    "name": "Fishing Pier",
+    "latitude": 41.6853792,
+    "longitude": -82.8031998,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1375996809,
+    "name": "Gilboa deep dock",
+    "latitude": 41.0153871,
+    "longitude": -83.9341488,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "unknown",
+      "area": "yes",
+      "bicycle": "unknown",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "name": "Gilboa deep dock",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1377140478,
+    "name": "Fishing Pier",
+    "latitude": 41.6862887,
+    "longitude": -82.8222445,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377284459,
+    "name": "Fishing Pier",
+    "latitude": 41.686512,
+    "longitude": -83.758004,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377287789,
+    "name": "Fishing Pier",
+    "latitude": 41.6759153,
+    "longitude": -83.7835295,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377512392,
+    "name": "Fishing Pier",
+    "latitude": 41.2912844,
+    "longitude": -82.3321719,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "bicycle": "no",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1377512394,
+    "name": "Fishing Pier",
+    "latitude": 41.2913079,
+    "longitude": -82.3327373,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377512423,
+    "name": "Fishing Pier",
+    "latitude": 41.2799483,
+    "longitude": -82.3338574,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384109286,
+    "name": "Fishing Pier",
+    "latitude": 40.5605563,
+    "longitude": -80.6841551,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384109293,
+    "name": "Fishing Pier",
+    "latitude": 40.5609702,
+    "longitude": -80.6824173,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384178824,
+    "name": "Fishing Pier",
+    "latitude": 40.4798278,
+    "longitude": -80.7190722,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384342010,
+    "name": "Fishing Pier",
+    "latitude": 40.4742425,
+    "longitude": -80.7338788,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384342021,
+    "name": "Fishing Pier",
+    "latitude": 40.4720677,
+    "longitude": -80.7360485,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384378534,
+    "name": "Fishing Pier",
+    "latitude": 40.4836183,
+    "longitude": -80.7358393,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384378567,
+    "name": "Fishing Pier",
+    "latitude": 40.4861984,
+    "longitude": -80.737809,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384378600,
+    "name": "Fishing Pier",
+    "latitude": 40.4903376,
+    "longitude": -80.7424657,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384415084,
+    "name": "Fishing Pier",
+    "latitude": 40.4602617,
+    "longitude": -80.7279927,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1385222109,
+    "name": "Fishing Pier",
+    "latitude": 41.3827633,
+    "longitude": -82.0144471,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1385945627,
+    "name": "Fishing Pier",
+    "latitude": 40.4533679,
+    "longitude": -80.6041449,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1385945685,
+    "name": "Fishing Pier",
+    "latitude": 40.4571966,
+    "longitude": -80.6014643,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1385945703,
+    "name": "Fishing Pier",
+    "latitude": 40.459117,
+    "longitude": -80.6003397,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1387878031,
+    "name": "Fishing Pier",
+    "latitude": 40.4694149,
+    "longitude": -80.5966353,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1388793277,
+    "name": "Fishing Pier",
+    "latitude": 40.2699691,
+    "longitude": -80.6142317,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1389019494,
+    "name": "Fishing Pier",
+    "latitude": 41.3136443,
+    "longitude": -81.4319073,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1389031441,
+    "name": "Fishing Pier",
+    "latitude": 40.2186112,
+    "longitude": -80.7014626,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1389343791,
+    "name": "Fishing Pier",
+    "latitude": 40.2391194,
+    "longitude": -80.7522034,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1389346058,
+    "name": "Fishing Pier",
+    "latitude": 40.245335,
+    "longitude": -80.7458321,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1390237994,
+    "name": "Fishing Pier",
+    "latitude": 40.4204399,
+    "longitude": -80.8713012,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1413111797,
+    "name": "Fishing Pier",
+    "latitude": 39.8672016,
+    "longitude": -83.374314,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1413983219,
+    "name": "Fishing Pier",
+    "latitude": 41.0322905,
+    "longitude": -81.4373061,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1416815561,
+    "name": "Fishing Pier",
+    "latitude": 41.4604217,
+    "longitude": -81.2108292,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1416846260,
+    "name": "Fishing Pier",
+    "latitude": 41.4557752,
+    "longitude": -81.2055837,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1417053190,
+    "name": "Fishing Pier",
+    "latitude": 41.1426966,
+    "longitude": -82.2745135,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1418955308,
+    "name": "Fishing Pier",
+    "latitude": 40.2670491,
+    "longitude": -80.5414906,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1419394083,
+    "name": "Fishing Pier",
+    "latitude": 41.2327922,
+    "longitude": -82.5823541,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1420478536,
+    "name": "Fishing Pier",
+    "latitude": 41.4694762,
+    "longitude": -82.1723621,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1422161313,
+    "name": "Fishing Pier",
+    "latitude": 41.0173464,
+    "longitude": -81.5148961,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1422335112,
+    "name": "Fishing Pier",
+    "latitude": 41.4738763,
+    "longitude": -83.2047499,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1423903152,
+    "name": "Fishing Pier",
+    "latitude": 40.9677958,
+    "longitude": -84.2092678,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1423903163,
+    "name": "Fishing Pier",
+    "latitude": 40.9739533,
+    "longitude": -84.2064204,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1423986940,
+    "name": "Fishing Pier",
+    "latitude": 41.0217588,
+    "longitude": -84.2969593,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1424251474,
+    "name": "Fishing Pier",
+    "latitude": 40.8778913,
+    "longitude": -84.3614321,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1424828499,
+    "name": "Fishing Pier",
+    "latitude": 41.3237381,
+    "longitude": -80.7425468,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1424828503,
+    "name": "Fishing Pier",
+    "latitude": 41.3237252,
+    "longitude": -80.7424482,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1424852813,
+    "name": "Fishing Pier",
+    "latitude": 41.0588349,
+    "longitude": -81.3458773,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1426066253,
+    "name": "Fishing Pier",
+    "latitude": 41.0214278,
+    "longitude": -84.3021831,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1426283245,
+    "name": "Fishing Pier",
+    "latitude": 41.5777342,
+    "longitude": -81.244656,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1426748005,
+    "name": "Fishing Pier",
+    "latitude": 41.132264,
+    "longitude": -81.4223965,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1427621542,
+    "name": "Fishing Pier",
+    "latitude": 41.5734884,
+    "longitude": -82.8221002,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1428121543,
+    "name": "Fishing Pier",
+    "latitude": 41.3429772,
+    "longitude": -84.7472379,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1428311645,
+    "name": "Fishing Pier",
+    "latitude": 40.3606081,
+    "longitude": -84.3564081,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1428329633,
+    "name": "Fishing Pier",
+    "latitude": 40.369407,
+    "longitude": -84.3376954,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 1429407813,
+    "name": "Fishing Pier",
+    "latitude": 41.5393464,
+    "longitude": -81.2853829,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1431981443,
+    "name": "Fishing Pier",
+    "latitude": 41.5022183,
+    "longitude": -81.2594247,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434526493,
+    "name": "Fishing Pier",
+    "latitude": 40.5609125,
+    "longitude": -80.6433445,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434526503,
+    "name": "Fishing Pier",
+    "latitude": 40.5603961,
+    "longitude": -80.6424767,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434526517,
+    "name": "Fishing Pier",
+    "latitude": 40.5574584,
+    "longitude": -80.6399839,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434622500,
+    "name": "Fishing Pier",
+    "latitude": 41.6121786,
+    "longitude": -83.20132,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434901196,
+    "name": "Fishing Pier",
+    "latitude": 41.5348735,
+    "longitude": -82.8487213,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435965779,
+    "name": "Fishing Pier",
+    "latitude": 41.0670857,
+    "longitude": -83.6025504,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435972051,
+    "name": "Fishing Pier",
+    "latitude": 39.6565122,
+    "longitude": -84.0948949,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435972053,
+    "name": "Fishing Pier",
+    "latitude": 39.6578722,
+    "longitude": -84.0945521,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1443514332,
+    "name": "Fishing Pier",
+    "latitude": 40.0737456,
+    "longitude": -81.4970181,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1443854674,
+    "name": "Fishing Pier",
+    "latitude": 39.6966499,
+    "longitude": -84.260082,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1445299810,
+    "name": "Fishing Pier",
+    "latitude": 39.6281578,
+    "longitude": -84.0812934,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1445299814,
+    "name": "Fishing Pier",
+    "latitude": 39.6273371,
+    "longitude": -84.0819315,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1448042704,
+    "name": "Fishing Pier",
+    "latitude": 39.6297893,
+    "longitude": -84.1833077,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1450706634,
+    "name": "Fishing Pier",
+    "latitude": 39.7080592,
+    "longitude": -84.2689683,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1451391399,
+    "name": "Fishing Pier",
+    "latitude": 39.6215532,
+    "longitude": -84.1331352,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1453368548,
+    "name": "Fishing Pier",
+    "latitude": 39.3542487,
+    "longitude": -84.3019197,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1453719779,
+    "name": "Fishing Pier",
+    "latitude": 39.8687608,
+    "longitude": -82.7486319,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1458407144,
+    "name": "Fishing Pier",
+    "latitude": 40.8762304,
+    "longitude": -82.6989756,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1460867482,
+    "name": "Fishing Pier",
+    "latitude": 41.6274044,
+    "longitude": -83.5395812,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1466273683,
+    "name": "Fishing Pier",
+    "latitude": 41.1545097,
+    "longitude": -81.459869,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1470140927,
+    "name": "Fishing Pier",
+    "latitude": 39.5548993,
+    "longitude": -82.0755036,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1470159626,
+    "name": "Fishing Pier",
+    "latitude": 41.1457183,
+    "longitude": -82.2322305,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473356114,
+    "name": "Fishing Pier",
+    "latitude": 40.0288,
+    "longitude": -82.5205729,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476015233,
+    "name": "Fishing Pier",
+    "latitude": 40.6114269,
+    "longitude": -80.5774393,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1478702187,
+    "name": "Fishing Pier",
+    "latitude": 40.2099561,
+    "longitude": -82.971339,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1478702203,
+    "name": "Fishing Pier",
+    "latitude": 40.2099734,
+    "longitude": -82.9726677,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1484150791,
+    "name": "Fishing Pier",
+    "latitude": 40.2674051,
+    "longitude": -80.6150827,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1486200922,
+    "name": "Fishing Pier",
+    "latitude": 40.6460759,
+    "longitude": -80.5124689,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1490812961,
+    "name": "Fishing Pier",
+    "latitude": 41.516654,
+    "longitude": -82.9499863,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1495966739,
+    "name": "Fishing Pier",
+    "latitude": 40.6140022,
+    "longitude": -80.567709,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
     }
   }
 ]

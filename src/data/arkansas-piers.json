@@ -1,0 +1,4952 @@
+[
+  {
+    "place_id": "osm_5171666434",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.1992953,
+    "longitude": -94.215396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13988869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4335466,
+    "longitude": -91.0546484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_265895655",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.6466127,
+    "longitude": -92.067668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318248773",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.6860127,
+    "longitude": -93.9802146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_450685996",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.587269,
+    "longitude": -92.8241263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451454878",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9024382,
+    "longitude": -90.0684333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451847597",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9168392,
+    "longitude": -90.0803907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451861885",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8982686,
+    "longitude": -90.0763173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451878311",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8998105,
+    "longitude": -90.0884126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_452645835",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8780421,
+    "longitude": -90.0828908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_453995276",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8877818,
+    "longitude": -90.0577374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_453996107",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8883113,
+    "longitude": -90.0522744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_454013850",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8946499,
+    "longitude": -90.0344051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_454196929",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8908455,
+    "longitude": -90.0199027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_454230435",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8889945,
+    "longitude": -90.0150868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_454295432",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8911492,
+    "longitude": -90.0406515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_454510036",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8952594,
+    "longitude": -90.0454178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_454755052",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9349632,
+    "longitude": -90.0526383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_471341565",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9583651,
+    "longitude": -89.8418427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_485232768",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2310498,
+    "longitude": -92.0042653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_488945285",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4953934,
+    "longitude": -90.3179535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_585474020",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7343158,
+    "longitude": -92.3728957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_622020280",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.415374,
+    "longitude": -90.7987403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_623926138",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2505144,
+    "longitude": -91.9830007,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_624143069",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2530888,
+    "longitude": -91.9824781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_624143092",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2564298,
+    "longitude": -91.9827169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_624293023",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.1189493,
+    "longitude": -91.9686588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_625147621",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8310427,
+    "longitude": -92.4301931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_625292231",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2755064,
+    "longitude": -91.3358767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_630039322",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.4452462,
+    "longitude": -93.0264188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_637607318",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8518362,
+    "longitude": -92.4892352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661063896",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5812275,
+    "longitude": -93.2599644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661063901",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5829197,
+    "longitude": -93.2625413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661063902",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5833607,
+    "longitude": -93.2606551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661063918",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5878307,
+    "longitude": -93.2562154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661063921",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5868094,
+    "longitude": -93.2560481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661629622",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5717306,
+    "longitude": -93.215571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661629630",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5731491,
+    "longitude": -93.2145337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_670556334",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8515724,
+    "longitude": -92.4133183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_670556338",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8487936,
+    "longitude": -92.410529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_673702782",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8685249,
+    "longitude": -91.169638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_686155709",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7151966,
+    "longitude": -92.3785608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_697607404",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9416106,
+    "longitude": -90.0543934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_715773246",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7805044,
+    "longitude": -92.2940375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_722106497",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9398415,
+    "longitude": -90.0386158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_722399014",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9488737,
+    "longitude": -90.072241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_722904679",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9201769,
+    "longitude": -90.0249922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_723676367",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9231276,
+    "longitude": -90.0267996,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_723941828",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9278853,
+    "longitude": -90.0300396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_724022507",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9302127,
+    "longitude": -90.032523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_724866012",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9328201,
+    "longitude": -90.0207422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_724866014",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9317576,
+    "longitude": -90.0214352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_727192371",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9375696,
+    "longitude": -90.0309604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_728132249",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9354235,
+    "longitude": -90.0312814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_736720926",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9604032,
+    "longitude": -90.0709948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_737110861",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8964734,
+    "longitude": -89.911398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_737198323",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8956809,
+    "longitude": -89.9141226,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_739283230",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8981586,
+    "longitude": -89.9140699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_739283240",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8975102,
+    "longitude": -89.9101246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_741581202",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.897158,
+    "longitude": -89.9071297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_741581203",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8977322,
+    "longitude": -89.9051032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_750607446",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9375643,
+    "longitude": -89.946315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_753153957",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9411333,
+    "longitude": -89.9145994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_753153978",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9456354,
+    "longitude": -89.9086041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_758547755",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9259132,
+    "longitude": -89.9272222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_759968207",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9205454,
+    "longitude": -89.9269058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_762420896",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9429696,
+    "longitude": -89.9127654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_764341178",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9485059,
+    "longitude": -89.9309103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_777459536",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9773585,
+    "longitude": -89.9516051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_830020477",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4161815,
+    "longitude": -91.0637948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_830102389",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4207104,
+    "longitude": -91.0597188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_830102394",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4303886,
+    "longitude": -91.0553111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_834241658",
+    "name": "Coast Guard Depot Dock",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2513676,
+    "longitude": -91.947952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_834306101",
+    "name": "Coast Guard Depot Greenville",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.3759323,
+    "longitude": -91.091592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_951578744",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8172778,
+    "longitude": -92.4035801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_951578747",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8171109,
+    "longitude": -92.4021947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_957700700",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8209875,
+    "longitude": -92.4597741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_967920476",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.903697,
+    "longitude": -92.4460009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_998734736",
+    "name": "Arkansas Inland Maritime Museum",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7521977,
+    "longitude": -92.2669626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1007426664",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9891432,
+    "longitude": -92.3820922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1007441610",
+    "name": "Pierce Lake Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9621105,
+    "longitude": -92.3765203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023621497",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8911474,
+    "longitude": -90.4521235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023710902",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9283121,
+    "longitude": -90.8217354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1080827967",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.4068659,
+    "longitude": -89.8036113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1080828691",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.39553,
+    "longitude": -89.7791024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1080835721",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.2967899,
+    "longitude": -91.2746142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1081000533",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.3332431,
+    "longitude": -89.954866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1082159158",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7951391,
+    "longitude": -92.2506311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090911000",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.8092444,
+    "longitude": -91.020812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090911010",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.8207169,
+    "longitude": -91.0216068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1104508585",
+    "name": "Burns Park Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7907019,
+    "longitude": -92.3299976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1122859130",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7226526,
+    "longitude": -92.4032736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1138554314",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9863356,
+    "longitude": -92.7724866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1151264784",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1562183,
+    "longitude": -93.1128801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1151264802",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1523883,
+    "longitude": -93.1044937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1152897090",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1555174,
+    "longitude": -93.1117755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1154031652",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1395327,
+    "longitude": -93.127303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1156626331",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1778324,
+    "longitude": -93.0784756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1157704990",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1551877,
+    "longitude": -93.1253906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1159130607",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2115436,
+    "longitude": -93.0837646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165409890",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.666057,
+    "longitude": -92.1564304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165409892",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.6678639,
+    "longitude": -92.1545231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165939457",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.6204412,
+    "longitude": -93.1779627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1166178783",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.4125001,
+    "longitude": -92.1011915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1166178784",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2867518,
+    "longitude": -91.9516763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1166178787",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.287721,
+    "longitude": -91.9510696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1166180197",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2453648,
+    "longitude": -91.9039676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1166180203",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1633638,
+    "longitude": -91.6780087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1173868289",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1099157,
+    "longitude": -93.0409542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1184566231",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.0294752,
+    "longitude": -89.9263365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1189065724",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.6252425,
+    "longitude": -93.5429719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1189067834",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.6264574,
+    "longitude": -93.4786545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1189067837",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.6310356,
+    "longitude": -93.4754456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1189068661",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5709265,
+    "longitude": -93.439805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1189068666",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5725705,
+    "longitude": -93.4394722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1191354460",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1829753,
+    "longitude": -93.0399432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1193144984",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.191365,
+    "longitude": -93.1134311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1193144994",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2192451,
+    "longitude": -93.119127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1193145011",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2230893,
+    "longitude": -93.121585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1193145021",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2213163,
+    "longitude": -93.1225416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1193145031",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2228937,
+    "longitude": -93.1234688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1199598929",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2352537,
+    "longitude": -93.7577223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1199598935",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2355919,
+    "longitude": -93.7549188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1206119280",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.9965341,
+    "longitude": -93.3321014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1210500583",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1321225,
+    "longitude": -93.1601527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1211069410",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.067665,
+    "longitude": -92.0389704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1216780982",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.9715318,
+    "longitude": -93.1327792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1229681647",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.3115168,
+    "longitude": -92.0646611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1231332431",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.9617461,
+    "longitude": -93.1667954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1237759343",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0573724,
+    "longitude": -93.1966044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1239077615",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0749534,
+    "longitude": -93.1879215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1246809933",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0984168,
+    "longitude": -93.1227495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1246875361",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2153963,
+    "longitude": -93.1136401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1266789155",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.0980335,
+    "longitude": -93.2104191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1280367044",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1443137,
+    "longitude": -93.0785021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1312757405",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7044487,
+    "longitude": -92.3586998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1328882866",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0613407,
+    "longitude": -92.9202246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1345723367",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0484991,
+    "longitude": -92.9793878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360668746",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.9142693,
+    "longitude": -93.1680731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393419221",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.246583,
+    "longitude": -93.29939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410107664",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.445328,
+    "longitude": -93.0299624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410133289",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.4428,
+    "longitude": -93.0208679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1414437446",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7097695,
+    "longitude": -93.0682257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419376917",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.8065098,
+    "longitude": -93.1214836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419982736",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.1671644,
+    "longitude": -90.9377435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1426844547",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8549597,
+    "longitude": -92.1320472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429021358",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.9028952,
+    "longitude": -93.0680524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1435524373",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5211569,
+    "longitude": -90.5806736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1435538980",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5212019,
+    "longitude": -90.5841564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1443457231",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2373712,
+    "longitude": -91.9604643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1443674839",
+    "name": "Tyson Dock",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2653575,
+    "longitude": -91.9411506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1443686374",
+    "name": "Century Tube",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2592019,
+    "longitude": -91.9430895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1444230279",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2534138,
+    "longitude": -91.94684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1444240597",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2522222,
+    "longitude": -91.9445477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445734487",
+    "name": "Evergreen Packaging",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2317908,
+    "longitude": -91.8910343,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445738168",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2596388,
+    "longitude": -91.9126541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445738169",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.259253,
+    "longitude": -91.9124878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445738170",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2664636,
+    "longitude": -91.9133741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445751497",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2490055,
+    "longitude": -91.9061902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445751510",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2933501,
+    "longitude": -91.9235695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445960326",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2482051,
+    "longitude": -91.9108795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446282705",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0258475,
+    "longitude": -91.2457049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446282709",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0264295,
+    "longitude": -91.2475499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446286363",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0258381,
+    "longitude": -91.24214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446479974",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0324115,
+    "longitude": -91.2677037,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446486332",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0202352,
+    "longitude": -91.2040076,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446671569",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0189043,
+    "longitude": -91.192788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446671570",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.0190508,
+    "longitude": -91.1915212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446679309",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.020469,
+    "longitude": -91.1976061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1457889112",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.1888917,
+    "longitude": -90.5876721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1466462416",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.838413,
+    "longitude": -93.0651108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1467607383",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.3005574,
+    "longitude": -91.2777308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1467949968",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.8373643,
+    "longitude": -93.0712985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_430057960",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.8844348,
+    "longitude": -89.774018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_788348755",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0614391,
+    "longitude": -89.70633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_808069726",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0530016,
+    "longitude": -89.740643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_817126426",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0695914,
+    "longitude": -89.7446991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_839051370",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.079409,
+    "longitude": -89.7577847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_907531355",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0587294,
+    "longitude": -89.7666878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_938689427",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1674555,
+    "longitude": -89.7960289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_938689429",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1675019,
+    "longitude": -89.7960408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_954321603",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1649926,
+    "longitude": -89.7669465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_991924641",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2379546,
+    "longitude": -89.8163893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993669436",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2453314,
+    "longitude": -89.80318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993828460",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2444397,
+    "longitude": -89.8021309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1042172540",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2471866,
+    "longitude": -89.7823908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125775432",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2285499,
+    "longitude": -89.8894965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1229493299",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0767438,
+    "longitude": -89.7946666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1295167295",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2429687,
+    "longitude": -89.9626279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1295167298",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2424014,
+    "longitude": -89.9626066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1295167299",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2423755,
+    "longitude": -89.9625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1302966152",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1972132,
+    "longitude": -89.9354289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1431471134",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.5161114,
+    "longitude": -89.9491326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1431471136",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.5156524,
+    "longitude": -89.9470081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1484702226",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1440086,
+    "longitude": -89.8295984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7471801945",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4018186,
+    "longitude": -90.5440888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_129970016",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1513036,
+    "longitude": -90.0567089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_134768348",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.503151,
+    "longitude": -92.094627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_255288737",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.9530958,
+    "longitude": -92.1088256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_368986975",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.0909413,
+    "longitude": -94.3725594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_392799746",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3836266,
+    "longitude": -90.2214666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_421720553",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3428611,
+    "longitude": -94.4420015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_436717731",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0957037,
+    "longitude": -92.4135402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_473716306",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1606063,
+    "longitude": -90.0525028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_473716319",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.160404,
+    "longitude": -90.0520838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480538535",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.0822926,
+    "longitude": -94.1107902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_486676384",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.137321,
+    "longitude": -94.1395894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_493157468",
+    "name": "BF Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4731232,
+    "longitude": -94.0041427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_493158651",
+    "name": "SLP Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4603884,
+    "longitude": -94.0551357,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_542343786",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4719353,
+    "longitude": -94.2336137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_542343790",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4728243,
+    "longitude": -94.2340973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_542343795",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4676985,
+    "longitude": -94.2598924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_542343802",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4704794,
+    "longitude": -94.2657994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_542512213",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4779871,
+    "longitude": -94.2469011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_548653148",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.35243,
+    "longitude": -94.0943118,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_557114631",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.7584957,
+    "longitude": -91.6407257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_557127433",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4628855,
+    "longitude": -94.2406543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_557127440",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4613582,
+    "longitude": -94.2406489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_557162922",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4739158,
+    "longitude": -94.2154958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_557505876",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4708157,
+    "longitude": -94.2019904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_557505878",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4701503,
+    "longitude": -94.2030743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_558932432",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4676841,
+    "longitude": -94.3155881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_558932434",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4674385,
+    "longitude": -94.3154691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_559949698",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4526265,
+    "longitude": -94.344948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_560323614",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4567652,
+    "longitude": -94.3213724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_560494887",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4465351,
+    "longitude": -94.2805954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_560573146",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4504754,
+    "longitude": -94.2630787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_570398954",
+    "name": "The Dock",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1412493,
+    "longitude": -90.059511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572736828",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1530738,
+    "longitude": -90.064658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572736830",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1297312,
+    "longitude": -90.0766598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572736842",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1530913,
+    "longitude": -90.0616567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572736844",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1289503,
+    "longitude": -90.0775851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_584814662",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0745424,
+    "longitude": -92.4686511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_604040854",
+    "name": "Wildlife viewing platform",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.1390747,
+    "longitude": -94.12641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_609360806",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2981139,
+    "longitude": -92.268378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_609360809",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2982347,
+    "longitude": -92.2670802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_613056311",
+    "name": "Wet Dock",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3188063,
+    "longitude": -93.1835913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_733383251",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1903227,
+    "longitude": -90.0586147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_759076993",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3202102,
+    "longitude": -93.1377767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_759076994",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3200898,
+    "longitude": -93.1372761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_762753598",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3217415,
+    "longitude": -93.1570169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_776044268",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2837145,
+    "longitude": -93.2042689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_776045908",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2900614,
+    "longitude": -93.2046994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_866802089",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3511918,
+    "longitude": -94.2211927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_873277719",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.6204044,
+    "longitude": -94.4345312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_889288159",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0335529,
+    "longitude": -92.0668043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988094882",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3351371,
+    "longitude": -94.1013842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988094883",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3385123,
+    "longitude": -94.0969189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988094888",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3393863,
+    "longitude": -94.0985533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_998247326",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4722071,
+    "longitude": -94.2810817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023597640",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2919253,
+    "longitude": -90.0883495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023704418",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.4481282,
+    "longitude": -90.7996816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1024885235",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2242194,
+    "longitude": -94.5418966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1071794407",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3661105,
+    "longitude": -94.3486968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1072054081",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2995584,
+    "longitude": -94.0128109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1073228963",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.243477,
+    "longitude": -94.0315874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1155364556",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2316053,
+    "longitude": -94.298529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1158732811",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.4973731,
+    "longitude": -94.1019654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167167902",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3155629,
+    "longitude": -94.5611025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167167906",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3179475,
+    "longitude": -94.5621388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167167907",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3185883,
+    "longitude": -94.5627547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167167913",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3486603,
+    "longitude": -94.2974354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167167915",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3490902,
+    "longitude": -94.299007,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1176414660",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.4461423,
+    "longitude": -94.5174688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1183577143",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2220218,
+    "longitude": -91.7814056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1191320800",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2901529,
+    "longitude": -94.3451297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1207093514",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.5482569,
+    "longitude": -92.2711325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1207103924",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.5591979,
+    "longitude": -92.2607842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1214230780",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1301313,
+    "longitude": -92.9208886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1240803421",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.5849152,
+    "longitude": -90.0444513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1261903284",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2720585,
+    "longitude": -91.7234854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1265704995",
+    "name": "Searcy City Lake",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2373713,
+    "longitude": -91.6960498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1270108471",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2173665,
+    "longitude": -92.9419008,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1272407435",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.4249156,
+    "longitude": -94.4974861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1296147473",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2394121,
+    "longitude": -91.7805976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301788530",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.4843939,
+    "longitude": -91.990622,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1308828380",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2524165,
+    "longitude": -91.6764263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1308828381",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2528563,
+    "longitude": -91.6747626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1321854389",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2661653,
+    "longitude": -91.7552318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343695890",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0780576,
+    "longitude": -92.5006977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343975960",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1384673,
+    "longitude": -92.452138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1346445783",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.7752382,
+    "longitude": -90.7026297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1349574956",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.4825246,
+    "longitude": -92.0226069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1352624791",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0438587,
+    "longitude": -93.4626439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1356975425",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.7764518,
+    "longitude": -90.702219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360231014",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.977207,
+    "longitude": -90.7176731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360231017",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.9776118,
+    "longitude": -90.7182834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360285628",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.046881,
+    "longitude": -90.6679497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365628972",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.5112116,
+    "longitude": -91.9959812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411044739",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3166843,
+    "longitude": -91.5904862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411985922",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1916255,
+    "longitude": -92.7313904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989884",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1991176,
+    "longitude": -92.7139018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989890",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1992324,
+    "longitude": -92.7123462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989894",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2008073,
+    "longitude": -92.7069867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989898",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2031012,
+    "longitude": -92.7036164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989899",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2035775,
+    "longitude": -92.7020902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989901",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1973263,
+    "longitude": -92.7185965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989902",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1956493,
+    "longitude": -92.7233168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989915",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2059706,
+    "longitude": -92.7133507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989930",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2075856,
+    "longitude": -92.7165631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989938",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2102897,
+    "longitude": -92.7121098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989942",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2128018,
+    "longitude": -92.7088671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989943",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2120743,
+    "longitude": -92.7232808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411989944",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2140248,
+    "longitude": -92.7229656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1425614006",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2865722,
+    "longitude": -92.2869344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1425614008",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2866715,
+    "longitude": -92.2875762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1432568458",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.490149,
+    "longitude": -91.9745995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1433340567",
+    "name": "Tennessee Valley Authority",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0754825,
+    "longitude": -90.1482589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1433737643",
+    "name": "Brenntag Mid-South",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0814804,
+    "longitude": -90.1382569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1433733730",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0826404,
+    "longitude": -90.1408559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1433921999",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0736354,
+    "longitude": -90.1624231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1434963069",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.07248,
+    "longitude": -90.1178527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1434963081",
+    "name": "Corps of Engineers - Memphis Wharf",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0732497,
+    "longitude": -90.1219366,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1437088271",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1962485,
+    "longitude": -93.1407711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1441626950",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2237594,
+    "longitude": -93.1474778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1441626951",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2249394,
+    "longitude": -93.1481474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442125351",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2611175,
+    "longitude": -93.179788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442195942",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2452429,
+    "longitude": -93.1723636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442316571",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.251978,
+    "longitude": -93.1685881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442316572",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2526513,
+    "longitude": -93.1701413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442978895",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.2482812,
+    "longitude": -93.1667107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454921954",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.3621203,
+    "longitude": -94.028048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1459196002",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1258829,
+    "longitude": -94.2456021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1463998032",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5916712,
+    "longitude": -94.2190911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1467340057",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2659673,
+    "longitude": -92.5435868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1489883427",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.8529486,
+    "longitude": -90.1316007,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1489893685",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.8506888,
+    "longitude": -90.1251898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1489893702",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.8864225,
+    "longitude": -90.0917379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1491810185",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 33.0874092,
+    "longitude": -94.0774446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1493464471",
+    "name": "Fishing Pier",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0756386,
+    "longitude": -91.5323282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

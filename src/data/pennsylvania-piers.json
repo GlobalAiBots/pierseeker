@@ -1,0 +1,2822 @@
+[
+  {
+    "place_id": "osm_4186332763",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4387375,
+    "longitude": -79.4368202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4186332885",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4469415,
+    "longitude": -79.4450137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4186333186",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4571794,
+    "longitude": -79.4525969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_51325766",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1993315,
+    "longitude": -75.7878693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_64494695",
+    "name": "Walnut Street Bridge",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2514659,
+    "longitude": -76.8919511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_104055699",
+    "name": "C Dock",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7902165,
+    "longitude": -76.8986211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_104055701",
+    "name": "I Dock",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7870764,
+    "longitude": -76.8987016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_190943027",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2674755,
+    "longitude": -79.8986926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_190952784",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2711144,
+    "longitude": -79.8941803,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_230916098",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8897829,
+    "longitude": -76.7011773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_232371288",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8811969,
+    "longitude": -76.6873169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_258204829",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4635128,
+    "longitude": -79.9768997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_258204854",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.461461,
+    "longitude": -79.9785723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_278058322",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7021156,
+    "longitude": -78.6508915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_281651975",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4776835,
+    "longitude": -75.6260707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_282726835",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3850743,
+    "longitude": -76.0333957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182675",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7151526,
+    "longitude": -76.6479548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182677",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7010437,
+    "longitude": -76.6879803,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182692",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7032945,
+    "longitude": -76.7170476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182728",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.701173,
+    "longitude": -76.6869215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182782",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7136854,
+    "longitude": -76.7155207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182816",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7080489,
+    "longitude": -76.7130483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182832",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.716414,
+    "longitude": -76.7188802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182861",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7099726,
+    "longitude": -76.6758619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302182888",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7149265,
+    "longitude": -76.7556261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302417929",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7185698,
+    "longitude": -76.788314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_306460153",
+    "name": "Dock",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2848449,
+    "longitude": -75.9512488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_328706954",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4876733,
+    "longitude": -79.9028129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_328707140",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4920241,
+    "longitude": -79.9178582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_386448317",
+    "name": "Esplanade",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4875426,
+    "longitude": -79.9154812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_328711452",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4325997,
+    "longitude": -79.9753897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_328711455",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4545076,
+    "longitude": -79.9853036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_328711460",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4753873,
+    "longitude": -79.968121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_328711463",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4929422,
+    "longitude": -79.9306562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329240770",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4850946,
+    "longitude": -79.8713841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329240771",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4849877,
+    "longitude": -79.8745376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_357561769",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4850236,
+    "longitude": -79.883851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_503851596",
+    "name": "Verona Public Docks",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4959096,
+    "longitude": -79.8480437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_357564995",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4981596,
+    "longitude": -79.8512044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_357564998",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5031858,
+    "longitude": -79.8504512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_366673370",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5397731,
+    "longitude": -79.806979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_366673591",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5397137,
+    "longitude": -79.8077981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_386445876",
+    "name": "Esplanade",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5359286,
+    "longitude": -79.8151897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_386445877",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5402706,
+    "longitude": -79.815264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_396446861",
+    "name": "York Haven Catwalk",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1136805,
+    "longitude": -76.7121219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_406837795",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.7151954,
+    "longitude": -79.9018167,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_414751125",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7208797,
+    "longitude": -77.3216929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_414752126",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7158702,
+    "longitude": -77.3650955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_420920009",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2964173,
+    "longitude": -78.1830241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_420920019",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2941477,
+    "longitude": -78.1824822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_433031400",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2405763,
+    "longitude": -79.9362669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_469584293",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2529643,
+    "longitude": -76.8832106,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_478177299",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1854685,
+    "longitude": -75.6164488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_479550726",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4876145,
+    "longitude": -79.8634174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_479550731",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4874676,
+    "longitude": -79.8632369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_479550737",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4879377,
+    "longitude": -79.8624918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_503851565",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5000667,
+    "longitude": -79.8474285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_507569445",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2759261,
+    "longitude": -79.885729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_556389903",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2584997,
+    "longitude": -76.8908719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_560744299",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8899892,
+    "longitude": -76.7210749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_561559433",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8900796,
+    "longitude": -76.680592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_564656852",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2573601,
+    "longitude": -76.8890257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_587264583",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2304712,
+    "longitude": -77.2813127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_600788552",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.1997742,
+    "longitude": -79.8360531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_604426423",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3915566,
+    "longitude": -78.776476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_604752485",
+    "name": "Wilmore Dam fishing pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4112636,
+    "longitude": -78.6871369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_610058924",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.92793,
+    "longitude": -76.6590836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_632603089",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9314245,
+    "longitude": -76.706441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_663073998",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4305028,
+    "longitude": -79.9668654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_663073999",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4312741,
+    "longitude": -79.96846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_664542675",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8073207,
+    "longitude": -79.5604279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_664542687",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7974479,
+    "longitude": -79.561375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_668600749",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8081318,
+    "longitude": -79.5610112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_672301581",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3492741,
+    "longitude": -79.869119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_672301611",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.34749,
+    "longitude": -79.8689849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_683830363",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3395112,
+    "longitude": -76.3952743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_784340038",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9904826,
+    "longitude": -77.0442772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_787331578",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9956903,
+    "longitude": -79.2377946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_790195002",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1814664,
+    "longitude": -77.4894782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_792762661",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2078925,
+    "longitude": -79.5494748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_792986830",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7649084,
+    "longitude": -79.5462048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_797156914",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4854045,
+    "longitude": -79.9078349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_805829038",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5332392,
+    "longitude": -79.8430131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_807006122",
+    "name": "Fishing Dock",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7374265,
+    "longitude": -77.5064551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_807278759",
+    "name": "Ancient Dock",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7378008,
+    "longitude": -77.5056732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_808235886",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3527208,
+    "longitude": -79.8701447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_815480400",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2035272,
+    "longitude": -79.553386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_822298640",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6750872,
+    "longitude": -79.8640515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_828568015",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4803175,
+    "longitude": -79.9112793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006877",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5390621,
+    "longitude": -79.8233616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006885",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.535373,
+    "longitude": -79.8387722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006886",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5360125,
+    "longitude": -79.8366012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006893",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5371914,
+    "longitude": -79.8324217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006898",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5375451,
+    "longitude": -79.8298822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006903",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5324039,
+    "longitude": -79.8428449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006916",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5172598,
+    "longitude": -79.849383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006917",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5175895,
+    "longitude": -79.8491577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006920",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.484524,
+    "longitude": -79.9011602,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_840006922",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4848325,
+    "longitude": -79.9030736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_844912487",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4677418,
+    "longitude": -79.9760842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847225125",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0684926,
+    "longitude": -75.7197651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_860877047",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4614258,
+    "longitude": -79.9993089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_878460829",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0272255,
+    "longitude": -79.2138035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_888217100",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4536315,
+    "longitude": -77.1832594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_890851404",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9320985,
+    "longitude": -79.9352131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_910151471",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4711896,
+    "longitude": -76.5736173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_910657154",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8404608,
+    "longitude": -77.9717477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_939246946",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1689834,
+    "longitude": -76.7245113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_946672847",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.430442,
+    "longitude": -78.0075648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988376962",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3753447,
+    "longitude": -79.3890646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_992578153",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.002354,
+    "longitude": -78.9826723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1079896965",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.932621,
+    "longitude": -78.5713229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1081901834",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9949092,
+    "longitude": -76.4978465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084325589",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0298037,
+    "longitude": -78.6408267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084989308",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0312142,
+    "longitude": -78.8694321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1108625220",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2713298,
+    "longitude": -79.8906465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1109127009",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9258016,
+    "longitude": -79.7995147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1109127012",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9220793,
+    "longitude": -79.802466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1130784234",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6621685,
+    "longitude": -79.9310693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1167230394",
+    "name": "Fishing pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9954026,
+    "longitude": -77.9278632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1174122893",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8001894,
+    "longitude": -76.2968205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1174122903",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7964944,
+    "longitude": -76.2923531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1174122905",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7966071,
+    "longitude": -76.2940464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1185344461",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.245773,
+    "longitude": -76.4779689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1196193359",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3779955,
+    "longitude": -78.0702638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1196193362",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3796084,
+    "longitude": -78.0726925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1196193371",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3773036,
+    "longitude": -78.0702247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1198161784",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5826945,
+    "longitude": -79.9781864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1198161793",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.587941,
+    "longitude": -79.9806675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1221636653",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9449985,
+    "longitude": -78.9130083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1226577280",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9236162,
+    "longitude": -76.3934575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1226577286",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9250271,
+    "longitude": -76.384933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1227577740",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0391992,
+    "longitude": -78.6445755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1227590789",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9661696,
+    "longitude": -78.4950606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1229845231",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1364346,
+    "longitude": -79.8920839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1237420041",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.8107551,
+    "longitude": -79.8384426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1247509798",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4839736,
+    "longitude": -78.280804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1258819313",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9974857,
+    "longitude": -79.2364245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1289213986",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1755928,
+    "longitude": -76.0497672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1295949934",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7107183,
+    "longitude": -76.4201743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1295965271",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1913134,
+    "longitude": -79.9633102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1300949488",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2115794,
+    "longitude": -76.3195302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1300949491",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2087452,
+    "longitude": -76.3171702,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301403509",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2041681,
+    "longitude": -76.3095977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323924630",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7713422,
+    "longitude": -75.9140426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1327067877",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9997826,
+    "longitude": -77.9225088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1330249658",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.997229,
+    "longitude": -77.9235345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1338027426",
+    "name": "Fishing Platform",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8244521,
+    "longitude": -76.3282006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358826567",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1927268,
+    "longitude": -76.0958531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1361139850",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4913598,
+    "longitude": -79.9229903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1361145813",
+    "name": "Upper Guard Wall",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4872147,
+    "longitude": -79.9140248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1361627999",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5360822,
+    "longitude": -79.8102635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1361628000",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5361458,
+    "longitude": -79.8072416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1361633357",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5357142,
+    "longitude": -79.82643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1376361830",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0645832,
+    "longitude": -77.6281778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377083237",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8922071,
+    "longitude": -76.6301775,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1382769088",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9113304,
+    "longitude": -78.0529522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1415174953",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0750022,
+    "longitude": -76.893517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1415656172",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0827192,
+    "longitude": -76.8838593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1415783241",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0795948,
+    "longitude": -76.8813024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1416402736",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0735718,
+    "longitude": -76.8884135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1416402748",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.071593,
+    "longitude": -76.8896366,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1421602835",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9432586,
+    "longitude": -76.3132198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1423922277",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9976705,
+    "longitude": -76.3487315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1428846668",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8207531,
+    "longitude": -77.1197346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429263054",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9015706,
+    "longitude": -77.1796578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429420111",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8009063,
+    "longitude": -77.0916438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429422595",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7905147,
+    "longitude": -77.1008865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1430079589",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8031971,
+    "longitude": -77.1277919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1434178403",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9421488,
+    "longitude": -76.3174467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1435122849",
+    "name": "Goldsboro boating dock",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1565615,
+    "longitude": -76.7484202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442413349",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.79996,
+    "longitude": -77.1315507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450782900",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8203566,
+    "longitude": -77.1510965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450784223",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8391597,
+    "longitude": -77.1347866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450890385",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8260915,
+    "longitude": -77.070778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1452205096",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7058115,
+    "longitude": -79.0040164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1453222533",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.817056,
+    "longitude": -77.1671469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1455541346",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8132814,
+    "longitude": -77.0983907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1455542973",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8189637,
+    "longitude": -77.0888682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1485849059",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3597221,
+    "longitude": -75.8807421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6379705408",
+    "name": "Melagos Fising Spot",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9467483,
+    "longitude": -77.5889872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7958028588",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2554705,
+    "longitude": -76.9275352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8670295450",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3206749,
+    "longitude": -76.8898891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9563207930",
+    "name": "Goldsboro fishing",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1770513,
+    "longitude": -76.8484683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12054093510",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2021682,
+    "longitude": -76.3051468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12054093550",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2026749,
+    "longitude": -76.3060456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13010524869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0819943,
+    "longitude": -76.8844564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13190896271",
+    "name": "Goldsboro Fishing spot",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1495552,
+    "longitude": -76.747891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

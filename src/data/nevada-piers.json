@@ -1,0 +1,17 @@
+[
+  {
+    "place_id": "osm_1232213436",
+    "name": "Fishing Pier",
+    "formatted_address": ", Nevada, USA",
+    "latitude": 40.5016892,
+    "longitude": -114.0338243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

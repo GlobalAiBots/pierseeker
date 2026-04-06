@@ -1,0 +1,4967 @@
+[
+  {
+    "place_id": "osm_354390581",
+    "name": "Dubuque Yacht Basin",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5105422,
+    "longitude": -90.650456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_354390583",
+    "name": "Schmitt Harbor",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5112483,
+    "longitude": -90.6467198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_354390584",
+    "name": "Dove Harbor",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5048968,
+    "longitude": -90.6563385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6698138180",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.2367203,
+    "longitude": -94.0116513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6698138239",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.2329777,
+    "longitude": -94.0166629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_69706386",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6773617,
+    "longitude": -93.6141503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_906414779",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5210856,
+    "longitude": -90.7961641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1303299064",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7055266,
+    "longitude": -92.7868196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_183350610",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3495233,
+    "longitude": -90.3890845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_297829392",
+    "name": "canoe port",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3466739,
+    "longitude": -90.3887299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_297829427",
+    "name": "canoe port",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3351545,
+    "longitude": -90.3915085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_464041459",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.0259466,
+    "longitude": -90.2881871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1060890319",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.9540672,
+    "longitude": -90.2311895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13200028592",
+    "name": "Rodger Butteris Handicap Fishing pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8173304,
+    "longitude": -90.3268532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_643910045",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6807785,
+    "longitude": -90.1225303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_49363154",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5197141,
+    "longitude": -90.6456709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_70177625",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.2112109,
+    "longitude": -96.3108884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_149128419",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1248365,
+    "longitude": -93.4748805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_149128428",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1231492,
+    "longitude": -93.4525779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_149128431",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1258156,
+    "longitude": -93.472396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_149128439",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1260389,
+    "longitude": -93.4661706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_149128471",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1231091,
+    "longitude": -93.4522004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_159607706",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1759614,
+    "longitude": -91.2321503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172383506",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1789123,
+    "longitude": -94.9399549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172423580",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1814846,
+    "longitude": -94.908608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172423581",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1828337,
+    "longitude": -94.9042685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172423585",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1824167,
+    "longitude": -94.8973582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172423591",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.182486,
+    "longitude": -94.897677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172423592",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1823101,
+    "longitude": -94.9068546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172423593",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1825344,
+    "longitude": -94.8979013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172425770",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1762062,
+    "longitude": -94.9153449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172425772",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1786582,
+    "longitude": -94.9147199,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172425773",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1671085,
+    "longitude": -94.9198975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172425774",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1701849,
+    "longitude": -94.9202892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172425778",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1732972,
+    "longitude": -94.9177707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172425780",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1625343,
+    "longitude": -94.9145235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172579889",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1899276,
+    "longitude": -94.9538165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_310509368",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7691395,
+    "longitude": -93.2429301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_442200886",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.0431017,
+    "longitude": -91.1771035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444661130",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5252131,
+    "longitude": -90.642227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_510494754",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6005568,
+    "longitude": -91.5361014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_544935154",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5349837,
+    "longitude": -92.4012092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_590865982",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.4114254,
+    "longitude": -95.1302553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_698755937",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.0410428,
+    "longitude": -91.1769903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_765539352",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.4124596,
+    "longitude": -95.1415233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_907178630",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.660799,
+    "longitude": -91.2501803,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926046437",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7771372,
+    "longitude": -91.0945342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926046441",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7775396,
+    "longitude": -91.0943836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_981342902",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1349107,
+    "longitude": -93.3842891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_987142406",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.531114,
+    "longitude": -92.4236148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993509985",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5548121,
+    "longitude": -92.432773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993509987",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5546261,
+    "longitude": -92.4323592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1383236764",
+    "name": "Gavilon Main Terminal Dock",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5014581,
+    "longitude": -90.654059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011374987",
+    "name": "Flint Hills Resources Dock",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5035863,
+    "longitude": -90.6519455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1013618175",
+    "name": "Land Wall",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5393187,
+    "longitude": -90.6456673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1029039679",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.121991,
+    "longitude": -93.45882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1081590824",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8080037,
+    "longitude": -92.2190953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1081989468",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8103677,
+    "longitude": -92.2255708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1082209588",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8300326,
+    "longitude": -92.2194426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1083068668",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1391682,
+    "longitude": -93.3912802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1126850390",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3910944,
+    "longitude": -95.1033248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1126850398",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3909596,
+    "longitude": -95.1022237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1126850412",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3929787,
+    "longitude": -95.1007067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1127644516",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.424764,
+    "longitude": -95.0924448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1130705405",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6375243,
+    "longitude": -95.2341895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1152728316",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3840884,
+    "longitude": -96.4691639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1152728327",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3845519,
+    "longitude": -96.4669334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1152728330",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3844654,
+    "longitude": -96.4597495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1173235731",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5398295,
+    "longitude": -92.4505563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1185610786",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.4974572,
+    "longitude": -95.1031273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1197108769",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7062819,
+    "longitude": -92.5376869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1206216022",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8978479,
+    "longitude": -91.7678923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1206216023",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8973042,
+    "longitude": -91.7679458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1219866793",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.580659,
+    "longitude": -92.5090216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1242096253",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.4116247,
+    "longitude": -95.1808043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1305104075",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8835555,
+    "longitude": -92.3120613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1374203609",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3672273,
+    "longitude": -95.1367829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1374210369",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.3663167,
+    "longitude": -95.1384991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1381368155",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5369805,
+    "longitude": -90.6364618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1381382431",
+    "name": "Eagle Point Barge and Bar",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5404063,
+    "longitude": -90.6396958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1381649334",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5532353,
+    "longitude": -90.6328994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1381652830",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5422564,
+    "longitude": -90.6371418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1382146443",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5257278,
+    "longitude": -90.6447771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1382146448",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5275367,
+    "longitude": -90.6447748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1388655420",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8954423,
+    "longitude": -92.8035163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1395725094",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.4277992,
+    "longitude": -95.1706937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445267747",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.9054489,
+    "longitude": -92.8231141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445308861",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.9170054,
+    "longitude": -92.8328408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445334636",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6285409,
+    "longitude": -90.8708298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445654826",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6194333,
+    "longitude": -90.7037444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2768176447",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7285775,
+    "longitude": -93.4185002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2768176448",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7283791,
+    "longitude": -93.4171503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2768180515",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6973397,
+    "longitude": -93.4383609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2768359659",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7902753,
+    "longitude": -93.6938278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2989838337",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7684001,
+    "longitude": -93.2407165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4814100925",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6052795,
+    "longitude": -91.9097699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6252122399",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1543381,
+    "longitude": -95.1874334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8505948157",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.6625302,
+    "longitude": -91.2514398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8939376511",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8070582,
+    "longitude": -92.2213153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9185825709",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5140753,
+    "longitude": -90.6659112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10194553469",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8280824,
+    "longitude": -92.2318563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10194553471",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8270878,
+    "longitude": -92.2316295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10194553472",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8288499,
+    "longitude": -92.2350046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10194553475",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.8274519,
+    "longitude": -92.2327962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12175008932",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.9842411,
+    "longitude": -95.6691902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_33743347",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7053523,
+    "longitude": -93.606698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_37323284",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8068605,
+    "longitude": -93.7338679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_37338080",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6107628,
+    "longitude": -93.6112497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_37338677",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6114649,
+    "longitude": -93.6127479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_38461594",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7141007,
+    "longitude": -93.622048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_45835108",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.024779,
+    "longitude": -93.5964398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_45836961",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.1053682,
+    "longitude": -93.5823912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_46582098",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6932553,
+    "longitude": -93.6809181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_49277991",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6939483,
+    "longitude": -93.6286613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_54139436",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5169085,
+    "longitude": -93.6111219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_73316198",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6843361,
+    "longitude": -93.6026192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_76535978",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8101602,
+    "longitude": -93.7456726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_80478404",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7522122,
+    "longitude": -93.6849576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_80493721",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7570712,
+    "longitude": -93.6847547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_104947918",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.668236,
+    "longitude": -93.6095026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_120108537",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7303161,
+    "longitude": -92.7306567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_134721552",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9344083,
+    "longitude": -93.8619625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_155041422",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5163523,
+    "longitude": -93.7905011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_155097204",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5166082,
+    "longitude": -93.7858692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_156555315",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3952032,
+    "longitude": -93.9901841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_156567102",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3897931,
+    "longitude": -93.9742947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_156574006",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3980481,
+    "longitude": -93.9836298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_160544757",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.8698862,
+    "longitude": -92.9155061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_160552941",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.8536432,
+    "longitude": -92.8885461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_166739365",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3417765,
+    "longitude": -96.0461416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_167719370",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2916903,
+    "longitude": -96.0951926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_167949317",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3136145,
+    "longitude": -96.1319688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_168661893",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2540039,
+    "longitude": -96.0756132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_168661903",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2525469,
+    "longitude": -96.0793928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169526004",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1618657,
+    "longitude": -96.1528303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169670260",
+    "name": "Walnut Creek Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1400151,
+    "longitude": -96.0693761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_171204630",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2174756,
+    "longitude": -96.1617907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_177077823",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2960061,
+    "longitude": -95.9018381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_177432148",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3596551,
+    "longitude": -95.9479599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_177432207",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3613309,
+    "longitude": -95.9471785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_179375044",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2688296,
+    "longitude": -96.2200749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_237397945",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.2130764,
+    "longitude": -91.5393278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_259380060",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4516678,
+    "longitude": -96.4301114,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_263264794",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.2760149,
+    "longitude": -93.6386496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_279613090",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4971267,
+    "longitude": -96.3377153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_286685724",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.618318,
+    "longitude": -93.637252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_297681931",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5679613,
+    "longitude": -93.6433925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_299690183",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.9245755,
+    "longitude": -96.3061254,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_301423834",
+    "name": "Accessible Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5521562,
+    "longitude": -93.7355784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_308526006",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3788452,
+    "longitude": -92.1270574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_354976970",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6702886,
+    "longitude": -93.714894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_360842172",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2717186,
+    "longitude": -95.9182234,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_367533793",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5669085,
+    "longitude": -94.009803,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_376008669",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2115331,
+    "longitude": -95.856523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_376008670",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2138012,
+    "longitude": -95.8557164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_377819029",
+    "name": "Newport Landing",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3778167,
+    "longitude": -96.1863031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_377819017",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3774035,
+    "longitude": -96.1874907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_392554736",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9635055,
+    "longitude": -91.5898026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_411812315",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1336129,
+    "longitude": -95.8768021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_413770696",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2499016,
+    "longitude": -96.0751471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_441532395",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.9245802,
+    "longitude": -95.8739259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444061288",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7964315,
+    "longitude": -91.5598665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444062162",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.804152,
+    "longitude": -91.5531759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444063702",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.798172,
+    "longitude": -91.5649412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444064197",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7987412,
+    "longitude": -91.5687205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444067975",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8097415,
+    "longitude": -91.5525425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444067976",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8096968,
+    "longitude": -91.5523651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_444069848",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8094699,
+    "longitude": -91.5380032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_461504450",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7499452,
+    "longitude": -91.6100259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480342763",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1530356,
+    "longitude": -92.6172116,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_483632677",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2635553,
+    "longitude": -95.9239735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_507173767",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4493971,
+    "longitude": -96.546713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_507467896",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4498801,
+    "longitude": -96.5641355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_507471566",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4510726,
+    "longitude": -96.5859808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_507471567",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4507716,
+    "longitude": -96.5821185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_508845292",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4464982,
+    "longitude": -96.5742513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509519708",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4423735,
+    "longitude": -96.5756125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509519710",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4410355,
+    "longitude": -96.5672011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509519711",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4413081,
+    "longitude": -96.5691622,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509530932",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.439445,
+    "longitude": -96.5539615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509743003",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4385899,
+    "longitude": -96.5357369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509743144",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4389257,
+    "longitude": -96.5375963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_510893039",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4293708,
+    "longitude": -96.539333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_510893047",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4295162,
+    "longitude": -96.5425716,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511366275",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4368097,
+    "longitude": -96.5277823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511366278",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4363662,
+    "longitude": -96.5272647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511366293",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.437637,
+    "longitude": -96.5282316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511366835",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4332866,
+    "longitude": -96.5417002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511366836",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4336757,
+    "longitude": -96.5430467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511368351",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4364578,
+    "longitude": -96.5328021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511372501",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4303613,
+    "longitude": -96.5313861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511372502",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4291688,
+    "longitude": -96.5329351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511404064",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4284674,
+    "longitude": -96.5255598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511576013",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.085154,
+    "longitude": -94.2211732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511617718",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4451404,
+    "longitude": -96.5568427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511626035",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4495798,
+    "longitude": -96.5721481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511626046",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.450433,
+    "longitude": -96.5612396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511854714",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4427967,
+    "longitude": -96.542825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_516901124",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4274905,
+    "longitude": -96.5804471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_558663129",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1381788,
+    "longitude": -95.8834054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_563538366",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2168872,
+    "longitude": -96.1629158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_568396800",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.665194,
+    "longitude": -93.7371104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_581439779",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.4540672,
+    "longitude": -92.0320171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_587748216",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4755361,
+    "longitude": -92.4609795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_587748411",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4795409,
+    "longitude": -92.4603784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_587767867",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7853509,
+    "longitude": -95.3614826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599100538",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5129809,
+    "longitude": -94.8250661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_605102647",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6427819,
+    "longitude": -93.3845111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_605102648",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6421236,
+    "longitude": -93.3836114,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_616498102",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6258698,
+    "longitude": -93.7410019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_623611467",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6372311,
+    "longitude": -93.728248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_666766675",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4463481,
+    "longitude": -96.5423655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_666769736",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4476672,
+    "longitude": -96.5371075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_674134259",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1623522,
+    "longitude": -96.1151955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_677784954",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.168316,
+    "longitude": -96.5171438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_679149010",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3061806,
+    "longitude": -96.5052887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_700036461",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2926327,
+    "longitude": -95.9029228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_705019713",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.9901741,
+    "longitude": -92.1655272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_724074272",
+    "name": "Beckwith Boathouse Dock",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6767324,
+    "longitude": -91.5348634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_726978316",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.720813,
+    "longitude": -91.5306193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_733067910",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6609325,
+    "longitude": -93.7055711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_738058569",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.009522,
+    "longitude": -93.485847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_738366818",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0482465,
+    "longitude": -93.3630503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_741052995",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3619408,
+    "longitude": -95.5077824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_741052999",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3783086,
+    "longitude": -95.5083709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_741053035",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3683372,
+    "longitude": -95.5216991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_745523494",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7094647,
+    "longitude": -96.5855542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_780650619",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3779321,
+    "longitude": -96.4149728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_780655897",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3752302,
+    "longitude": -96.4151572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_798030138",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.9242869,
+    "longitude": -95.8709787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_819665041",
+    "name": "Water Deck",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6612904,
+    "longitude": -93.9880379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_821123413",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3145293,
+    "longitude": -96.1894072,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_821123414",
+    "name": "Catapillar Peninsula",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3129131,
+    "longitude": -96.1859237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_835259650",
+    "name": "USACE",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3521431,
+    "longitude": -95.9602209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_858345232",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9842143,
+    "longitude": -93.3531978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_882003167",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0511987,
+    "longitude": -96.1652988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_909233312",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.4288692,
+    "longitude": -94.8558728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_918949366",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0720288,
+    "longitude": -93.6263275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_925730638",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9741193,
+    "longitude": -91.607956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_936909749",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0467423,
+    "longitude": -95.7843051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_940822378",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2676899,
+    "longitude": -95.9227624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_974503086",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3442397,
+    "longitude": -96.0571992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_974503087",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3442475,
+    "longitude": -96.0575454,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_976086214",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1643535,
+    "longitude": -96.098151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_996752116",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.1288067,
+    "longitude": -91.8233616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_996752135",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.1220606,
+    "longitude": -91.8086734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_996752140",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.1200168,
+    "longitude": -91.8149229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_998879260",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.004278,
+    "longitude": -91.6892901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008217647",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6037522,
+    "longitude": -93.5271727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1014932119",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7530476,
+    "longitude": -93.702672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1014940931",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7516349,
+    "longitude": -93.7035789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1018825430",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.8167491,
+    "longitude": -96.5855687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1019279952",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0581131,
+    "longitude": -94.2602437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1036131471",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0123899,
+    "longitude": -92.9252982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1036131472",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0125975,
+    "longitude": -92.9227992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1036131473",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0121738,
+    "longitude": -92.9156319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1054214766",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0429466,
+    "longitude": -96.1617825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1055751202",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.2747494,
+    "longitude": -95.6041642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1068062275",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3082916,
+    "longitude": -93.0644925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1082775286",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5859754,
+    "longitude": -96.0924735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1082775291",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5877536,
+    "longitude": -96.0937599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1082777238",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8242573,
+    "longitude": -96.4747974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085230482",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3563687,
+    "longitude": -95.9514959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085383717",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0865802,
+    "longitude": -93.5960971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1089329892",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.307355,
+    "longitude": -96.3264999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1092255812",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2108341,
+    "longitude": -95.8483573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1098674667",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7122265,
+    "longitude": -92.892838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1098674669",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7086936,
+    "longitude": -92.8976684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1101225339",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0191983,
+    "longitude": -92.3694262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1104916263",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3227822,
+    "longitude": -95.9305569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1104916264",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3217497,
+    "longitude": -95.9284406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1109741504",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.88115,
+    "longitude": -93.5053592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1117273549",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9443499,
+    "longitude": -91.6233855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1124501395",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6084589,
+    "longitude": -93.6639577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1155034266",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0346641,
+    "longitude": -94.2098317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1160790679",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7925746,
+    "longitude": -93.5964593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1163517544",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8368419,
+    "longitude": -93.545585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1163791438",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5391968,
+    "longitude": -93.4611788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178507099",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6813528,
+    "longitude": -91.5574177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180715880",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.9495476,
+    "longitude": -94.0546078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1181010421",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2127412,
+    "longitude": -95.8673425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1185308977",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4922967,
+    "longitude": -96.3266713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1195534947",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.8182316,
+    "longitude": -96.5808483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1195534950",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.8190744,
+    "longitude": -96.5825691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204789230",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1044024,
+    "longitude": -94.3843557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1213183423",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0982153,
+    "longitude": -94.3852781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1215094934",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5567296,
+    "longitude": -94.7841159,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1225542729",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.4816739,
+    "longitude": -91.6454984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1249386113",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0114424,
+    "longitude": -96.2915747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1253438145",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.81961,
+    "longitude": -93.7564387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1273900567",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.6615286,
+    "longitude": -95.6872393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1302986356",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2914291,
+    "longitude": -95.0849514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1303320922",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7778224,
+    "longitude": -92.961501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1311516290",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4425258,
+    "longitude": -95.9465196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1311800125",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0022087,
+    "longitude": -96.1727304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1312032085",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0358812,
+    "longitude": -96.3541148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329479788",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.5332245,
+    "longitude": -93.7668155,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1338746186",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3520638,
+    "longitude": -93.6119725,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1339770165",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3703731,
+    "longitude": -96.0397593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1364316865",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1193203,
+    "longitude": -96.2403884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1368091534",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7565594,
+    "longitude": -93.2367939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1368091537",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7705192,
+    "longitude": -93.2434529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1370048956",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.693129,
+    "longitude": -93.7478458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1370057372",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7051505,
+    "longitude": -94.4092591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1374271995",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9514696,
+    "longitude": -91.6340644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1417737487",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0266467,
+    "longitude": -94.4665414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419487574",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6725565,
+    "longitude": -91.5615465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1426056763",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7303115,
+    "longitude": -91.9597564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1436704234",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1175651,
+    "longitude": -95.8828863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1449931841",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3104538,
+    "longitude": -96.1828695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1459398163",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.8232421,
+    "longitude": -96.583127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1465398293",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9451483,
+    "longitude": -91.5064915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1472194260",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.5025864,
+    "longitude": -91.7699051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1491385057",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7716928,
+    "longitude": -95.7865049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2071046175",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4328295,
+    "longitude": -93.7989634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2954448312",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.266002,
+    "longitude": -92.3110031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2954448317",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.2660828,
+    "longitude": -92.3128777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3857729728",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.1277584,
+    "longitude": -92.7265872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7443283046",
+    "name": "Fischer Wildelife Area",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0020752,
+    "longitude": -95.5279402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7443302633",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1601138,
+    "longitude": -96.1117499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8482792452",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2208695,
+    "longitude": -95.9406585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8906079249",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5914656,
+    "longitude": -93.6191369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9703683938",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0061687,
+    "longitude": -96.1658544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9703683941",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0041972,
+    "longitude": -96.1683408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9870638684",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1403244,
+    "longitude": -96.0674906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9977382174",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.037142,
+    "longitude": -93.5974822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10124882797",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1580473,
+    "longitude": -96.0796609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10178570176",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1538127,
+    "longitude": -96.0326071,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10927278077",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.990426,
+    "longitude": -91.6661628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10941244024",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.850978,
+    "longitude": -95.5889413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11285014438",
+    "name": "Fishing Pier",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1276349,
+    "longitude": -96.0261265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

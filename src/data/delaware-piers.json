@@ -1,0 +1,2957 @@
+[
+  {
+    "place_id": "osm_83225102",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7157495,
+    "longitude": -75.5139769,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_85631058",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5540952,
+    "longitude": -75.6188667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_85631077",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5553511,
+    "longitude": -75.6454187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_120486447",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5781514,
+    "longitude": -75.5883488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_120486506",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5784903,
+    "longitude": -75.5871427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_129700343",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6224752,
+    "longitude": -75.6242967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_129700344",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6227296,
+    "longitude": -75.6240354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_129705490",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6334368,
+    "longitude": -75.6179508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_129728931",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6329751,
+    "longitude": -75.6167236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_134579247",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7969348,
+    "longitude": -75.413756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_136881940",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4259039,
+    "longitude": -75.5749445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_141796094",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7368477,
+    "longitude": -75.5548314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_141797202",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7359519,
+    "longitude": -75.5585252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_142957295",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7092152,
+    "longitude": -75.5968994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_148285699",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7326806,
+    "longitude": -75.5320891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_148397170",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7358241,
+    "longitude": -75.5359152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_178582345",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5852683,
+    "longitude": -75.5723178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188213426",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6362089,
+    "longitude": -75.1679586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_189646634",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5412557,
+    "longitude": -75.722649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_197111888",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1141712,
+    "longitude": -75.4994049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_205707379",
+    "name": "Fishing",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6614199,
+    "longitude": -75.0496251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225521714",
+    "name": "24 SPC",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6097694,
+    "longitude": -75.067696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225595565",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6132142,
+    "longitude": -75.0726495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225595569",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6122807,
+    "longitude": -75.0725464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225752740",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5747864,
+    "longitude": -75.5895877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_233980561",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5737932,
+    "longitude": -75.4844331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_257355170",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.683572,
+    "longitude": -75.5097828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451978943",
+    "name": "Crabbing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6655755,
+    "longitude": -75.1803225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_305819026",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5842234,
+    "longitude": -75.1972839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318739236",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7360184,
+    "longitude": -75.5520185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318739237",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7300654,
+    "longitude": -75.561081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318739240",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7344322,
+    "longitude": -75.5440825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318739249",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7359149,
+    "longitude": -75.5407435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_372327894",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5534636,
+    "longitude": -75.7188236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_384741989",
+    "name": "Children's Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7202708,
+    "longitude": -75.0800838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_427723615",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5011351,
+    "longitude": -75.0713597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_427732570",
+    "name": "Holts Landing State Park Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5919442,
+    "longitude": -75.1282962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_428022876",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5891095,
+    "longitude": -75.0633418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_441550388",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6017202,
+    "longitude": -75.5537967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480917284",
+    "name": "Rehoboth Bay Park Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6866075,
+    "longitude": -75.1270765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_497953842",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7953477,
+    "longitude": -75.4124263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_527381916",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6598525,
+    "longitude": -75.1697347,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_527381920",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6588435,
+    "longitude": -75.1668361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_527381931",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6577192,
+    "longitude": -75.1592696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_527381934",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6583146,
+    "longitude": -75.1574632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_527381937",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6574217,
+    "longitude": -75.1565764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_527634507",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0998114,
+    "longitude": -75.5576858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_528711602",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7078697,
+    "longitude": -75.0837085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545084628",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5742411,
+    "longitude": -75.1099828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545124515",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5618006,
+    "longitude": -75.7306362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545358620",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5477731,
+    "longitude": -75.7046265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545358622",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5471241,
+    "longitude": -75.7044748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545358633",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5468681,
+    "longitude": -75.70856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545667028",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5627695,
+    "longitude": -75.7093137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_546688882",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5593122,
+    "longitude": -75.7204627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_549787486",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7762351,
+    "longitude": -75.1389496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_583575031",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2774904,
+    "longitude": -75.5805691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_583790024",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1548475,
+    "longitude": -75.518431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1236478375",
+    "name": "Milton Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7772697,
+    "longitude": -75.3124699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_586376163",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.778715,
+    "longitude": -75.309961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_587282335",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6403453,
+    "longitude": -75.6106894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_593957860",
+    "name": "Scotton Landing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0849307,
+    "longitude": -75.4606604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_593961072",
+    "name": "Ferry Street",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.543926,
+    "longitude": -75.7201234,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_649327884",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1256162,
+    "longitude": -75.5446464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_697186441",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.184613,
+    "longitude": -75.3996892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_702169161",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.566745,
+    "longitude": -75.0648863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_712973322",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5816216,
+    "longitude": -75.1532439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_712973324",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5817821,
+    "longitude": -75.1520819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_712973326",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5825053,
+    "longitude": -75.1553338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_721192395",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6419592,
+    "longitude": -75.1303213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_722101883",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6222343,
+    "longitude": -75.1146036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_722101884",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6222233,
+    "longitude": -75.1115713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_722101887",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6225377,
+    "longitude": -75.111608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_722115413",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6340799,
+    "longitude": -75.109945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_723581136",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5948014,
+    "longitude": -75.2016383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_723581138",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5944166,
+    "longitude": -75.2025206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_723979896",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.629374,
+    "longitude": -75.1032559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_724208929",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6171709,
+    "longitude": -75.1021659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_724244944",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6378748,
+    "longitude": -75.1698325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_728128589",
+    "name": "Mispillion Riverwalk",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9145719,
+    "longitude": -75.4213836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_729212213",
+    "name": "Boat Dock",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5449806,
+    "longitude": -75.7626997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_730852019",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6941021,
+    "longitude": -75.7724796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_731572380",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6595384,
+    "longitude": -75.1839108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_731572408",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6594111,
+    "longitude": -75.1875179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_741773351",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6852322,
+    "longitude": -75.7695661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_741773353",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6783179,
+    "longitude": -75.7747377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_744199052",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5712238,
+    "longitude": -75.7782134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_744511641",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6572095,
+    "longitude": -75.5611282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_744523839",
+    "name": "Cape Henlopen State Park Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7881603,
+    "longitude": -75.1025154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_744523220",
+    "name": "Cape Shores Private Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7854879,
+    "longitude": -75.108165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_744523340",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7830047,
+    "longitude": -75.1158334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1002130113",
+    "name": "Lewes Terminal Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.782916,
+    "longitude": -75.1193704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_746472439",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7788578,
+    "longitude": -75.7298287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_754838744",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.689839,
+    "longitude": -75.5216487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_754838745",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6874924,
+    "longitude": -75.5146434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_755355869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5743737,
+    "longitude": -75.7918328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_800160383",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3053987,
+    "longitude": -75.3766207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_805161758",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.584807,
+    "longitude": -75.5921825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_805161760",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.58646,
+    "longitude": -75.5944386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_818871455",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6898988,
+    "longitude": -75.0774113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_818871456",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6898209,
+    "longitude": -75.0783522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_822523003",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5281761,
+    "longitude": -75.4772595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_822523004",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5285698,
+    "longitude": -75.4792634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_822651326",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5274432,
+    "longitude": -75.4804893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_823134325",
+    "name": "Coast Guard Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7900746,
+    "longitude": -75.1628906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_825495140",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5750507,
+    "longitude": -75.0947982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_827513726",
+    "name": "USCG",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.242453,
+    "longitude": -75.1732211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_827513727",
+    "name": "USCG",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2425617,
+    "longitude": -75.1732441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_827513728",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2426714,
+    "longitude": -75.1718331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_836697861",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.242537,
+    "longitude": -75.5158603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_836697862",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2421134,
+    "longitude": -75.5158636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_844671696",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0460735,
+    "longitude": -75.3944309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847019616",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3324199,
+    "longitude": -75.471691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847019617",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3328171,
+    "longitude": -75.4713225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_859105887",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5716774,
+    "longitude": -75.5902782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905812957",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6192025,
+    "longitude": -75.0676917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905835563",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6319602,
+    "longitude": -75.076158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905897318",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.608941,
+    "longitude": -75.0645693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905981927",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7775023,
+    "longitude": -75.1404015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905989521",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7923572,
+    "longitude": -75.1682648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905989523",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7925001,
+    "longitude": -75.1684822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905991255",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7878711,
+    "longitude": -75.1612396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905991256",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.78747,
+    "longitude": -75.1613406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_940595549",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4143327,
+    "longitude": -75.3209361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_944043736",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7265457,
+    "longitude": -75.7298709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_963436701",
+    "name": "Boat Dock",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5506191,
+    "longitude": -75.7368673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965239553",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5410869,
+    "longitude": -75.0576729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_989738764",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7097744,
+    "longitude": -75.5140863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_994980391",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7500378,
+    "longitude": -75.2184797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1001998935",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.8145947,
+    "longitude": -75.0925128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1001998938",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7970918,
+    "longitude": -75.1000808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1002130114",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7823622,
+    "longitude": -75.1192419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1004004223",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5570752,
+    "longitude": -75.5772235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1053016857",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7441447,
+    "longitude": -75.1920655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1053220976",
+    "name": "Old New Castle - Pennsville Ferry Wharf",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6612041,
+    "longitude": -75.5578764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1104211011",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6372937,
+    "longitude": -75.6115257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1117852030",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7167917,
+    "longitude": -75.5179486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1124496277",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.751054,
+    "longitude": -75.4935262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125949982",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6125322,
+    "longitude": -75.5718677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125952848",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6120262,
+    "longitude": -75.589987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125952862",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6118064,
+    "longitude": -75.597054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125952863",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6115996,
+    "longitude": -75.604726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1139718797",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5122399,
+    "longitude": -75.4793712,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1139720793",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4983188,
+    "longitude": -75.5016842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1147214817",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2339171,
+    "longitude": -75.0366351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1151130657",
+    "name": "Grove Park Canal Dock",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7150383,
+    "longitude": -75.0926248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165386889",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1765537,
+    "longitude": -75.5274785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1170354534",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4342885,
+    "longitude": -75.4176128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1170354913",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4438192,
+    "longitude": -75.4090433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178707168",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1936461,
+    "longitude": -75.4016669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178707505",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.160377,
+    "longitude": -75.4450069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178708609",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0578426,
+    "longitude": -75.3985637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178709654",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9457498,
+    "longitude": -75.3161357,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1186351589",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5826336,
+    "longitude": -75.0628043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1211354438",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9860121,
+    "longitude": -75.1133617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1211485557",
+    "name": "Bayside Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6103954,
+    "longitude": -75.1510484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1219802187",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4001304,
+    "longitude": -75.0533677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1219802190",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3943161,
+    "longitude": -75.0398731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1219855249",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4081006,
+    "longitude": -75.067065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1220030498",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2765025,
+    "longitude": -75.0873127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1232817141",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4613676,
+    "longitude": -75.4398108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1232817151",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4594707,
+    "longitude": -75.4528279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1250749657",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5676587,
+    "longitude": -75.182395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1250985565",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3885381,
+    "longitude": -75.5272287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1251272069",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2287515,
+    "longitude": -75.1477377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1263276034",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5186172,
+    "longitude": -75.5087691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1263276043",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5258717,
+    "longitude": -75.5161594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1297772734",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.877624,
+    "longitude": -75.2759511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1306958474",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7398207,
+    "longitude": -75.0989196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1310960097",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.640691,
+    "longitude": -75.4799968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343091323",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4298005,
+    "longitude": -75.43392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343884309",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6123979,
+    "longitude": -75.5815252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343884315",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6124632,
+    "longitude": -75.5719298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1349872759",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3341705,
+    "longitude": -75.4744653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1349897926",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5086577,
+    "longitude": -75.7583733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1355259513",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5456717,
+    "longitude": -75.7172221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1355496477",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7802643,
+    "longitude": -75.28338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377894261",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9329759,
+    "longitude": -75.3243777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377894268",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9380242,
+    "longitude": -75.3216434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377894271",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9370416,
+    "longitude": -75.3223924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1436784046",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5499884,
+    "longitude": -75.0635179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442923087",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6718105,
+    "longitude": -75.4457519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451978888",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6627729,
+    "longitude": -75.1737236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422105",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6624244,
+    "longitude": -75.1755013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422115",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6663002,
+    "longitude": -75.1825247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422127",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6569638,
+    "longitude": -75.1698608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422132",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6560816,
+    "longitude": -75.1725958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422142",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6567498,
+    "longitude": -75.1782307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422148",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6578223,
+    "longitude": -75.1804494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422175",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6572484,
+    "longitude": -75.1826409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422233",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6561552,
+    "longitude": -75.1671867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1464422239",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6553525,
+    "longitude": -75.1608556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_571897336",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5701023,
+    "longitude": -75.636455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6841794758",
+    "name": "Tibury Creek",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1122365,
+    "longitude": -75.5113588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6859020720",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0200683,
+    "longitude": -75.7699754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6859082392",
+    "name": "Fishing Pier",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0158298,
+    "longitude": -75.7741519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9330106809",
+    "name": "Crystal Lake",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4569918,
+    "longitude": -75.0366035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

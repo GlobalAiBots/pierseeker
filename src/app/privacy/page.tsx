@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy — RampSeeker",
-  description: "RampSeeker privacy policy. How we collect, use, and protect your information, including our use of Google AdSense and cookies.",
-  openGraph: { title: "Privacy Policy — RampSeeker", url: "https://rampseeker.com/privacy", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "Privacy Policy — RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/privacy" },
+  title: "Privacy Policy — PierSeeker",
+  description: "PierSeeker privacy policy. How we collect, use, and protect your information, including our use of Google AdSense and cookies.",
+  openGraph: { title: "Privacy Policy — PierSeeker", url: "https://pierseeker.com/privacy", siteName: "PierSeeker" },
+  twitter: { card: "summary", title: "Privacy Policy — PierSeeker" },
+  alternates: { canonical: "https://pierseeker.com/privacy" },
 };
 
 export default function PrivacyPage() {
@@ -15,12 +15,12 @@ export default function PrivacyPage() {
       <p className="text-gray-400 text-sm mb-8">Last updated: April 2, 2026</p>
 
       <div className="space-y-6 text-gray-600 leading-relaxed text-sm">
-        <p>RampSeeker (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) operates the website rampseeker.com. This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our site.</p>
+        <p>PierSeeker (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) operates the website pierseeker.com. This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our site.</p>
 
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mt-10">Information We Collect</h2>
-        <p>RampSeeker is a free, publicly accessible boat ramp directory. We do not require user accounts. We may collect the following information:</p>
+        <p>PierSeeker is a free, publicly accessible fishing pier directory. We do not require user accounts. We may collect the following information:</p>
         <ul className="list-disc pl-6 space-y-1">
-          <li><strong className="text-charcoal">Contact submissions:</strong> If you email us at hello@rampseeker.com or submit a ramp suggestion, we collect the information you voluntarily provide (name, email, ramp details).</li>
+          <li><strong className="text-charcoal">Contact submissions:</strong> If you email us at hello@pierseeker.com or submit a pier suggestion, we collect the information you voluntarily provide (name, email, pier details).</li>
           <li><strong className="text-charcoal">Newsletter signups:</strong> If you subscribe to our mailing list, we collect your email address.</li>
           <li><strong className="text-charcoal">Usage data:</strong> We may collect anonymous usage data such as pages visited, time on site, browser type, and approximate geographic location through analytics tools.</li>
           <li><strong className="text-charcoal">Cookies:</strong> We use cookies and similar technologies as described below.</li>
@@ -36,7 +36,7 @@ export default function PrivacyPage() {
 
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mt-10">How We Use Your Information</h2>
         <ul className="list-disc pl-6 space-y-1">
-          <li>To provide and maintain our boat ramp directory</li>
+          <li>To provide and maintain our fishing pier directory</li>
           <li>To respond to your submissions, inquiries, and feedback</li>
           <li>To send newsletter updates if you subscribed (you can unsubscribe anytime)</li>
           <li>To analyze site usage and improve the user experience</li>
@@ -50,7 +50,7 @@ export default function PrivacyPage() {
         <p>Our site contains links to external websites (Google Maps, Amazon, business websites). We are not responsible for the privacy practices of these third-party sites. We encourage you to review their privacy policies.</p>
 
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mt-10">Data Sources</h2>
-        <p>Boat ramp locations, GPS coordinates, and amenity information are compiled from publicly available sources including Google Places API, U.S. Army Corps of Engineers records, Oklahoma state park data, and user submissions.</p>
+        <p>Fishing pier locations, GPS coordinates, and amenity information are compiled from publicly available sources including Google Places API, U.S. Army Corps of Engineers records, Oklahoma state park data, and user submissions.</p>
 
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mt-10">Children&apos;s Privacy</h2>
         <p>Our site is not directed at children under 13. We do not knowingly collect personal information from children under 13.</p>
@@ -59,7 +59,7 @@ export default function PrivacyPage() {
         <p>We may update this privacy policy from time to time. Changes will be posted on this page with an updated date.</p>
 
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mt-10">Contact Us</h2>
-        <p>Questions about this privacy policy? Email <a href="mailto:hello@rampseeker.com" className="text-water hover:underline">hello@rampseeker.com</a>.</p>
+        <p>Questions about this privacy policy? Email <a href="mailto:hello@pierseeker.com" className="text-water hover:underline">hello@pierseeker.com</a>.</p>
       </div>
     </div>
   );

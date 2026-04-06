@@ -1,0 +1,62 @@
+[
+  {
+    "place_id": "osm_1013947440",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.2744811,
+    "longitude": -97.0860188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1210793423",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4344079,
+    "longitude": -96.7020389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1315765457",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4396138,
+    "longitude": -96.8416791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1315809978",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4408211,
+    "longitude": -96.8426094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

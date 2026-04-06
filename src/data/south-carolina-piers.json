@@ -1,0 +1,137 @@
+[
+  {
+    "place_id": "osm_1084432402",
+    "name": "Fishing from Bonito Bridge",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3144281,
+    "longitude": -80.4855759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4095982773",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8021214,
+    "longitude": -79.9068913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7398251880",
+    "name": "Four Poles Park Dock",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8690238,
+    "longitude": -79.9822539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11393260480",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8022627,
+    "longitude": -79.9077986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11393260482",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8025196,
+    "longitude": -79.9097895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11530054550",
+    "name": "Adventurous Fishing Charters",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7755891,
+    "longitude": -79.8448502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12110580469",
+    "name": "Redbank Fishing Pier",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.432264,
+    "longitude": -80.3622624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12787274420",
+    "name": "Wyenee Kerren Pond",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0126444,
+    "longitude": -80.2291784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13306708970",
+    "name": "Fishing Pier",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8865834,
+    "longitude": -79.9083966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

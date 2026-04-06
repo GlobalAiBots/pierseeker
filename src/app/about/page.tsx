@@ -1,60 +1,67 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About RampSeeker — Grand Lake Boat Ramp Directory",
-  description: "RampSeeker is the most complete boat ramp directory for Grand Lake Oklahoma. Built by locals, for locals and visitors.",
+  title: "About PierSeeker — US Fishing Pier Directory",
+  description: "PierSeeker is the most complete fishing pier directory in America. Find public fishing piers, jetties, and waterfront access points across every state.",
   openGraph: {
-    title: "About RampSeeker",
-    description: "Built by locals, for locals and visitors. The most complete boat ramp guide for Grand Lake.",
-    url: "https://rampseeker.com/about",
+    title: "About PierSeeker",
+    description: "The most complete fishing pier directory in America. Find piers, jetties, and waterfront access in every state.",
+    url: "https://pierseeker.com/about",
   },
-  twitter: { card: "summary", title: "About RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/about" },
+  twitter: { card: "summary", title: "About PierSeeker" },
+  alternates: { canonical: "https://pierseeker.com/about" },
 };
 
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-16">
-      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-6">Built by Locals, for Locals and Visitors</h1>
+      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-6">The Most Complete Fishing Pier Directory in America</h1>
 
       <div className="space-y-6 text-gray-600 leading-relaxed">
         <p>
-          If you&apos;ve ever driven around Grand Lake looking for a boat ramp — and ended up at a locked gate, a dirt path, or someone&apos;s private dock — you know why we built RampSeeker.
+          If you&apos;ve ever driven to a waterfront looking for a fishing pier — and found it closed, private, or just a pile of rotting boards — you know why we built PierSeeker.
         </p>
         <p>
-          <strong className="text-charcoal">RampSeeker is the most complete boat ramp directory in America — covering 9 states with thousands of ramps.</strong> From Oklahoma&apos;s Grand Lake to Michigan&apos;s Great Lakes, Minnesota&apos;s walleye waters, North Carolina&apos;s Outer Banks, and beyond. Real GPS coordinates. Amenities listed. Local tips from people who actually use them. No guessing, no outdated info, no dead ends.
+          <strong className="text-charcoal">PierSeeker is the most complete fishing pier directory in America — covering 44 states with thousands of piers.</strong> From Michigan&apos;s Great Lakes piers to Maryland&apos;s Chesapeake Bay jetties, Washington&apos;s coastal docks, and beyond. Real GPS coordinates. Amenities listed. Local tips from people who actually fish them. No guessing, no outdated info, no dead ends.
         </p>
         <p>
-          We started with Grand Lake because it&apos;s home. We know which ramps get packed on tournament weekends, which ones have lights for pre-dawn launches, and which ones have Sharky&apos;s Bar next door for post-fishing nachos.
+          We built PierSeeker because every angler deserves to know where the public piers are, which ones have fish-cleaning stations, which ones are lit for night fishing, and which ones have the best structure for stripers and catfish.
         </p>
 
         <div className="bg-blue-50 border border-blue-200 rounded-xl p-6 my-8">
           <h2 className="font-[Cabin] text-xl font-bold text-water mb-3">What&apos;s Next</h2>
           <p className="text-gray-600">
-            We now cover 46 states with thousands of boat ramps across the United States. We&apos;re adding detailed guides with local tips for every major lake, and expanding to all 50 states.
+            We now cover 44 states with thousands of fishing piers across the United States. We&apos;re adding detailed guides with local tips for every major waterfront, and expanding to all 50 states.
           </p>
         </div>
 
         <p>
-          RampSeeker is a project of <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">Global AI Bots</a>, the company behind CLETUS — an AI chat and voice agent for businesses. Learn more at <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">globalaibots.com</a>, <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">askcletus.com</a>, or <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">grandlakeai.com</a>.
+          PierSeeker is a project of <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">Global AI Bots</a>, the company behind CLETUS — an AI chat and voice agent for businesses. Learn more at <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">globalaibots.com</a>, <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">askcletus.com</a>, or <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">grandlakeai.com</a>.
         </p>
 
         <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 my-8">
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Powered by CLETUS AI</h2>
           <p className="text-gray-600">
-            The chatbot on this site is <strong className="text-charcoal">CLETUS</strong> — an AI chat and voice agent built for businesses. The same technology that helps you find boat ramps can answer your business customers&apos; questions 24/7. If you run a marina, bait shop, RV park, or any lake business, <a href="/for-businesses" className="text-water hover:underline font-semibold">learn how CLETUS can work for you</a>.
+            The chatbot on this site is <strong className="text-charcoal">CLETUS</strong> — an AI chat and voice agent built for businesses. The same technology that helps you find fishing piers can answer your business customers&apos; questions 24/7. If you run a marina, bait shop, tackle store, or any waterfront business, <a href="/for-businesses" className="text-water hover:underline font-semibold">learn how CLETUS can work for you</a>.
+          </p>
+        </div>
+
+        <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 my-8">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Our Sister Sites</h2>
+          <p className="text-gray-600">
+            PierSeeker is part of a family of outdoor directories. Looking for boat ramps? Check out <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-water hover:underline font-semibold">RampSeeker</a>. Looking for dog parks and pet-friendly trails? Visit <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="text-water hover:underline font-semibold">BarkSeeker</a>.
           </p>
         </div>
 
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mt-10 mb-3">Get in Touch</h2>
         <p>
-          Know a ramp we missed? Have a correction? Just want to talk fishing?
+          Know a pier we missed? Have a correction? Just want to talk fishing?
         </p>
         <p>
-          <a href="mailto:hello@rampseeker.com" className="text-water hover:text-water-light transition font-semibold">hello@rampseeker.com</a>
+          <a href="mailto:hello@pierseeker.com" className="text-water hover:text-water-light transition font-semibold">hello@pierseeker.com</a>
         </p>
         <p className="text-gray-400 text-sm mt-6">
-          Serving Grand Lake, Grove, Vinita, Jay, Miami, Afton, Langley, Ketchum, Disney, Bernice, Wyandotte, Monkey Island, and all of Northeast Oklahoma.
+          Covering fishing piers, public docks, jetties, and waterfront access points across the United States.
         </p>
       </div>
     </div>

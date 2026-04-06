@@ -1,541 +1,1258 @@
 [
   {
-    "id": 124759353,
-    "name": "Boat Ramp",
-    "latitude": 31.8575418,
-    "longitude": -88.6869715,
+    "id": 112849767,
+    "name": "Fishing Pier",
+    "latitude": 30.3906558,
+    "longitude": -88.8709675,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 124765378,
-    "name": "Boat Ramp",
-    "latitude": 32.0340584,
-    "longitude": -88.7097883,
+    "id": 118745576,
+    "name": "Fishing Pier",
+    "latitude": 30.4182735,
+    "longitude": -88.9241032,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 240147464,
-    "name": "Boat Ramp",
-    "latitude": 31.1816881,
-    "longitude": -88.9180832,
+    "id": 138776158,
+    "name": "Fishing Pier",
+    "latitude": 30.7077078,
+    "longitude": -88.6409015,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 3253855876,
-    "name": "Boat Ramp",
-    "latitude": 30.3605315,
-    "longitude": -88.7641567,
+    "id": 138879390,
+    "name": "Fishing Pier",
+    "latitude": 30.5285788,
+    "longitude": -88.5944266,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "addr:street": "Highway 63",
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 3627627243,
-    "name": "Boat Ramp",
-    "latitude": 30.8333095,
-    "longitude": -88.7355197,
+    "id": 138880752,
+    "name": "Fishing Pier",
+    "latitude": 30.5218827,
+    "longitude": -88.6144049,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "addr:street": "Pascagoula River",
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 3627629133,
-    "name": "Boat Ramp",
-    "latitude": 30.812909,
-    "longitude": -88.7321945,
+    "id": 138881389,
+    "name": "Fishing Pier",
+    "latitude": 30.5269382,
+    "longitude": -88.5909478,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 3627629152,
-    "name": "Boat Ramp",
-    "latitude": 30.8156098,
-    "longitude": -88.7469951,
+    "id": 139304119,
+    "name": "Fishing Pier",
+    "latitude": 30.3918285,
+    "longitude": -88.6233273,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 3627629157,
-    "name": "Boat Ramp",
-    "latitude": 30.8161857,
-    "longitude": -88.7334824,
+    "id": 139304120,
+    "name": "Fishing Pier",
+    "latitude": 30.3905745,
+    "longitude": -88.6212577,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 3627629259,
-    "name": "Boat Ramp",
-    "latitude": 30.9027712,
-    "longitude": -88.7427134,
+    "id": 139578327,
+    "name": "Fishing Pier",
+    "latitude": 30.391498,
+    "longitude": -88.6350064,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "addr:housenumber": "1600",
+      "addr:street": "Highway 90",
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 3627629264,
-    "name": "Boat Ramp",
-    "latitude": 30.9035616,
-    "longitude": -88.7474003,
+    "id": 139578461,
+    "name": "Fishing Pier",
+    "latitude": 30.3966912,
+    "longitude": -88.6403173,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "addr:housenumber": "1905",
+      "addr:street": "Private Pier Drive",
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 3627629325,
-    "name": "Boat Ramp",
-    "latitude": 30.8944064,
-    "longitude": -88.7474753,
+    "id": 139579297,
+    "name": "Fishing Pier",
+    "latitude": 30.3958196,
+    "longitude": -88.6339706,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "addr:housenumber": "3723",
+      "addr:street": "Seamist Drive",
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 3736774493,
-    "name": "Boat Ramp",
-    "latitude": 32.4920732,
-    "longitude": -88.7843896,
+    "id": 139579526,
+    "name": "Fishing Pier",
+    "latitude": 30.3982565,
+    "longitude": -88.641577,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 4313731150,
-    "name": "Boat Ramp",
-    "latitude": 30.4117134,
-    "longitude": -88.9041452,
+    "id": 139611027,
+    "name": "Fishing Pier",
+    "latitude": 30.4020468,
+    "longitude": -88.6487057,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 4313733060,
-    "name": "Boat Ramp",
-    "latitude": 30.4108966,
-    "longitude": -88.8786754,
+    "id": 140183349,
+    "name": "Fishing Pier",
+    "latitude": 30.33482,
+    "longitude": -88.5092306,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 4831269961,
-    "name": "Boat Ramps",
-    "latitude": 30.3956085,
-    "longitude": -88.7936311,
+    "id": 140183350,
+    "name": "Fishing Pier",
+    "latitude": 30.34118,
+    "longitude": -88.5076686,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway",
-      "name": "Boat Ramps"
+      "man_made": "pier"
     }
   },
   {
-    "id": 5264636942,
-    "name": "Boat Ramp",
-    "latitude": 30.3407037,
-    "longitude": -88.521047,
+    "id": 140520130,
+    "name": "Fishing Pier",
+    "latitude": 30.6052593,
+    "longitude": -88.6378525,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 5264647136,
-    "name": "Boat Ramp",
-    "latitude": 30.3455467,
-    "longitude": -88.5620491,
+    "id": 140520209,
+    "name": "Fishing Pier",
+    "latitude": 30.5723435,
+    "longitude": -88.5817905,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 5264647137,
-    "name": "Boat Ramp",
-    "latitude": 30.3456069,
-    "longitude": -88.561978,
+    "id": 140520267,
+    "name": "Fishing Pier",
+    "latitude": 30.3739998,
+    "longitude": -88.7015215,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 5264647138,
-    "name": "Boat Ramp",
-    "latitude": 30.345674,
-    "longitude": -88.5618948,
+    "id": 140525172,
+    "name": "Fishing Pier",
+    "latitude": 30.3884071,
+    "longitude": -88.6155607,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "addr:housenumber": "3212",
+      "addr:street": "Mary Walker Drive",
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 5264647139,
-    "name": "Boat Ramp",
-    "latitude": 30.3457296,
-    "longitude": -88.5618077,
+    "id": 141232509,
+    "name": "Fishing Pier",
+    "latitude": 30.2116155,
+    "longitude": -88.971819,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "highway": "footway",
+      "man_made": "pier"
     }
   },
   {
-    "id": 5264654272,
-    "name": "Boat Ramp",
-    "latitude": 30.3714357,
-    "longitude": -88.5609583,
+    "id": 141285547,
+    "name": "Fishing Pier",
+    "latitude": 30.4537367,
+    "longitude": -88.6275552,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 5264654273,
-    "name": "Boat Ramp",
-    "latitude": 30.3715494,
-    "longitude": -88.5609454,
+    "id": 141285548,
+    "name": "Fishing Pier",
+    "latitude": 30.4538181,
+    "longitude": -88.6274608,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 5302785912,
-    "name": "Boat Ramp",
-    "latitude": 30.4106066,
-    "longitude": -88.9543037,
+    "id": 141285575,
+    "name": "Fishing Pier",
+    "latitude": 30.3888899,
+    "longitude": -88.612037,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
     }
   },
   {
-    "id": 5736661869,
-    "name": "Causeway Park Boat Ramp",
-    "latitude": 30.419445,
-    "longitude": -88.9785929,
+    "id": 142018391,
+    "name": "Fishing Pier",
+    "latitude": 30.4233786,
+    "longitude": -88.8119396,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway",
-      "name": "Causeway Park Boat Ramp"
+      "man_made": "pier"
     }
   },
   {
-    "id": 5983384184,
-    "name": "Boat Ramp",
-    "latitude": 30.4200232,
-    "longitude": -88.8279999,
+    "id": 142018393,
+    "name": "Fishing Pier",
+    "latitude": 30.4236243,
+    "longitude": -88.8128747,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 6008669188,
-    "name": "Boat Ramp",
-    "latitude": 32.1020661,
-    "longitude": -88.6958112,
+    "id": 190280487,
+    "name": "Fishing Pier",
+    "latitude": 30.9218024,
+    "longitude": -88.5001254,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 7766258347,
-    "name": "Boat Ramp",
-    "latitude": 30.3679471,
-    "longitude": -88.562824,
+    "id": 251208542,
+    "name": "Fishing Pier",
+    "latitude": 30.2378237,
+    "longitude": -88.6672425,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 8239299056,
-    "name": "Boat Ramp",
-    "latitude": 33.463042,
-    "longitude": -88.7911342,
+    "id": 251370424,
+    "name": "Fishing Pier",
+    "latitude": 30.3917596,
+    "longitude": -88.886288,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 8619780529,
-    "name": "Boat Ramp",
-    "latitude": 31.681351,
-    "longitude": -88.683339,
+    "id": 251370434,
+    "name": "Fishing Pier",
+    "latitude": 30.3891347,
+    "longitude": -88.964213,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 8619780530,
-    "name": "Boat Ramp",
-    "latitude": 31.6406169,
-    "longitude": -88.6504338,
+    "id": 257933622,
+    "name": "Fishing Pier",
+    "latitude": 30.415658,
+    "longitude": -88.9611508,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9796285247,
-    "name": "Boat Ramp",
-    "latitude": 32.4983485,
-    "longitude": -88.8039798,
+    "id": 257933623,
+    "name": "Fishing Pier",
+    "latitude": 30.4239337,
+    "longitude": -88.9653895,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9796325446,
-    "name": "Boat Ramp",
-    "latitude": 32.4763025,
-    "longitude": -88.8817355,
+    "id": 257933624,
+    "name": "Fishing Pier",
+    "latitude": 30.4243934,
+    "longitude": -88.9680026,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 9796380453,
-    "name": "Boat Ramp",
-    "latitude": 32.4802702,
-    "longitude": -88.7765856,
+    "id": 266254156,
+    "name": "Fishing Pier",
+    "latitude": 30.400897,
+    "longitude": -88.8586753,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 9895504484,
-    "name": "Boat Ramp",
-    "latitude": 31.649926,
-    "longitude": -88.7190878,
+    "id": 317696482,
+    "name": "Ocean Springs HarborPier",
+    "latitude": 30.4023334,
+    "longitude": -88.8247147,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier",
+      "name": "Ocean Springs HarborPier"
     }
   },
   {
-    "id": 9906481586,
-    "name": "Boat Ramp",
-    "latitude": 33.8284244,
-    "longitude": -89.5844533,
+    "id": 317696476,
+    "name": "Chester M. McPearson, Jr. Pier",
+    "latitude": 30.4045542,
+    "longitude": -88.8299104,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier",
+      "name": "Chester M. McPearson, Jr. Pier"
     }
   },
   {
-    "id": 11017010993,
-    "name": "Boat Ramp",
-    "latitude": 34.3899657,
-    "longitude": -88.6695018,
+    "id": 318979116,
+    "name": "Fishing Pier",
+    "latitude": 30.3599729,
+    "longitude": -88.7640804,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 11017011034,
-    "name": "Boat Ramp",
-    "latitude": 34.3916054,
-    "longitude": -88.6680427,
+    "id": 361044366,
+    "name": "Fishing Pier",
+    "latitude": 30.3895959,
+    "longitude": -88.9749568,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 666789998,
-    "name": "Boat Ramp",
-    "latitude": 30.3921196,
-    "longitude": -88.8724328,
+    "id": 361425364,
+    "name": "Fishing Pier",
+    "latitude": 30.3891924,
+    "longitude": -88.8608083,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 831859386,
-    "name": "NOAA GMSF",
-    "latitude": 30.3677938,
-    "longitude": -88.5627652,
+    "id": 361425373,
+    "name": "Fishing Pier",
+    "latitude": 30.3897565,
+    "longitude": -88.8573516,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 490367590,
+    "name": "Ocean Springs Yatch Club Pier",
+    "latitude": 30.4093613,
+    "longitude": -88.8418424,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier",
+      "name": "Ocean Springs Yatch Club Pier"
+    }
+  },
+  {
+    "id": 377339598,
+    "name": "Fishing Pier",
+    "latitude": 30.4004854,
+    "longitude": -88.8206343,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377339600,
+    "name": "Fishing Pier",
+    "latitude": 30.3970123,
+    "longitude": -88.814551,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377339602,
+    "name": "Fishing Pier",
+    "latitude": 30.3939951,
+    "longitude": -88.809951,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377339605,
+    "name": "Fishing Pier",
+    "latitude": 30.3925534,
+    "longitude": -88.8064706,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377339606,
+    "name": "Fishing Pier",
+    "latitude": 30.3919333,
+    "longitude": -88.8029327,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377339607,
+    "name": "Fishing Pier",
+    "latitude": 30.391907,
+    "longitude": -88.8020691,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377339614,
+    "name": "Fishing Pier",
+    "latitude": 30.3891964,
+    "longitude": -88.792086,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "area": "yes",
       "layer": "1",
-      "leisure": "slipway",
-      "name": "NOAA GMSF",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 886084952,
-    "name": "Boat Ramp",
-    "latitude": 33.4629495,
-    "longitude": -88.7913268,
+    "id": 382382851,
+    "name": "Fishing Pier",
+    "latitude": 30.3918626,
+    "longitude": -88.8889352,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 979399126,
-    "name": "Boat Ramp",
-    "latitude": 30.3983763,
-    "longitude": -88.86252,
+    "id": 419807095,
+    "name": "Fishing Pier",
+    "latitude": 30.4006771,
+    "longitude": -88.8540215,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "floating": "no",
+      "foot": "yes",
+      "lit": "automatic",
+      "man_made": "pier",
+      "oneway": "no",
+      "surface": "concrete"
     }
   },
   {
-    "id": 1080816755,
-    "name": "Boat Ramp",
-    "latitude": 33.8284838,
-    "longitude": -89.5844482,
+    "id": 440252953,
+    "name": "Fishing Pier",
+    "latitude": 30.4141219,
+    "longitude": -88.5339051,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1080829316,
-    "name": "Boat Ramp",
-    "latitude": 34.4938851,
-    "longitude": -89.5887056,
+    "id": 479978523,
+    "name": "Fishing Pier",
+    "latitude": 34.2329225,
+    "longitude": -89.022079,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1080829317,
-    "name": "Boat Ramp",
-    "latitude": 34.4985577,
-    "longitude": -89.5899109,
+    "id": 480232190,
+    "name": "Fishing Pier",
+    "latitude": 30.405315,
+    "longitude": -88.8206185,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 1080829553,
-    "name": "Boat Ramp",
-    "latitude": 34.5403756,
-    "longitude": -89.5800799,
+    "id": 480295107,
+    "name": "Fishing Pier",
+    "latitude": 30.374519,
+    "longitude": -88.5641534,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1080829555,
-    "name": "Boat Ramp",
-    "latitude": 34.5388485,
-    "longitude": -89.5789077,
+    "id": 480934820,
+    "name": "Fishing Pier",
+    "latitude": 30.406697,
+    "longitude": -88.8174013,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1080829556,
-    "name": "Boat Ramp",
-    "latitude": 34.5394175,
-    "longitude": -89.5795112,
+    "id": 486629006,
+    "name": "Fishing Pier",
+    "latitude": 30.8989628,
+    "longitude": -88.6108551,
     "state": "Mississippi",
     "stateAbbr": "MS",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 486629010,
+    "name": "Fishing Pier",
+    "latitude": 30.9122805,
+    "longitude": -88.6180815,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 486629041,
+    "name": "Fishing Pier",
+    "latitude": 30.9659655,
+    "longitude": -88.532189,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 489370425,
+    "name": "Fishing Pier",
+    "latitude": 34.2315099,
+    "longitude": -88.6271167,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 489370427,
+    "name": "Fishing Pier",
+    "latitude": 34.2326047,
+    "longitude": -88.6220146,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 490226115,
+    "name": "Fishing Pier",
+    "latitude": 30.4031472,
+    "longitude": -88.8238714,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 490367591,
+    "name": "Ocean Springs Fishing Pier",
+    "latitude": 30.410056,
+    "longitude": -88.842925,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier",
+      "name": "Ocean Springs Fishing Pier"
+    }
+  },
+  {
+    "id": 490816705,
+    "name": "Fishing Pier",
+    "latitude": 30.4189273,
+    "longitude": -88.8267708,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 490816707,
+    "name": "Fishing Pier",
+    "latitude": 30.4191194,
+    "longitude": -88.8275636,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 490962534,
+    "name": "Fishing Pier",
+    "latitude": 30.395676,
+    "longitude": -88.793756,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 534275379,
+    "name": "Fishing Pier",
+    "latitude": 30.330513,
+    "longitude": -88.5102193,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 534304377,
+    "name": "Fishing Pier",
+    "latitude": 30.4127625,
+    "longitude": -88.8797513,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 544613477,
+    "name": "Fishing Pier",
+    "latitude": 30.3714906,
+    "longitude": -88.5609934,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 544636226,
+    "name": "Fishing Pier",
+    "latitude": 30.3406308,
+    "longitude": -88.534042,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "leisure": "fishing",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 544644358,
+    "name": "Fishing Pier",
+    "latitude": 30.3452273,
+    "longitude": -88.5624306,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 544683812,
+    "name": "Fishing Pier",
+    "latitude": 30.3782028,
+    "longitude": -88.5193048,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 549044578,
+    "name": "Fishing Pier",
+    "latitude": 30.3927561,
+    "longitude": -88.9016117,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 559125531,
+    "name": "Fishing Pier",
+    "latitude": 30.4195771,
+    "longitude": -88.7930979,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 604645747,
+    "name": "Causeway Park Long Pier",
+    "latitude": 30.421424,
+    "longitude": -88.9785189,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier",
+      "name": "Causeway Park Long Pier"
+    }
+  },
+  {
+    "id": 636651867,
+    "name": "Fishing Pier",
+    "latitude": 30.4073483,
+    "longitude": -88.8616642,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 636658485,
+    "name": "Fishing Pier",
+    "latitude": 30.4091765,
+    "longitude": -88.8677469,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 636658486,
+    "name": "Fishing Pier",
+    "latitude": 30.4085056,
+    "longitude": -88.8663201,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 637324883,
+    "name": "Fishing Pier",
+    "latitude": 32.1009215,
+    "longitude": -88.6975452,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 637324884,
+    "name": "Fishing Pier",
+    "latitude": 32.1012669,
+    "longitude": -88.6967451,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666406196,
+    "name": "Fishing Pier",
+    "latitude": 30.424888,
+    "longitude": -88.9386506,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666406206,
+    "name": "Fishing Pier",
+    "latitude": 30.4139173,
+    "longitude": -88.9543938,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666406220,
+    "name": "Fishing Pier",
+    "latitude": 30.415053,
+    "longitude": -88.9627641,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666406224,
+    "name": "Fishing Pier",
+    "latitude": 30.4153444,
+    "longitude": -88.9681837,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666406233,
+    "name": "Fishing Pier",
+    "latitude": 30.4151455,
+    "longitude": -88.9725674,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666406236,
+    "name": "Fishing Pier",
+    "latitude": 30.4144591,
+    "longitude": -88.9781105,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666789996,
+    "name": "Fishing Pier",
+    "latitude": 30.3920119,
+    "longitude": -88.8738175,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666790010,
+    "name": "Fishing Pier",
+    "latitude": 30.398305,
+    "longitude": -88.8625153,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 830986160,
+    "name": "USCG",
+    "latitude": 30.3388166,
+    "longitude": -88.5748162,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 831859385,
+    "name": "NOAA",
+    "latitude": 30.3679988,
+    "longitude": -88.5630255,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "NOAA"
+    }
+  },
+  {
+    "id": 897815692,
+    "name": "Fishing Pier",
+    "latitude": 30.4122125,
+    "longitude": -88.9004747,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 897815693,
+    "name": "Fishing Pier",
+    "latitude": 30.4125965,
+    "longitude": -88.8996995,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 897815714,
+    "name": "Fishing Pier",
+    "latitude": 30.4117863,
+    "longitude": -88.9033581,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 897815715,
+    "name": "Fishing Pier",
+    "latitude": 30.412766,
+    "longitude": -88.903759,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 897815723,
+    "name": "Fishing Pier",
+    "latitude": 30.4142408,
+    "longitude": -88.9085008,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 897815741,
+    "name": "Fishing Pier",
+    "latitude": 30.4180059,
+    "longitude": -88.9092659,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 979398793,
+    "name": "Fishing Pier",
+    "latitude": 30.3970054,
+    "longitude": -88.8598116,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 979398819,
+    "name": "Fishing Pier",
+    "latitude": 30.4050249,
+    "longitude": -88.8486243,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1079134240,
+    "name": "Fishing Pier",
+    "latitude": 32.2286562,
+    "longitude": -88.8208511,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1081864478,
+    "name": "Fishing Pier",
+    "latitude": 33.9807587,
+    "longitude": -89.1373565,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1097353292,
+    "name": "Fishing Pier",
+    "latitude": 34.3076617,
+    "longitude": -88.8001527,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1186108168,
+    "name": "Fishing Pier",
+    "latitude": 34.3903908,
+    "longitude": -88.6701035,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1186108173,
+    "name": "Fishing Pier",
+    "latitude": 34.3939624,
+    "longitude": -88.6686449,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302519687,
+    "name": "Fishing Pier",
+    "latitude": 30.421787,
+    "longitude": -88.8089681,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302519688,
+    "name": "Fishing Pier",
+    "latitude": 30.420642,
+    "longitude": -88.8058218,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302520366,
+    "name": "Fishing Pier",
+    "latitude": 30.4232621,
+    "longitude": -88.8179004,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302520368,
+    "name": "Fishing Pier",
+    "latitude": 30.4222788,
+    "longitude": -88.81908,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1316579460,
+    "name": "Fishing Pier",
+    "latitude": 34.264772,
+    "longitude": -88.6794116,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371154548,
+    "name": "Fishing Pier",
+    "latitude": 30.3338816,
+    "longitude": -88.5689045,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371154549,
+    "name": "Fishing Pier",
+    "latitude": 30.3338859,
+    "longitude": -88.5670511,
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "tags": {
+      "man_made": "pier"
     }
   }
 ]

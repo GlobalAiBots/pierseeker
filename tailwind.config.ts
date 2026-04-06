@@ -9,14 +9,21 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        cream: "#FAFAF5",
-        water: "#1E6091",
-        "water-light": "#2980B9",
+        cream: "#FEFDF5",
+        ocean: "#0A3D62",
+        "ocean-light": "#1B6CA8",
+        coral: "#FF6B6B",
+        "coral-dark": "#E85555",
+        sand: "#F4D03F",
+        "sand-dark": "#D4B82F",
         forest: "#2D6A4F",
         "forest-light": "#40916C",
-        sunset: "#E76F51",
-        "sunset-dark": "#D35F44",
         charcoal: "#2B2B2B",
+        // Keep old aliases for backward compat during transition
+        water: "#0A3D62",
+        "water-light": "#1B6CA8",
+        sunset: "#FF6B6B",
+        "sunset-dark": "#E85555",
       },
     },
   },

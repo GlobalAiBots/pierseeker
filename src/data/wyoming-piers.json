@@ -1,0 +1,827 @@
+[
+  {
+    "place_id": "osm_108531012",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.7672467,
+    "longitude": -110.7441147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_108531033",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.751716,
+    "longitude": -110.7257703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225648174",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2369812,
+    "longitude": -105.8366886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_246554994",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.3932549,
+    "longitude": -108.164852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264500978",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.368444,
+    "longitude": -104.780225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264500979",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.3655868,
+    "longitude": -104.7796027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264508804",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.3640026,
+    "longitude": -104.8021406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264508807",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.3667456,
+    "longitude": -104.8341339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264513790",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.3728562,
+    "longitude": -104.7765611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_338381902",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3031668,
+    "longitude": -105.564929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_342753769",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.9014881,
+    "longitude": -110.6435659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_342753771",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.9029378,
+    "longitude": -110.6443839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_355281034",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.15535,
+    "longitude": -104.8278914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_419715115",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2139061,
+    "longitude": -105.8229458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_427828158",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3375153,
+    "longitude": -106.3201476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_510045278",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.8387895,
+    "longitude": -110.6168946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_510045545",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.8439705,
+    "longitude": -110.6121844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599998593",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.2661913,
+    "longitude": -105.4876181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_654779537",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.9306584,
+    "longitude": -109.7416574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_783218016",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.162025,
+    "longitude": -104.838065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_783218018",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.1604772,
+    "longitude": -104.8367506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_828914086",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.5964395,
+    "longitude": -110.9171208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_837415764",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.5863219,
+    "longitude": -110.9056677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854810481",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2850639,
+    "longitude": -106.1398123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893874118",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3705442,
+    "longitude": -106.2534093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893874119",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3703852,
+    "longitude": -106.252365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_904928593",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.7473877,
+    "longitude": -110.0586048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_941911996",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8595523,
+    "longitude": -110.9433089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_944093870",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8573147,
+    "longitude": -110.9076602,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_955864925",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.7861321,
+    "longitude": -110.7320986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_962642335",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.7538184,
+    "longitude": -110.9479056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1022951650",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.120616,
+    "longitude": -110.543531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1022954807",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.1216085,
+    "longitude": -110.5372878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1042711845",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.6340991,
+    "longitude": -110.812282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1046904755",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8002995,
+    "longitude": -110.9263165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1074960331",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.8540791,
+    "longitude": -110.6754611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1082381595",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.939399,
+    "longitude": -110.9477269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1142095504",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3214636,
+    "longitude": -105.5860598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165425893",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.9923746,
+    "longitude": -109.9028282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1190012621",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.1093606,
+    "longitude": -110.853934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204251270",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.5979915,
+    "longitude": -110.767517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204251271",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.5979025,
+    "longitude": -110.7673112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204774965",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.937744,
+    "longitude": -110.6430439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204774985",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.9302558,
+    "longitude": -110.6403505,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1219414653",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.1787322,
+    "longitude": -105.2299465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1221773259",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.6401192,
+    "longitude": -110.5811581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1281829818",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.3922666,
+    "longitude": -110.5486681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293295524",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.4005616,
+    "longitude": -108.1694965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293298817",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.3308244,
+    "longitude": -108.1522283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293300141",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.262894,
+    "longitude": -108.1927216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1375695265",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.6530694,
+    "longitude": -108.1998751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1413251037",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8993971,
+    "longitude": -109.8248214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1448394429",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.360951,
+    "longitude": -105.7164754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1469071664",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8325623,
+    "longitude": -110.9740788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1469105810",
+    "name": "Fishing Pier",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.850414,
+    "longitude": -110.9523923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

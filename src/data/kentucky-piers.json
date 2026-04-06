@@ -1,0 +1,4862 @@
+[
+  {
+    "place_id": "osm_9275110214",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3135704,
+    "longitude": -86.2300854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9275240586",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3469555,
+    "longitude": -86.1228849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12138626323",
+    "name": "Hazard City Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2518055,
+    "longitude": -83.1960316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12408098380",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6291609,
+    "longitude": -84.7255802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_161720225",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5105671,
+    "longitude": -82.609584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_241096421",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0997289,
+    "longitude": -83.5103039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_338355234",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4261579,
+    "longitude": -82.4373422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_469547697",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0740407,
+    "longitude": -83.9094379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_470259462",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0350513,
+    "longitude": -84.1321184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_470259468",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.015802,
+    "longitude": -84.1223737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_471285729",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9477311,
+    "longitude": -84.2819189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480854554",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.6952321,
+    "longitude": -82.7263098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480854556",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.6976955,
+    "longitude": -82.7256163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_484816064",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3031214,
+    "longitude": -83.4464495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_493382019",
+    "name": "Lake Reba Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7384562,
+    "longitude": -84.2528947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_511204393",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.842748,
+    "longitude": -82.8802371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_544705568",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6481598,
+    "longitude": -83.7618902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_544705651",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6486936,
+    "longitude": -83.7633465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_547140157",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5884053,
+    "longitude": -84.1414156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_552913337",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9485895,
+    "longitude": -83.7361023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572824280",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9569099,
+    "longitude": -84.2885367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572824324",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.941551,
+    "longitude": -84.2756112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572824325",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.943271,
+    "longitude": -84.2775866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572914618",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9276991,
+    "longitude": -84.2616963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572914619",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9298149,
+    "longitude": -84.2636168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575367344",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7720649,
+    "longitude": -83.9142119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575367353",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7832685,
+    "longitude": -83.9153303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575367404",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7448934,
+    "longitude": -83.8469217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575398559",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7302017,
+    "longitude": -83.8419663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575479552",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7206322,
+    "longitude": -83.8332995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575479555",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7201948,
+    "longitude": -83.8300581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575479558",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7206358,
+    "longitude": -83.8270672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575479623",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.685739,
+    "longitude": -83.7797089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575533296",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6562105,
+    "longitude": -83.7673401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_575533297",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6561703,
+    "longitude": -83.7676953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_625548064",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.682457,
+    "longitude": -82.1841074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_679109886",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6096022,
+    "longitude": -82.6342218,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_720559972",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.303946,
+    "longitude": -82.4130718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_720559985",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.3034678,
+    "longitude": -82.4122654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_763362587",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.226925,
+    "longitude": -82.997851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_763362592",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2277918,
+    "longitude": -82.9983981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847315051",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8535278,
+    "longitude": -82.863242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_876265865",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.2501614,
+    "longitude": -82.9856918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8256394454",
+    "name": "Shallow Flats Wildlife Viewing Area",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.1007921,
+    "longitude": -83.4931707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_895928994",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.8877142,
+    "longitude": -84.2391056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_922865167",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4311761,
+    "longitude": -82.3864661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_922865170",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4316431,
+    "longitude": -82.3881995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_943931290",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7237865,
+    "longitude": -84.2903265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_944037204",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.723526,
+    "longitude": -84.2857964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_944910016",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.1135783,
+    "longitude": -83.5308711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_948483104",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7331125,
+    "longitude": -84.2846945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_948859369",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7261342,
+    "longitude": -84.2713655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965001350",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6801492,
+    "longitude": -84.2727309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965966974",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7425422,
+    "longitude": -84.2950165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965966975",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.742367,
+    "longitude": -84.2950647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_970454450",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7728428,
+    "longitude": -84.2629091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_970454562",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.78677,
+    "longitude": -84.2715099,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_975435900",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8314809,
+    "longitude": -84.2752688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_975515739",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8533157,
+    "longitude": -84.27972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_975515799",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8494993,
+    "longitude": -84.2882351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_977547636",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8125222,
+    "longitude": -82.1953726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_978974434",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7898423,
+    "longitude": -84.1335308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_982246121",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8984331,
+    "longitude": -84.2868189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1042985864",
+    "name": "Kayak launching pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7261937,
+    "longitude": -83.1762569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1042985889",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7338439,
+    "longitude": -83.1887827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1097293226",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9217173,
+    "longitude": -83.0502858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1129496939",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8576561,
+    "longitude": -82.4221204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1130634904",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.778523,
+    "longitude": -82.7587242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1131827486",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8772426,
+    "longitude": -83.8848783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1134637131",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.1240401,
+    "longitude": -82.6302247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1153468583",
+    "name": "Winchester Reservoir Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9470979,
+    "longitude": -83.6671111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1154088905",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.8527176,
+    "longitude": -84.0794889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180117936",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4292681,
+    "longitude": -82.440467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180128324",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4257463,
+    "longitude": -82.4559924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1185558287",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8052855,
+    "longitude": -82.2144289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1191310750",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.344244,
+    "longitude": -84.0326795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1191310764",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.3448765,
+    "longitude": -84.0315375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1199581731",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.8407942,
+    "longitude": -82.8803461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1207272274",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8061509,
+    "longitude": -82.2043089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1208809042",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6151833,
+    "longitude": -82.8495161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1208809049",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6157285,
+    "longitude": -82.8525576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1241961518",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6116524,
+    "longitude": -82.1745874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1255734983",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.923528,
+    "longitude": -84.2558069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1288909562",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0021309,
+    "longitude": -84.0893934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1305595566",
+    "name": "Meldahl Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7928886,
+    "longitude": -84.1763351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1306002109",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8138814,
+    "longitude": -83.5219523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1316724506",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0046837,
+    "longitude": -84.2406876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1318193092",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0039902,
+    "longitude": -84.2155382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1318237310",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0256959,
+    "longitude": -84.2351587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1319774105",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3792657,
+    "longitude": -83.9133508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1327972789",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.97447,
+    "longitude": -84.2206445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1328234075",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9850078,
+    "longitude": -84.2142398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1344283027",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9783992,
+    "longitude": -84.2584721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1344283135",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9787196,
+    "longitude": -84.2569739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1422575717",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.5359727,
+    "longitude": -82.6888624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1430577993",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6771395,
+    "longitude": -83.1092282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1450756424",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0053061,
+    "longitude": -83.1665072,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451276361",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.028732,
+    "longitude": -83.1238326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1463967816",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.5275814,
+    "longitude": -82.2627758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_769281329",
+    "name": "Boat Launch",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4286149,
+    "longitude": -83.9974263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8206712808",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.3673213,
+    "longitude": -83.1253749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8903530732",
+    "name": "Windy Bay Fishing Site",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0864278,
+    "longitude": -83.4562153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8903530832",
+    "name": "Ramey Creek Fishing Site",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0919665,
+    "longitude": -83.4585188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8903530888",
+    "name": "Muskie Bend Fishing Site",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0892873,
+    "longitude": -83.4891752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_27526677",
+    "name": "McGregor Park Courtesy Boat Dock",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5300568,
+    "longitude": -87.3648117,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_55673485",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0641816,
+    "longitude": -84.5768297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_55673561",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0647647,
+    "longitude": -84.5784568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_60787170",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0833207,
+    "longitude": -84.5712401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_60787180",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0827254,
+    "longitude": -84.5733161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_60787201",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0813219,
+    "longitude": -84.5778194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_60787267",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0805704,
+    "longitude": -84.5826401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_60787396",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0747261,
+    "longitude": -84.603611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_79451853",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0739751,
+    "longitude": -84.6088924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_90291583",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0779576,
+    "longitude": -84.5926113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_90296724",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0745399,
+    "longitude": -84.6178871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_90296793",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0871101,
+    "longitude": -84.6436337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_93741735",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0936485,
+    "longitude": -84.4299017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_93741740",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0922993,
+    "longitude": -84.4303876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_93760965",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0874217,
+    "longitude": -84.4309843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_141741587",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.073051,
+    "longitude": -84.5932208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_158650125",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0873688,
+    "longitude": -84.559957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_158650413",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0758065,
+    "longitude": -84.5846251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_158650446",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0718243,
+    "longitude": -84.596328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_164560402",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6458418,
+    "longitude": -88.0880586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_164562147",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6442521,
+    "longitude": -88.1291538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165042181",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5951741,
+    "longitude": -88.1210983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165042805",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5905569,
+    "longitude": -88.1221853,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165042807",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5905517,
+    "longitude": -88.1226071,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165048717",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5834181,
+    "longitude": -88.1340152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165048718",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5837754,
+    "longitude": -88.1376756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165048728",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5854518,
+    "longitude": -88.1321719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165048729",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5885949,
+    "longitude": -88.1326402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165048732",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.587798,
+    "longitude": -88.1323291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165049507",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5931667,
+    "longitude": -88.1348373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165049510",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5965974,
+    "longitude": -88.1310899,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165051295",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6072008,
+    "longitude": -88.1395318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165051297",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6075157,
+    "longitude": -88.1400736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165051523",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5999579,
+    "longitude": -88.1262471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165051524",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6067887,
+    "longitude": -88.1367614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165051525",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6026559,
+    "longitude": -88.1290097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165051531",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6012609,
+    "longitude": -88.1278105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165052308",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6115232,
+    "longitude": -88.1351671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165055478",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6071415,
+    "longitude": -88.0685306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165055480",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6104726,
+    "longitude": -88.0689646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165055490",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6125797,
+    "longitude": -88.0690437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_182572319",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7611267,
+    "longitude": -88.133663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_182572324",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7627501,
+    "longitude": -88.1324738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_199829278",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0826394,
+    "longitude": -84.4216712,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_199829280",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0818237,
+    "longitude": -84.4217493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_238175642",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.222903,
+    "longitude": -85.2712915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_238620154",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2572177,
+    "longitude": -85.3417839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_238620155",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2856059,
+    "longitude": -85.3054331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_238620157",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2596525,
+    "longitude": -85.3395985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_238620161",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2559597,
+    "longitude": -85.3435805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_239350474",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5436113,
+    "longitude": -85.4375101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_239350475",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5854215,
+    "longitude": -85.3378093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_239350485",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6289368,
+    "longitude": -85.3739282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_239350539",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5422245,
+    "longitude": -85.4386243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_267706690",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9490281,
+    "longitude": -89.0957968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_322604163",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8532125,
+    "longitude": -87.9416605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_322604178",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8517374,
+    "longitude": -87.9400134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_322604199",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8534517,
+    "longitude": -87.9428943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_322604213",
+    "name": "Dock",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8508713,
+    "longitude": -87.9322521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_322607392",
+    "name": "Dock",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9121039,
+    "longitude": -87.9887885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_386402392",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9898844,
+    "longitude": -84.4232383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_401830252",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9891351,
+    "longitude": -84.4337321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_401899654",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9332425,
+    "longitude": -84.3940078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_401900400",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.8872133,
+    "longitude": -84.3493335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_402027153",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9778245,
+    "longitude": -84.5517984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_402562411",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0130987,
+    "longitude": -84.4629724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_405092434",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5057458,
+    "longitude": -87.3725321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_405092435",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5057402,
+    "longitude": -87.3724879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_503674853",
+    "name": "The Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.776614,
+    "longitude": -87.1167224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_530668548",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5089157,
+    "longitude": -87.3693534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_531101859",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5109458,
+    "longitude": -89.5549867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_534712069",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9368153,
+    "longitude": -85.0439901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_534712078",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9350448,
+    "longitude": -85.0423679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_586713706",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7210982,
+    "longitude": -84.6824211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_586717584",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7187708,
+    "longitude": -84.702181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_593466651",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0342123,
+    "longitude": -84.352646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_593466652",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0341539,
+    "longitude": -84.3524711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599980618",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2320546,
+    "longitude": -85.3372421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_616173706",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0892689,
+    "longitude": -84.5181436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_723270264",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0833461,
+    "longitude": -84.4372005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_752892483",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.887474,
+    "longitude": -84.367814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761869099",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5182935,
+    "longitude": -87.2077839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_762130421",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5122718,
+    "longitude": -87.2279565,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_794635715",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5387875,
+    "longitude": -87.3938319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_794635730",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5365081,
+    "longitude": -87.4003579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_801422460",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9288233,
+    "longitude": -88.0053671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_828587267",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.031279,
+    "longitude": -84.3889616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_834331691",
+    "name": "USCG",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.571208,
+    "longitude": -89.2010346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_834349416",
+    "name": "Coast Guard Mooring",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7871186,
+    "longitude": -87.0735991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_866829493",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7876278,
+    "longitude": -84.3559298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_884950912",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.8304011,
+    "longitude": -84.349284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893973509",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7753333,
+    "longitude": -84.3447779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_895094729",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7566374,
+    "longitude": -84.3422335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_895094730",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7554126,
+    "longitude": -84.3440225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_895382314",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9655571,
+    "longitude": -89.0952354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_895943674",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.734433,
+    "longitude": -84.3248886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_896231947",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.726207,
+    "longitude": -84.3419213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_896231967",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7283205,
+    "longitude": -84.3396465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_959769876",
+    "name": "BB Riverboats",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.093524,
+    "longitude": -84.501898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965237089",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7269912,
+    "longitude": -84.3008536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_984743760",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8938184,
+    "longitude": -84.300817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988945027",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.917509,
+    "longitude": -84.3130296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_990496967",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0650682,
+    "longitude": -84.4318815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993521029",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9473112,
+    "longitude": -84.3542471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1010370425",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8976849,
+    "longitude": -84.3088957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011825708",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9509045,
+    "longitude": -88.2348248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011825712",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9491815,
+    "longitude": -88.2324952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011825718",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9472696,
+    "longitude": -88.231252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011825719",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9454507,
+    "longitude": -88.2331527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011825727",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9471665,
+    "longitude": -88.2377753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011936332",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9198127,
+    "longitude": -88.2229879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011936343",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9188548,
+    "longitude": -88.2221045,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011936347",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9172228,
+    "longitude": -88.2186393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1011936351",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9191812,
+    "longitude": -88.2171091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1014593101",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6823118,
+    "longitude": -85.7018609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1019816169",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.995242,
+    "longitude": -84.523995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1021159770",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2258164,
+    "longitude": -85.8900919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1021492429",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.1955804,
+    "longitude": -85.9097572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023340176",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8365004,
+    "longitude": -88.6675656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023342798",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7645084,
+    "longitude": -88.7363653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1024622607",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.5219069,
+    "longitude": -86.9178659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1027524539",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8864262,
+    "longitude": -84.3671447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1049728801",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9303286,
+    "longitude": -84.3801364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1066001329",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0857434,
+    "longitude": -84.7827678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1066992553",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.4015802,
+    "longitude": -84.3498977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1077147229",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0863202,
+    "longitude": -84.7813205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1083817308",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.978233,
+    "longitude": -84.4498758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084610077",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5157886,
+    "longitude": -85.3873107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084610078",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5144616,
+    "longitude": -85.3876135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1107972632",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9305087,
+    "longitude": -85.0443116,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1115207219",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.6708345,
+    "longitude": -85.4980453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1115207225",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.6685636,
+    "longitude": -85.4947759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1115558912",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7153449,
+    "longitude": -85.5295107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116627619",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.065897,
+    "longitude": -84.4519156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1119258405",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0709091,
+    "longitude": -84.391202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1123742270",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5434816,
+    "longitude": -85.4371192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1124864699",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6485219,
+    "longitude": -84.7407716,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1128029573",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6587239,
+    "longitude": -84.3301185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1131414660",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.62853,
+    "longitude": -84.3183285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1137884127",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8447915,
+    "longitude": -84.4516345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1138633515",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.0434926,
+    "longitude": -87.0436025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1144079805",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9060098,
+    "longitude": -86.0753107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178806683",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6366286,
+    "longitude": -85.2817699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178806684",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6378539,
+    "longitude": -85.2814864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1178806691",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6365462,
+    "longitude": -85.2828297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180707537",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9853136,
+    "longitude": -84.6047635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180707538",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9876724,
+    "longitude": -84.6058166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204442750",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.747023,
+    "longitude": -87.9569518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204489857",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7484817,
+    "longitude": -87.956643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204489864",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7473203,
+    "longitude": -87.9577246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1204489865",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7475985,
+    "longitude": -87.957548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1229742882",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7048343,
+    "longitude": -84.3557842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1231384464",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5684843,
+    "longitude": -89.2122582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1231384465",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.568425,
+    "longitude": -89.2128625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1253375492",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5872918,
+    "longitude": -85.3957359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1253375493",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5880152,
+    "longitude": -85.3984368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1253375495",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5870266,
+    "longitude": -85.3983121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1258412946",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.0459041,
+    "longitude": -84.6727508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1258412947",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.0445778,
+    "longitude": -84.6700479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1258412949",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.0486645,
+    "longitude": -84.6704717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260583586",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2847229,
+    "longitude": -86.2433347,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260583587",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2850462,
+    "longitude": -86.2419196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260583599",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2882696,
+    "longitude": -86.2394264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260583600",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2870985,
+    "longitude": -86.2374246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260592080",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3045443,
+    "longitude": -86.2331652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260595573",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3079779,
+    "longitude": -86.2454849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260595577",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3132226,
+    "longitude": -86.25034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260599689",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.314213,
+    "longitude": -86.224571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260601972",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3337573,
+    "longitude": -86.2221376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260601975",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3321074,
+    "longitude": -86.2218575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260608036",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2987881,
+    "longitude": -86.2140033,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260658082",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3153179,
+    "longitude": -86.1355627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260658084",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3115042,
+    "longitude": -86.1359548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260658086",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3103488,
+    "longitude": -86.1444745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659104",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3176045,
+    "longitude": -86.1353984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659108",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3248393,
+    "longitude": -86.1302702,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659110",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3233413,
+    "longitude": -86.1376093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659111",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3222657,
+    "longitude": -86.1390568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659112",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3214897,
+    "longitude": -86.143532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659114",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3236747,
+    "longitude": -86.1456695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659116",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3285056,
+    "longitude": -86.1332498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659119",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3312291,
+    "longitude": -86.1375432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659122",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3329617,
+    "longitude": -86.1436118,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659309",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3334556,
+    "longitude": -86.1611195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659311",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3322922,
+    "longitude": -86.1653115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1260659312",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3325669,
+    "longitude": -86.1631138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1262605492",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.609041,
+    "longitude": -86.5008587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1264906748",
+    "name": "Pier I",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8625543,
+    "longitude": -84.9836229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1264906749",
+    "name": "Pier J",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.862359,
+    "longitude": -84.9823993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1264906751",
+    "name": "Pier H",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8610526,
+    "longitude": -84.9829014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1264906752",
+    "name": "Pier M",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8629026,
+    "longitude": -84.9790477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1264906753",
+    "name": "Pier N - Slipaway",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8626779,
+    "longitude": -84.9774867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1264906754",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8620109,
+    "longitude": -84.9772171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1324079443",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8936889,
+    "longitude": -86.1108567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1324079449",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.892556,
+    "longitude": -86.1125355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1367207600",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.1836864,
+    "longitude": -86.6314674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1376739999",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.3152127,
+    "longitude": -87.4794467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1387174757",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.0439815,
+    "longitude": -84.66746,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1387174764",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.0505677,
+    "longitude": -84.6753042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1392486679",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9702683,
+    "longitude": -84.6428298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393947141",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9049866,
+    "longitude": -88.0341622,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1394197442",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9402762,
+    "longitude": -88.1743617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1394197452",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.947457,
+    "longitude": -88.1889891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1394991813",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9374668,
+    "longitude": -88.3479239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1395032252",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8600138,
+    "longitude": -88.0132978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409395037",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.939819,
+    "longitude": -88.2472181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409395038",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9386107,
+    "longitude": -88.2485598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409395042",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9371734,
+    "longitude": -88.2502379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409395048",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9367337,
+    "longitude": -88.2525677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409395058",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9322973,
+    "longitude": -88.2606162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1409395059",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.9329039,
+    "longitude": -88.2597846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1421811230",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7674721,
+    "longitude": -87.406512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1422714215",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.4666292,
+    "longitude": -84.5624457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1427314347",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0793862,
+    "longitude": -84.5881508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1444020401",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.5173191,
+    "longitude": -86.8495987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1444903267",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0949024,
+    "longitude": -84.6746086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1457003073",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8916213,
+    "longitude": -89.5688632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1457437492",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.150683,
+    "longitude": -86.0422834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1489865981",
+    "name": "Fishing Pier",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9958797,
+    "longitude": -84.7118302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1493527127",
+    "name": "Boat Dock",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8259223,
+    "longitude": -88.1657804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

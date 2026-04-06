@@ -7,13 +7,13 @@ export default function CookieConsent() {
   const [show, setShow] = useState(false);
 
   useEffect(() => {
-    if (!localStorage.getItem("rampseeker_cookies_accepted")) {
+    if (!localStorage.getItem("pierseeker_cookies_accepted")) {
       setShow(true);
     }
   }, []);
 
   function accept() {
-    localStorage.setItem("rampseeker_cookies_accepted", "1");
+    localStorage.setItem("pierseeker_cookies_accepted", "1");
     setShow(false);
   }
 

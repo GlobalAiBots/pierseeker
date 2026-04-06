@@ -1,0 +1,137 @@
+[
+  {
+    "place_id": "osm_415802357",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.1835708,
+    "longitude": -71.5814571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_415802362",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.182583,
+    "longitude": -71.575518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_415802378",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.1822696,
+    "longitude": -71.5748459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_819585606",
+    "name": "Coast Guard Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.1945705,
+    "longitude": -71.5885751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993711979",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.1785361,
+    "longitude": -71.5711553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993711982",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.173574,
+    "longitude": -71.5573472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1015249405",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.1523165,
+    "longitude": -71.5547345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1015492318",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.1900429,
+    "longitude": -71.5879671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1124877489",
+    "name": "Fishing Pier",
+    "formatted_address": ", Rhode Island, USA",
+    "latitude": 41.1821815,
+    "longitude": -71.5780938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

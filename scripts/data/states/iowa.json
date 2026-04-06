@@ -96,5 +96,3873 @@
     "tags": {
       "waterway": "dock"
     }
+  },
+  {
+    "id": 183350610,
+    "name": "Fishing Pier",
+    "latitude": 43.3495233,
+    "longitude": -90.3890845,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 297829392,
+    "name": "canoe port",
+    "latitude": 43.3466739,
+    "longitude": -90.3887299,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "name": "canoe port"
+    }
+  },
+  {
+    "id": 297829427,
+    "name": "canoe port",
+    "latitude": 43.3351545,
+    "longitude": -90.3915085,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "name": "canoe port"
+    }
+  },
+  {
+    "id": 464041459,
+    "name": "Fishing Pier",
+    "latitude": 43.0259466,
+    "longitude": -90.2881871,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1060890319,
+    "name": "Fishing Pier",
+    "latitude": 42.9540672,
+    "longitude": -90.2311895,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 13200028592,
+    "name": "Rodger Butteris Handicap Fishing pier",
+    "latitude": 42.8173304,
+    "longitude": -90.3268532,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "fishing",
+      "name": "Rodger Butteris Handicap Fishing pier"
+    }
+  },
+  {
+    "id": 643910045,
+    "name": "Fishing Pier",
+    "latitude": 42.6807785,
+    "longitude": -90.1225303,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 49363154,
+    "name": "Fishing Pier",
+    "latitude": 42.5197141,
+    "longitude": -90.6456709,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 70177625,
+    "name": "Fishing Pier",
+    "latitude": 43.2112109,
+    "longitude": -96.3108884,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 149128419,
+    "name": "Fishing Pier",
+    "latitude": 43.1248365,
+    "longitude": -93.4748805,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 149128428,
+    "name": "Fishing Pier",
+    "latitude": 43.1231492,
+    "longitude": -93.4525779,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 149128431,
+    "name": "Fishing Pier",
+    "latitude": 43.1258156,
+    "longitude": -93.472396,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 149128439,
+    "name": "Fishing Pier",
+    "latitude": 43.1260389,
+    "longitude": -93.4661706,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 149128471,
+    "name": "Fishing Pier",
+    "latitude": 43.1231091,
+    "longitude": -93.4522004,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 159607706,
+    "name": "Fishing Pier",
+    "latitude": 43.1759614,
+    "longitude": -91.2321503,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172383506,
+    "name": "Fishing Pier",
+    "latitude": 43.1789123,
+    "longitude": -94.9399549,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172423580,
+    "name": "Fishing Pier",
+    "latitude": 43.1814846,
+    "longitude": -94.908608,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172423581,
+    "name": "Fishing Pier",
+    "latitude": 43.1828337,
+    "longitude": -94.9042685,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172423585,
+    "name": "Fishing Pier",
+    "latitude": 43.1824167,
+    "longitude": -94.8973582,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172423591,
+    "name": "Fishing Pier",
+    "latitude": 43.182486,
+    "longitude": -94.897677,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172423592,
+    "name": "Fishing Pier",
+    "latitude": 43.1823101,
+    "longitude": -94.9068546,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172423593,
+    "name": "Fishing Pier",
+    "latitude": 43.1825344,
+    "longitude": -94.8979013,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172425770,
+    "name": "Fishing Pier",
+    "latitude": 43.1762062,
+    "longitude": -94.9153449,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172425772,
+    "name": "Fishing Pier",
+    "latitude": 43.1786582,
+    "longitude": -94.9147199,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172425773,
+    "name": "Fishing Pier",
+    "latitude": 43.1671085,
+    "longitude": -94.9198975,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172425774,
+    "name": "Fishing Pier",
+    "latitude": 43.1701849,
+    "longitude": -94.9202892,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172425778,
+    "name": "Fishing Pier",
+    "latitude": 43.1732972,
+    "longitude": -94.9177707,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172425780,
+    "name": "Fishing Pier",
+    "latitude": 43.1625343,
+    "longitude": -94.9145235,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172579889,
+    "name": "Fishing Pier",
+    "latitude": 43.1899276,
+    "longitude": -94.9538165,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 310509368,
+    "name": "Fishing Pier",
+    "latitude": 42.7691395,
+    "longitude": -93.2429301,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 442200886,
+    "name": "Fishing Pier",
+    "latitude": 43.0431017,
+    "longitude": -91.1771035,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444661130,
+    "name": "Fishing Pier",
+    "latitude": 42.5252131,
+    "longitude": -90.642227,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "waiting"
+    }
+  },
+  {
+    "id": 510494754,
+    "name": "Fishing Pier",
+    "latitude": 42.6005568,
+    "longitude": -91.5361014,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 544935154,
+    "name": "Fishing Pier",
+    "latitude": 42.5349837,
+    "longitude": -92.4012092,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 590865982,
+    "name": "Fishing Pier",
+    "latitude": 43.4114254,
+    "longitude": -95.1302553,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 698755937,
+    "name": "Fishing Pier",
+    "latitude": 43.0410428,
+    "longitude": -91.1769903,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "building": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 765539352,
+    "name": "Fishing Pier",
+    "latitude": 43.4124596,
+    "longitude": -95.1415233,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 907178630,
+    "name": "Fishing Pier",
+    "latitude": 42.660799,
+    "longitude": -91.2501803,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 926046437,
+    "name": "Fishing Pier",
+    "latitude": 42.7771372,
+    "longitude": -91.0945342,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 926046441,
+    "name": "Fishing Pier",
+    "latitude": 42.7775396,
+    "longitude": -91.0943836,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 981342902,
+    "name": "Fishing Pier",
+    "latitude": 43.1349107,
+    "longitude": -93.3842891,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 987142406,
+    "name": "Fishing Pier",
+    "latitude": 42.531114,
+    "longitude": -92.4236148,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 993509985,
+    "name": "Fishing Pier",
+    "latitude": 42.5548121,
+    "longitude": -92.432773,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 993509987,
+    "name": "Fishing Pier",
+    "latitude": 42.5546261,
+    "longitude": -92.4323592,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1383236764,
+    "name": "Gavilon Main Terminal Dock",
+    "latitude": 42.5014581,
+    "longitude": -90.654059,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Gavilon Main Terminal Dock",
+      "source": "USACE IENC cell U37UM578",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1011374987,
+    "name": "Flint Hills Resources Dock",
+    "latitude": 42.5035863,
+    "longitude": -90.6519455,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Flint Hills Resources Dock",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring",
+      "source": "USACE IENC cell U37UM578",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1013618175,
+    "name": "Land Wall",
+    "latitude": 42.5393187,
+    "longitude": -90.6456673,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "name": "Land Wall",
+      "note": "Not listed as a contributing feature in the documentation for Lock & Dam No. 11 Historic District",
+      "protection_title": "U.S. Army Corps of Engineers",
+      "source_ref": "https://catalog.archives.gov/id/28891076",
+      "start_date": "1937",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1029039679,
+    "name": "Fishing Pier",
+    "latitude": 43.121991,
+    "longitude": -93.45882,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1081590824,
+    "name": "Fishing Pier",
+    "latitude": 42.8080037,
+    "longitude": -92.2190953,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1081989468,
+    "name": "Fishing Pier",
+    "latitude": 42.8103677,
+    "longitude": -92.2255708,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082209588,
+    "name": "Fishing Pier",
+    "latitude": 42.8300326,
+    "longitude": -92.2194426,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1083068668,
+    "name": "Fishing Pier",
+    "latitude": 43.1391682,
+    "longitude": -93.3912802,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1126850390,
+    "name": "Fishing Pier",
+    "latitude": 43.3910944,
+    "longitude": -95.1033248,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1126850398,
+    "name": "Fishing Pier",
+    "latitude": 43.3909596,
+    "longitude": -95.1022237,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1126850412,
+    "name": "Fishing Pier",
+    "latitude": 43.3929787,
+    "longitude": -95.1007067,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1127644516,
+    "name": "Fishing Pier",
+    "latitude": 43.424764,
+    "longitude": -95.0924448,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1130705405,
+    "name": "Fishing Pier",
+    "latitude": 42.6375243,
+    "longitude": -95.2341895,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1152728316,
+    "name": "Fishing Pier",
+    "latitude": 43.3840884,
+    "longitude": -96.4691639,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1152728327,
+    "name": "Fishing Pier",
+    "latitude": 43.3845519,
+    "longitude": -96.4669334,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1152728330,
+    "name": "Fishing Pier",
+    "latitude": 43.3844654,
+    "longitude": -96.4597495,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173235731,
+    "name": "Fishing Pier",
+    "latitude": 42.5398295,
+    "longitude": -92.4505563,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185610786,
+    "name": "Fishing Pier",
+    "latitude": 43.4974572,
+    "longitude": -95.1031273,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1197108769,
+    "name": "Fishing Pier",
+    "latitude": 42.7062819,
+    "longitude": -92.5376869,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1206216022,
+    "name": "Fishing Pier",
+    "latitude": 42.8978479,
+    "longitude": -91.7678923,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1206216023,
+    "name": "Fishing Pier",
+    "latitude": 42.8973042,
+    "longitude": -91.7679458,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1219866793,
+    "name": "Fishing Pier",
+    "latitude": 42.580659,
+    "longitude": -92.5090216,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1242096253,
+    "name": "Fishing Pier",
+    "latitude": 43.4116247,
+    "longitude": -95.1808043,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1305104075,
+    "name": "Fishing Pier",
+    "latitude": 42.8835555,
+    "longitude": -92.3120613,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1374203609,
+    "name": "Fishing Pier",
+    "latitude": 43.3672273,
+    "longitude": -95.1367829,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1374210369,
+    "name": "Fishing Pier",
+    "latitude": 43.3663167,
+    "longitude": -95.1384991,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1381368155,
+    "name": "Fishing Pier",
+    "latitude": 42.5369805,
+    "longitude": -90.6364618,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1381382431,
+    "name": "Eagle Point Barge and Bar",
+    "latitude": 42.5404063,
+    "longitude": -90.6396958,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "amenity": "bar",
+      "area": "yes",
+      "facebook": "https://www.facebook.com/p/Eagle-Point-Barge-Bar-LLC-100057289455860/",
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Eagle Point Barge and Bar",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1381649334,
+    "name": "Fishing Pier",
+    "latitude": 42.5532353,
+    "longitude": -90.6328994,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1381652830,
+    "name": "Fishing Pier",
+    "latitude": 42.5422564,
+    "longitude": -90.6371418,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "waiting"
+    }
+  },
+  {
+    "id": 1382146443,
+    "name": "Fishing Pier",
+    "latitude": 42.5257278,
+    "longitude": -90.6447771,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 1382146448,
+    "name": "Fishing Pier",
+    "latitude": 42.5275367,
+    "longitude": -90.6447748,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 1388655420,
+    "name": "Fishing Pier",
+    "latitude": 42.8954423,
+    "longitude": -92.8035163,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1395725094,
+    "name": "Fishing Pier",
+    "latitude": 43.4277992,
+    "longitude": -95.1706937,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1445267747,
+    "name": "Fishing Pier",
+    "latitude": 42.9054489,
+    "longitude": -92.8231141,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1445308861,
+    "name": "Fishing Pier",
+    "latitude": 42.9170054,
+    "longitude": -92.8328408,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1445334636,
+    "name": "Fishing Pier",
+    "latitude": 42.6285409,
+    "longitude": -90.8708298,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1445654826,
+    "name": "Fishing Pier",
+    "latitude": 42.6194333,
+    "longitude": -90.7037444,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 2768176447,
+    "name": "Fishing Pier",
+    "latitude": 42.7285775,
+    "longitude": -93.4185002,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2768176448,
+    "name": "Fishing Pier",
+    "latitude": 42.7283791,
+    "longitude": -93.4171503,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2768180515,
+    "name": "Fishing Pier",
+    "latitude": 42.6973397,
+    "longitude": -93.4383609,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2768359659,
+    "name": "Fishing Pier",
+    "latitude": 42.7902753,
+    "longitude": -93.6938278,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2989838337,
+    "name": "Fishing Pier",
+    "latitude": 42.7684001,
+    "longitude": -93.2407165,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 4814100925,
+    "name": "Fishing Pier",
+    "latitude": 42.6052795,
+    "longitude": -91.9097699,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 6252122399,
+    "name": "Fishing Pier",
+    "latitude": 43.1543381,
+    "longitude": -95.1874334,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 8505948157,
+    "name": "Fishing Pier",
+    "latitude": 42.6625302,
+    "longitude": -91.2514398,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 8939376511,
+    "name": "Fishing Pier",
+    "latitude": 42.8070582,
+    "longitude": -92.2213153,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "fishing": "members_only",
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 9185825709,
+    "name": "Fishing Pier",
+    "latitude": 42.5140753,
+    "longitude": -90.6659112,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10194553469,
+    "name": "Fishing Pier",
+    "latitude": 42.8280824,
+    "longitude": -92.2318563,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10194553471,
+    "name": "Fishing Pier",
+    "latitude": 42.8270878,
+    "longitude": -92.2316295,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10194553472,
+    "name": "Fishing Pier",
+    "latitude": 42.8288499,
+    "longitude": -92.2350046,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10194553475,
+    "name": "Fishing Pier",
+    "latitude": 42.8274519,
+    "longitude": -92.2327962,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12175008932,
+    "name": "Fishing Pier",
+    "latitude": 42.9842411,
+    "longitude": -95.6691902,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 33743347,
+    "name": "Fishing Pier",
+    "latitude": 41.7053523,
+    "longitude": -93.606698,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 37323284,
+    "name": "Fishing Pier",
+    "latitude": 41.8068605,
+    "longitude": -93.7338679,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 37338080,
+    "name": "Fishing Pier",
+    "latitude": 41.6107628,
+    "longitude": -93.6112497,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 37338677,
+    "name": "Fishing Pier",
+    "latitude": 41.6114649,
+    "longitude": -93.6127479,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 38461594,
+    "name": "Fishing Pier",
+    "latitude": 41.7141007,
+    "longitude": -93.622048,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 45835108,
+    "name": "Fishing Pier",
+    "latitude": 42.024779,
+    "longitude": -93.5964398,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 45836961,
+    "name": "Fishing Pier",
+    "latitude": 42.1053682,
+    "longitude": -93.5823912,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 46582098,
+    "name": "Fishing Pier",
+    "latitude": 41.6932553,
+    "longitude": -93.6809181,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 49277991,
+    "name": "Fishing Pier",
+    "latitude": 41.6939483,
+    "longitude": -93.6286613,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 54139436,
+    "name": "Fishing Pier",
+    "latitude": 41.5169085,
+    "longitude": -93.6111219,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 73316198,
+    "name": "Fishing Pier",
+    "latitude": 41.6843361,
+    "longitude": -93.6026192,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 76535978,
+    "name": "Fishing Pier",
+    "latitude": 41.8101602,
+    "longitude": -93.7456726,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 80478404,
+    "name": "Fishing Pier",
+    "latitude": 41.7522122,
+    "longitude": -93.6849576,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 80493721,
+    "name": "Fishing Pier",
+    "latitude": 41.7570712,
+    "longitude": -93.6847547,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 104947918,
+    "name": "Fishing Pier",
+    "latitude": 41.668236,
+    "longitude": -93.6095026,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 120108537,
+    "name": "Fishing Pier",
+    "latitude": 41.7303161,
+    "longitude": -92.7306567,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 134721552,
+    "name": "Fishing Pier",
+    "latitude": 41.9344083,
+    "longitude": -93.8619625,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 155041422,
+    "name": "Fishing Pier",
+    "latitude": 41.5163523,
+    "longitude": -93.7905011,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 155097204,
+    "name": "Fishing Pier",
+    "latitude": 41.5166082,
+    "longitude": -93.7858692,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 156555315,
+    "name": "Fishing Pier",
+    "latitude": 42.3952032,
+    "longitude": -93.9901841,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 156567102,
+    "name": "Fishing Pier",
+    "latitude": 42.3897931,
+    "longitude": -93.9742947,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 156574006,
+    "name": "Fishing Pier",
+    "latitude": 42.3980481,
+    "longitude": -93.9836298,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 160544757,
+    "name": "Fishing Pier",
+    "latitude": 40.8698862,
+    "longitude": -92.9155061,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 160552941,
+    "name": "Fishing Pier",
+    "latitude": 40.8536432,
+    "longitude": -92.8885461,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 166739365,
+    "name": "Fishing Pier",
+    "latitude": 41.3417765,
+    "longitude": -96.0461416,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 167719370,
+    "name": "Fishing Pier",
+    "latitude": 41.2916903,
+    "longitude": -96.0951926,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 167949317,
+    "name": "Fishing Pier",
+    "latitude": 41.3136145,
+    "longitude": -96.1319688,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 168661893,
+    "name": "Fishing Pier",
+    "latitude": 41.2540039,
+    "longitude": -96.0756132,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 168661903,
+    "name": "Fishing Pier",
+    "latitude": 41.2525469,
+    "longitude": -96.0793928,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 169526004,
+    "name": "Fishing Pier",
+    "latitude": 41.1618657,
+    "longitude": -96.1528303,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "bicycle": "dismount",
+      "foot": "yes",
+      "highway": "footway",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "segregated": "no",
+      "source": "bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 169670260,
+    "name": "Walnut Creek Fishing Pier",
+    "latitude": 41.1400151,
+    "longitude": -96.0693761,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "no",
+      "bridge": "yes",
+      "floating": "no",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "name": "Walnut Creek Fishing Pier",
+      "source": "bing",
+      "surface": "wood",
+      "width": "2"
+    }
+  },
+  {
+    "id": 171204630,
+    "name": "Fishing Pier",
+    "latitude": 41.2174756,
+    "longitude": -96.1617907,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "bridge": "yes",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "source": "bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 177077823,
+    "name": "Fishing Pier",
+    "latitude": 41.2960061,
+    "longitude": -95.9018381,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "bicycle": "dismount",
+      "bridge": "viaduct",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "source": "bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 177432148,
+    "name": "Fishing Pier",
+    "latitude": 41.3596551,
+    "longitude": -95.9479599,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "bicycle": "no",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 177432207,
+    "name": "Fishing Pier",
+    "latitude": 41.3613309,
+    "longitude": -95.9471785,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "bicycle": "no",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 179375044,
+    "name": "Fishing Pier",
+    "latitude": 41.2688296,
+    "longitude": -96.2200749,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 237397945,
+    "name": "Fishing Pier",
+    "latitude": 42.2130764,
+    "longitude": -91.5393278,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 259380060,
+    "name": "Fishing Pier",
+    "latitude": 42.4516678,
+    "longitude": -96.4301114,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 263264794,
+    "name": "Fishing Pier",
+    "latitude": 42.2760149,
+    "longitude": -93.6386496,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 279613090,
+    "name": "Fishing Pier",
+    "latitude": 42.4971267,
+    "longitude": -96.3377153,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 286685724,
+    "name": "Fishing Pier",
+    "latitude": 41.618318,
+    "longitude": -93.637252,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 297681931,
+    "name": "Fishing Pier",
+    "latitude": 41.5679613,
+    "longitude": -93.6433925,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 299690183,
+    "name": "Fishing Pier",
+    "latitude": 40.9245755,
+    "longitude": -96.3061254,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 301423834,
+    "name": "Accessible Fishing Pier",
+    "latitude": 41.5521562,
+    "longitude": -93.7355784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Accessible Fishing Pier"
+    }
+  },
+  {
+    "id": 308526006,
+    "name": "Fishing Pier",
+    "latitude": 41.3788452,
+    "longitude": -92.1270574,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 354976970,
+    "name": "Fishing Pier",
+    "latitude": 41.6702886,
+    "longitude": -93.714894,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 360842172,
+    "name": "Fishing Pier",
+    "latitude": 41.2717186,
+    "longitude": -95.9182234,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 367533793,
+    "name": "Fishing Pier",
+    "latitude": 41.5669085,
+    "longitude": -94.009803,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 376008669,
+    "name": "Fishing Pier",
+    "latitude": 41.2115331,
+    "longitude": -95.856523,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 376008670,
+    "name": "Fishing Pier",
+    "latitude": 41.2138012,
+    "longitude": -95.8557164,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377819029,
+    "name": "Newport Landing",
+    "latitude": 41.3778167,
+    "longitude": -96.1863031,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Newport Landing",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 377819017,
+    "name": "Fishing Pier",
+    "latitude": 41.3774035,
+    "longitude": -96.1874907,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 392554736,
+    "name": "Fishing Pier",
+    "latitude": 41.9635055,
+    "longitude": -91.5898026,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 411812315,
+    "name": "Fishing Pier",
+    "latitude": 41.1336129,
+    "longitude": -95.8768021,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 413770696,
+    "name": "Fishing Pier",
+    "latitude": 41.2499016,
+    "longitude": -96.0751471,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 441532395,
+    "name": "Fishing Pier",
+    "latitude": 40.9245802,
+    "longitude": -95.8739259,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444061288,
+    "name": "Fishing Pier",
+    "latitude": 41.7964315,
+    "longitude": -91.5598665,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444062162,
+    "name": "Fishing Pier",
+    "latitude": 41.804152,
+    "longitude": -91.5531759,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444063702,
+    "name": "Fishing Pier",
+    "latitude": 41.798172,
+    "longitude": -91.5649412,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444064197,
+    "name": "Fishing Pier",
+    "latitude": 41.7987412,
+    "longitude": -91.5687205,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444067975,
+    "name": "Fishing Pier",
+    "latitude": 41.8097415,
+    "longitude": -91.5525425,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444067976,
+    "name": "Fishing Pier",
+    "latitude": 41.8096968,
+    "longitude": -91.5523651,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444069848,
+    "name": "Fishing Pier",
+    "latitude": 41.8094699,
+    "longitude": -91.5380032,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461504450,
+    "name": "Fishing Pier",
+    "latitude": 41.7499452,
+    "longitude": -91.6100259,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 480342763,
+    "name": "Fishing Pier",
+    "latitude": 41.1530356,
+    "longitude": -92.6172116,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 483632677,
+    "name": "Fishing Pier",
+    "latitude": 41.2635553,
+    "longitude": -95.9239735,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 507173767,
+    "name": "Fishing Pier",
+    "latitude": 41.4493971,
+    "longitude": -96.546713,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 507467896,
+    "name": "Fishing Pier",
+    "latitude": 41.4498801,
+    "longitude": -96.5641355,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 507471566,
+    "name": "Fishing Pier",
+    "latitude": 41.4510726,
+    "longitude": -96.5859808,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 507471567,
+    "name": "Fishing Pier",
+    "latitude": 41.4507716,
+    "longitude": -96.5821185,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 508845292,
+    "name": "Fishing Pier",
+    "latitude": 41.4464982,
+    "longitude": -96.5742513,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 509519708,
+    "name": "Fishing Pier",
+    "latitude": 41.4423735,
+    "longitude": -96.5756125,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 509519710,
+    "name": "Fishing Pier",
+    "latitude": 41.4410355,
+    "longitude": -96.5672011,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 509519711,
+    "name": "Fishing Pier",
+    "latitude": 41.4413081,
+    "longitude": -96.5691622,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 509530932,
+    "name": "Fishing Pier",
+    "latitude": 41.439445,
+    "longitude": -96.5539615,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 509743003,
+    "name": "Fishing Pier",
+    "latitude": 41.4385899,
+    "longitude": -96.5357369,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 509743144,
+    "name": "Fishing Pier",
+    "latitude": 41.4389257,
+    "longitude": -96.5375963,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 510893039,
+    "name": "Fishing Pier",
+    "latitude": 41.4293708,
+    "longitude": -96.539333,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 510893047,
+    "name": "Fishing Pier",
+    "latitude": 41.4295162,
+    "longitude": -96.5425716,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511366275,
+    "name": "Fishing Pier",
+    "latitude": 41.4368097,
+    "longitude": -96.5277823,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511366278,
+    "name": "Fishing Pier",
+    "latitude": 41.4363662,
+    "longitude": -96.5272647,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511366293,
+    "name": "Fishing Pier",
+    "latitude": 41.437637,
+    "longitude": -96.5282316,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511366835,
+    "name": "Fishing Pier",
+    "latitude": 41.4332866,
+    "longitude": -96.5417002,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511366836,
+    "name": "Fishing Pier",
+    "latitude": 41.4336757,
+    "longitude": -96.5430467,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511368351,
+    "name": "Fishing Pier",
+    "latitude": 41.4364578,
+    "longitude": -96.5328021,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511372501,
+    "name": "Fishing Pier",
+    "latitude": 41.4303613,
+    "longitude": -96.5313861,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511372502,
+    "name": "Fishing Pier",
+    "latitude": 41.4291688,
+    "longitude": -96.5329351,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 511404064,
+    "name": "Fishing Pier",
+    "latitude": 41.4284674,
+    "longitude": -96.5255598,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 511576013,
+    "name": "Fishing Pier",
+    "latitude": 41.085154,
+    "longitude": -94.2211732,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 511617718,
+    "name": "Fishing Pier",
+    "latitude": 41.4451404,
+    "longitude": -96.5568427,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 511626035,
+    "name": "Fishing Pier",
+    "latitude": 41.4495798,
+    "longitude": -96.5721481,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 511626046,
+    "name": "Fishing Pier",
+    "latitude": 41.450433,
+    "longitude": -96.5612396,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 511854714,
+    "name": "Fishing Pier",
+    "latitude": 41.4427967,
+    "longitude": -96.542825,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 516901124,
+    "name": "Fishing Pier",
+    "latitude": 41.4274905,
+    "longitude": -96.5804471,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 558663129,
+    "name": "Fishing Pier",
+    "latitude": 41.1381788,
+    "longitude": -95.8834054,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 563538366,
+    "name": "Fishing Pier",
+    "latitude": 41.2168872,
+    "longitude": -96.1629158,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 568396800,
+    "name": "Fishing Pier",
+    "latitude": 41.665194,
+    "longitude": -93.7371104,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 581439779,
+    "name": "Fishing Pier",
+    "latitude": 40.4540672,
+    "longitude": -92.0320171,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 587748216,
+    "name": "Fishing Pier",
+    "latitude": 42.4755361,
+    "longitude": -92.4609795,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 587748411,
+    "name": "Fishing Pier",
+    "latitude": 42.4795409,
+    "longitude": -92.4603784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 587767867,
+    "name": "Fishing Pier",
+    "latitude": 40.7853509,
+    "longitude": -95.3614826,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 599100538,
+    "name": "Fishing Pier",
+    "latitude": 41.5129809,
+    "longitude": -94.8250661,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 605102647,
+    "name": "Fishing Pier",
+    "latitude": 41.6427819,
+    "longitude": -93.3845111,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 605102648,
+    "name": "Fishing Pier",
+    "latitude": 41.6421236,
+    "longitude": -93.3836114,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 616498102,
+    "name": "Fishing Pier",
+    "latitude": 41.6258698,
+    "longitude": -93.7410019,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623611467,
+    "name": "Fishing Pier",
+    "latitude": 41.6372311,
+    "longitude": -93.728248,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 666766675,
+    "name": "Fishing Pier",
+    "latitude": 41.4463481,
+    "longitude": -96.5423655,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 666769736,
+    "name": "Fishing Pier",
+    "latitude": 41.4476672,
+    "longitude": -96.5371075,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 674134259,
+    "name": "Fishing Pier",
+    "latitude": 41.1623522,
+    "longitude": -96.1151955,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 677784954,
+    "name": "Fishing Pier",
+    "latitude": 42.168316,
+    "longitude": -96.5171438,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 679149010,
+    "name": "Fishing Pier",
+    "latitude": 42.3061806,
+    "longitude": -96.5052887,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 700036461,
+    "name": "Fishing Pier",
+    "latitude": 41.2926327,
+    "longitude": -95.9029228,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Bing",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 705019713,
+    "name": "Fishing Pier",
+    "latitude": 40.9901741,
+    "longitude": -92.1655272,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "covered": "yes",
+      "man_made": "pier",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 724074272,
+    "name": "Beckwith Boathouse Dock",
+    "latitude": 41.6767324,
+    "longitude": -91.5348634,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "bicycle": "no",
+      "floating": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "motor_vehicle": "no",
+      "name": "Beckwith Boathouse Dock"
+    }
+  },
+  {
+    "id": 726978316,
+    "name": "Fishing Pier",
+    "latitude": 41.720813,
+    "longitude": -91.5306193,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 733067910,
+    "name": "Fishing Pier",
+    "latitude": 41.6609325,
+    "longitude": -93.7055711,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 738058569,
+    "name": "Fishing Pier",
+    "latitude": 42.009522,
+    "longitude": -93.485847,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 738366818,
+    "name": "Fishing Pier",
+    "latitude": 42.0482465,
+    "longitude": -93.3630503,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 741052995,
+    "name": "Fishing Pier",
+    "latitude": 42.3619408,
+    "longitude": -95.5077824,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 741052999,
+    "name": "Fishing Pier",
+    "latitude": 42.3783086,
+    "longitude": -95.5083709,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 741053035,
+    "name": "Fishing Pier",
+    "latitude": 42.3683372,
+    "longitude": -95.5216991,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 745523494,
+    "name": "Fishing Pier",
+    "latitude": 40.7094647,
+    "longitude": -96.5855542,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 780650619,
+    "name": "Fishing Pier",
+    "latitude": 41.3779321,
+    "longitude": -96.4149728,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 780655897,
+    "name": "Fishing Pier",
+    "latitude": 41.3752302,
+    "longitude": -96.4151572,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 798030138,
+    "name": "Fishing Pier",
+    "latitude": 40.9242869,
+    "longitude": -95.8709787,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 819665041,
+    "name": "Water Deck",
+    "latitude": 41.6612904,
+    "longitude": -93.9880379,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Water Deck"
+    }
+  },
+  {
+    "id": 821123413,
+    "name": "Fishing Pier",
+    "latitude": 41.3145293,
+    "longitude": -96.1894072,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "bicycle": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "rock",
+      "width": "5"
+    }
+  },
+  {
+    "id": 821123414,
+    "name": "Catapillar Peninsula",
+    "latitude": 41.3129131,
+    "longitude": -96.1859237,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Catapillar Peninsula",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 835259650,
+    "name": "USACE",
+    "latitude": 41.3521431,
+    "longitude": -95.9602209,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "description": "Mooring government-owned floating equipment; and handling construction supplies and equipment.",
+      "floating": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "name": "USACE",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 858345232,
+    "name": "Fishing Pier",
+    "latitude": 41.9842143,
+    "longitude": -93.3531978,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 882003167,
+    "name": "Fishing Pier",
+    "latitude": 42.0511987,
+    "longitude": -96.1652988,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 909233312,
+    "name": "Fishing Pier",
+    "latitude": 40.4288692,
+    "longitude": -94.8558728,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 918949366,
+    "name": "Fishing Pier",
+    "latitude": 42.0720288,
+    "longitude": -93.6263275,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Fishing Pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 925730638,
+    "name": "Fishing Pier",
+    "latitude": 41.9741193,
+    "longitude": -91.607956,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 936909749,
+    "name": "Fishing Pier",
+    "latitude": 41.0467423,
+    "longitude": -95.7843051,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 940822378,
+    "name": "Fishing Pier",
+    "latitude": 41.2676899,
+    "longitude": -95.9227624,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "layer": "1",
+      "lit": "yes",
+      "man_made": "pier",
+      "source": "Bing",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 974503086,
+    "name": "Fishing Pier",
+    "latitude": 41.3442397,
+    "longitude": -96.0571992,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 974503087,
+    "name": "Fishing Pier",
+    "latitude": 41.3442475,
+    "longitude": -96.0575454,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 976086214,
+    "name": "Fishing Pier",
+    "latitude": 41.1643535,
+    "longitude": -96.098151,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 996752116,
+    "name": "Fishing Pier",
+    "latitude": 42.1288067,
+    "longitude": -91.8233616,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 996752135,
+    "name": "Fishing Pier",
+    "latitude": 42.1220606,
+    "longitude": -91.8086734,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 996752140,
+    "name": "Fishing Pier",
+    "latitude": 42.1200168,
+    "longitude": -91.8149229,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 998879260,
+    "name": "Fishing Pier",
+    "latitude": 42.004278,
+    "longitude": -91.6892901,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1008217647,
+    "name": "Fishing Pier",
+    "latitude": 41.6037522,
+    "longitude": -93.5271727,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1014932119,
+    "name": "Fishing Pier",
+    "latitude": 41.7530476,
+    "longitude": -93.702672,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1014940931,
+    "name": "Fishing Pier",
+    "latitude": 41.7516349,
+    "longitude": -93.7035789,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1018825430,
+    "name": "Fishing Pier",
+    "latitude": 40.8167491,
+    "longitude": -96.5855687,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "bridge": "yes",
+      "footway": "sidewalk",
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1019279952,
+    "name": "Fishing Pier",
+    "latitude": 41.0581131,
+    "longitude": -94.2602437,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1036131471,
+    "name": "Fishing Pier",
+    "latitude": 42.0123899,
+    "longitude": -92.9252982,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "bridge": "yes",
+      "floating": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1036131472,
+    "name": "Fishing Pier",
+    "latitude": 42.0125975,
+    "longitude": -92.9227992,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "fishing": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1036131473,
+    "name": "Fishing Pier",
+    "latitude": 42.0121738,
+    "longitude": -92.9156319,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "fishing": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1054214766,
+    "name": "Fishing Pier",
+    "latitude": 42.0429466,
+    "longitude": -96.1617825,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1055751202,
+    "name": "Fishing Pier",
+    "latitude": 42.2747494,
+    "longitude": -95.6041642,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1068062275,
+    "name": "Fishing Pier",
+    "latitude": 41.3082916,
+    "longitude": -93.0644925,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082775286,
+    "name": "Fishing Pier",
+    "latitude": 41.5859754,
+    "longitude": -96.0924735,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082775291,
+    "name": "Fishing Pier",
+    "latitude": 41.5877536,
+    "longitude": -96.0937599,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082777238,
+    "name": "Fishing Pier",
+    "latitude": 41.8242573,
+    "longitude": -96.4747974,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1085230482,
+    "name": "Fishing Pier",
+    "latitude": 41.3563687,
+    "longitude": -95.9514959,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1085383717,
+    "name": "Fishing Pier",
+    "latitude": 42.0865802,
+    "longitude": -93.5960971,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1089329892,
+    "name": "Fishing Pier",
+    "latitude": 42.307355,
+    "longitude": -96.3264999,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1092255812,
+    "name": "Fishing Pier",
+    "latitude": 41.2108341,
+    "longitude": -95.8483573,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1098674667,
+    "name": "Fishing Pier",
+    "latitude": 40.7122265,
+    "longitude": -92.892838,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "path",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1098674669,
+    "name": "Fishing Pier",
+    "latitude": 40.7086936,
+    "longitude": -92.8976684,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "path",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1101225339,
+    "name": "Fishing Pier",
+    "latitude": 41.0191983,
+    "longitude": -92.3694262,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1104916263,
+    "name": "Fishing Pier",
+    "latitude": 41.3227822,
+    "longitude": -95.9305569,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1104916264,
+    "name": "Fishing Pier",
+    "latitude": 41.3217497,
+    "longitude": -95.9284406,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1109741504,
+    "name": "Fishing Pier",
+    "latitude": 40.88115,
+    "longitude": -93.5053592,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1117273549,
+    "name": "Fishing Pier",
+    "latitude": 41.9443499,
+    "longitude": -91.6233855,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1124501395,
+    "name": "Fishing Pier",
+    "latitude": 41.6084589,
+    "longitude": -93.6639577,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1155034266,
+    "name": "Fishing Pier",
+    "latitude": 41.0346641,
+    "longitude": -94.2098317,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "oneway": "no",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1160790679,
+    "name": "Fishing Pier",
+    "latitude": 41.7925746,
+    "longitude": -93.5964593,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1163517544,
+    "name": "Fishing Pier",
+    "latitude": 41.8368419,
+    "longitude": -93.545585,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1163791438,
+    "name": "Fishing Pier",
+    "latitude": 41.5391968,
+    "longitude": -93.4611788,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178507099,
+    "name": "Fishing Pier",
+    "latitude": 41.6813528,
+    "longitude": -91.5574177,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "lit": "yes",
+      "man_made": "pier",
+      "surface": "metal"
+    }
+  },
+  {
+    "id": 1180715880,
+    "name": "Fishing Pier",
+    "latitude": 40.9495476,
+    "longitude": -94.0546078,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1181010421,
+    "name": "Fishing Pier",
+    "latitude": 41.2127412,
+    "longitude": -95.8673425,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185308977,
+    "name": "Fishing Pier",
+    "latitude": 42.4922967,
+    "longitude": -96.3266713,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1195534947,
+    "name": "Fishing Pier",
+    "latitude": 40.8182316,
+    "longitude": -96.5808483,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1195534950,
+    "name": "Fishing Pier",
+    "latitude": 40.8190744,
+    "longitude": -96.5825691,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204789230,
+    "name": "Fishing Pier",
+    "latitude": 41.1044024,
+    "longitude": -94.3843557,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1213183423,
+    "name": "Fishing Pier",
+    "latitude": 41.0982153,
+    "longitude": -94.3852781,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1215094934,
+    "name": "Fishing Pier",
+    "latitude": 41.5567296,
+    "longitude": -94.7841159,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1225542729,
+    "name": "Fishing Pier",
+    "latitude": 40.4816739,
+    "longitude": -91.6454984,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1249386113,
+    "name": "Fishing Pier",
+    "latitude": 41.0114424,
+    "longitude": -96.2915747,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1253438145,
+    "name": "Fishing Pier",
+    "latitude": 41.81961,
+    "longitude": -93.7564387,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1273900567,
+    "name": "Fishing Pier",
+    "latitude": 40.6615286,
+    "longitude": -95.6872393,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302986356,
+    "name": "Fishing Pier",
+    "latitude": 41.2914291,
+    "longitude": -95.0849514,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fishing": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1303320922,
+    "name": "Fishing Pier",
+    "latitude": 41.7778224,
+    "longitude": -92.961501,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1311516290,
+    "name": "Fishing Pier",
+    "latitude": 41.4425258,
+    "longitude": -95.9465196,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "bridge": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1311800125,
+    "name": "Fishing Pier",
+    "latitude": 41.0022087,
+    "longitude": -96.1727304,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1312032085,
+    "name": "Fishing Pier",
+    "latitude": 41.0358812,
+    "longitude": -96.3541148,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1329479788,
+    "name": "Fishing Pier",
+    "latitude": 40.5332245,
+    "longitude": -93.7668155,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1338746186,
+    "name": "Fishing Pier",
+    "latitude": 41.3520638,
+    "longitude": -93.6119725,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1339770165,
+    "name": "Fishing Pier",
+    "latitude": 41.3703731,
+    "longitude": -96.0397593,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1364316865,
+    "name": "Fishing Pier",
+    "latitude": 41.1193203,
+    "longitude": -96.2403884,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1368091534,
+    "name": "Fishing Pier",
+    "latitude": 40.7565594,
+    "longitude": -93.2367939,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1368091537,
+    "name": "Fishing Pier",
+    "latitude": 40.7705192,
+    "longitude": -93.2434529,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1370048956,
+    "name": "Fishing Pier",
+    "latitude": 41.693129,
+    "longitude": -93.7478458,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1370057372,
+    "name": "Fishing Pier",
+    "latitude": 41.7051505,
+    "longitude": -94.4092591,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1374271995,
+    "name": "Fishing Pier",
+    "latitude": 41.9514696,
+    "longitude": -91.6340644,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1417737487,
+    "name": "Fishing Pier",
+    "latitude": 42.0266467,
+    "longitude": -94.4665414,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1419487574,
+    "name": "Fishing Pier",
+    "latitude": 41.6725565,
+    "longitude": -91.5615465,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1426056763,
+    "name": "Fishing Pier",
+    "latitude": 40.7303115,
+    "longitude": -91.9597564,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1436704234,
+    "name": "Fishing Pier",
+    "latitude": 41.1175651,
+    "longitude": -95.8828863,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1449931841,
+    "name": "Fishing Pier",
+    "latitude": 41.3104538,
+    "longitude": -96.1828695,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1459398163,
+    "name": "Fishing Pier",
+    "latitude": 40.8232421,
+    "longitude": -96.583127,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1465398293,
+    "name": "Fishing Pier",
+    "latitude": 41.9451483,
+    "longitude": -91.5064915,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1472194260,
+    "name": "Fishing Pier",
+    "latitude": 40.5025864,
+    "longitude": -91.7699051,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "bicycle": "no",
+      "covered": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1491385057,
+    "name": "Fishing Pier",
+    "latitude": 41.7716928,
+    "longitude": -95.7865049,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 2071046175,
+    "name": "Fishing Pier",
+    "latitude": 42.4328295,
+    "longitude": -93.7989634,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2954448312,
+    "name": "Fishing Pier",
+    "latitude": 42.266002,
+    "longitude": -92.3110031,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 2954448317,
+    "name": "Fishing Pier",
+    "latitude": 42.2660828,
+    "longitude": -92.3128777,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 3857729728,
+    "name": "Fishing Pier",
+    "latitude": 42.1277584,
+    "longitude": -92.7265872,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 7443283046,
+    "name": "Fischer Wildelife Area",
+    "latitude": 41.0020752,
+    "longitude": -95.5279402,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Fischer Wildelife Area",
+      "operator": "Mills County"
+    }
+  },
+  {
+    "id": 7443302633,
+    "name": "Fishing Pier",
+    "latitude": 41.1601138,
+    "longitude": -96.1117499,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 8482792452,
+    "name": "Fishing Pier",
+    "latitude": 41.2208695,
+    "longitude": -95.9406585,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 8906079249,
+    "name": "Fishing Pier",
+    "latitude": 41.5914656,
+    "longitude": -93.6191369,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 9703683938,
+    "name": "Fishing Pier",
+    "latitude": 41.0061687,
+    "longitude": -96.1658544,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 9703683941,
+    "name": "Fishing Pier",
+    "latitude": 41.0041972,
+    "longitude": -96.1683408,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 9870638684,
+    "name": "Fishing Pier",
+    "latitude": 41.1403244,
+    "longitude": -96.0674906,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 9977382174,
+    "name": "Fishing Pier",
+    "latitude": 42.037142,
+    "longitude": -93.5974822,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10124882797,
+    "name": "Fishing Pier",
+    "latitude": 41.1580473,
+    "longitude": -96.0796609,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10178570176,
+    "name": "Fishing Pier",
+    "latitude": 41.1538127,
+    "longitude": -96.0326071,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10927278077,
+    "name": "Fishing Pier",
+    "latitude": 41.990426,
+    "longitude": -91.6661628,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 10941244024,
+    "name": "Fishing Pier",
+    "latitude": 41.850978,
+    "longitude": -95.5889413,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 11285014438,
+    "name": "Fishing Pier",
+    "latitude": 41.1276349,
+    "longitude": -96.0261265,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "fishing"
+    }
   }
 ]

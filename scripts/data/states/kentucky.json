@@ -47,5 +47,3688 @@
       "fishing": "yes",
       "leisure": "fishing"
     }
+  },
+  {
+    "id": 161720225,
+    "name": "Fishing Pier",
+    "latitude": 36.5105671,
+    "longitude": -82.609584,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 241096421,
+    "name": "Fishing Pier",
+    "latitude": 38.0997289,
+    "longitude": -83.5103039,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 338355234,
+    "name": "Fishing Pier",
+    "latitude": 38.4261579,
+    "longitude": -82.4373422,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 469547697,
+    "name": "Fishing Pier",
+    "latitude": 38.0740407,
+    "longitude": -83.9094379,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 470259462,
+    "name": "Fishing Pier",
+    "latitude": 39.0350513,
+    "longitude": -84.1321184,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 470259468,
+    "name": "Fishing Pier",
+    "latitude": 39.015802,
+    "longitude": -84.1223737,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 471285729,
+    "name": "Fishing Pier",
+    "latitude": 38.9477311,
+    "longitude": -84.2819189,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 480854554,
+    "name": "Fishing Pier",
+    "latitude": 37.6952321,
+    "longitude": -82.7263098,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 480854556,
+    "name": "Fishing Pier",
+    "latitude": 37.6976955,
+    "longitude": -82.7256163,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 484816064,
+    "name": "Fishing Pier",
+    "latitude": 37.3031214,
+    "longitude": -83.4464495,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 493382019,
+    "name": "Lake Reba Pier",
+    "latitude": 37.7384562,
+    "longitude": -84.2528947,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Lake Reba Pier"
+    }
+  },
+  {
+    "id": 511204393,
+    "name": "Fishing Pier",
+    "latitude": 37.842748,
+    "longitude": -82.8802371,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 544705568,
+    "name": "Fishing Pier",
+    "latitude": 38.6481598,
+    "longitude": -83.7618902,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 544705651,
+    "name": "Fishing Pier",
+    "latitude": 38.6486936,
+    "longitude": -83.7633465,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 547140157,
+    "name": "Fishing Pier",
+    "latitude": 36.5884053,
+    "longitude": -84.1414156,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 552913337,
+    "name": "Fishing Pier",
+    "latitude": 38.9485895,
+    "longitude": -83.7361023,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572824280,
+    "name": "Fishing Pier",
+    "latitude": 38.9569099,
+    "longitude": -84.2885367,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572824324,
+    "name": "Fishing Pier",
+    "latitude": 38.941551,
+    "longitude": -84.2756112,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572824325,
+    "name": "Fishing Pier",
+    "latitude": 38.943271,
+    "longitude": -84.2775866,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572914618,
+    "name": "Fishing Pier",
+    "latitude": 38.9276991,
+    "longitude": -84.2616963,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 572914619,
+    "name": "Fishing Pier",
+    "latitude": 38.9298149,
+    "longitude": -84.2636168,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575367344,
+    "name": "Fishing Pier",
+    "latitude": 38.7720649,
+    "longitude": -83.9142119,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575367353,
+    "name": "Fishing Pier",
+    "latitude": 38.7832685,
+    "longitude": -83.9153303,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575367404,
+    "name": "Fishing Pier",
+    "latitude": 38.7448934,
+    "longitude": -83.8469217,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575398559,
+    "name": "Fishing Pier",
+    "latitude": 38.7302017,
+    "longitude": -83.8419663,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575479552,
+    "name": "Fishing Pier",
+    "latitude": 38.7206322,
+    "longitude": -83.8332995,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575479555,
+    "name": "Fishing Pier",
+    "latitude": 38.7201948,
+    "longitude": -83.8300581,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575479558,
+    "name": "Fishing Pier",
+    "latitude": 38.7206358,
+    "longitude": -83.8270672,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575479623,
+    "name": "Fishing Pier",
+    "latitude": 38.685739,
+    "longitude": -83.7797089,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575533296,
+    "name": "Fishing Pier",
+    "latitude": 38.6562105,
+    "longitude": -83.7673401,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 575533297,
+    "name": "Fishing Pier",
+    "latitude": 38.6561703,
+    "longitude": -83.7676953,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625548064,
+    "name": "Fishing Pier",
+    "latitude": 38.682457,
+    "longitude": -82.1841074,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 679109886,
+    "name": "Fishing Pier",
+    "latitude": 38.6096022,
+    "longitude": -82.6342218,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 720559972,
+    "name": "Fishing Pier",
+    "latitude": 38.303946,
+    "longitude": -82.4130718,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 720559985,
+    "name": "Fishing Pier",
+    "latitude": 38.3034678,
+    "longitude": -82.4122654,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 763362587,
+    "name": "Fishing Pier",
+    "latitude": 37.226925,
+    "longitude": -82.997851,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 763362592,
+    "name": "Fishing Pier",
+    "latitude": 37.2277918,
+    "longitude": -82.9983981,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 847315051,
+    "name": "Fishing Pier",
+    "latitude": 36.8535278,
+    "longitude": -82.863242,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 876265865,
+    "name": "Fishing Pier",
+    "latitude": 38.2501614,
+    "longitude": -82.9856918,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 8256394454,
+    "name": "Shallow Flats Wildlife Viewing Area",
+    "latitude": 38.1007921,
+    "longitude": -83.4931707,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "direction": "270",
+      "leisure": "fishing",
+      "name": "Shallow Flats Wildlife Viewing Area",
+      "tourism": "viewpoint",
+      "website": "https://www.fs.usda.gov/recarea/dbnf/recarea/?recid=39556"
+    }
+  },
+  {
+    "id": 895928994,
+    "name": "Fishing Pier",
+    "latitude": 37.8877142,
+    "longitude": -84.2391056,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 922865167,
+    "name": "Fishing Pier",
+    "latitude": 38.4311761,
+    "longitude": -82.3864661,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 922865170,
+    "name": "Fishing Pier",
+    "latitude": 38.4316431,
+    "longitude": -82.3881995,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 943931290,
+    "name": "Fishing Pier",
+    "latitude": 38.7237865,
+    "longitude": -84.2903265,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 944037204,
+    "name": "Fishing Pier",
+    "latitude": 38.723526,
+    "longitude": -84.2857964,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 944910016,
+    "name": "Fishing Pier",
+    "latitude": 38.1135783,
+    "longitude": -83.5308711,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 948483104,
+    "name": "Fishing Pier",
+    "latitude": 38.7331125,
+    "longitude": -84.2846945,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 948859369,
+    "name": "Fishing Pier",
+    "latitude": 38.7261342,
+    "longitude": -84.2713655,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "access": "private",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965001350,
+    "name": "Fishing Pier",
+    "latitude": 38.6801492,
+    "longitude": -84.2727309,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965966974,
+    "name": "Fishing Pier",
+    "latitude": 38.7425422,
+    "longitude": -84.2950165,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965966975,
+    "name": "Fishing Pier",
+    "latitude": 38.742367,
+    "longitude": -84.2950647,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970454450,
+    "name": "Fishing Pier",
+    "latitude": 38.7728428,
+    "longitude": -84.2629091,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970454562,
+    "name": "Fishing Pier",
+    "latitude": 38.78677,
+    "longitude": -84.2715099,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 975435900,
+    "name": "Fishing Pier",
+    "latitude": 38.8314809,
+    "longitude": -84.2752688,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 975515739,
+    "name": "Fishing Pier",
+    "latitude": 38.8533157,
+    "longitude": -84.27972,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 975515799,
+    "name": "Fishing Pier",
+    "latitude": 38.8494993,
+    "longitude": -84.2882351,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 977547636,
+    "name": "Fishing Pier",
+    "latitude": 38.8125222,
+    "longitude": -82.1953726,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 978974434,
+    "name": "Fishing Pier",
+    "latitude": 38.7898423,
+    "longitude": -84.1335308,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 982246121,
+    "name": "Fishing Pier",
+    "latitude": 38.8984331,
+    "longitude": -84.2868189,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1042985864,
+    "name": "Kayak launching pier",
+    "latitude": 38.7261937,
+    "longitude": -83.1762569,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Kayak launching pier"
+    }
+  },
+  {
+    "id": 1042985889,
+    "name": "Fishing Pier",
+    "latitude": 38.7338439,
+    "longitude": -83.1887827,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1097293226,
+    "name": "Fishing Pier",
+    "latitude": 38.9217173,
+    "longitude": -83.0502858,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1129496939,
+    "name": "Fishing Pier",
+    "latitude": 38.8576561,
+    "longitude": -82.4221204,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1130634904,
+    "name": "Fishing Pier",
+    "latitude": 38.778523,
+    "longitude": -82.7587242,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1131827486,
+    "name": "Fishing Pier",
+    "latitude": 36.8772426,
+    "longitude": -83.8848783,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1134637131,
+    "name": "Fishing Pier",
+    "latitude": 37.1240401,
+    "longitude": -82.6302247,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "tiger:cfcc": "A51",
+      "tiger:county": "Wise, VA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1153468583,
+    "name": "Winchester Reservoir Pier",
+    "latitude": 38.9470979,
+    "longitude": -83.6671111,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "name": "Winchester Reservoir Pier"
+    }
+  },
+  {
+    "id": 1154088905,
+    "name": "Fishing Pier",
+    "latitude": 37.8527176,
+    "longitude": -84.0794889,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1180117936,
+    "name": "Fishing Pier",
+    "latitude": 38.4292681,
+    "longitude": -82.440467,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1180128324,
+    "name": "Fishing Pier",
+    "latitude": 38.4257463,
+    "longitude": -82.4559924,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1185558287,
+    "name": "Fishing Pier",
+    "latitude": 38.8052855,
+    "longitude": -82.2144289,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191310750,
+    "name": "Fishing Pier",
+    "latitude": 38.344244,
+    "longitude": -84.0326795,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191310764,
+    "name": "Fishing Pier",
+    "latitude": 38.3448765,
+    "longitude": -84.0315375,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1199581731,
+    "name": "Fishing Pier",
+    "latitude": 37.8407942,
+    "longitude": -82.8803461,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1207272274,
+    "name": "Fishing Pier",
+    "latitude": 38.8061509,
+    "longitude": -82.2043089,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1208809042,
+    "name": "Fishing Pier",
+    "latitude": 38.6151833,
+    "longitude": -82.8495161,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1208809049,
+    "name": "Fishing Pier",
+    "latitude": 38.6157285,
+    "longitude": -82.8525576,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1241961518,
+    "name": "Fishing Pier",
+    "latitude": 38.6116524,
+    "longitude": -82.1745874,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "note": "Concrete Piers have 4 sets of steps per OSM note with photo https://www.openstreetmap.org/note/3887590 - each have 3 stairs and a section of flat pier between them and at the lowest level a very long section at typical water level.",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1255734983,
+    "name": "Fishing Pier",
+    "latitude": 36.923528,
+    "longitude": -84.2558069,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1288909562,
+    "name": "Fishing Pier",
+    "latitude": 39.0021309,
+    "longitude": -84.0893934,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1305595566,
+    "name": "Meldahl Fishing Pier",
+    "latitude": 38.7928886,
+    "longitude": -84.1763351,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "name": "Meldahl Fishing Pier"
+    }
+  },
+  {
+    "id": 1306002109,
+    "name": "Fishing Pier",
+    "latitude": 38.8138814,
+    "longitude": -83.5219523,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1316724506,
+    "name": "Fishing Pier",
+    "latitude": 39.0046837,
+    "longitude": -84.2406876,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1318193092,
+    "name": "Fishing Pier",
+    "latitude": 39.0039902,
+    "longitude": -84.2155382,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1318237310,
+    "name": "Fishing Pier",
+    "latitude": 39.0256959,
+    "longitude": -84.2351587,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1319774105,
+    "name": "Fishing Pier",
+    "latitude": 37.3792657,
+    "longitude": -83.9133508,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1327972789,
+    "name": "Fishing Pier",
+    "latitude": 38.97447,
+    "longitude": -84.2206445,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1328234075,
+    "name": "Fishing Pier",
+    "latitude": 38.9850078,
+    "longitude": -84.2142398,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1344283027,
+    "name": "Fishing Pier",
+    "latitude": 36.9783992,
+    "longitude": -84.2584721,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1344283135,
+    "name": "Fishing Pier",
+    "latitude": 36.9787196,
+    "longitude": -84.2569739,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1422575717,
+    "name": "Fishing Pier",
+    "latitude": 38.5359727,
+    "longitude": -82.6888624,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1430577993,
+    "name": "Fishing Pier",
+    "latitude": 38.6771395,
+    "longitude": -83.1092282,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1450756424,
+    "name": "Fishing Pier",
+    "latitude": 39.0053061,
+    "longitude": -83.1665072,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1451276361,
+    "name": "Fishing Pier",
+    "latitude": 39.028732,
+    "longitude": -83.1238326,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1463967816,
+    "name": "Fishing Pier",
+    "latitude": 37.5275814,
+    "longitude": -82.2627758,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 769281329,
+    "name": "Boat Launch",
+    "latitude": 38.4286149,
+    "longitude": -83.9974263,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "description": "Blue Licks Battlefield State Park",
+      "leisure": "fishing",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 8206712808,
+    "name": "Fishing Pier",
+    "latitude": 38.3673213,
+    "longitude": -83.1253749,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 8903530732,
+    "name": "Windy Bay Fishing Site",
+    "latitude": 38.0864278,
+    "longitude": -83.4562153,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Windy Bay Fishing Site",
+      "website": "https://www.fs.usda.gov/recarea/dbnf/recarea/?recid=70731"
+    }
+  },
+  {
+    "id": 8903530832,
+    "name": "Ramey Creek Fishing Site",
+    "latitude": 38.0919665,
+    "longitude": -83.4585188,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Ramey Creek Fishing Site",
+      "website": "https://www.fs.usda.gov/recarea/dbnf/recarea/?recid=39558"
+    }
+  },
+  {
+    "id": 8903530888,
+    "name": "Muskie Bend Fishing Site",
+    "latitude": 38.0892873,
+    "longitude": -83.4891752,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Muskie Bend Fishing Site",
+      "website": "https://www.fs.usda.gov/recarea/dbnf/recarea/?recid=39562"
+    }
+  },
+  {
+    "id": 27526677,
+    "name": "McGregor Park Courtesy Boat Dock",
+    "latitude": 36.5300568,
+    "longitude": -87.3648117,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes",
+      "name": "McGregor Park Courtesy Boat Dock"
+    }
+  },
+  {
+    "id": 55673485,
+    "name": "Fishing Pier",
+    "latitude": 39.0641816,
+    "longitude": -84.5768297,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 55673561,
+    "name": "Fishing Pier",
+    "latitude": 39.0647647,
+    "longitude": -84.5784568,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 60787170,
+    "name": "Fishing Pier",
+    "latitude": 39.0833207,
+    "longitude": -84.5712401,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 60787180,
+    "name": "Fishing Pier",
+    "latitude": 39.0827254,
+    "longitude": -84.5733161,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 60787201,
+    "name": "Fishing Pier",
+    "latitude": 39.0813219,
+    "longitude": -84.5778194,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 60787267,
+    "name": "Fishing Pier",
+    "latitude": 39.0805704,
+    "longitude": -84.5826401,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 60787396,
+    "name": "Fishing Pier",
+    "latitude": 39.0747261,
+    "longitude": -84.603611,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 79451853,
+    "name": "Fishing Pier",
+    "latitude": 39.0739751,
+    "longitude": -84.6088924,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 90291583,
+    "name": "Fishing Pier",
+    "latitude": 39.0779576,
+    "longitude": -84.5926113,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 90296724,
+    "name": "Fishing Pier",
+    "latitude": 39.0745399,
+    "longitude": -84.6178871,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 90296793,
+    "name": "Fishing Pier",
+    "latitude": 39.0871101,
+    "longitude": -84.6436337,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 93741735,
+    "name": "Fishing Pier",
+    "latitude": 39.0936485,
+    "longitude": -84.4299017,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 93741740,
+    "name": "Fishing Pier",
+    "latitude": 39.0922993,
+    "longitude": -84.4303876,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 93760965,
+    "name": "Fishing Pier",
+    "latitude": 39.0874217,
+    "longitude": -84.4309843,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 141741587,
+    "name": "Fishing Pier",
+    "latitude": 39.073051,
+    "longitude": -84.5932208,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 158650125,
+    "name": "Fishing Pier",
+    "latitude": 39.0873688,
+    "longitude": -84.559957,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 158650413,
+    "name": "Fishing Pier",
+    "latitude": 39.0758065,
+    "longitude": -84.5846251,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 158650446,
+    "name": "Fishing Pier",
+    "latitude": 39.0718243,
+    "longitude": -84.596328,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 164560402,
+    "name": "Fishing Pier",
+    "latitude": 36.6458418,
+    "longitude": -88.0880586,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 164562147,
+    "name": "Fishing Pier",
+    "latitude": 36.6442521,
+    "longitude": -88.1291538,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165042181,
+    "name": "Fishing Pier",
+    "latitude": 36.5951741,
+    "longitude": -88.1210983,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165042805,
+    "name": "Fishing Pier",
+    "latitude": 36.5905569,
+    "longitude": -88.1221853,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165042807,
+    "name": "Fishing Pier",
+    "latitude": 36.5905517,
+    "longitude": -88.1226071,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165048717,
+    "name": "Fishing Pier",
+    "latitude": 36.5834181,
+    "longitude": -88.1340152,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165048718,
+    "name": "Fishing Pier",
+    "latitude": 36.5837754,
+    "longitude": -88.1376756,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165048728,
+    "name": "Fishing Pier",
+    "latitude": 36.5854518,
+    "longitude": -88.1321719,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165048729,
+    "name": "Fishing Pier",
+    "latitude": 36.5885949,
+    "longitude": -88.1326402,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165048732,
+    "name": "Fishing Pier",
+    "latitude": 36.587798,
+    "longitude": -88.1323291,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165049507,
+    "name": "Fishing Pier",
+    "latitude": 36.5931667,
+    "longitude": -88.1348373,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165049510,
+    "name": "Fishing Pier",
+    "latitude": 36.5965974,
+    "longitude": -88.1310899,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165051295,
+    "name": "Fishing Pier",
+    "latitude": 36.6072008,
+    "longitude": -88.1395318,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165051297,
+    "name": "Fishing Pier",
+    "latitude": 36.6075157,
+    "longitude": -88.1400736,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165051523,
+    "name": "Fishing Pier",
+    "latitude": 36.5999579,
+    "longitude": -88.1262471,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165051524,
+    "name": "Fishing Pier",
+    "latitude": 36.6067887,
+    "longitude": -88.1367614,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165051525,
+    "name": "Fishing Pier",
+    "latitude": 36.6026559,
+    "longitude": -88.1290097,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165051531,
+    "name": "Fishing Pier",
+    "latitude": 36.6012609,
+    "longitude": -88.1278105,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165052308,
+    "name": "Fishing Pier",
+    "latitude": 36.6115232,
+    "longitude": -88.1351671,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165055478,
+    "name": "Fishing Pier",
+    "latitude": 36.6071415,
+    "longitude": -88.0685306,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165055480,
+    "name": "Fishing Pier",
+    "latitude": 36.6104726,
+    "longitude": -88.0689646,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 165055490,
+    "name": "Fishing Pier",
+    "latitude": 36.6125797,
+    "longitude": -88.0690437,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 182572319,
+    "name": "Fishing Pier",
+    "latitude": 36.7611267,
+    "longitude": -88.133663,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 182572324,
+    "name": "Fishing Pier",
+    "latitude": 36.7627501,
+    "longitude": -88.1324738,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 199829278,
+    "name": "Fishing Pier",
+    "latitude": 39.0826394,
+    "longitude": -84.4216712,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 199829280,
+    "name": "Fishing Pier",
+    "latitude": 39.0818237,
+    "longitude": -84.4217493,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 238175642,
+    "name": "Fishing Pier",
+    "latitude": 37.222903,
+    "longitude": -85.2712915,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 238620154,
+    "name": "Fishing Pier",
+    "latitude": 37.2572177,
+    "longitude": -85.3417839,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 238620155,
+    "name": "Fishing Pier",
+    "latitude": 37.2856059,
+    "longitude": -85.3054331,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 238620157,
+    "name": "Fishing Pier",
+    "latitude": 37.2596525,
+    "longitude": -85.3395985,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 238620161,
+    "name": "Fishing Pier",
+    "latitude": 37.2559597,
+    "longitude": -85.3435805,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 239350474,
+    "name": "Fishing Pier",
+    "latitude": 36.5436113,
+    "longitude": -85.4375101,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 239350475,
+    "name": "Fishing Pier",
+    "latitude": 36.5854215,
+    "longitude": -85.3378093,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 239350485,
+    "name": "Fishing Pier",
+    "latitude": 36.6289368,
+    "longitude": -85.3739282,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 239350539,
+    "name": "Fishing Pier",
+    "latitude": 36.5422245,
+    "longitude": -85.4386243,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 267706690,
+    "name": "Fishing Pier",
+    "latitude": 36.9490281,
+    "longitude": -89.0957968,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322604163,
+    "name": "Fishing Pier",
+    "latitude": 36.8532125,
+    "longitude": -87.9416605,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322604178,
+    "name": "Fishing Pier",
+    "latitude": 36.8517374,
+    "longitude": -87.9400134,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322604199,
+    "name": "Fishing Pier",
+    "latitude": 36.8534517,
+    "longitude": -87.9428943,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322604213,
+    "name": "Dock",
+    "latitude": 36.8508713,
+    "longitude": -87.9322521,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "name": "Dock"
+    }
+  },
+  {
+    "id": 322607392,
+    "name": "Dock",
+    "latitude": 36.9121039,
+    "longitude": -87.9887885,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "name": "Dock"
+    }
+  },
+  {
+    "id": 386402392,
+    "name": "Fishing Pier",
+    "latitude": 37.9898844,
+    "longitude": -84.4232383,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 401830252,
+    "name": "Fishing Pier",
+    "latitude": 37.9891351,
+    "longitude": -84.4337321,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 401899654,
+    "name": "Fishing Pier",
+    "latitude": 37.9332425,
+    "longitude": -84.3940078,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 401900400,
+    "name": "Fishing Pier",
+    "latitude": 37.8872133,
+    "longitude": -84.3493335,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 402027153,
+    "name": "Fishing Pier",
+    "latitude": 37.9778245,
+    "longitude": -84.5517984,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "building": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 402562411,
+    "name": "Fishing Pier",
+    "latitude": 38.0130987,
+    "longitude": -84.4629724,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 405092434,
+    "name": "Fishing Pier",
+    "latitude": 36.5057458,
+    "longitude": -87.3725321,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing aerial"
+    }
+  },
+  {
+    "id": 405092435,
+    "name": "Fishing Pier",
+    "latitude": 36.5057402,
+    "longitude": -87.3724879,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing aerial"
+    }
+  },
+  {
+    "id": 503674853,
+    "name": "The Pier",
+    "latitude": 37.776614,
+    "longitude": -87.1167224,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "description": "The Pier",
+      "man_made": "pier",
+      "name": "The Pier"
+    }
+  },
+  {
+    "id": 530668548,
+    "name": "Fishing Pier",
+    "latitude": 36.5089157,
+    "longitude": -87.3693534,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 531101859,
+    "name": "Fishing Pier",
+    "latitude": 36.5109458,
+    "longitude": -89.5549867,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 534712069,
+    "name": "Fishing Pier",
+    "latitude": 36.9368153,
+    "longitude": -85.0439901,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 534712078,
+    "name": "Fishing Pier",
+    "latitude": 36.9350448,
+    "longitude": -85.0423679,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 586713706,
+    "name": "Fishing Pier",
+    "latitude": 37.7210982,
+    "longitude": -84.6824211,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 586717584,
+    "name": "Fishing Pier",
+    "latitude": 37.7187708,
+    "longitude": -84.702181,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 593466651,
+    "name": "Fishing Pier",
+    "latitude": 39.0342123,
+    "longitude": -84.352646,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 593466652,
+    "name": "Fishing Pier",
+    "latitude": 39.0341539,
+    "longitude": -84.3524711,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 599980618,
+    "name": "Fishing Pier",
+    "latitude": 37.2320546,
+    "longitude": -85.3372421,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "aerial imagery"
+    }
+  },
+  {
+    "id": 616173706,
+    "name": "Fishing Pier",
+    "latitude": 39.0892689,
+    "longitude": -84.5181436,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 723270264,
+    "name": "Fishing Pier",
+    "latitude": 39.0833461,
+    "longitude": -84.4372005,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 752892483,
+    "name": "Fishing Pier",
+    "latitude": 38.887474,
+    "longitude": -84.367814,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 761869099,
+    "name": "Fishing Pier",
+    "latitude": 36.5182935,
+    "longitude": -87.2077839,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 762130421,
+    "name": "Fishing Pier",
+    "latitude": 36.5122718,
+    "longitude": -87.2279565,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 794635715,
+    "name": "Fishing Pier",
+    "latitude": 36.5387875,
+    "longitude": -87.3938319,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 794635730,
+    "name": "Fishing Pier",
+    "latitude": 36.5365081,
+    "longitude": -87.4003579,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 801422460,
+    "name": "Fishing Pier",
+    "latitude": 36.9288233,
+    "longitude": -88.0053671,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 828587267,
+    "name": "Fishing Pier",
+    "latitude": 39.031279,
+    "longitude": -84.3889616,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 834331691,
+    "name": "USCG",
+    "latitude": 36.571208,
+    "longitude": -89.2010346,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 834349416,
+    "name": "Coast Guard Mooring",
+    "latitude": 37.7871186,
+    "longitude": -87.0735991,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "name": "Coast Guard Mooring",
+      "note": "Name from Light List Vol V (2020) LLNR 27357."
+    }
+  },
+  {
+    "id": 866829493,
+    "name": "Fishing Pier",
+    "latitude": 38.7876278,
+    "longitude": -84.3559298,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 884950912,
+    "name": "Fishing Pier",
+    "latitude": 37.8304011,
+    "longitude": -84.349284,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 893973509,
+    "name": "Fishing Pier",
+    "latitude": 38.7753333,
+    "longitude": -84.3447779,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 895094729,
+    "name": "Fishing Pier",
+    "latitude": 38.7566374,
+    "longitude": -84.3422335,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 895094730,
+    "name": "Fishing Pier",
+    "latitude": 38.7554126,
+    "longitude": -84.3440225,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 895382314,
+    "name": "Fishing Pier",
+    "latitude": 36.9655571,
+    "longitude": -89.0952354,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 895943674,
+    "name": "Fishing Pier",
+    "latitude": 38.734433,
+    "longitude": -84.3248886,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 896231947,
+    "name": "Fishing Pier",
+    "latitude": 38.726207,
+    "longitude": -84.3419213,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 896231967,
+    "name": "Fishing Pier",
+    "latitude": 38.7283205,
+    "longitude": -84.3396465,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 959769876,
+    "name": "BB Riverboats",
+    "latitude": 39.093524,
+    "longitude": -84.501898,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "BB Riverboats",
+      "surface": "steel",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "id": 965237089,
+    "name": "Fishing Pier",
+    "latitude": 38.7269912,
+    "longitude": -84.3008536,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 984743760,
+    "name": "Fishing Pier",
+    "latitude": 38.8938184,
+    "longitude": -84.300817,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 988945027,
+    "name": "Fishing Pier",
+    "latitude": 38.917509,
+    "longitude": -84.3130296,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 990496967,
+    "name": "Fishing Pier",
+    "latitude": 39.0650682,
+    "longitude": -84.4318815,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 993521029,
+    "name": "Fishing Pier",
+    "latitude": 38.9473112,
+    "longitude": -84.3542471,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1010370425,
+    "name": "Fishing Pier",
+    "latitude": 38.8976849,
+    "longitude": -84.3088957,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011825708,
+    "name": "Fishing Pier",
+    "latitude": 36.9509045,
+    "longitude": -88.2348248,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011825712,
+    "name": "Fishing Pier",
+    "latitude": 36.9491815,
+    "longitude": -88.2324952,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011825718,
+    "name": "Fishing Pier",
+    "latitude": 36.9472696,
+    "longitude": -88.231252,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011825719,
+    "name": "Fishing Pier",
+    "latitude": 36.9454507,
+    "longitude": -88.2331527,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011825727,
+    "name": "Fishing Pier",
+    "latitude": 36.9471665,
+    "longitude": -88.2377753,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011936332,
+    "name": "Fishing Pier",
+    "latitude": 36.9198127,
+    "longitude": -88.2229879,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011936343,
+    "name": "Fishing Pier",
+    "latitude": 36.9188548,
+    "longitude": -88.2221045,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011936347,
+    "name": "Fishing Pier",
+    "latitude": 36.9172228,
+    "longitude": -88.2186393,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1011936351,
+    "name": "Fishing Pier",
+    "latitude": 36.9191812,
+    "longitude": -88.2171091,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1014593101,
+    "name": "Fishing Pier",
+    "latitude": 36.6823118,
+    "longitude": -85.7018609,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1019816169,
+    "name": "Fishing Pier",
+    "latitude": 37.995242,
+    "longitude": -84.523995,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "bicycle": "yes",
+      "floating": "no",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1021159770,
+    "name": "Fishing Pier",
+    "latitude": 37.2258164,
+    "longitude": -85.8900919,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1021492429,
+    "name": "Fishing Pier",
+    "latitude": 37.1955804,
+    "longitude": -85.9097572,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1023340176,
+    "name": "Fishing Pier",
+    "latitude": 36.8365004,
+    "longitude": -88.6675656,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1023342798,
+    "name": "Fishing Pier",
+    "latitude": 36.7645084,
+    "longitude": -88.7363653,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1024622607,
+    "name": "Fishing Pier",
+    "latitude": 37.5219069,
+    "longitude": -86.9178659,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1027524539,
+    "name": "Fishing Pier",
+    "latitude": 38.8864262,
+    "longitude": -84.3671447,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1049728801,
+    "name": "Fishing Pier",
+    "latitude": 38.9303286,
+    "longitude": -84.3801364,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1066001329,
+    "name": "Fishing Pier",
+    "latitude": 39.0857434,
+    "longitude": -84.7827678,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "leisure": "outdoor_seating",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1066992553,
+    "name": "Fishing Pier",
+    "latitude": 37.4015802,
+    "longitude": -84.3498977,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1077147229,
+    "name": "Fishing Pier",
+    "latitude": 39.0863202,
+    "longitude": -84.7813205,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1083817308,
+    "name": "Fishing Pier",
+    "latitude": 37.978233,
+    "longitude": -84.4498758,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1084610077,
+    "name": "Fishing Pier",
+    "latitude": 36.5157886,
+    "longitude": -85.3873107,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1084610078,
+    "name": "Fishing Pier",
+    "latitude": 36.5144616,
+    "longitude": -85.3876135,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1107972632,
+    "name": "Fishing Pier",
+    "latitude": 36.9305087,
+    "longitude": -85.0443116,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1115207219,
+    "name": "Fishing Pier",
+    "latitude": 37.6708345,
+    "longitude": -85.4980453,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1115207225,
+    "name": "Fishing Pier",
+    "latitude": 37.6685636,
+    "longitude": -85.4947759,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1115558912,
+    "name": "Fishing Pier",
+    "latitude": 37.7153449,
+    "longitude": -85.5295107,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1116627619,
+    "name": "Fishing Pier",
+    "latitude": 39.065897,
+    "longitude": -84.4519156,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1119258405,
+    "name": "Fishing Pier",
+    "latitude": 38.0709091,
+    "longitude": -84.391202,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1123742270,
+    "name": "Fishing Pier",
+    "latitude": 36.5434816,
+    "longitude": -85.4371192,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1124864699,
+    "name": "Fishing Pier",
+    "latitude": 38.6485219,
+    "longitude": -84.7407716,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1128029573,
+    "name": "Fishing Pier",
+    "latitude": 38.6587239,
+    "longitude": -84.3301185,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1131414660,
+    "name": "Fishing Pier",
+    "latitude": 38.62853,
+    "longitude": -84.3183285,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1137884127,
+    "name": "Fishing Pier",
+    "latitude": 38.8447915,
+    "longitude": -84.4516345,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1138633515,
+    "name": "Fishing Pier",
+    "latitude": 37.0434926,
+    "longitude": -87.0436025,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 1144079805,
+    "name": "Fishing Pier",
+    "latitude": 36.9060098,
+    "longitude": -86.0753107,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178806683,
+    "name": "Fishing Pier",
+    "latitude": 36.6366286,
+    "longitude": -85.2817699,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178806684,
+    "name": "Fishing Pier",
+    "latitude": 36.6378539,
+    "longitude": -85.2814864,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178806691,
+    "name": "Fishing Pier",
+    "latitude": 36.6365462,
+    "longitude": -85.2828297,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1180707537,
+    "name": "Fishing Pier",
+    "latitude": 36.9853136,
+    "longitude": -84.6047635,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1180707538,
+    "name": "Fishing Pier",
+    "latitude": 36.9876724,
+    "longitude": -84.6058166,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204442750,
+    "name": "Fishing Pier",
+    "latitude": 36.747023,
+    "longitude": -87.9569518,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204489857,
+    "name": "Fishing Pier",
+    "latitude": 36.7484817,
+    "longitude": -87.956643,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204489864,
+    "name": "Fishing Pier",
+    "latitude": 36.7473203,
+    "longitude": -87.9577246,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204489865,
+    "name": "Fishing Pier",
+    "latitude": 36.7475985,
+    "longitude": -87.957548,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1229742882,
+    "name": "Fishing Pier",
+    "latitude": 37.7048343,
+    "longitude": -84.3557842,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1231384464,
+    "name": "Fishing Pier",
+    "latitude": 36.5684843,
+    "longitude": -89.2122582,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1231384465,
+    "name": "Fishing Pier",
+    "latitude": 36.568425,
+    "longitude": -89.2128625,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1253375492,
+    "name": "Fishing Pier",
+    "latitude": 36.5872918,
+    "longitude": -85.3957359,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1253375493,
+    "name": "Fishing Pier",
+    "latitude": 36.5880152,
+    "longitude": -85.3984368,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1253375495,
+    "name": "Fishing Pier",
+    "latitude": 36.5870266,
+    "longitude": -85.3983121,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1258412946,
+    "name": "Fishing Pier",
+    "latitude": 37.0459041,
+    "longitude": -84.6727508,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "covered": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1258412947,
+    "name": "Fishing Pier",
+    "latitude": 37.0445778,
+    "longitude": -84.6700479,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "covered": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1258412949,
+    "name": "Fishing Pier",
+    "latitude": 37.0486645,
+    "longitude": -84.6704717,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260583586,
+    "name": "Fishing Pier",
+    "latitude": 37.2847229,
+    "longitude": -86.2433347,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260583587,
+    "name": "Fishing Pier",
+    "latitude": 37.2850462,
+    "longitude": -86.2419196,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260583599,
+    "name": "Fishing Pier",
+    "latitude": 37.2882696,
+    "longitude": -86.2394264,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260583600,
+    "name": "Fishing Pier",
+    "latitude": 37.2870985,
+    "longitude": -86.2374246,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260592080,
+    "name": "Fishing Pier",
+    "latitude": 37.3045443,
+    "longitude": -86.2331652,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260595573,
+    "name": "Fishing Pier",
+    "latitude": 37.3079779,
+    "longitude": -86.2454849,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260595577,
+    "name": "Fishing Pier",
+    "latitude": 37.3132226,
+    "longitude": -86.25034,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260599689,
+    "name": "Fishing Pier",
+    "latitude": 37.314213,
+    "longitude": -86.224571,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260601972,
+    "name": "Fishing Pier",
+    "latitude": 37.3337573,
+    "longitude": -86.2221376,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260601975,
+    "name": "Fishing Pier",
+    "latitude": 37.3321074,
+    "longitude": -86.2218575,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260608036,
+    "name": "Fishing Pier",
+    "latitude": 37.2987881,
+    "longitude": -86.2140033,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260658082,
+    "name": "Fishing Pier",
+    "latitude": 37.3153179,
+    "longitude": -86.1355627,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260658084,
+    "name": "Fishing Pier",
+    "latitude": 37.3115042,
+    "longitude": -86.1359548,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260658086,
+    "name": "Fishing Pier",
+    "latitude": 37.3103488,
+    "longitude": -86.1444745,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659104,
+    "name": "Fishing Pier",
+    "latitude": 37.3176045,
+    "longitude": -86.1353984,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659108,
+    "name": "Fishing Pier",
+    "latitude": 37.3248393,
+    "longitude": -86.1302702,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659110,
+    "name": "Fishing Pier",
+    "latitude": 37.3233413,
+    "longitude": -86.1376093,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659111,
+    "name": "Fishing Pier",
+    "latitude": 37.3222657,
+    "longitude": -86.1390568,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659112,
+    "name": "Fishing Pier",
+    "latitude": 37.3214897,
+    "longitude": -86.143532,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659114,
+    "name": "Fishing Pier",
+    "latitude": 37.3236747,
+    "longitude": -86.1456695,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659116,
+    "name": "Fishing Pier",
+    "latitude": 37.3285056,
+    "longitude": -86.1332498,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659119,
+    "name": "Fishing Pier",
+    "latitude": 37.3312291,
+    "longitude": -86.1375432,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659122,
+    "name": "Fishing Pier",
+    "latitude": 37.3329617,
+    "longitude": -86.1436118,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659309,
+    "name": "Fishing Pier",
+    "latitude": 37.3334556,
+    "longitude": -86.1611195,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659311,
+    "name": "Fishing Pier",
+    "latitude": 37.3322922,
+    "longitude": -86.1653115,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1260659312,
+    "name": "Fishing Pier",
+    "latitude": 37.3325669,
+    "longitude": -86.1631138,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1262605492,
+    "name": "Fishing Pier",
+    "latitude": 37.609041,
+    "longitude": -86.5008587,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1264906748,
+    "name": "Pier I",
+    "latitude": 36.8625543,
+    "longitude": -84.9836229,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier I"
+    }
+  },
+  {
+    "id": 1264906749,
+    "name": "Pier J",
+    "latitude": 36.862359,
+    "longitude": -84.9823993,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier J"
+    }
+  },
+  {
+    "id": 1264906751,
+    "name": "Pier H",
+    "latitude": 36.8610526,
+    "longitude": -84.9829014,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier H"
+    }
+  },
+  {
+    "id": 1264906752,
+    "name": "Pier M",
+    "latitude": 36.8629026,
+    "longitude": -84.9790477,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier M"
+    }
+  },
+  {
+    "id": 1264906753,
+    "name": "Pier N - Slipaway",
+    "latitude": 36.8626779,
+    "longitude": -84.9774867,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Pier N - Slipaway"
+    }
+  },
+  {
+    "id": 1264906754,
+    "name": "Fishing Pier",
+    "latitude": 36.8620109,
+    "longitude": -84.9772171,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1324079443,
+    "name": "Fishing Pier",
+    "latitude": 36.8936889,
+    "longitude": -86.1108567,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1324079449,
+    "name": "Fishing Pier",
+    "latitude": 36.892556,
+    "longitude": -86.1125355,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1367207600,
+    "name": "Fishing Pier",
+    "latitude": 37.1836864,
+    "longitude": -86.6314674,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "abandoned": "yes",
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete",
+      "website": "https://greenrivermuseum.org/ld4-history.html"
+    }
+  },
+  {
+    "id": 1376739999,
+    "name": "Fishing Pier",
+    "latitude": 37.3152127,
+    "longitude": -87.4794467,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1387174757,
+    "name": "Fishing Pier",
+    "latitude": 37.0439815,
+    "longitude": -84.66746,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1387174764,
+    "name": "Fishing Pier",
+    "latitude": 37.0505677,
+    "longitude": -84.6753042,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1392486679,
+    "name": "Fishing Pier",
+    "latitude": 38.9702683,
+    "longitude": -84.6428298,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1393947141,
+    "name": "Fishing Pier",
+    "latitude": 36.9049866,
+    "longitude": -88.0341622,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1394197442,
+    "name": "Fishing Pier",
+    "latitude": 36.9402762,
+    "longitude": -88.1743617,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1394197452,
+    "name": "Fishing Pier",
+    "latitude": 36.947457,
+    "longitude": -88.1889891,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1394991813,
+    "name": "Fishing Pier",
+    "latitude": 36.9374668,
+    "longitude": -88.3479239,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1395032252,
+    "name": "Fishing Pier",
+    "latitude": 36.8600138,
+    "longitude": -88.0132978,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409395037,
+    "name": "Fishing Pier",
+    "latitude": 36.939819,
+    "longitude": -88.2472181,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409395038,
+    "name": "Fishing Pier",
+    "latitude": 36.9386107,
+    "longitude": -88.2485598,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409395042,
+    "name": "Fishing Pier",
+    "latitude": 36.9371734,
+    "longitude": -88.2502379,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409395048,
+    "name": "Fishing Pier",
+    "latitude": 36.9367337,
+    "longitude": -88.2525677,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409395058,
+    "name": "Fishing Pier",
+    "latitude": 36.9322973,
+    "longitude": -88.2606162,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1409395059,
+    "name": "Fishing Pier",
+    "latitude": 36.9329039,
+    "longitude": -88.2597846,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1421811230,
+    "name": "Fishing Pier",
+    "latitude": 37.7674721,
+    "longitude": -87.406512,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1422714215,
+    "name": "Fishing Pier",
+    "latitude": 37.4666292,
+    "longitude": -84.5624457,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1427314347,
+    "name": "Fishing Pier",
+    "latitude": 39.0793862,
+    "longitude": -84.5881508,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1444020401,
+    "name": "Fishing Pier",
+    "latitude": 37.5173191,
+    "longitude": -86.8495987,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1444903267,
+    "name": "Fishing Pier",
+    "latitude": 39.0949024,
+    "longitude": -84.6746086,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1457003073,
+    "name": "Fishing Pier",
+    "latitude": 36.8916213,
+    "longitude": -89.5688632,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1457437492,
+    "name": "Fishing Pier",
+    "latitude": 37.150683,
+    "longitude": -86.0422834,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489865981,
+    "name": "Fishing Pier",
+    "latitude": 38.9958797,
+    "longitude": -84.7118302,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "bicycle": "no",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1493527127,
+    "name": "Boat Dock",
+    "latitude": 36.8259223,
+    "longitude": -88.1657804,
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Boat Dock"
+    }
   }
 ]

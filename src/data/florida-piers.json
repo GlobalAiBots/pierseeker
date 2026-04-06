@@ -1,0 +1,962 @@
+[
+  {
+    "place_id": "osm_313610658",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.3875633,
+    "longitude": -81.5366652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1292494173",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 27.9961919,
+    "longitude": -81.9428211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1518906181",
+    "name": "Tucker's Point",
+    "formatted_address": ", Florida, USA",
+    "latitude": 30.150129,
+    "longitude": -84.210646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1627454220",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.8805891,
+    "longitude": -82.6191927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1627454308",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.882258,
+    "longitude": -82.6144205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2215641590",
+    "name": "Pat's Hole",
+    "formatted_address": ", Florida, USA",
+    "latitude": 27.94068,
+    "longitude": -82.449857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2327799255",
+    "name": "Bay Bluff",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.719459,
+    "longitude": -85.381968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3401581520",
+    "name": "Fish Cleaning Sink",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.7638523,
+    "longitude": -85.4024408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3401581521",
+    "name": "Fish Cleaning Sink",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.76426,
+    "longitude": -85.4025743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3659516931",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.3989357,
+    "longitude": -83.2054614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4094614028",
+    "name": "Fishing Finger 7",
+    "formatted_address": ", Florida, USA",
+    "latitude": 30.4369461,
+    "longitude": -84.179952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4094614029",
+    "name": "Fishing Finger 6",
+    "formatted_address": ", Florida, USA",
+    "latitude": 30.4376445,
+    "longitude": -84.1819691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4094614030",
+    "name": "Fishing Finger 5",
+    "formatted_address": ", Florida, USA",
+    "latitude": 30.4385048,
+    "longitude": -84.1847586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4094614032",
+    "name": "Fishing Finger 3",
+    "formatted_address": ", Florida, USA",
+    "latitude": 30.4400218,
+    "longitude": -84.1898869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5294004557",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.5733577,
+    "longitude": -81.1895516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5294833650",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.5767872,
+    "longitude": -81.1945748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5354820732",
+    "name": "Lemon Bay Fishing",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.9623323,
+    "longitude": -82.3661891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5313671863",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.5803111,
+    "longitude": -81.2034414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5354761323",
+    "name": "Manasota Lemon Bay Fishing Dock",
+    "formatted_address": ", Florida, USA",
+    "latitude": 27.0101534,
+    "longitude": -82.4103919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6910370214",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.5604968,
+    "longitude": -81.6158136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7176665922",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 30.2721498,
+    "longitude": -81.3875076,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7202094868",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.9061514,
+    "longitude": -81.4101486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7278012561",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 27.8616592,
+    "longitude": -80.4448735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8204061864",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.6920043,
+    "longitude": -81.7772239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8248596164",
+    "name": "Fishing Deck",
+    "formatted_address": ", Florida, USA",
+    "latitude": 27.7736084,
+    "longitude": -82.6221923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8313743256",
+    "name": "Island Charters",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.6547051,
+    "longitude": -84.8914519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8863143553",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.9476057,
+    "longitude": -84.3415797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9512897617",
+    "name": "Fishing dock",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.8018311,
+    "longitude": -81.3827543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9592754587",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.7823457,
+    "longitude": -81.7559913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9669809677",
+    "name": "Captain Planet Charters LLC",
+    "formatted_address": ", Florida, USA",
+    "latitude": 25.7433293,
+    "longitude": -80.3329688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9697665864",
+    "name": "Tides Turn Fishing Charters",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.136931,
+    "longitude": -83.030227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10027573869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.9963833,
+    "longitude": -81.9678608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10721098670",
+    "name": "Brinson Park Fishing Spot",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.2928689,
+    "longitude": -81.3967651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10724733085",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.5315687,
+    "longitude": -80.0540652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10727868785",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 27.7895001,
+    "longitude": -80.5105135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10732650563",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.7835445,
+    "longitude": -80.0442312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10775855718",
+    "name": "All 4 Chuck Fishing Charters LLC",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.6457017,
+    "longitude": -82.0464706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11142785575",
+    "name": "Captain Rios Charters",
+    "formatted_address": ", Florida, USA",
+    "latitude": 24.5708455,
+    "longitude": -81.7466723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11387949524",
+    "name": "Bear Pond Dock",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.8192411,
+    "longitude": -81.4292345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11415414707",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 27.261591,
+    "longitude": -80.3587489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11885060233",
+    "name": "Calypso Park Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.6103215,
+    "longitude": -82.0294575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11926817207",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1510018,
+    "longitude": -82.7286435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11926989903",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1003633,
+    "longitude": -82.6879495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11928371593",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.140953,
+    "longitude": -82.7666824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11928372594",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1434109,
+    "longitude": -82.7657806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11943218086",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1351426,
+    "longitude": -82.7396364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11943218088",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1376575,
+    "longitude": -82.7521059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11943218089",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1318692,
+    "longitude": -82.7350653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11943218090",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1340345,
+    "longitude": -82.7343335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11947052561",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1630683,
+    "longitude": -82.7401247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11947068250",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1570049,
+    "longitude": -82.7401598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11947068251",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1585713,
+    "longitude": -82.7401179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11948203525",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1761102,
+    "longitude": -82.7486597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12214663236",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.8248024,
+    "longitude": -82.6576487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12214706329",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.8243026,
+    "longitude": -82.6564276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12508625517",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 25.988145,
+    "longitude": -81.5938976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12511140307",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 25.9386351,
+    "longitude": -81.4612025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12512895536",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 25.761467,
+    "longitude": -80.5031168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12637769534",
+    "name": "Fishing Pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.7050015,
+    "longitude": -81.939598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13013815551",
+    "name": "Don't Tell Mom Sportfishing",
+    "formatted_address": ", Florida, USA",
+    "latitude": 26.118867,
+    "longitude": -80.1060527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13414180482",
+    "name": "Lochloosa Wildlife Area Fishing Dock",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.495042,
+    "longitude": -82.1286285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13421998472",
+    "name": "Prarie Creek trail bridge",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.610958,
+    "longitude": -82.2481867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13422024614",
+    "name": "Earl P Powers Park pier",
+    "formatted_address": ", Florida, USA",
+    "latitude": 29.6181407,
+    "longitude": -82.2507183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13698264361",
+    "name": "Teneroc Fish Management Area",
+    "formatted_address": ", Florida, USA",
+    "latitude": 28.1002702,
+    "longitude": -81.8768863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

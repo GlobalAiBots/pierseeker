@@ -9,5 +9,7888 @@
     "tags": {
       "leisure": "fishing"
     }
+  },
+  {
+    "id": 3950821730,
+    "name": "Red River Parish Port",
+    "latitude": 31.9615122,
+    "longitude": -93.3367046,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Red River Parish Port"
+    }
+  },
+  {
+    "id": 5740158007,
+    "name": "Fishing Pier",
+    "latitude": 32.5267687,
+    "longitude": -92.2271954,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 8048902322,
+    "name": "Fishing Pier",
+    "latitude": 30.3089625,
+    "longitude": -91.7663634,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 8048902325,
+    "name": "Fishing Pier",
+    "latitude": 30.3110941,
+    "longitude": -91.7852114,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 12616478,
+    "name": "Fishing Pier",
+    "latitude": 31.5936748,
+    "longitude": -91.5036817,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Concordia, LA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 12687871,
+    "name": "Fishing Pier",
+    "latitude": 32.6910323,
+    "longitude": -92.0872657,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 12687873,
+    "name": "Fishing Pier",
+    "latitude": 32.6900462,
+    "longitude": -92.0876311,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 13439324,
+    "name": "Fishing Pier",
+    "latitude": 29.9275551,
+    "longitude": -89.9691264,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "service",
+      "man_made": "pier",
+      "tiger:cfcc": "A41",
+      "tiger:county": "St. Bernard, LA",
+      "tiger:reviewed": "no",
+      "tiger:separated": "no",
+      "tiger:source": "tiger_import_dch_v0.6_20070813",
+      "tiger:tlid": "111199636:111199637:209860616:209860617",
+      "tiger:upload_uuid": "bulk_upload.pl-ad81d8db-5711-463a-9a5e-16e9338dfbb8"
+    }
+  },
+  {
+    "id": 29990039,
+    "name": "Pauline St. Wharf",
+    "latitude": 29.9598327,
+    "longitude": -90.0379165,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Pauline St. Wharf",
+      "ruined": "yes"
+    }
+  },
+  {
+    "id": 31138589,
+    "name": "Fishing Pier",
+    "latitude": 29.922143,
+    "longitude": -89.9745085,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "service",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 32529078,
+    "name": "Saint Stanislaus Private Pier",
+    "latitude": 30.3057916,
+    "longitude": -89.327003,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "created_by": "Potlatch 0.10f",
+      "man_made": "pier",
+      "name": "Saint Stanislaus Private Pier"
+    }
+  },
+  {
+    "id": 32529645,
+    "name": "Fishing Pier",
+    "latitude": 30.30204,
+    "longitude": -89.3271778,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 59986917,
+    "name": "Fishing Pier",
+    "latitude": 29.2594288,
+    "longitude": -89.9491457,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 104531161,
+    "name": "Fishing Pier",
+    "latitude": 29.9871495,
+    "longitude": -90.090969,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 161580538,
+    "name": "Fishing Pier",
+    "latitude": 29.9393498,
+    "longitude": -89.9942445,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 165860981,
+    "name": "Fishing Pier",
+    "latitude": 30.5047462,
+    "longitude": -89.1531218,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "building": "yes",
+      "man_made": "pier",
+      "source": "MGC"
+    }
+  },
+  {
+    "id": 165861575,
+    "name": "Fishing Pier",
+    "latitude": 30.4726693,
+    "longitude": -89.1507338,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "addr:postcode": "39503",
+      "addr:street": "Off Cypress Drive",
+      "man_made": "pier",
+      "source": "MGC"
+    }
+  },
+  {
+    "id": 166372954,
+    "name": "Fishing Pier",
+    "latitude": 30.3690967,
+    "longitude": -89.2704162,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "amenity": "shelter",
+      "man_made": "pier",
+      "source": "MGC"
+    }
+  },
+  {
+    "id": 166373708,
+    "name": "Fishing Pier",
+    "latitude": 30.3613899,
+    "longitude": -89.0824438,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 170585289,
+    "name": "Fishing Pier",
+    "latitude": 30.6812569,
+    "longitude": -91.4617257,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "building": "roof",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 170589793,
+    "name": "Fishing Pier",
+    "latitude": 30.6827697,
+    "longitude": -91.4594458,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 170629393,
+    "name": "Fishing Pier",
+    "latitude": 30.685028,
+    "longitude": -91.4550074,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 171301171,
+    "name": "Fishing Pier",
+    "latitude": 30.2105983,
+    "longitude": -92.0007821,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172240039,
+    "name": "Fishing Pier",
+    "latitude": 30.2148297,
+    "longitude": -91.9952502,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "path",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 173067467,
+    "name": "Fishing Pier",
+    "latitude": 30.2453724,
+    "longitude": -93.2061584,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 178027051,
+    "name": "Fishing Pier",
+    "latitude": 30.3444576,
+    "longitude": -89.1427072,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 178027053,
+    "name": "Fishing Pier",
+    "latitude": 30.3439782,
+    "longitude": -89.1424081,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 190667173,
+    "name": "Fishing Pier",
+    "latitude": 31.7560802,
+    "longitude": -93.0866671,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 190667174,
+    "name": "Fishing Pier",
+    "latitude": 31.7455609,
+    "longitude": -93.0856287,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 251370426,
+    "name": "Fishing Pier",
+    "latitude": 30.3636032,
+    "longitude": -89.0873617,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 830987530,
+    "name": "U.S. Coast Guard",
+    "latitude": 30.3635432,
+    "longitude": -89.0897159,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "U.S. Coast Guard"
+    }
+  },
+  {
+    "id": 251370441,
+    "name": "Fishing Pier",
+    "latitude": 30.3606909,
+    "longitude": -89.0917842,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 255979283,
+    "name": "Fishing Pier",
+    "latitude": 31.5498269,
+    "longitude": -92.6549462,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 261122707,
+    "name": "City Park Fishing Pier",
+    "latitude": 30.0085506,
+    "longitude": -90.0981956,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "addr:street": "Marconi Drive",
+      "area": "yes",
+      "man_made": "pier",
+      "name": "City Park Fishing Pier",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "id": 288713823,
+    "name": "Fishing Pier",
+    "latitude": 30.7383678,
+    "longitude": -90.4713986,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 310925218,
+    "name": "Fishing Pier",
+    "latitude": 29.3523079,
+    "longitude": -89.5377941,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 310925220,
+    "name": "Fishing Pier",
+    "latitude": 29.3532194,
+    "longitude": -89.5370829,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 313962652,
+    "name": "St. Tammany Fishing Pier",
+    "latitude": 30.2079776,
+    "longitude": -89.7974894,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "St. Tammany Fishing Pier",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "id": 338471454,
+    "name": "Fishing Pier",
+    "latitude": 29.9521827,
+    "longitude": -90.0337915,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Orleans, LA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 339332947,
+    "name": "Fishing Pier",
+    "latitude": 29.9152301,
+    "longitude": -90.0925031,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 361573098,
+    "name": "Fishing Pier",
+    "latitude": 29.2637066,
+    "longitude": -89.9562214,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 361735049,
+    "name": "Fishing Pier",
+    "latitude": 30.0323653,
+    "longitude": -90.0352379,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 363340260,
+    "name": "Poland Ave. Wharf",
+    "latitude": 29.9587917,
+    "longitude": -90.0336977,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Poland Ave. Wharf"
+    }
+  },
+  {
+    "id": 365259896,
+    "name": "Fishing Pier",
+    "latitude": 30.0215353,
+    "longitude": -90.1417096,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 365260299,
+    "name": "Fishing Pier",
+    "latitude": 30.0210029,
+    "longitude": -90.1428321,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 365269789,
+    "name": "Fishing Pier",
+    "latitude": 30.0225525,
+    "longitude": -90.1173935,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "covered": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 365269794,
+    "name": "Fishing Pier",
+    "latitude": 30.0225401,
+    "longitude": -90.1178739,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "covered": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 366053920,
+    "name": "Fishing Pier",
+    "latitude": 31.0083336,
+    "longitude": -91.6322689,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "track",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 366053922,
+    "name": "Fishing Pier",
+    "latitude": 30.9984456,
+    "longitude": -91.6268314,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "track",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 377339594,
+    "name": "Fishing Pier",
+    "latitude": 30.3748636,
+    "longitude": -89.043819,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388301207,
+    "name": "Fishing Pier",
+    "latitude": 30.1733988,
+    "longitude": -89.7273618,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388304675,
+    "name": "Fishing Pier",
+    "latitude": 30.21801,
+    "longitude": -89.7909782,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388304699,
+    "name": "Fishing Pier",
+    "latitude": 30.2159994,
+    "longitude": -89.7931014,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388822162,
+    "name": "Fishing Pier",
+    "latitude": 30.401934,
+    "longitude": -91.1251275,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 389613021,
+    "name": "Fishing Pier",
+    "latitude": 30.334399,
+    "longitude": -90.0119746,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 405690966,
+    "name": "Fishing Pier",
+    "latitude": 30.3497616,
+    "longitude": -90.0540928,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 406043379,
+    "name": "Fishing Pier",
+    "latitude": 30.3653682,
+    "longitude": -90.1072691,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 406044861,
+    "name": "Fishing Pier",
+    "latitude": 30.4055828,
+    "longitude": -90.1492372,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 432157840,
+    "name": "Kayak and Canoe Dock",
+    "latitude": 30.2579869,
+    "longitude": -91.9867635,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Kayak and Canoe Dock"
+    }
+  },
+  {
+    "id": 432309583,
+    "name": "Fishing Pier",
+    "latitude": 31.5471045,
+    "longitude": -93.7314231,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461468274,
+    "name": "Fishing Pier",
+    "latitude": 30.2330397,
+    "longitude": -93.2219994,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 461767858,
+    "name": "Fishing Pier",
+    "latitude": 32.5279441,
+    "longitude": -92.0709548,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 462150479,
+    "name": "Fishing Pier",
+    "latitude": 30.1019055,
+    "longitude": -92.0106496,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 462178153,
+    "name": "Piety Street Wharf",
+    "latitude": 29.9608124,
+    "longitude": -90.0440594,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Piety Street Wharf"
+    }
+  },
+  {
+    "id": 463711203,
+    "name": "Fishing Pier",
+    "latitude": 29.7777984,
+    "longitude": -93.3426631,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 463711223,
+    "name": "Fishing Pier",
+    "latitude": 29.7638447,
+    "longitude": -93.3428949,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 463711225,
+    "name": "Fishing Pier",
+    "latitude": 29.763608,
+    "longitude": -93.3405514,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 464614105,
+    "name": "Fishing Pier",
+    "latitude": 29.927373,
+    "longitude": -89.9652898,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "service",
+      "man_made": "pier",
+      "tiger:cfcc": "A41",
+      "tiger:county": "St. Bernard, LA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 464614108,
+    "name": "Fishing Pier",
+    "latitude": 29.9291776,
+    "longitude": -89.9749271,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "service",
+      "man_made": "pier",
+      "tiger:cfcc": "A41",
+      "tiger:county": "St. Bernard, LA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 465517603,
+    "name": "Fishing Pier",
+    "latitude": 30.1989929,
+    "longitude": -93.2363646,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 465970850,
+    "name": "Fishing Pier",
+    "latitude": 30.2243067,
+    "longitude": -93.2225337,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 466289476,
+    "name": "Fishing Pier",
+    "latitude": 30.4526066,
+    "longitude": -90.9614243,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 466785116,
+    "name": "Fishing Pier",
+    "latitude": 30.4470547,
+    "longitude": -90.8989632,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 467367304,
+    "name": "Fishing Pier",
+    "latitude": 30.4578712,
+    "longitude": -90.9342628,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 468773676,
+    "name": "Fishing Pier",
+    "latitude": 32.1069486,
+    "longitude": -92.0741226,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 469798384,
+    "name": "Bayou Bluff Pier",
+    "latitude": 30.4123522,
+    "longitude": -89.0379594,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Bayou Bluff Pier"
+    }
+  },
+  {
+    "id": 470305621,
+    "name": "Fishing Pier",
+    "latitude": 30.2923682,
+    "longitude": -91.236513,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge": "boardwalk",
+      "highway": "path",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 470313055,
+    "name": "Fishing Pier",
+    "latitude": 30.3105352,
+    "longitude": -89.3228761,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 470313058,
+    "name": "Jimmy Rutherford Fishing Pier",
+    "latitude": 30.3115321,
+    "longitude": -89.322446,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Jimmy Rutherford Fishing Pier"
+    }
+  },
+  {
+    "id": 473026104,
+    "name": "Fishing Pier",
+    "latitude": 30.2320413,
+    "longitude": -93.221582,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 478486646,
+    "name": "Fishing Pier",
+    "latitude": 29.9550524,
+    "longitude": -90.0624098,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 479315391,
+    "name": "Fishing Pier",
+    "latitude": 30.5380676,
+    "longitude": -89.9485209,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 479379973,
+    "name": "Fishing Pier",
+    "latitude": 30.3487422,
+    "longitude": -90.0609459,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "id": 479380701,
+    "name": "Fishing Pier",
+    "latitude": 30.3348532,
+    "longitude": -90.0457123,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "id": 479565531,
+    "name": "Fishing Pier",
+    "latitude": 30.3607275,
+    "longitude": -90.0859265,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 908931658,
+    "name": "Sunset Pier Fishing Pier",
+    "latitude": 30.3603778,
+    "longitude": -90.089652,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Sunset Pier Fishing Pier"
+    }
+  },
+  {
+    "id": 479760450,
+    "name": "Money Hill Fishing Pier",
+    "latitude": 30.546123,
+    "longitude": -89.9574694,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Money Hill Fishing Pier"
+    }
+  },
+  {
+    "id": 489054290,
+    "name": "Fishing Pier",
+    "latitude": 32.5321018,
+    "longitude": -91.4920758,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 492927538,
+    "name": "Fishing Pier",
+    "latitude": 30.1594024,
+    "longitude": -93.3265534,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 504149688,
+    "name": "Fishing Pier",
+    "latitude": 30.7789943,
+    "longitude": -90.8859882,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 504149690,
+    "name": "Fishing Pier",
+    "latitude": 30.788251,
+    "longitude": -90.9219059,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 504155134,
+    "name": "Fishing Pier",
+    "latitude": 30.7098633,
+    "longitude": -91.2594342,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 508285709,
+    "name": "Fishing Pier",
+    "latitude": 30.0170078,
+    "longitude": -90.7354093,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 508287262,
+    "name": "Fishing Pier",
+    "latitude": 30.0545596,
+    "longitude": -90.5780312,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 508287263,
+    "name": "Fishing Pier",
+    "latitude": 30.0537055,
+    "longitude": -90.5838089,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 510857004,
+    "name": "Fishing Pier",
+    "latitude": 30.177931,
+    "longitude": -93.3178206,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 510857005,
+    "name": "Fishing Pier",
+    "latitude": 30.1731047,
+    "longitude": -93.3194706,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 510857007,
+    "name": "Fishing Pier",
+    "latitude": 30.2094209,
+    "longitude": -93.251173,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 510858896,
+    "name": "Fishing Pier",
+    "latitude": 30.2320072,
+    "longitude": -93.2570352,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 537207448,
+    "name": "Fishing Pier",
+    "latitude": 29.7068152,
+    "longitude": -91.2985992,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 550474430,
+    "name": "Fishing Pier",
+    "latitude": 29.9560339,
+    "longitude": -90.0470068,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 556302290,
+    "name": "West Side Pier",
+    "latitude": 30.3584041,
+    "longitude": -89.1083254,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "West Side Pier"
+    }
+  },
+  {
+    "id": 563441561,
+    "name": "Fishing Pier",
+    "latitude": 30.0091561,
+    "longitude": -91.8196051,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 563456855,
+    "name": "Fishing Pier",
+    "latitude": 30.0001828,
+    "longitude": -91.802371,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 573303422,
+    "name": "Fishing Pier",
+    "latitude": 30.0040325,
+    "longitude": -91.8119711,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 584716551,
+    "name": "Fishing Pier",
+    "latitude": 29.8629259,
+    "longitude": -92.1458786,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 591039269,
+    "name": "Fishing Pier",
+    "latitude": 30.3624983,
+    "longitude": -89.0870006,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 603144832,
+    "name": "Fishing Pier",
+    "latitude": 30.2054862,
+    "longitude": -92.0199702,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 610414367,
+    "name": "Fishing Pier",
+    "latitude": 32.3916895,
+    "longitude": -90.0406027,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "man_made_1": "breakwater"
+    }
+  },
+  {
+    "id": 610436725,
+    "name": "Fishing Pier",
+    "latitude": 32.393518,
+    "longitude": -90.0381924,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 610436732,
+    "name": "Fishing Pier",
+    "latitude": 32.3930581,
+    "longitude": -90.0372614,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 610437771,
+    "name": "Fishing Pier",
+    "latitude": 32.3925733,
+    "longitude": -90.0270917,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 614303858,
+    "name": "Fishing Pier",
+    "latitude": 32.3824404,
+    "longitude": -90.0320654,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 614328579,
+    "name": "Fishing Pier",
+    "latitude": 32.4264605,
+    "longitude": -90.0786018,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 614328590,
+    "name": "Fishing Pier",
+    "latitude": 32.422554,
+    "longitude": -90.0841735,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 614328595,
+    "name": "Fishing Pier",
+    "latitude": 32.4223153,
+    "longitude": -90.0849105,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 615498809,
+    "name": "Fishing Pier",
+    "latitude": 32.4454208,
+    "longitude": -93.6651204,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 621627013,
+    "name": "Fishing Pier",
+    "latitude": 30.2846086,
+    "longitude": -91.1543356,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 621627014,
+    "name": "Fishing Pier",
+    "latitude": 30.2717606,
+    "longitude": -91.1422563,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 630034928,
+    "name": "Fishing Pier",
+    "latitude": 29.7341971,
+    "longitude": -91.8552145,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 630038382,
+    "name": "Fishing Pier",
+    "latitude": 29.2538417,
+    "longitude": -89.9567858,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 633078238,
+    "name": "Fishing Pier",
+    "latitude": 32.5197281,
+    "longitude": -92.1332568,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 633183604,
+    "name": "Fishing Pier",
+    "latitude": 32.6016993,
+    "longitude": -92.0503404,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 635371974,
+    "name": "Fishing Pier",
+    "latitude": 32.389212,
+    "longitude": -90.0480879,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 635381668,
+    "name": "Fishing Pier",
+    "latitude": 32.3886555,
+    "longitude": -90.0260505,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 639643526,
+    "name": "Fishing Pier",
+    "latitude": 32.4039894,
+    "longitude": -90.0741062,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 651185749,
+    "name": "Fishing Pier",
+    "latitude": 32.7756166,
+    "longitude": -92.4813845,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 653163896,
+    "name": "Fishing Pier",
+    "latitude": 29.2858061,
+    "longitude": -89.3606454,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 665823248,
+    "name": "Fishing Pier",
+    "latitude": 30.3529331,
+    "longitude": -90.0495428,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 665823249,
+    "name": "Fishing Pier",
+    "latitude": 30.3523378,
+    "longitude": -90.049927,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666018849,
+    "name": "Fishing Pier",
+    "latitude": 30.3141319,
+    "longitude": -89.2411508,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666018860,
+    "name": "Fishing Pier",
+    "latitude": 30.3130124,
+    "longitude": -89.2443104,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666018867,
+    "name": "Fishing Pier",
+    "latitude": 30.3109619,
+    "longitude": -89.2459747,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 666018871,
+    "name": "Fishing Pier",
+    "latitude": 30.3124022,
+    "longitude": -89.2488823,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 669702084,
+    "name": "Fishing Pier",
+    "latitude": 30.5162087,
+    "longitude": -89.1053131,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 672532755,
+    "name": "Fishing Pier",
+    "latitude": 30.3515785,
+    "longitude": -89.6130641,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 672532756,
+    "name": "Fishing Pier",
+    "latitude": 30.3515637,
+    "longitude": -89.6178063,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 688039140,
+    "name": "Fishing Pier",
+    "latitude": 29.9804001,
+    "longitude": -93.2698786,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 688039147,
+    "name": "Fishing Pier",
+    "latitude": 29.9767604,
+    "longitude": -93.2717992,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 721915339,
+    "name": "Fishing Pier",
+    "latitude": 29.4152182,
+    "longitude": -90.4998832,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 739450578,
+    "name": "Fishing Pier",
+    "latitude": 30.3858273,
+    "longitude": -90.6341361,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 757765640,
+    "name": "Fishing Pier",
+    "latitude": 31.3951389,
+    "longitude": -89.3600337,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767313075,
+    "name": "Fishing Pier",
+    "latitude": 30.0557943,
+    "longitude": -90.0299956,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 767313087,
+    "name": "Fishing Pier",
+    "latitude": 30.0432546,
+    "longitude": -90.0133369,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767313117,
+    "name": "Fishing Pier",
+    "latitude": 30.0408056,
+    "longitude": -90.0140543,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767313129,
+    "name": "Fishing Pier",
+    "latitude": 30.0390809,
+    "longitude": -90.0119174,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767318217,
+    "name": "Fishing Pier",
+    "latitude": 30.0703931,
+    "longitude": -89.9532904,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767343631,
+    "name": "Fishing Pier",
+    "latitude": 30.0024463,
+    "longitude": -89.9025655,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767343632,
+    "name": "Fishing Pier",
+    "latitude": 30.0026104,
+    "longitude": -89.9025122,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767572070,
+    "name": "Fishing Pier",
+    "latitude": 30.0136217,
+    "longitude": -89.9024288,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767572073,
+    "name": "Fishing Pier",
+    "latitude": 30.0139851,
+    "longitude": -89.9033725,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 767814981,
+    "name": "Fishing Pier",
+    "latitude": 29.9998807,
+    "longitude": -89.9916603,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 807263309,
+    "name": "Fishing Pier",
+    "latitude": 30.4326943,
+    "longitude": -91.6710175,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 807272604,
+    "name": "Fishing Pier",
+    "latitude": 30.5156561,
+    "longitude": -91.716471,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 827523398,
+    "name": "Fishing Pier",
+    "latitude": 32.4947213,
+    "longitude": -91.1224039,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 831385972,
+    "name": "Coast Guard Pier",
+    "latitude": 30.0127167,
+    "longitude": -89.9303293,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "name": "Coast Guard Pier"
+    }
+  },
+  {
+    "id": 831547029,
+    "name": "29 RBS",
+    "latitude": 30.021216,
+    "longitude": -90.1227884,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "description": "The Coast Guard 29-foot Response Boat Small is designed year-round operation in waters along coastal borders for port and waterway security, search and rescue, drug and migrant interdiction, National Defense missions, and environmental protection.",
+      "image": "https://www.facebook.com/uscgstanola/photos/a.1873786282856611/2787105241524706/?type=3&theater",
+      "man_made": "pier",
+      "name": "29 RBS"
+    }
+  },
+  {
+    "id": 831788830,
+    "name": "NOAA NDBC",
+    "latitude": 30.3547768,
+    "longitude": -89.6098032,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "NOAA NDBC"
+    }
+  },
+  {
+    "id": 831992189,
+    "name": "USCG",
+    "latitude": 29.6895365,
+    "longitude": -91.2026609,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 831992193,
+    "name": "USCG",
+    "latitude": 29.6895106,
+    "longitude": -91.2024562,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 832299400,
+    "name": "U.S. Coast Guard Dulac Pier",
+    "latitude": 29.3775864,
+    "longitude": -90.7142842,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "U.S. Coast Guard Dulac Pier",
+      "note": "Name from Lightlist Vol IV (2020) LLNR 17983."
+    }
+  },
+  {
+    "id": 1466905148,
+    "name": "John W Stone Wharf",
+    "latitude": 29.2512693,
+    "longitude": -89.3582876,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "John W Stone Wharf",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 832342583,
+    "name": "24 SPC",
+    "latitude": 29.2646442,
+    "longitude": -89.9577077,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "description": "The 24-foot shallow water boats can be used to support a natural disaster response.",
+      "floating": "yes",
+      "image": "https://www.facebook.com/607792659405124/photos/a.719716724879383/1671167509734295/?type=3&theater",
+      "man_made": "pier",
+      "name": "24 SPC"
+    }
+  },
+  {
+    "id": 832946396,
+    "name": "USCG",
+    "latitude": 29.7294549,
+    "longitude": -93.8709226,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 834243808,
+    "name": "USCG",
+    "latitude": 31.5437144,
+    "longitude": -91.434084,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 834294685,
+    "name": "Coast Guard Pier",
+    "latitude": 32.3853818,
+    "longitude": -90.8815738,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "name": "Coast Guard Pier"
+    }
+  },
+  {
+    "id": 836273385,
+    "name": "Fishing Pier",
+    "latitude": 30.353389,
+    "longitude": -90.9862944,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 836635472,
+    "name": "Fishing Pier",
+    "latitude": 30.3524131,
+    "longitude": -90.9870325,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 836635473,
+    "name": "Fishing Pier",
+    "latitude": 30.3522607,
+    "longitude": -90.9880208,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 837662889,
+    "name": "Fishing Pier",
+    "latitude": 30.3527683,
+    "longitude": -90.9901589,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 840804202,
+    "name": "Fishing Pier",
+    "latitude": 29.7618055,
+    "longitude": -93.8979779,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence": "railing",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 849507789,
+    "name": "Fishing Pier",
+    "latitude": 30.3463681,
+    "longitude": -90.9835425,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 857446349,
+    "name": "Marlex Terminals Harvey Mooring Pier",
+    "latitude": 29.9083562,
+    "longitude": -90.0953618,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "name": "Marlex Terminals Harvey Mooring Pier",
+      "operator": "National Defense Reserve Fleet",
+      "operator:short": "NDRF",
+      "operator:type": "military",
+      "operator:wikidata": "Q3087571",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 857824840,
+    "name": "RO-RO Pier",
+    "latitude": 30.0253089,
+    "longitude": -93.9987598,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "description": "SS Regulus, SS Pollux, SS Cape Victory, SS Cape Vincent",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "name": "RO-RO Pier",
+      "note": "https://www.mccarthy.com/projects/marad-beaumont-layberth-facility",
+      "operator": "USDOT - U.S. Maritime Administration",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 857824839,
+    "name": "RO-RO Pier",
+    "latitude": 30.0200198,
+    "longitude": -93.9998691,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "name": "RO-RO Pier",
+      "note": "https://www.mccarthy.com/projects/marad-beaumont-layberth-facility",
+      "operator": "USDOT - U.S. Maritime Administration",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 857837522,
+    "name": "Fishing Pier",
+    "latitude": 30.0289433,
+    "longitude": -93.9975543,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 857837525,
+    "name": "Fishing Pier",
+    "latitude": 30.0289441,
+    "longitude": -93.9969433,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 870322075,
+    "name": "Fishing Pier",
+    "latitude": 31.4818554,
+    "longitude": -91.8606075,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 882584068,
+    "name": "Fishing Pier",
+    "latitude": 30.1993761,
+    "longitude": -92.3550938,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 887407915,
+    "name": "Fishing Pier",
+    "latitude": 31.4338023,
+    "longitude": -89.5371937,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 889594261,
+    "name": "Fishing Pier",
+    "latitude": 30.0741645,
+    "longitude": -93.8959597,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 889594262,
+    "name": "Fishing Pier",
+    "latitude": 30.0741899,
+    "longitude": -93.8990207,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 892912160,
+    "name": "Fishing Pier",
+    "latitude": 30.3300792,
+    "longitude": -90.8502043,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 893160469,
+    "name": "Fishing Pier",
+    "latitude": 30.3301642,
+    "longitude": -90.847313,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 908252554,
+    "name": "Fishing Pier",
+    "latitude": 31.333115,
+    "longitude": -92.4442801,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 911370345,
+    "name": "Fishing Pier",
+    "latitude": 31.5325767,
+    "longitude": -93.6222445,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 911370347,
+    "name": "Fishing Pier",
+    "latitude": 31.5329421,
+    "longitude": -93.6226645,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 913519785,
+    "name": "Fishing Pier",
+    "latitude": 31.5316422,
+    "longitude": -93.6469716,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 924869443,
+    "name": "Fishing Pier",
+    "latitude": 29.2619387,
+    "longitude": -89.9630344,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 924971221,
+    "name": "Fishing Pier",
+    "latitude": 29.2388462,
+    "longitude": -90.0032954,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 924971224,
+    "name": "Fishing Pier",
+    "latitude": 29.2392177,
+    "longitude": -90.0023754,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 928824989,
+    "name": "Fishing Pier",
+    "latitude": 30.4421868,
+    "longitude": -91.1922,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 941658163,
+    "name": "Fishing Pier",
+    "latitude": 32.5467732,
+    "longitude": -90.1574336,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 941671073,
+    "name": "Fishing Pier",
+    "latitude": 32.5488382,
+    "longitude": -90.144903,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 977535572,
+    "name": "Fishing Pier",
+    "latitude": 32.3820511,
+    "longitude": -93.7277695,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 977845626,
+    "name": "Fishing Pier",
+    "latitude": 29.6540186,
+    "longitude": -90.1060604,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "addr:postcode": "70067",
+      "addr:state": "LA",
+      "building": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 978234618,
+    "name": "Fishing Pier",
+    "latitude": 29.9096507,
+    "longitude": -90.2730203,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 978368500,
+    "name": "Fishing Pier",
+    "latitude": 32.3922127,
+    "longitude": -93.7485346,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 978418014,
+    "name": "Fishing Pier",
+    "latitude": 29.8966799,
+    "longitude": -90.1565179,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 978822888,
+    "name": "Fishing Pier",
+    "latitude": 29.8979679,
+    "longitude": -90.1582974,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 979795160,
+    "name": "Fishing Pier",
+    "latitude": 29.9142777,
+    "longitude": -90.2956364,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 979795165,
+    "name": "Fishing Pier",
+    "latitude": 29.913563,
+    "longitude": -90.2874929,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 979795166,
+    "name": "Fishing Pier",
+    "latitude": 29.9135963,
+    "longitude": -90.2876173,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 982872207,
+    "name": "Fishing Pier",
+    "latitude": 32.5383372,
+    "longitude": -92.1359369,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 983230326,
+    "name": "Fishing Pier",
+    "latitude": 30.5927637,
+    "longitude": -89.9537761,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "amenity": "shelter",
+      "building": "roof",
+      "man_made": "pier",
+      "shelter_type": "gazebo"
+    }
+  },
+  {
+    "id": 988726640,
+    "name": "Fishing Pier",
+    "latitude": 29.3882119,
+    "longitude": -90.2635632,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "building": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 989813465,
+    "name": "Fishing Pier",
+    "latitude": 30.0188431,
+    "longitude": -89.905761,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 992347096,
+    "name": "Fishing Pier",
+    "latitude": 32.48635,
+    "longitude": -91.4938908,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1010059544,
+    "name": "Fishing Pier",
+    "latitude": 31.323333,
+    "longitude": -89.3158961,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1012304191,
+    "name": "Fishing Pier",
+    "latitude": 31.1916944,
+    "longitude": -89.3036791,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1012304195,
+    "name": "Fishing Pier",
+    "latitude": 31.1925017,
+    "longitude": -89.3010043,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1012304199,
+    "name": "Fishing Pier",
+    "latitude": 31.1933774,
+    "longitude": -89.3053335,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1012304204,
+    "name": "Fishing Pier",
+    "latitude": 31.1999639,
+    "longitude": -89.3039972,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1018424997,
+    "name": "Fishing Pier",
+    "latitude": 29.0170887,
+    "longitude": -89.171301,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1018425010,
+    "name": "Fishing Pier",
+    "latitude": 29.0156993,
+    "longitude": -89.1669343,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1038158356,
+    "name": "Fishing Pier",
+    "latitude": 30.5346402,
+    "longitude": -91.0885068,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1053638360,
+    "name": "Fishing Pier",
+    "latitude": 32.3883968,
+    "longitude": -90.0433097,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1062453868,
+    "name": "Fishing Pier",
+    "latitude": 29.9973242,
+    "longitude": -90.210617,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "building": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1062595689,
+    "name": "Fishing Pier",
+    "latitude": 30.4369249,
+    "longitude": -91.1925236,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1064739910,
+    "name": "Fishing Pier",
+    "latitude": 29.736598,
+    "longitude": -90.1297637,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "building": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1072532668,
+    "name": "Fishing Pier",
+    "latitude": 29.2057789,
+    "longitude": -90.0596519,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1072534565,
+    "name": "Fishing Pier",
+    "latitude": 29.2101677,
+    "longitude": -90.0493114,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078594838,
+    "name": "Fishing Pier",
+    "latitude": 32.5450189,
+    "longitude": -92.1652055,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1078862810,
+    "name": "Fishing Pier",
+    "latitude": 32.3501491,
+    "longitude": -90.0574907,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1085945427,
+    "name": "Fishing Pier",
+    "latitude": 29.920856,
+    "longitude": -90.135428,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "no",
+      "area": "yes",
+      "floating": "yes",
+      "lit": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1086141716,
+    "name": "Fishing Pier",
+    "latitude": 29.951367,
+    "longitude": -90.1377128,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1086144557,
+    "name": "Fishing Pier",
+    "latitude": 29.9469937,
+    "longitude": -90.1698408,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1086855935,
+    "name": "Fishing Pier",
+    "latitude": 30.2577435,
+    "longitude": -90.1127865,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1091334412,
+    "name": "Fishing Pier",
+    "latitude": 30.1182604,
+    "longitude": -91.9387963,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1095027758,
+    "name": "Fishing Pier",
+    "latitude": 29.0559109,
+    "longitude": -89.3088835,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1104782990,
+    "name": "Fishing Pier",
+    "latitude": 31.00547,
+    "longitude": -91.7175876,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1106099126,
+    "name": "Fishing Pier",
+    "latitude": 29.7433794,
+    "longitude": -93.8722977,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1106099127,
+    "name": "Fishing Pier",
+    "latitude": 29.7420356,
+    "longitude": -93.8695464,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1106099131,
+    "name": "Fishing Pier",
+    "latitude": 29.7427737,
+    "longitude": -93.8730065,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1110803285,
+    "name": "Fishing Pier",
+    "latitude": 30.0800645,
+    "longitude": -90.5734608,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1115770437,
+    "name": "Fishing Pier",
+    "latitude": 29.9665335,
+    "longitude": -90.0264226,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1115770438,
+    "name": "Fishing Pier",
+    "latitude": 29.9678927,
+    "longitude": -90.0263636,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1115770439,
+    "name": "Fishing Pier",
+    "latitude": 29.962205,
+    "longitude": -90.028266,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1115770440,
+    "name": "Fishing Pier",
+    "latitude": 29.963042,
+    "longitude": -90.0276291,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1115778002,
+    "name": "Fishing Pier",
+    "latitude": 29.9725153,
+    "longitude": -90.0252,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring"
+    }
+  },
+  {
+    "id": 1115778007,
+    "name": "Fishing Pier",
+    "latitude": 29.9803541,
+    "longitude": -90.021546,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1116493810,
+    "name": "Fishing Pier",
+    "latitude": 29.9800714,
+    "longitude": -90.0249609,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1116883239,
+    "name": "Fishing Pier",
+    "latitude": 29.9556614,
+    "longitude": -90.023706,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring"
+    }
+  },
+  {
+    "id": 1116894482,
+    "name": "Fishing Pier",
+    "latitude": 29.9539095,
+    "longitude": -90.0191377,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1116894484,
+    "name": "Fishing Pier",
+    "latitude": 29.9525778,
+    "longitude": -90.0174914,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1116894485,
+    "name": "Fishing Pier",
+    "latitude": 29.9513767,
+    "longitude": -90.0148228,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1116894510,
+    "name": "Fishing Pier",
+    "latitude": 29.9500187,
+    "longitude": -90.0119578,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring"
+    }
+  },
+  {
+    "id": 1117123424,
+    "name": "Fishing Pier",
+    "latitude": 29.9540172,
+    "longitude": -90.0375734,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1117208149,
+    "name": "Fishing Pier",
+    "latitude": 29.94741,
+    "longitude": -90.0228812,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1117208151,
+    "name": "Fishing Pier",
+    "latitude": 29.9433227,
+    "longitude": -90.0139163,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1117208161,
+    "name": "Fishing Pier",
+    "latitude": 29.9451758,
+    "longitude": -90.0177214,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "abandoned": "yes",
+      "area": "yes",
+      "man_made": "pier",
+      "ruined": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1117208162,
+    "name": "Fishing Pier",
+    "latitude": 29.9488567,
+    "longitude": -90.0249416,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1117208172,
+    "name": "Fishing Pier",
+    "latitude": 29.9509939,
+    "longitude": -90.0304406,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "abandoned": "yes",
+      "man_made": "pier",
+      "ruined": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1117214370,
+    "name": "Fishing Pier",
+    "latitude": 30.0124521,
+    "longitude": -89.928739,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1120596507,
+    "name": "Fishing Pier",
+    "latitude": 29.1874705,
+    "longitude": -90.6669682,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1122138010,
+    "name": "Fishing Pier",
+    "latitude": 29.1918284,
+    "longitude": -90.6533162,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1130907091,
+    "name": "Fishing Pier",
+    "latitude": 30.2140209,
+    "longitude": -92.0177017,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "lit": "yes",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1138183122,
+    "name": "Fishing Pier",
+    "latitude": 30.2235533,
+    "longitude": -93.2782895,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1153290863,
+    "name": "Fishing Pier",
+    "latitude": 32.5054668,
+    "longitude": -92.1266612,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1153290864,
+    "name": "Fishing Pier",
+    "latitude": 32.5023119,
+    "longitude": -92.1225592,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1156646555,
+    "name": "Fishing Pier",
+    "latitude": 32.3341956,
+    "longitude": -90.8963625,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1157787996,
+    "name": "Fishing Pier",
+    "latitude": 30.3502679,
+    "longitude": -90.980169,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1167974315,
+    "name": "Fishing Pier",
+    "latitude": 30.6603282,
+    "longitude": -91.9116697,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1169710720,
+    "name": "Fishing Pier",
+    "latitude": 32.2491777,
+    "longitude": -93.4954643,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1169733449,
+    "name": "Fishing Pier",
+    "latitude": 29.7577723,
+    "longitude": -92.2639769,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1170008760,
+    "name": "Fishing Pier",
+    "latitude": 32.8286558,
+    "longitude": -93.8441634,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1170347840,
+    "name": "Fishing Pier",
+    "latitude": 31.5209119,
+    "longitude": -92.7271844,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1170351931,
+    "name": "Fishing Pier",
+    "latitude": 31.1873216,
+    "longitude": -92.2925913,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1170351932,
+    "name": "Fishing Pier",
+    "latitude": 31.186979,
+    "longitude": -92.2906936,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1170354091,
+    "name": "Fishing Pier",
+    "latitude": 31.2550181,
+    "longitude": -91.9586988,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1170399068,
+    "name": "Fishing Pier",
+    "latitude": 29.3286211,
+    "longitude": -90.7297525,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173423622,
+    "name": "Fishing Pier",
+    "latitude": 29.9390287,
+    "longitude": -90.1421906,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173423623,
+    "name": "Fishing Pier",
+    "latitude": 29.9381804,
+    "longitude": -90.1426249,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173423625,
+    "name": "Fishing Pier",
+    "latitude": 29.9350147,
+    "longitude": -90.142837,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173514659,
+    "name": "Fishing Pier",
+    "latitude": 29.9129359,
+    "longitude": -90.1384092,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533804,
+    "name": "Fishing Pier",
+    "latitude": 29.9046521,
+    "longitude": -90.1092354,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1173533805,
+    "name": "Terminal 2",
+    "latitude": 29.9048411,
+    "longitude": -90.1065531,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Terminal 2",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1173533816,
+    "name": "Wharf No. 3",
+    "latitude": 29.9108048,
+    "longitude": -90.0874673,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Wharf No. 3",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1173533821,
+    "name": "Fishing Pier",
+    "latitude": 29.9074049,
+    "longitude": -90.0828243,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1461812129,
+    "name": "Industrial Pump Sales and Repair",
+    "latitude": 29.9085634,
+    "longitude": -90.1280835,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Industrial Pump Sales and Repair",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1173533832,
+    "name": "Fishing Pier",
+    "latitude": 29.9177398,
+    "longitude": -90.1412981,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533834,
+    "name": "Fishing Pier",
+    "latitude": 29.9210708,
+    "longitude": -90.1425095,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533836,
+    "name": "Fishing Pier",
+    "latitude": 29.9532266,
+    "longitude": -90.1491958,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533837,
+    "name": "Fishing Pier",
+    "latitude": 29.9520713,
+    "longitude": -90.1524213,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533838,
+    "name": "Fishing Pier",
+    "latitude": 29.9322927,
+    "longitude": -90.177222,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533839,
+    "name": "Fishing Pier",
+    "latitude": 29.9264122,
+    "longitude": -90.1859923,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533840,
+    "name": "Fishing Pier",
+    "latitude": 29.9244014,
+    "longitude": -90.190239,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533841,
+    "name": "Fishing Pier",
+    "latitude": 29.9223665,
+    "longitude": -90.1938655,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533845,
+    "name": "Fishing Pier",
+    "latitude": 29.9406105,
+    "longitude": -90.1785197,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533846,
+    "name": "Fishing Pier",
+    "latitude": 29.944894,
+    "longitude": -90.1729225,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533850,
+    "name": "Fishing Pier",
+    "latitude": 29.9564212,
+    "longitude": -90.1585975,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533856,
+    "name": "Fishing Pier",
+    "latitude": 29.954868,
+    "longitude": -90.1399096,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533858,
+    "name": "Fishing Pier",
+    "latitude": 29.9338923,
+    "longitude": -90.1355576,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "operator": "United States Army Corps of Engineers",
+      "operator:short": "USACE",
+      "operator:type": "military",
+      "operator:wikidata": "Q1049334",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1173533860,
+    "name": "E.N. Bisso & Son",
+    "latitude": 29.9250332,
+    "longitude": -90.1355951,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "E.N. Bisso & Son",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1173533861,
+    "name": "Fishing Pier",
+    "latitude": 29.9164978,
+    "longitude": -90.0709988,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533864,
+    "name": "Fishing Pier",
+    "latitude": 29.9184997,
+    "longitude": -90.0675038,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533866,
+    "name": "Fishing Pier",
+    "latitude": 29.9226318,
+    "longitude": -90.0620827,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533874,
+    "name": "Fishing Pier",
+    "latitude": 29.9275483,
+    "longitude": -90.0581737,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173533876,
+    "name": "Blackwater Harvey LLC",
+    "latitude": 29.9143426,
+    "longitude": -90.0758915,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Blackwater Harvey LLC",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1173533880,
+    "name": "Fishing Pier",
+    "latitude": 29.9133288,
+    "longitude": -90.0793458,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1173535705,
+    "name": "Fishing Pier",
+    "latitude": 29.9388408,
+    "longitude": -90.05909,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173535706,
+    "name": "Fishing Pier",
+    "latitude": 29.9388718,
+    "longitude": -90.0541245,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173535711,
+    "name": "Fishing Pier",
+    "latitude": 29.9430758,
+    "longitude": -90.05508,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173539230,
+    "name": "Fishing Pier",
+    "latitude": 29.9423247,
+    "longitude": -90.1667315,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173539641,
+    "name": "Fishing Pier",
+    "latitude": 29.9395692,
+    "longitude": -90.3757265,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173539642,
+    "name": "Fishing Pier",
+    "latitude": 29.9425509,
+    "longitude": -90.3740151,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173539643,
+    "name": "Fishing Pier",
+    "latitude": 29.9426574,
+    "longitude": -90.3705854,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173539644,
+    "name": "Fishing Pier",
+    "latitude": 29.9422313,
+    "longitude": -90.3709682,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173539937,
+    "name": "Fishing Pier",
+    "latitude": 30.0484216,
+    "longitude": -90.6740679,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173539938,
+    "name": "Fishing Pier",
+    "latitude": 30.0448474,
+    "longitude": -90.6719998,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173540063,
+    "name": "Fishing Pier",
+    "latitude": 30.0983316,
+    "longitude": -90.9102034,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173540064,
+    "name": "Fishing Pier",
+    "latitude": 30.0978757,
+    "longitude": -90.912727,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173540065,
+    "name": "Fishing Pier",
+    "latitude": 30.0974388,
+    "longitude": -90.9151883,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1173595007,
+    "name": "Fishing Pier",
+    "latitude": 29.9529609,
+    "longitude": -90.0561033,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174061935,
+    "name": "Fishing Pier",
+    "latitude": 29.9995748,
+    "longitude": -89.9958562,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213077,
+    "name": "Fishing Pier",
+    "latitude": 29.972941,
+    "longitude": -90.2784165,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213079,
+    "name": "Fishing Pier",
+    "latitude": 29.9710917,
+    "longitude": -90.2827555,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213889,
+    "name": "Fishing Pier",
+    "latitude": 29.9593718,
+    "longitude": -90.2892461,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213891,
+    "name": "Fishing Pier",
+    "latitude": 29.9654169,
+    "longitude": -90.2715161,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213896,
+    "name": "Fishing Pier",
+    "latitude": 29.961347,
+    "longitude": -90.2396487,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213899,
+    "name": "Fishing Pier",
+    "latitude": 29.9568157,
+    "longitude": -90.2325331,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213900,
+    "name": "Fishing Pier",
+    "latitude": 29.9520415,
+    "longitude": -90.2287194,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213903,
+    "name": "Fishing Pier",
+    "latitude": 29.945884,
+    "longitude": -90.22537,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213905,
+    "name": "Fishing Pier",
+    "latitude": 29.9717982,
+    "longitude": -90.2470247,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213906,
+    "name": "Fishing Pier",
+    "latitude": 29.9660047,
+    "longitude": -90.2939077,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213908,
+    "name": "Fishing Pier",
+    "latitude": 29.9388755,
+    "longitude": -90.3207265,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213909,
+    "name": "Fishing Pier",
+    "latitude": 29.9393296,
+    "longitude": -90.3231118,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213914,
+    "name": "Fishing Pier",
+    "latitude": 29.9373795,
+    "longitude": -90.3267541,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213915,
+    "name": "Fishing Pier",
+    "latitude": 29.9367906,
+    "longitude": -90.3290227,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213916,
+    "name": "Fishing Pier",
+    "latitude": 29.9395488,
+    "longitude": -90.3123198,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213921,
+    "name": "Fishing Pier",
+    "latitude": 29.9321678,
+    "longitude": -90.3497925,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213923,
+    "name": "Fishing Pier",
+    "latitude": 29.9313955,
+    "longitude": -90.3461933,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213924,
+    "name": "Fishing Pier",
+    "latitude": 29.9348013,
+    "longitude": -90.3598569,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213925,
+    "name": "Fishing Pier",
+    "latitude": 29.9413053,
+    "longitude": -90.3596062,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213927,
+    "name": "Fishing Pier",
+    "latitude": 29.9397316,
+    "longitude": -90.3569148,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213931,
+    "name": "Fishing Pier",
+    "latitude": 29.9384551,
+    "longitude": -90.350992,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213932,
+    "name": "Fishing Pier",
+    "latitude": 29.9375567,
+    "longitude": -90.3469691,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174213937,
+    "name": "Fishing Pier",
+    "latitude": 29.9368276,
+    "longitude": -90.336422,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174311182,
+    "name": "Fishing Pier",
+    "latitude": 30.1942501,
+    "longitude": -89.5351021,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "bridge:support": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174315364,
+    "name": "Fishing Pier",
+    "latitude": 29.9094996,
+    "longitude": -89.9789964,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174317306,
+    "name": "Fishing Pier",
+    "latitude": 29.8945419,
+    "longitude": -89.9963599,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174322760,
+    "name": "Fishing Pier",
+    "latitude": 29.8587672,
+    "longitude": -89.9068324,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174341801,
+    "name": "Fishing Pier",
+    "latitude": 29.8986303,
+    "longitude": -89.9030598,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174649036,
+    "name": "Fishing Pier",
+    "latitude": 29.9127068,
+    "longitude": -89.975107,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1174649040,
+    "name": "Fishing Pier",
+    "latitude": 29.9167938,
+    "longitude": -89.9700447,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1175126780,
+    "name": "Fishing Pier",
+    "latitude": 29.9907903,
+    "longitude": -90.094524,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178370319,
+    "name": "Fishing Pier",
+    "latitude": 31.5017225,
+    "longitude": -91.802008,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178728048,
+    "name": "Fishing Pier",
+    "latitude": 31.5700302,
+    "longitude": -89.1192262,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1182511842,
+    "name": "Fishing Pier",
+    "latitude": 29.9739452,
+    "longitude": -89.8686614,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "location": "aboveground",
+      "man_made": "pier",
+      "operator": "Southern Natural Gas Company, L.L.C.",
+      "pipeline": "substation",
+      "substance": "gas",
+      "substation": "valve_group"
+    }
+  },
+  {
+    "id": 1184086314,
+    "name": "Fishing Pier",
+    "latitude": 32.5066401,
+    "longitude": -89.9334755,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1184086556,
+    "name": "Fishing Pier",
+    "latitude": 32.5053347,
+    "longitude": -89.9294867,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1186223432,
+    "name": "Fishing Pier",
+    "latitude": 30.6364264,
+    "longitude": -92.4126122,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1190531627,
+    "name": "Fishing Pier",
+    "latitude": 30.0752336,
+    "longitude": -92.6757557,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191403107,
+    "name": "Fishing Pier",
+    "latitude": 29.9459638,
+    "longitude": -91.1860232,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191403111,
+    "name": "Fishing Pier",
+    "latitude": 29.9483867,
+    "longitude": -91.1857778,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191403113,
+    "name": "Fishing Pier",
+    "latitude": 29.9525719,
+    "longitude": -91.1857218,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191403116,
+    "name": "Fishing Pier",
+    "latitude": 29.9206236,
+    "longitude": -91.1267397,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191427377,
+    "name": "Fishing Pier",
+    "latitude": 29.6839301,
+    "longitude": -91.0998922,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1191427379,
+    "name": "Fishing Pier",
+    "latitude": 29.6891589,
+    "longitude": -91.0996762,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1204731327,
+    "name": "Fishing Pier",
+    "latitude": 30.9362056,
+    "longitude": -90.1943652,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1225390981,
+    "name": "Fishing Pier",
+    "latitude": 29.915416,
+    "longitude": -90.2740033,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1227448052,
+    "name": "Fishing Pier",
+    "latitude": 30.0060251,
+    "longitude": -91.8164251,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "yes",
+      "area": "yes",
+      "fee": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233157140,
+    "name": "Fishing Pier",
+    "latitude": 32.6107783,
+    "longitude": -92.6338709,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233159998,
+    "name": "Fishing Pier",
+    "latitude": 32.6103445,
+    "longitude": -92.6415947,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233161492,
+    "name": "Fishing Pier",
+    "latitude": 32.6144901,
+    "longitude": -92.6425318,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1233161781,
+    "name": "Fishing Pier",
+    "latitude": 32.6219644,
+    "longitude": -92.6374761,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743430,
+    "name": "Fishing Pier",
+    "latitude": 30.0379548,
+    "longitude": -90.1513431,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1245743432,
+    "name": "Fishing Pier",
+    "latitude": 30.0540891,
+    "longitude": -90.1485267,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743434,
+    "name": "Fishing Pier",
+    "latitude": 30.0703824,
+    "longitude": -90.1456772,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743436,
+    "name": "Fishing Pier",
+    "latitude": 30.0895877,
+    "longitude": -90.1423151,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743438,
+    "name": "Fishing Pier",
+    "latitude": 30.108618,
+    "longitude": -90.1389747,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743440,
+    "name": "Fishing Pier",
+    "latitude": 30.1276453,
+    "longitude": -90.1356401,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743443,
+    "name": "Fishing Pier",
+    "latitude": 30.1425974,
+    "longitude": -90.1330169,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743445,
+    "name": "Fishing Pier",
+    "latitude": 30.1674089,
+    "longitude": -90.1286453,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743447,
+    "name": "Fishing Pier",
+    "latitude": 30.183699,
+    "longitude": -90.1258002,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743449,
+    "name": "Fishing Pier",
+    "latitude": 30.1998632,
+    "longitude": -90.1229635,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743451,
+    "name": "Fishing Pier",
+    "latitude": 30.2141661,
+    "longitude": -90.1204393,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743453,
+    "name": "Fishing Pier",
+    "latitude": 30.2284752,
+    "longitude": -90.1179158,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743455,
+    "name": "Fishing Pier",
+    "latitude": 30.242789,
+    "longitude": -90.115415,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743457,
+    "name": "Fishing Pier",
+    "latitude": 30.2769215,
+    "longitude": -90.1094412,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743458,
+    "name": "Fishing Pier",
+    "latitude": 30.2961021,
+    "longitude": -90.1060748,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743459,
+    "name": "Fishing Pier",
+    "latitude": 30.3150086,
+    "longitude": -90.102746,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743460,
+    "name": "Fishing Pier",
+    "latitude": 30.3312892,
+    "longitude": -90.0998775,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1245743461,
+    "name": "Fishing Pier",
+    "latitude": 30.3475772,
+    "longitude": -90.0970104,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1254390369,
+    "name": "Fishing Pier",
+    "latitude": 29.8824484,
+    "longitude": -90.1637889,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1254390390,
+    "name": "Fishing Pier",
+    "latitude": 29.8964713,
+    "longitude": -90.1582318,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1254698826,
+    "name": "Fishing Pier",
+    "latitude": 29.8851676,
+    "longitude": -90.1621649,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1254698828,
+    "name": "Fishing Pier",
+    "latitude": 29.8845156,
+    "longitude": -90.162569,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1262246076,
+    "name": "Fishing Pier",
+    "latitude": 29.2871807,
+    "longitude": -89.9296446,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1270781676,
+    "name": "Fishing Pier",
+    "latitude": 30.043478,
+    "longitude": -90.2382937,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1271511193,
+    "name": "Fishing Pier",
+    "latitude": 30.0419664,
+    "longitude": -90.2358827,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1274483270,
+    "name": "Fishing Pier",
+    "latitude": 30.8206785,
+    "longitude": -91.2673605,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1293314112,
+    "name": "Fishing Pier",
+    "latitude": 29.5492844,
+    "longitude": -92.3069944,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1305121761,
+    "name": "Fishing Pier",
+    "latitude": 29.2194706,
+    "longitude": -90.0240999,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1307760128,
+    "name": "Fishing Pier",
+    "latitude": 30.3255038,
+    "longitude": -89.3254921,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1307760129,
+    "name": "Fishing Pier",
+    "latitude": 30.3245962,
+    "longitude": -89.327579,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1308603355,
+    "name": "Fishing Pier",
+    "latitude": 30.2654255,
+    "longitude": -89.3885622,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1308603362,
+    "name": "Fishing Pier",
+    "latitude": 30.2814464,
+    "longitude": -89.3658384,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1313413226,
+    "name": "Fishing Pier",
+    "latitude": 32.7747551,
+    "longitude": -92.4851086,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1313413229,
+    "name": "Fishing Pier",
+    "latitude": 32.7712598,
+    "longitude": -92.4901142,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1313413230,
+    "name": "Fishing Pier",
+    "latitude": 32.7727458,
+    "longitude": -92.4883224,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1313413231,
+    "name": "Fishing Pier",
+    "latitude": 32.7745775,
+    "longitude": -92.4760882,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1314763878,
+    "name": "Fishing Pier",
+    "latitude": 32.8540921,
+    "longitude": -92.0943451,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1315838860,
+    "name": "Fishing Pier",
+    "latitude": 32.9103793,
+    "longitude": -92.2303778,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1316642838,
+    "name": "Fishing Pier",
+    "latitude": 32.8828036,
+    "longitude": -92.2416285,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1318483753,
+    "name": "Fishing Pier",
+    "latitude": 32.7583753,
+    "longitude": -92.413905,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1318483754,
+    "name": "Fishing Pier",
+    "latitude": 32.7564056,
+    "longitude": -92.4175303,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1318483755,
+    "name": "Fishing Pier",
+    "latitude": 32.7571668,
+    "longitude": -92.3788416,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1318520734,
+    "name": "Fishing Pier",
+    "latitude": 32.3300842,
+    "longitude": -90.1462698,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "check_date": "2024-09-26",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1319714896,
+    "name": "Fishing Pier",
+    "latitude": 29.1792314,
+    "longitude": -89.2588371,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1319715373,
+    "name": "Fishing Pier",
+    "latitude": 30.1901992,
+    "longitude": -93.3007825,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1319720434,
+    "name": "Fishing Pier",
+    "latitude": 29.788567,
+    "longitude": -90.4200326,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1320191451,
+    "name": "Fishing Pier",
+    "latitude": 29.8421552,
+    "longitude": -91.538949,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1321994766,
+    "name": "Fishing Pier",
+    "latitude": 32.3989294,
+    "longitude": -90.3294725,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1322912966,
+    "name": "Fishing Pier",
+    "latitude": 29.8670994,
+    "longitude": -93.9310189,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1322914275,
+    "name": "Fishing Pier",
+    "latitude": 29.9811604,
+    "longitude": -93.8845977,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1322915531,
+    "name": "Fishing Pier",
+    "latitude": 29.6893988,
+    "longitude": -93.8419358,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1323989104,
+    "name": "Fishing Pier",
+    "latitude": 31.2410419,
+    "longitude": -92.6799276,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1326106259,
+    "name": "Fishing Pier",
+    "latitude": 32.6114915,
+    "longitude": -92.6897187,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1330333450,
+    "name": "Fishing Pier",
+    "latitude": 32.2548757,
+    "longitude": -92.5224985,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1330333455,
+    "name": "Fishing Pier",
+    "latitude": 32.254891,
+    "longitude": -92.5225557,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1330333460,
+    "name": "Fishing Pier",
+    "latitude": 32.2531875,
+    "longitude": -92.5136829,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1330335893,
+    "name": "Fishing Pier",
+    "latitude": 32.2518796,
+    "longitude": -92.5153884,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333246640,
+    "name": "Fishing Pier",
+    "latitude": 29.8715245,
+    "longitude": -89.9464938,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "industrial": "port",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333291873,
+    "name": "Fishing Pier",
+    "latitude": 29.8596559,
+    "longitude": -89.9723954,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "landuse": "industrial",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333291874,
+    "name": "Fishing Pier",
+    "latitude": 29.8587658,
+    "longitude": -89.9731745,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333291884,
+    "name": "Fishing Pier",
+    "latitude": 29.8625882,
+    "longitude": -89.9718383,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333301877,
+    "name": "Fishing Pier",
+    "latitude": 29.6198253,
+    "longitude": -89.8963262,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "landuse": "industrial",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333301878,
+    "name": "Fishing Pier",
+    "latitude": 29.6169662,
+    "longitude": -89.8918021,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "landuse": "industrial",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333324053,
+    "name": "Fishing Pier",
+    "latitude": 29.6052223,
+    "longitude": -89.8761584,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333324056,
+    "name": "Fishing Pier",
+    "latitude": 29.6054354,
+    "longitude": -89.8776532,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333551640,
+    "name": "Fishing Pier",
+    "latitude": 29.6186935,
+    "longitude": -89.9101183,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333551649,
+    "name": "Fishing Pier",
+    "latitude": 29.6233314,
+    "longitude": -89.9159188,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333551650,
+    "name": "Fishing Pier",
+    "latitude": 29.6219124,
+    "longitude": -89.9137753,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333551652,
+    "name": "Fishing Pier",
+    "latitude": 29.6249184,
+    "longitude": -89.9180985,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333554117,
+    "name": "Fishing Pier",
+    "latitude": 29.627723,
+    "longitude": -89.9224987,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333554119,
+    "name": "Fishing Pier",
+    "latitude": 29.6278131,
+    "longitude": -89.9225313,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333780373,
+    "name": "Fishing Pier",
+    "latitude": 29.6350983,
+    "longitude": -89.9360785,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333783553,
+    "name": "Fishing Pier",
+    "latitude": 29.6733114,
+    "longitude": -89.964125,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333788014,
+    "name": "Fishing Pier",
+    "latitude": 29.6801822,
+    "longitude": -89.96731,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333792186,
+    "name": "Fishing Pier",
+    "latitude": 29.6849681,
+    "longitude": -89.9702246,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333792196,
+    "name": "Fishing Pier",
+    "latitude": 29.6934353,
+    "longitude": -89.9779475,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333792199,
+    "name": "Fishing Pier",
+    "latitude": 29.6923578,
+    "longitude": -89.9759979,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333870627,
+    "name": "Fishing Pier",
+    "latitude": 29.809141,
+    "longitude": -90.0078656,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1333870632,
+    "name": "Fishing Pier",
+    "latitude": 29.8096022,
+    "longitude": -90.0073968,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1334264761,
+    "name": "Fishing Pier",
+    "latitude": 29.2895349,
+    "longitude": -89.3637836,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1334264768,
+    "name": "Fishing Pier",
+    "latitude": 29.2881748,
+    "longitude": -89.362336,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1338674087,
+    "name": "Fishing Pier",
+    "latitude": 32.6292283,
+    "longitude": -93.6684568,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1339064596,
+    "name": "Fishing Pier",
+    "latitude": 30.5421091,
+    "longitude": -92.4248946,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1339846775,
+    "name": "Fishing Pier",
+    "latitude": 29.8360902,
+    "longitude": -90.0455507,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1339847775,
+    "name": "Fishing Pier",
+    "latitude": 29.8345762,
+    "longitude": -90.0482062,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1341832849,
+    "name": "Fishing Pier",
+    "latitude": 32.3014525,
+    "longitude": -90.0453127,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1342526569,
+    "name": "Fishing Pier",
+    "latitude": 29.179448,
+    "longitude": -89.2569343,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1342526595,
+    "name": "Fishing Pier",
+    "latitude": 29.17676,
+    "longitude": -89.2542165,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1344917653,
+    "name": "Fishing Pier",
+    "latitude": 30.2029756,
+    "longitude": -92.0398168,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "foot": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1345095903,
+    "name": "Fishing Pier",
+    "latitude": 30.1853965,
+    "longitude": -92.1019183,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1345095904,
+    "name": "Fishing Pier",
+    "latitude": 30.186995,
+    "longitude": -92.1028685,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1346108350,
+    "name": "Fishing Pier",
+    "latitude": 30.7910618,
+    "longitude": -92.270139,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1346109198,
+    "name": "Fishing Pier",
+    "latitude": 30.785895,
+    "longitude": -92.2675162,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1347731903,
+    "name": "Fishing Pier",
+    "latitude": 31.2636598,
+    "longitude": -92.6312504,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1348913325,
+    "name": "Fishing Pier",
+    "latitude": 30.1933554,
+    "longitude": -92.0286087,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 1349092745,
+    "name": "Fishing Pier",
+    "latitude": 29.824728,
+    "longitude": -93.3845382,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1349637072,
+    "name": "Fishing Pier",
+    "latitude": 29.7235632,
+    "longitude": -91.1835626,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1349637074,
+    "name": "Fishing Pier",
+    "latitude": 29.7241033,
+    "longitude": -91.18247,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1351229114,
+    "name": "Fishing Pier",
+    "latitude": 29.0882218,
+    "longitude": -89.2844855,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1351248967,
+    "name": "Chevron Southpass W-2",
+    "latitude": 29.040198,
+    "longitude": -89.3281697,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Chevron Southpass W-2"
+    }
+  },
+  {
+    "id": 1351257680,
+    "name": "Fishing Pier",
+    "latitude": 29.0182683,
+    "longitude": -89.3497119,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1351261876,
+    "name": "Fishing Pier",
+    "latitude": 29.0381631,
+    "longitude": -89.3193632,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1351261883,
+    "name": "Fishing Pier",
+    "latitude": 29.1182706,
+    "longitude": -89.206468,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1351266714,
+    "name": "Fishing Pier",
+    "latitude": 29.1199617,
+    "longitude": -89.0718372,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1351649763,
+    "name": "Fishing Pier",
+    "latitude": 29.3450652,
+    "longitude": -89.4008695,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1351656177,
+    "name": "Fishing Pier",
+    "latitude": 29.2241322,
+    "longitude": -89.3918266,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1353193255,
+    "name": "Fishing Pier",
+    "latitude": 30.1384465,
+    "longitude": -91.8174101,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1353210351,
+    "name": "Fishing Pier",
+    "latitude": 30.2141309,
+    "longitude": -91.8284531,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355463830,
+    "name": "Fishing Pier",
+    "latitude": 29.8646164,
+    "longitude": -89.9290727,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355767357,
+    "name": "PPHTD Fire Boat Station",
+    "latitude": 29.8536916,
+    "longitude": -89.981723,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "PPHTD Fire Boat Station"
+    }
+  },
+  {
+    "id": 1355770236,
+    "name": "Fishing Pier",
+    "latitude": 29.8515441,
+    "longitude": -89.9830235,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355770668,
+    "name": "Fishing Pier",
+    "latitude": 29.8480129,
+    "longitude": -89.9779991,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355787150,
+    "name": "Fishing Pier",
+    "latitude": 29.8169858,
+    "longitude": -90.0059278,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355788368,
+    "name": "Fishing Pier",
+    "latitude": 29.8185523,
+    "longitude": -90.0057415,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355799201,
+    "name": "Fishing Pier",
+    "latitude": 29.8264336,
+    "longitude": -90.0030488,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1356724424,
+    "name": "Fishing Pier",
+    "latitude": 29.8392399,
+    "longitude": -89.9949339,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "historic": "ruins",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1356834048,
+    "name": "Fishing Pier",
+    "latitude": 32.5666236,
+    "longitude": -92.7406092,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357049228,
+    "name": "Fishing Pier",
+    "latitude": 29.7013315,
+    "longitude": -89.9842886,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357049234,
+    "name": "Fishing Pier",
+    "latitude": 29.7070812,
+    "longitude": -89.9870092,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357049239,
+    "name": "Fishing Pier",
+    "latitude": 29.7095171,
+    "longitude": -89.9879359,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357567816,
+    "name": "Fishing Pier",
+    "latitude": 29.3719347,
+    "longitude": -89.5550294,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357567817,
+    "name": "Fishing Pier",
+    "latitude": 29.3725414,
+    "longitude": -89.5540478,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357567819,
+    "name": "Fishing Pier",
+    "latitude": 29.3669787,
+    "longitude": -89.533669,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357567821,
+    "name": "Fishing Pier",
+    "latitude": 29.3685298,
+    "longitude": -89.5400431,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357567823,
+    "name": "Fishing Pier",
+    "latitude": 29.3545412,
+    "longitude": -89.4605558,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357853146,
+    "name": "Fishing Pier",
+    "latitude": 29.6028652,
+    "longitude": -89.8666847,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357853147,
+    "name": "Fishing Pier",
+    "latitude": 29.6020991,
+    "longitude": -89.8611949,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357854315,
+    "name": "Fishing Pier",
+    "latitude": 29.6033797,
+    "longitude": -89.8704792,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1357871473,
+    "name": "Fishing Pier",
+    "latitude": 29.5732242,
+    "longitude": -89.8029463,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358646440,
+    "name": "Fishing Pier",
+    "latitude": 29.5723774,
+    "longitude": -89.8015967,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358649165,
+    "name": "Fishing Pier",
+    "latitude": 29.5700161,
+    "longitude": -89.7972478,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358662391,
+    "name": "Fishing Pier",
+    "latitude": 29.5802861,
+    "longitude": -89.8008918,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358867532,
+    "name": "Fishing Pier",
+    "latitude": 29.6340649,
+    "longitude": -89.9179374,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359122345,
+    "name": "Fishing Pier",
+    "latitude": 29.5439557,
+    "longitude": -89.7689268,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1359155364,
+    "name": "Fishing Pier",
+    "latitude": 29.4964478,
+    "longitude": -89.6970318,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1362990345,
+    "name": "Fishing Pier",
+    "latitude": 30.2310376,
+    "longitude": -93.3769675,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1364370635,
+    "name": "Fishing Pier",
+    "latitude": 29.4730294,
+    "longitude": -89.6843675,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1367153597,
+    "name": "Fishing Pier",
+    "latitude": 29.3671492,
+    "longitude": -89.5298898,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1369233062,
+    "name": "Fishing Pier",
+    "latitude": 29.3850271,
+    "longitude": -89.5912768,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1369337011,
+    "name": "Fishing Pier",
+    "latitude": 29.3710761,
+    "longitude": -89.5691956,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1370336342,
+    "name": "Fishing Pier",
+    "latitude": 29.3569944,
+    "longitude": -89.5239616,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371334401,
+    "name": "Fishing Pier",
+    "latitude": 29.312488,
+    "longitude": -89.2930676,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371334402,
+    "name": "Fishing Pier",
+    "latitude": 29.3127485,
+    "longitude": -89.2933419,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371334406,
+    "name": "Fishing Pier",
+    "latitude": 29.3156433,
+    "longitude": -89.2849419,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371334407,
+    "name": "Fishing Pier",
+    "latitude": 29.3192101,
+    "longitude": -89.2834601,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "landuse": "industrial",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1371369391,
+    "name": "Survey Vessel Pier",
+    "latitude": 29.273448,
+    "longitude": -89.3523698,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "name": "Survey Vessel Pier",
+      "source": "Professional Mariner online magazine article",
+      "source_ref": "https://professionalmariner.com/army-corps-gets-new-survey-boat-from-silver-ships/",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1372465563,
+    "name": "Fishing Pier",
+    "latitude": 29.2659568,
+    "longitude": -89.3531107,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1381173940,
+    "name": "Fishing Pier",
+    "latitude": 29.312809,
+    "longitude": -89.3889254,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1387094782,
+    "name": "Fishing Pier",
+    "latitude": 32.5179152,
+    "longitude": -93.8182354,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1387094786,
+    "name": "Fishing Pier",
+    "latitude": 32.5192592,
+    "longitude": -93.817194,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1393672616,
+    "name": "Fishing Pier",
+    "latitude": 32.7070826,
+    "longitude": -93.6877873,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1394796325,
+    "name": "Fishing Pier",
+    "latitude": 32.3207383,
+    "longitude": -90.2466442,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1396163963,
+    "name": "Fishing Pier",
+    "latitude": 30.0320812,
+    "longitude": -90.2718598,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410165949,
+    "name": "Fishing Pier",
+    "latitude": 32.4540455,
+    "longitude": -90.059888,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545389,
+    "name": "Fishing Pier",
+    "latitude": 29.7543299,
+    "longitude": -91.6090274,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545397,
+    "name": "Fishing Pier",
+    "latitude": 29.6598871,
+    "longitude": -91.5929684,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545400,
+    "name": "Fishing Pier",
+    "latitude": 29.6597157,
+    "longitude": -91.5911067,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545403,
+    "name": "Fishing Pier",
+    "latitude": 29.6387789,
+    "longitude": -91.54915,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545409,
+    "name": "Fishing Pier",
+    "latitude": 29.6131726,
+    "longitude": -91.4742166,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545412,
+    "name": "Fishing Pier",
+    "latitude": 29.6191227,
+    "longitude": -91.4776373,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545415,
+    "name": "Fishing Pier",
+    "latitude": 29.6195014,
+    "longitude": -91.4688055,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545425,
+    "name": "Fishing Pier",
+    "latitude": 29.6178589,
+    "longitude": -91.4633133,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545427,
+    "name": "Fishing Pier",
+    "latitude": 29.5968005,
+    "longitude": -91.4629402,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545431,
+    "name": "Fishing Pier",
+    "latitude": 29.5984772,
+    "longitude": -91.4614301,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414545434,
+    "name": "Fishing Pier",
+    "latitude": 29.5719015,
+    "longitude": -91.409992,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1415965871,
+    "name": "Fishing Pier",
+    "latitude": 30.6921461,
+    "longitude": -91.4349653,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1415965918,
+    "name": "Fishing Pier",
+    "latitude": 30.6925063,
+    "longitude": -91.433071,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1420296395,
+    "name": "Fishing Pier",
+    "latitude": 31.269879,
+    "longitude": -92.6216491,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1420296396,
+    "name": "Fishing Pier",
+    "latitude": 31.2689653,
+    "longitude": -92.6228763,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1420311849,
+    "name": "Fishing Pier",
+    "latitude": 30.1443822,
+    "longitude": -91.9987119,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1425046298,
+    "name": "Fishing Pier",
+    "latitude": 32.3873003,
+    "longitude": -93.4377462,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1425046300,
+    "name": "Fishing Pier",
+    "latitude": 32.3877145,
+    "longitude": -93.4377769,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1425827521,
+    "name": "Fishing Pier",
+    "latitude": 29.7181006,
+    "longitude": -91.1866922,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1426470693,
+    "name": "Fishing Pier",
+    "latitude": 29.6941739,
+    "longitude": -91.2161291,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1427821174,
+    "name": "Fishing Pier",
+    "latitude": 29.1339986,
+    "longitude": -89.387613,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1427821210,
+    "name": "Fishing Pier",
+    "latitude": 29.13196,
+    "longitude": -89.3882909,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1429406237,
+    "name": "Fishing Pier",
+    "latitude": 32.5839084,
+    "longitude": -92.6118973,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1429406238,
+    "name": "Fishing Pier",
+    "latitude": 32.5842305,
+    "longitude": -92.6141195,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1429406239,
+    "name": "Fishing Pier",
+    "latitude": 32.5817049,
+    "longitude": -92.6125571,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1429554519,
+    "name": "Fishing Pier",
+    "latitude": 30.29408,
+    "longitude": -93.2603004,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1429554524,
+    "name": "Fishing Pier",
+    "latitude": 30.2954891,
+    "longitude": -93.2626435,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1430683140,
+    "name": "Fishing Pier",
+    "latitude": 31.0016396,
+    "longitude": -92.9172454,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 1431576147,
+    "name": "Fishing Pier",
+    "latitude": 30.1980823,
+    "longitude": -91.1197601,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1432746280,
+    "name": "Fishing Pier",
+    "latitude": 30.1815933,
+    "longitude": -90.9265313,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1432746321,
+    "name": "Fishing Pier",
+    "latitude": 30.1523846,
+    "longitude": -90.9259728,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1450010612,
+    "name": "Fishing Pier",
+    "latitude": 32.3088404,
+    "longitude": -90.8675593,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1452620537,
+    "name": "J.O. Smith Fleeting",
+    "latitude": 32.38061,
+    "longitude": -90.8760231,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "J.O. Smith Fleeting",
+      "source": "USACE Inland Navigational Chart U37LM425",
+      "source:date": "2024–03-01",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1452834143,
+    "name": "CAM2",
+    "latitude": 32.3822795,
+    "longitude": -90.8776773,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "CAM2",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1453790787,
+    "name": "Big River Shipbuilders",
+    "latitude": 32.386497,
+    "longitude": -90.8841889,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Big River Shipbuilders",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1454135063,
+    "name": "WatCo Pier",
+    "latitude": 32.3878165,
+    "longitude": -90.8878139,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "WatCo Pier",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1454445955,
+    "name": "Ergon Dock No. 2",
+    "latitude": 32.3869992,
+    "longitude": -90.8957358,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Ergon Dock No. 2",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "stee"
+    }
+  },
+  {
+    "id": 1454445959,
+    "name": "Fishing Pier",
+    "latitude": 32.3875851,
+    "longitude": -90.8935699,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1454660692,
+    "name": "Dock No. 1",
+    "latitude": 32.3869296,
+    "longitude": -90.8984223,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Dock No. 1",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1455474112,
+    "name": "Dock No.3",
+    "latitude": 32.3849108,
+    "longitude": -90.9102395,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Dock No.3",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1456320672,
+    "name": "Fishing Pier",
+    "latitude": 30.0300307,
+    "longitude": -89.9672413,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1458261507,
+    "name": "Fishing Pier",
+    "latitude": 32.3929581,
+    "longitude": -90.9128092,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1458261525,
+    "name": "Fishing Pier",
+    "latitude": 32.3927318,
+    "longitude": -90.911433,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1458261530,
+    "name": "Fishing Pier",
+    "latitude": 32.3921512,
+    "longitude": -90.912523,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1460234919,
+    "name": "Fishing Pier",
+    "latitude": 30.2925185,
+    "longitude": -91.2364417,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1460734215,
+    "name": "Casting Field Landing",
+    "latitude": 30.7639116,
+    "longitude": -91.3856732,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Casting Field Landing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1460907872,
+    "name": "Corps of Engineers Wharf",
+    "latitude": 32.4663884,
+    "longitude": -92.1160548,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "name": "Corps of Engineers Wharf",
+      "operator": "United States Army Corps of Engineers",
+      "operator:short": "USACE",
+      "operator:type": "military",
+      "operator:wikidata": "Q1049334",
+      "source:1": "USACE Field Office GIS map layer",
+      "source:2": "USACE Docks GIS map layer",
+      "source_ref:1": "https://services7.arcgis.com/n1YM8pTrFmm7L4hs/arcgis/rest/services/Field_Offices/FeatureServer",
+      "source_ref:2": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1460753023,
+    "name": "Fishing Pier",
+    "latitude": 32.463816,
+    "longitude": -92.1205361,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1461494562,
+    "name": "Fishing Pier",
+    "latitude": 29.9065341,
+    "longitude": -90.1017119,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1461812128,
+    "name": "Fishing Pier",
+    "latitude": 29.9072032,
+    "longitude": -90.1261595,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "abandoned": "yes",
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1461826249,
+    "name": "Fishing Pier",
+    "latitude": 29.9075122,
+    "longitude": -90.0983012,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1461826265,
+    "name": "Fishing Pier",
+    "latitude": 29.9060189,
+    "longitude": -90.120564,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1461834637,
+    "name": "Wharf No. 1",
+    "latitude": 29.9098023,
+    "longitude": -90.0907318,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Wharf No. 1",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1462149801,
+    "name": "Fishing Pier",
+    "latitude": 29.9057571,
+    "longitude": -90.0819662,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1462821046,
+    "name": "Cargo Carriers Wharf",
+    "latitude": 30.4230667,
+    "longitude": -91.2032485,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Cargo Carriers Wharf",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1462821053,
+    "name": "Cargo Carriers Fleet",
+    "latitude": 30.4175056,
+    "longitude": -91.2056017,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Cargo Carriers Fleet",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1463443104,
+    "name": "Fishing Pier",
+    "latitude": 30.4307744,
+    "longitude": -91.2039683,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence": "railing",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1463899341,
+    "name": "Cargo Dock No. 1",
+    "latitude": 30.4374934,
+    "longitude": -91.200891,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Cargo Dock No. 1",
+      "source": "Port of Greater Baton Rouge, Mississippi Deepwater Complex Map",
+      "source_ref": "https://static1.squarespace.com/static/533972c5e4b0b7f04d8f67a2/t/5b719ee5cd83666edb4ec0e7/1534172901928/Deepwater+Complex+Map.pdf",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1463899343,
+    "name": "Cargo Dock No. 2",
+    "latitude": 30.442495,
+    "longitude": -91.2004158,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Cargo Dock No. 2",
+      "source": "Port of Greater Baton Rouge, Mississippi Deepwater Complex Map",
+      "source_ref": "https://static1.squarespace.com/static/533972c5e4b0b7f04d8f67a2/t/5b719ee5cd83666edb4ec0e7/1534172901928/Deepwater+Complex+Map.pdf",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1463899345,
+    "name": "Petroleum Terminal",
+    "latitude": 30.4447564,
+    "longitude": -91.2000308,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Petroleum Terminal",
+      "source": "Port of Greater Baton Rouge, Mississippi Deepwater Complex Map",
+      "source_ref": "https://static1.squarespace.com/static/533972c5e4b0b7f04d8f67a2/t/5b719ee5cd83666edb4ec0e7/1534172901928/Deepwater+Complex+Map.pdf",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1463908680,
+    "name": "Fishing Pier",
+    "latitude": 30.4315139,
+    "longitude": -91.2015133,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "note": "From imagery this feature looks like a river barge in use as a floating pier.",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1464129920,
+    "name": "Associated Barge Terminal",
+    "latitude": 30.4344777,
+    "longitude": -91.2139678,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Associated Barge Terminal",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1465615508,
+    "name": "Fishing Pier",
+    "latitude": 30.4315991,
+    "longitude": -91.2099937,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1465990220,
+    "name": "Louisiana Dock Co.",
+    "latitude": 29.944201,
+    "longitude": -90.13658,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Louisiana Dock Co.",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1466194060,
+    "name": "Fishing Pier",
+    "latitude": 29.9321389,
+    "longitude": -90.1352523,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1466905156,
+    "name": "Fishing Pier",
+    "latitude": 29.2526761,
+    "longitude": -89.3587321,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "layer": "1",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 1467561852,
+    "name": "Haliburton",
+    "latitude": 29.25351,
+    "longitude": -89.3571345,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Haliburton",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1467594716,
+    "name": "Fishing Pier",
+    "latitude": 29.2721419,
+    "longitude": -89.351697,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1467786485,
+    "name": "Fishing Pier",
+    "latitude": 29.9791186,
+    "longitude": -93.8742051,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1467794093,
+    "name": "Fishing Pier",
+    "latitude": 29.971153,
+    "longitude": -93.8601592,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1467824672,
+    "name": "Fishing Pier",
+    "latitude": 29.9664312,
+    "longitude": -93.8582676,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1467969334,
+    "name": "Fishing Pier",
+    "latitude": 29.96057,
+    "longitude": -93.8596061,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "material": "steel",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 1467987830,
+    "name": "Fishing Pier",
+    "latitude": 29.9537123,
+    "longitude": -93.865514,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1467987834,
+    "name": "Marine Ventures",
+    "latitude": 29.9516389,
+    "longitude": -93.8655762,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Marine Ventures",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1467991231,
+    "name": "Ecoserve Wharf",
+    "latitude": 29.9579638,
+    "longitude": -93.8630629,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Ecoserve Wharf",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1468445540,
+    "name": "Lone Star Marine Services",
+    "latitude": 29.9426012,
+    "longitude": -93.8670075,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "bo",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Lone Star Marine Services",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1468492478,
+    "name": "PABTEX Pier",
+    "latitude": 29.9307286,
+    "longitude": -93.8755093,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "name": "PABTEX Pier",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1468492481,
+    "name": "Fishing Pier",
+    "latitude": 29.9293897,
+    "longitude": -93.8779574,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1468500744,
+    "name": "Fishing Pier",
+    "latitude": 29.7650043,
+    "longitude": -93.8980074,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "visitor",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1469982965,
+    "name": "Fishing Pier",
+    "latitude": 29.7363729,
+    "longitude": -91.8501732,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "covered": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470018252,
+    "name": "Fishing Pier",
+    "latitude": 29.763197,
+    "longitude": -93.8973174,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "leisure": "fishing",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1470028057,
+    "name": "Repair Wharf",
+    "latitude": 29.7637135,
+    "longitude": -93.9071963,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "shipyard",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Repair Wharf",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "steel"
+    }
+  },
+  {
+    "id": 1470222688,
+    "name": "Fishing Pier",
+    "latitude": 29.7800905,
+    "longitude": -93.936517,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470222692,
+    "name": "Fishing Pier",
+    "latitude": 29.7786059,
+    "longitude": -93.9376213,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "abandoned": "pier",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470222696,
+    "name": "Fishing Pier",
+    "latitude": 29.7771409,
+    "longitude": -93.9335926,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470222700,
+    "name": "Fishing Pier",
+    "latitude": 29.7771355,
+    "longitude": -93.9323758,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470222726,
+    "name": "Fishing Pier",
+    "latitude": 29.7730357,
+    "longitude": -93.9266503,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470222728,
+    "name": "Fishing Pier",
+    "latitude": 29.7719739,
+    "longitude": -93.9241551,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470222732,
+    "name": "Fishing Pier",
+    "latitude": 29.7713557,
+    "longitude": -93.9223925,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470222747,
+    "name": "Fishing Pier",
+    "latitude": 29.7698459,
+    "longitude": -93.9174205,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470228024,
+    "name": "Fishing Pier",
+    "latitude": 29.7679836,
+    "longitude": -93.912032,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "abandoned": "pier",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470228032,
+    "name": "Fishing Pier",
+    "latitude": 29.7676232,
+    "longitude": -93.9072668,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "private",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470234647,
+    "name": "Fishing Pier",
+    "latitude": 29.7674681,
+    "longitude": -93.9119332,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence": "railing",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470362051,
+    "name": "Fishing Pier",
+    "latitude": 29.8599333,
+    "longitude": -93.9300607,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "guest"
+    }
+  },
+  {
+    "id": 1470367803,
+    "name": "Fishing Pier",
+    "latitude": 29.8621559,
+    "longitude": -93.9265191,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470868386,
+    "name": "Fishing Pier",
+    "latitude": 29.8662961,
+    "longitude": -93.9250986,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1470868390,
+    "name": "Fishing Pier",
+    "latitude": 29.8698369,
+    "longitude": -93.9260355,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "shipyard",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "yes",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470868395,
+    "name": "Fishing Pier",
+    "latitude": 29.8679062,
+    "longitude": -93.9280332,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "yes",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1470904397,
+    "name": "Fishing Pier",
+    "latitude": 29.8674637,
+    "longitude": -93.9209692,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "leisure": "fishing",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1471652607,
+    "name": "Valero Pier",
+    "latitude": 29.8235248,
+    "longitude": -93.9543905,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "Valero Pier",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1471662486,
+    "name": "Fishing Pier",
+    "latitude": 29.8526451,
+    "longitude": -93.9442692,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1472657865,
+    "name": "Fishing Pier",
+    "latitude": 29.8690923,
+    "longitude": -93.9224066,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1472686404,
+    "name": "Fishing Pier",
+    "latitude": 29.9261517,
+    "longitude": -93.8716206,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1473275649,
+    "name": "Fishing Pier",
+    "latitude": 30.1811552,
+    "longitude": -92.0483407,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1488899481,
+    "name": "Fishing Pier",
+    "latitude": 29.8665645,
+    "longitude": -93.4538745,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1493507800,
+    "name": "Fishing Pier",
+    "latitude": 32.6295259,
+    "longitude": -92.7610192,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
   }
 ]

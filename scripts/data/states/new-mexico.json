@@ -353,5 +353,220 @@
     "tags": {
       "man_made": "pier"
     }
+  },
+  {
+    "id": 264786038,
+    "name": "Fishing Pier",
+    "latitude": 31.7532997,
+    "longitude": -106.4024614,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 264786039,
+    "name": "Fishing Pier",
+    "latitude": 31.7482923,
+    "longitude": -106.40575,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 264786044,
+    "name": "Fishing Pier",
+    "latitude": 31.7533351,
+    "longitude": -106.4025407,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 471186025,
+    "name": "Fishing Pier",
+    "latitude": 31.6526432,
+    "longitude": -106.294371,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 509160783,
+    "name": "Lake Park Pier",
+    "latitude": 32.7502856,
+    "longitude": -103.1671649,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Lake Park Pier"
+    }
+  },
+  {
+    "id": 613975491,
+    "name": "Fishing Pier",
+    "latitude": 32.9387347,
+    "longitude": -103.3363556,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1106485922,
+    "name": "Fishing Pier",
+    "latitude": 31.6894247,
+    "longitude": -106.4254102,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1431222295,
+    "name": "Fishing Pier",
+    "latitude": 31.6556746,
+    "longitude": -106.3369875,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 2704763739,
+    "name": "Centro Recreativo Dunas Campestre",
+    "latitude": 31.3357472,
+    "longitude": -106.491003,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Centro Recreativo Dunas Campestre",
+      "tourism": "camp_site"
+    }
+  },
+  {
+    "id": 6479442587,
+    "name": "Fishing Pier",
+    "latitude": 35.8346696,
+    "longitude": -106.164486,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 7249769171,
+    "name": "Cowles Ponds",
+    "latitude": 35.8111497,
+    "longitude": -105.6592623,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Cowles Ponds"
+    }
+  },
+  {
+    "id": 7249769173,
+    "name": "Winsor Creek",
+    "latitude": 35.8163457,
+    "longitude": -105.6797885,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Winsor Creek"
+    }
+  },
+  {
+    "id": 8019157454,
+    "name": "Dalton Fishing Area",
+    "latitude": 35.6549801,
+    "longitude": -105.682723,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Dalton Fishing Area"
+    }
+  },
+  {
+    "id": 8019170793,
+    "name": "Fishing Pier",
+    "latitude": 35.7045612,
+    "longitude": -105.687412,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 9707610080,
+    "name": "North Mora Day Use Area",
+    "latitude": 35.7798861,
+    "longitude": -105.6602362,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "North Mora Day Use Area"
+    }
+  },
+  {
+    "id": 9707758367,
+    "name": "Willow Creek Fishing Area",
+    "latitude": 35.7618354,
+    "longitude": -105.6712095,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Willow Creek Fishing Area"
+    }
+  },
+  {
+    "id": 9707758368,
+    "name": "South Mora Day Use Area",
+    "latitude": 35.7718096,
+    "longitude": -105.6624866,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "South Mora Day Use Area"
+    }
+  },
+  {
+    "id": 9707758444,
+    "name": "Bert Clancy Fishing Area",
+    "latitude": 35.7357744,
+    "longitude": -105.6781593,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Bert Clancy Fishing Area"
+    }
   }
 ]

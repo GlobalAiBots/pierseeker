@@ -1,0 +1,6107 @@
+[
+  {
+    "place_id": "osm_24919521",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.9594632,
+    "longitude": -113.888651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_40518931",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8943426,
+    "longitude": -114.1754213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_40520301",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7724192,
+    "longitude": -114.1204594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_40520302",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7726663,
+    "longitude": -114.1206935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_82483525",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.6178975,
+    "longitude": -113.8796918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_83382324",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.5286748,
+    "longitude": -113.9915736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_83428387",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.6905197,
+    "longitude": -113.5247001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_83485623",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.7875957,
+    "longitude": -113.670282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_83485627",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.774872,
+    "longitude": -113.6827121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_97033938",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6119226,
+    "longitude": -112.0750016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_150266869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.552477,
+    "longitude": -116.3668823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_165952456",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5040439,
+    "longitude": -111.7613699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_199528564",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.3722407,
+    "longitude": -116.7625498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_199528565",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.3741502,
+    "longitude": -116.7611782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_199528571",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.3730772,
+    "longitude": -116.7625209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_210970013",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.9601339,
+    "longitude": -113.6830753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_211926147",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5447376,
+    "longitude": -113.7599249,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225761442",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.9365605,
+    "longitude": -115.5883343,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_254866400",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.3715513,
+    "longitude": -117.0540969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_259086831",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.1425011,
+    "longitude": -114.9230161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_259086833",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.1000652,
+    "longitude": -114.9527956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_259086915",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.142198,
+    "longitude": -114.9228653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_271350453",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9734569,
+    "longitude": -116.4535491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_271360752",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.2237815,
+    "longitude": -112.6387525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_286804097",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.9140354,
+    "longitude": -116.097701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_286804098",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.9140199,
+    "longitude": -116.0970186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_288714716",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.9136569,
+    "longitude": -116.1205961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_291696532",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4168939,
+    "longitude": -114.3523361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_292137242",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.3336998,
+    "longitude": -116.187809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_296989391",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.9987173,
+    "longitude": -116.5033017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_299143263",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9771214,
+    "longitude": -116.5593929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_299143266",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.978586,
+    "longitude": -116.5605298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_308324845",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.7967423,
+    "longitude": -113.6583284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_308324847",
+    "name": "Swiftcurrent Lake",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.7890915,
+    "longitude": -113.6661936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_308989869",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6725481,
+    "longitude": -116.7876537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318481059",
+    "name": "The Bat Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6097779,
+    "longitude": -112.0775271,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_319418102",
+    "name": "May Marina",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.9119723,
+    "longitude": -116.0995031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_332537590",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.0011729,
+    "longitude": -115.2090434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_337678750",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7637396,
+    "longitude": -116.7529483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363412740",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2503034,
+    "longitude": -116.3157147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363412742",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2358627,
+    "longitude": -116.2879266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363412744",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2348634,
+    "longitude": -116.2866529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363412754",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2333946,
+    "longitude": -116.2816911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363412759",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2294555,
+    "longitude": -116.277388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363412762",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2291339,
+    "longitude": -116.2782021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363413479",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2273939,
+    "longitude": -116.2765175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_363413480",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2269094,
+    "longitude": -116.2775707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_367187403",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6726821,
+    "longitude": -116.7853866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_367187409",
+    "name": "Coeur d'Alene Resort Floating Boardwalk",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.672201,
+    "longitude": -116.7860611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_367187425",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6702538,
+    "longitude": -116.7824588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_372351773",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5925565,
+    "longitude": -115.9791374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_372351774",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5921029,
+    "longitude": -115.9806903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_372351782",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5932624,
+    "longitude": -115.9771917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_372353207",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6282609,
+    "longitude": -115.9951864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_372745787",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.6616274,
+    "longitude": -113.0046502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_375317129",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.4534029,
+    "longitude": -112.0883033,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_382357915",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4542354,
+    "longitude": -116.7884873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_382357919",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4548961,
+    "longitude": -116.7874005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_382499164",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4029181,
+    "longitude": -116.7556384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_382499165",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4021137,
+    "longitude": -116.756472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_405794342",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5009941,
+    "longitude": -111.3083774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_407079668",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.0459664,
+    "longitude": -116.8159194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_425004059",
+    "name": "Third Avenue Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2670893,
+    "longitude": -116.5503187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_429084306",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5947769,
+    "longitude": -114.3898058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_458796607",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.276843,
+    "longitude": -116.5430731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_458796609",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2769387,
+    "longitude": -116.5420548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_463927278",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4880744,
+    "longitude": -116.9132608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_463927280",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4849222,
+    "longitude": -116.9006759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_465224377",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.0029592,
+    "longitude": -111.8054128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480842034",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5581153,
+    "longitude": -116.6482147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480842038",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.557323,
+    "longitude": -116.6471011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_480852883",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5608189,
+    "longitude": -116.6605426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_505146706",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1639085,
+    "longitude": -116.6376662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_505146709",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1638792,
+    "longitude": -116.6371143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_506803855",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.4836591,
+    "longitude": -112.050598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_512967361",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6636084,
+    "longitude": -116.756124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_512967369",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6608149,
+    "longitude": -116.7486325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_512967380",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6588454,
+    "longitude": -116.7433992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_512967386",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6588207,
+    "longitude": -116.742374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_519687431",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.652709,
+    "longitude": -115.6683382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_520387608",
+    "name": "dock",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.876243,
+    "longitude": -116.9847874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_525102295",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.162296,
+    "longitude": -116.8599885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_525102297",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1631322,
+    "longitude": -116.8601601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545780120",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5108017,
+    "longitude": -111.3035135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_552181728",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6796469,
+    "longitude": -117.0845336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_557872111",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.673764,
+    "longitude": -111.0811248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_558449785",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.7907246,
+    "longitude": -117.0292103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_566360171",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2723673,
+    "longitude": -116.5462102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_566360198",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2773078,
+    "longitude": -116.5478723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_566360211",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2776166,
+    "longitude": -116.5479482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_567085586",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2717488,
+    "longitude": -116.5413178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_585772799",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.9181273,
+    "longitude": -112.4345992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_589694459",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8098597,
+    "longitude": -114.182369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599077778",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1079933,
+    "longitude": -114.4415198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599144093",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1607688,
+    "longitude": -114.3511788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599225156",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0417317,
+    "longitude": -114.8675075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599400136",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0718176,
+    "longitude": -114.6021159,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599413784",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2480477,
+    "longitude": -114.2899962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599896365",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.169754,
+    "longitude": -114.3580255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_599922465",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2492431,
+    "longitude": -114.2873373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_602183721",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.211573,
+    "longitude": -114.2613621,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_602183737",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2114493,
+    "longitude": -114.264386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_607226719",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.436025,
+    "longitude": -114.3860267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_607773258",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1957333,
+    "longitude": -114.335781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_609392497",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0315407,
+    "longitude": -115.0661641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_614090976",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9931473,
+    "longitude": -111.991881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_614090979",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9930961,
+    "longitude": -111.9925764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_614090980",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9830159,
+    "longitude": -111.9788162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_614090981",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9822143,
+    "longitude": -111.9782441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_614090982",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9612045,
+    "longitude": -111.9445661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_616344302",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4301117,
+    "longitude": -114.3439584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_616344328",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4166944,
+    "longitude": -114.3527279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_617514134",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.2371163,
+    "longitude": -116.6269001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_617514139",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.2338629,
+    "longitude": -116.6224629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619886746",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6978933,
+    "longitude": -114.1737471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619888093",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6970237,
+    "longitude": -114.1729352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619888106",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6953559,
+    "longitude": -114.1641125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619893988",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7013158,
+    "longitude": -114.1787408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619893994",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7030597,
+    "longitude": -114.1806986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619894003",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7048106,
+    "longitude": -114.1826282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619895777",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6977548,
+    "longitude": -114.1614024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619895779",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6971969,
+    "longitude": -114.1601081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619895788",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6958238,
+    "longitude": -114.157469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619895815",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6935406,
+    "longitude": -114.1524865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619920526",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6946169,
+    "longitude": -114.1469895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619920579",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6947912,
+    "longitude": -114.1416002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619920621",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6955135,
+    "longitude": -114.1358427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_625651338",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.9019911,
+    "longitude": -115.6890946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_633741903",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0540721,
+    "longitude": -114.0836283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_634345712",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0196428,
+    "longitude": -114.2227532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_673183848",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6280535,
+    "longitude": -116.2315042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_673661804",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6261243,
+    "longitude": -116.2309685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_674008309",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6743537,
+    "longitude": -116.3428932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_679092049",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2436498,
+    "longitude": -116.614901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_679264451",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5975195,
+    "longitude": -116.1799927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_679264452",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5974905,
+    "longitude": -116.1800313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_690813719",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6230574,
+    "longitude": -116.2335625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_713601449",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.1376905,
+    "longitude": -114.9160096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_726511091",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.9488978,
+    "longitude": -112.7730642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_732796553",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5766812,
+    "longitude": -111.7352355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_733128584",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5049611,
+    "longitude": -112.050111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_733765183",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.823391,
+    "longitude": -112.8104924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_739699666",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.3631822,
+    "longitude": -111.2408779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_739700421",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.36243,
+    "longitude": -111.2401178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_739704687",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.367824,
+    "longitude": -111.2799025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_751779955",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.0233896,
+    "longitude": -114.2584113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_762500001",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6539427,
+    "longitude": -117.0841128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_768277176",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.9372578,
+    "longitude": -116.0822239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_777334855",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6969768,
+    "longitude": -111.0918872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_797018203",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.9170728,
+    "longitude": -116.2379346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_815947169",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6955641,
+    "longitude": -114.1722427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_816353567",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6986566,
+    "longitude": -114.1338291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_833973675",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.6202993,
+    "longitude": -111.373102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_841626721",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8317274,
+    "longitude": -111.9514946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847798398",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.5403349,
+    "longitude": -111.560279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_853983569",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.5775274,
+    "longitude": -112.2602029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_853991039",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.5719415,
+    "longitude": -112.2377437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854945975",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6551032,
+    "longitude": -111.7158852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854958207",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6560979,
+    "longitude": -111.7368513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854966167",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.63614,
+    "longitude": -111.721148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_854976764",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4129146,
+    "longitude": -111.574411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_855540147",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6167389,
+    "longitude": -111.6496298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_855541476",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6434105,
+    "longitude": -111.6848857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_855544600",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6512421,
+    "longitude": -111.7021151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_855544619",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6472794,
+    "longitude": -111.7012721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_855623947",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.1038647,
+    "longitude": -113.4103267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_855623952",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.0861887,
+    "longitude": -113.394468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_877716050",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.4117222,
+    "longitude": -114.401878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_877716051",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.410893,
+    "longitude": -114.4031929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_877716054",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.4122302,
+    "longitude": -114.3877457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_879990287",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7855265,
+    "longitude": -116.7554018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_879990311",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7862832,
+    "longitude": -116.7583064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_880002860",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.769774,
+    "longitude": -116.1725223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_880002874",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7767052,
+    "longitude": -116.1684729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_880350540",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.8371363,
+    "longitude": -116.0351403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_890875684",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6907139,
+    "longitude": -116.414758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_911645118",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9806131,
+    "longitude": -116.557372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_911645128",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9824276,
+    "longitude": -116.5514792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_911645129",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9827243,
+    "longitude": -116.5497198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_918772211",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0617085,
+    "longitude": -114.0525389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926388857",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7540554,
+    "longitude": -116.7545454,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926393567",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7036973,
+    "longitude": -116.9532777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926398209",
+    "name": "ROCKY POINT",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.3543219,
+    "longitude": -116.7521467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926912202",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4156944,
+    "longitude": -117.1953254,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926912206",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.414369,
+    "longitude": -117.1913334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926912209",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4144833,
+    "longitude": -117.1856192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_928698114",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.5265581,
+    "longitude": -116.3050686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_928732968",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.6278275,
+    "longitude": -111.0828741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_936886204",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.1245744,
+    "longitude": -116.7425153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_937444993",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.0440055,
+    "longitude": -116.8177705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_937452432",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.9842745,
+    "longitude": -116.8586302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_952399768",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.1803591,
+    "longitude": -113.5022003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_952399769",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.1802744,
+    "longitude": -113.5036108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_952432921",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6675046,
+    "longitude": -111.8162239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_952432946",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6723516,
+    "longitude": -111.8283825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_952432950",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6734481,
+    "longitude": -111.8297108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_953812357",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0743408,
+    "longitude": -114.2313423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_953813901",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7698123,
+    "longitude": -114.1038553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_953813905",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7676276,
+    "longitude": -114.129187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_954415157",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.1849745,
+    "longitude": -113.5089728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_954415426",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.1875062,
+    "longitude": -113.5167918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961025825",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0325748,
+    "longitude": -115.0684217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_963080266",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8111684,
+    "longitude": -116.6973794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_963493019",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6760903,
+    "longitude": -116.8043923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_963996763",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6805306,
+    "longitude": -116.8008655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965215758",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6775296,
+    "longitude": -116.8051403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965215801",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.675855,
+    "longitude": -116.8079053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965215819",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6748846,
+    "longitude": -116.8129325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965216361",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6866811,
+    "longitude": -116.8052601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965217920",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6700688,
+    "longitude": -116.7492353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965217927",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6708391,
+    "longitude": -116.7473011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965223396",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6640682,
+    "longitude": -116.7579992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_965223398",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6659884,
+    "longitude": -116.7701301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_966281333",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.4974774,
+    "longitude": -112.0436298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_972105679",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6605956,
+    "longitude": -111.7836698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_976156818",
+    "name": "Tony's On The Lake",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.646243,
+    "longitude": -116.7228631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_977575609",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8706628,
+    "longitude": -111.9025743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_977575616",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8594466,
+    "longitude": -111.9081428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_980735190",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6298793,
+    "longitude": -116.6910368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_986092170",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6786932,
+    "longitude": -116.7094349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_991637862",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.9522423,
+    "longitude": -111.0260118,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_995748177",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6919559,
+    "longitude": -116.8103527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1014128608",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7594116,
+    "longitude": -116.7547811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1014212538",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.3334028,
+    "longitude": -116.1787655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1014958577",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6905145,
+    "longitude": -116.7005306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1015909063",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4190039,
+    "longitude": -115.314687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1017002460",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4718232,
+    "longitude": -115.8915942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1019287820",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0698639,
+    "longitude": -114.1150475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1019287826",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0620471,
+    "longitude": -114.0807376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1020675491",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5986847,
+    "longitude": -116.7768649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1049124683",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7342807,
+    "longitude": -111.8890513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1049163662",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9444386,
+    "longitude": -111.971466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1049163667",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9419017,
+    "longitude": -111.9720111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1049163671",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9418081,
+    "longitude": -111.9726966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085958049",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5425855,
+    "longitude": -113.8128789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085959222",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5503734,
+    "longitude": -113.7991006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1086769220",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.2851732,
+    "longitude": -111.7314407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1086769337",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.2742892,
+    "longitude": -111.7439897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1088468490",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1767973,
+    "longitude": -116.9047642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090856334",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.698333,
+    "longitude": -116.3122317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1098843963",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5373998,
+    "longitude": -116.5539773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1101806544",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7060119,
+    "longitude": -116.9494952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1108611403",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4262191,
+    "longitude": -117.0448912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1108611407",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4213442,
+    "longitude": -117.038232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1108611418",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.426844,
+    "longitude": -117.0513576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1108615195",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4223368,
+    "longitude": -117.0719148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1108617579",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4146823,
+    "longitude": -117.088104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116158307",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.1025284,
+    "longitude": -111.0083393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125531754",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.1395404,
+    "longitude": -111.0431376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125758844",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.5169572,
+    "longitude": -116.0555639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1153649174",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6976683,
+    "longitude": -116.5920976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1153649175",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6982546,
+    "longitude": -116.5925542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1155221540",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5876842,
+    "longitude": -116.7284519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1161522252",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9765223,
+    "longitude": -116.5505863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1161530496",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9642569,
+    "longitude": -116.5458215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1173098112",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.7936247,
+    "longitude": -117.0273536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1188098956",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.8375505,
+    "longitude": -111.6025465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1188098957",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.8375623,
+    "longitude": -111.6024006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1188486088",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5964315,
+    "longitude": -114.3983789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1188486091",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5976187,
+    "longitude": -114.3984313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1188486092",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5987841,
+    "longitude": -114.3963627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1188486102",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.600468,
+    "longitude": -114.4680431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1196519046",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9525198,
+    "longitude": -116.5752167,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1196519047",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9524014,
+    "longitude": -116.5747448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1202704477",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7705617,
+    "longitude": -117.0180999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1202704479",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.770535,
+    "longitude": -117.0174455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1203410057",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5254317,
+    "longitude": -116.568653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1212898064",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4639169,
+    "longitude": -116.8800111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1212898085",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4676846,
+    "longitude": -116.8785175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1212898091",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4687561,
+    "longitude": -116.877458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1215191792",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6291174,
+    "longitude": -116.7828645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1215191793",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6196097,
+    "longitude": -116.7915898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1215191796",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.619591,
+    "longitude": -116.7930089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1215191800",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6173631,
+    "longitude": -116.7965073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218848105",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5428488,
+    "longitude": -116.7718249,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218848107",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5424043,
+    "longitude": -116.7723387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218848108",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5422746,
+    "longitude": -116.7727575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218848133",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5369006,
+    "longitude": -116.7739184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218915662",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.631125,
+    "longitude": -116.6672684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218915663",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6310227,
+    "longitude": -116.6683566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218915684",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6261128,
+    "longitude": -116.669992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1220122511",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.74945,
+    "longitude": -116.7400488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1238940663",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1291741,
+    "longitude": -117.1868111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1240495461",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9731541,
+    "longitude": -116.4524806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1240495462",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9724132,
+    "longitude": -116.4546425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1240495463",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9719626,
+    "longitude": -116.4581612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1256162918",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7013335,
+    "longitude": -111.8044001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1257605010",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7028526,
+    "longitude": -116.9438757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1257605011",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7023702,
+    "longitude": -116.9430359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1257711268",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6964697,
+    "longitude": -116.8186768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1267020947",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.264307,
+    "longitude": -116.5580616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1267153206",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.712524,
+    "longitude": -116.5572316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1267153207",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.712198,
+    "longitude": -116.5564485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1267153211",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.713237,
+    "longitude": -116.5610657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1268818048",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.667761,
+    "longitude": -111.4015869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1281802397",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.7933642,
+    "longitude": -114.9383315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1282008913",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4472302,
+    "longitude": -116.8094884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1289202276",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.7102923,
+    "longitude": -114.8438828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1289716741",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.6568735,
+    "longitude": -111.6532268,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1304298777",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.0880332,
+    "longitude": -113.394532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1304364029",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.118324,
+    "longitude": -113.5035139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1307553586",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.5289106,
+    "longitude": -113.9928991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1308388452",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.7406045,
+    "longitude": -117.0628919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1308657519",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.973882,
+    "longitude": -114.1831058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1308657521",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9739898,
+    "longitude": -114.1821949,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1308901893",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.2972426,
+    "longitude": -113.8991586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1309071127",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.2647606,
+    "longitude": -113.7989372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1312927995",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6050998,
+    "longitude": -114.3578005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1313390086",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4630621,
+    "longitude": -116.9332871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1313390088",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4632712,
+    "longitude": -116.9324093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1314008868",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7478635,
+    "longitude": -114.0694915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1314075192",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8111899,
+    "longitude": -114.2318661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1314536801",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.8021815,
+    "longitude": -111.1706584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1316836669",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.627686,
+    "longitude": -116.6823059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1317700138",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5068558,
+    "longitude": -116.9032463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1317723369",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5074013,
+    "longitude": -116.8625306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1328310929",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.7387871,
+    "longitude": -116.8515854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690017",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8295302,
+    "longitude": -114.2140948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690018",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8296042,
+    "longitude": -114.2118502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690021",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8296393,
+    "longitude": -114.2053422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690023",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8292891,
+    "longitude": -114.2020929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690026",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8306564,
+    "longitude": -114.1972233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690032",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8333249,
+    "longitude": -114.1911093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690037",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8558864,
+    "longitude": -114.2132961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690038",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8561502,
+    "longitude": -114.2122965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690040",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8509497,
+    "longitude": -114.2398365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690041",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.841354,
+    "longitude": -114.2464724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690042",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8372224,
+    "longitude": -114.2476879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690043",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8381435,
+    "longitude": -114.2406102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690044",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8388965,
+    "longitude": -114.2361059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690046",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8374428,
+    "longitude": -114.2316247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690047",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8376504,
+    "longitude": -114.230268,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690048",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8365468,
+    "longitude": -114.224377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690050",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8347017,
+    "longitude": -114.2213817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1329690054",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.832137,
+    "longitude": -114.2182658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1330207011",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8196323,
+    "longitude": -114.2323322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1330251745",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8183612,
+    "longitude": -114.3388248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1332721174",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4906214,
+    "longitude": -116.9034945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1332721178",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4908333,
+    "longitude": -116.9022394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1332721218",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4944694,
+    "longitude": -116.8903447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1332721221",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4976068,
+    "longitude": -116.891476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1332721267",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4926019,
+    "longitude": -116.8991387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1332721276",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4929197,
+    "longitude": -116.8973412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1333584429",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.3548422,
+    "longitude": -116.7631787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1333653156",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4555116,
+    "longitude": -116.8262778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1334150659",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.27973,
+    "longitude": -116.8249666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343009324",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6826438,
+    "longitude": -116.7972633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343237689",
+    "name": "T-Dock",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9171918,
+    "longitude": -114.3828931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343237690",
+    "name": "Honeymoon Dock",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9179902,
+    "longitude": -114.3829373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1347898961",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.5159925,
+    "longitude": -116.9221035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1349017053",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.3502366,
+    "longitude": -114.2708453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1349280455",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.2427845,
+    "longitude": -116.3772765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1349575213",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.6643016,
+    "longitude": -114.7806851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1357835363",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.86243,
+    "longitude": -114.2746386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358419453",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8038404,
+    "longitude": -114.2776435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358419466",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8037803,
+    "longitude": -114.2774876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360138983",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4924659,
+    "longitude": -116.8942252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360138990",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4933273,
+    "longitude": -116.8843578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360138992",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4933568,
+    "longitude": -116.8816017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1361051357",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.45753,
+    "longitude": -116.8282557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1362244588",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4799424,
+    "longitude": -116.8507977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1362988731",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4718223,
+    "longitude": -116.8399869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1364916999",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4722537,
+    "longitude": -116.7816472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365050242",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4929003,
+    "longitude": -116.7344049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365050243",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.493271,
+    "longitude": -116.7225297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365050245",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4909493,
+    "longitude": -116.7177164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365461607",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4943124,
+    "longitude": -116.6935186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1367208882",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5953959,
+    "longitude": -116.8567459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1371353301",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4245783,
+    "longitude": -117.033658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1371583794",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6220471,
+    "longitude": -116.9113943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1372115955",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.8640537,
+    "longitude": -111.3336947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1387942717",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1583238,
+    "longitude": -116.7741182,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1387942733",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1589036,
+    "longitude": -116.7721385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1389626039",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4193986,
+    "longitude": -117.1157632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1392753665",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5207416,
+    "longitude": -111.2609829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1392869199",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4121676,
+    "longitude": -114.3444314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393632582",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1631099,
+    "longitude": -114.155087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393900875",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.755505,
+    "longitude": -114.0853173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1408889586",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.2454859,
+    "longitude": -114.171161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410831453",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6966255,
+    "longitude": -116.833122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410831454",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6966857,
+    "longitude": -116.8487866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410831456",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6965232,
+    "longitude": -116.847457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410831457",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6970868,
+    "longitude": -116.8525935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410831459",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6973058,
+    "longitude": -116.8623725,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1410940564",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.3363332,
+    "longitude": -114.5246709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1411286577",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.9843368,
+    "longitude": -116.9057258,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1414323382",
+    "name": "All Abilities Dock",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.0226877,
+    "longitude": -114.2549399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1414688687",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0741419,
+    "longitude": -114.2274403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1415688320",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.0192611,
+    "longitude": -113.9747874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1415688323",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.0170422,
+    "longitude": -113.981837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1417462960",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6302829,
+    "longitude": -116.767995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1417462961",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6315492,
+    "longitude": -116.7673945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1417968567",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6298875,
+    "longitude": -116.7621845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1417968614",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6216188,
+    "longitude": -116.7467487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1420056561",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5880119,
+    "longitude": -114.3509855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1420056562",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5873961,
+    "longitude": -114.3498253,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1420643053",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.7754869,
+    "longitude": -112.8745184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1421989194",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.3648512,
+    "longitude": -114.6850769,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1423595897",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.2351465,
+    "longitude": -116.3752578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1424275164",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0855739,
+    "longitude": -116.4283566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1425909068",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.9753444,
+    "longitude": -114.1885845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1427021119",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4067331,
+    "longitude": -114.3392635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442214477",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.8674163,
+    "longitude": -114.2708983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1447890420",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.2693065,
+    "longitude": -112.743647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460575604",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.0740674,
+    "longitude": -114.2328265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1477333323",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5695465,
+    "longitude": -116.135782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1482429449",
+    "name": "Fishing Pier",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.4044594,
+    "longitude": -117.0348714,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

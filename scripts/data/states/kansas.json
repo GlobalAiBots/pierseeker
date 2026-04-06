@@ -124,5 +124,1948 @@
     "tags": {
       "waterway": "dock"
     }
+  },
+  {
+    "id": 255554005,
+    "name": "Marina Pier",
+    "latitude": 38.9863012,
+    "longitude": -94.8014939,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Marina Pier"
+    }
+  },
+  {
+    "id": 99159644,
+    "name": "Fishing Pier",
+    "latitude": 39.161681,
+    "longitude": -94.7891224,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 120056598,
+    "name": "Fishing Pier",
+    "latitude": 39.0765351,
+    "longitude": -94.892234,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 140215280,
+    "name": "Fishing Pier",
+    "latitude": 38.1074763,
+    "longitude": -96.1490007,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 140215281,
+    "name": "Fishing Pier",
+    "latitude": 38.1024356,
+    "longitude": -96.1494938,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 140215282,
+    "name": "Fishing Pier",
+    "latitude": 38.1060384,
+    "longitude": -96.1557279,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 189917598,
+    "name": "Fishing Pier",
+    "latitude": 39.0391367,
+    "longitude": -95.6908736,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 194761277,
+    "name": "Fishing Pier",
+    "latitude": 38.9991572,
+    "longitude": -95.6327275,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 194761286,
+    "name": "Fishing Pier",
+    "latitude": 38.9920051,
+    "longitude": -95.6319904,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 194761296,
+    "name": "Fishing Pier",
+    "latitude": 39.0102712,
+    "longitude": -95.630277,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 194761299,
+    "name": "Fishing Pier",
+    "latitude": 38.9968478,
+    "longitude": -95.6349644,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 194761301,
+    "name": "Fishing Pier",
+    "latitude": 39.0071921,
+    "longitude": -95.6295448,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 194761336,
+    "name": "Fishing Pier",
+    "latitude": 38.9960172,
+    "longitude": -95.6322195,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 202991411,
+    "name": "Fishing Pier",
+    "latitude": 39.0046648,
+    "longitude": -95.6210699,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 202991413,
+    "name": "Fishing Pier",
+    "latitude": 39.0025728,
+    "longitude": -95.6247134,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 202991414,
+    "name": "Fishing Pier",
+    "latitude": 39.0024857,
+    "longitude": -95.624701,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 223289871,
+    "name": "Fishing Pier",
+    "latitude": 38.9299544,
+    "longitude": -95.2156403,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 287693364,
+    "name": "Fishing Pier",
+    "latitude": 38.983647,
+    "longitude": -95.2412601,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 288562780,
+    "name": "Fishing Pier",
+    "latitude": 39.2002319,
+    "longitude": -95.4795631,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 370653624,
+    "name": "Fishing Pier",
+    "latitude": 38.9330455,
+    "longitude": -95.3527536,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "covered": "no",
+      "floating": "yes",
+      "foot": "private",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 370653626,
+    "name": "Fishing Pier",
+    "latitude": 38.9318125,
+    "longitude": -95.3521523,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "floating": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 370653629,
+    "name": "Fishing Pier",
+    "latitude": 38.9320365,
+    "longitude": -95.3528422,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "floating": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 370653630,
+    "name": "Fishing Pier",
+    "latitude": 38.9331142,
+    "longitude": -95.351265,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 376999142,
+    "name": "Fishing Pier",
+    "latitude": 38.9762262,
+    "longitude": -94.7298632,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "bicycle": "unknown",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 474388511,
+    "name": "Fishing Pier",
+    "latitude": 38.8501578,
+    "longitude": -94.6793258,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 479632743,
+    "name": "Fishing Pier",
+    "latitude": 38.5954868,
+    "longitude": -94.8455632,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 503139018,
+    "name": "Fishing Pier",
+    "latitude": 38.9219837,
+    "longitude": -94.8006088,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 520593244,
+    "name": "Fishing Pier",
+    "latitude": 38.6508215,
+    "longitude": -94.9201385,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545171845,
+    "name": "Fishing Pier",
+    "latitude": 38.864429,
+    "longitude": -96.1874566,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 562775383,
+    "name": "Fishing Pier",
+    "latitude": 39.1711204,
+    "longitude": -94.7745749,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 568399879,
+    "name": "Fishing Pier",
+    "latitude": 39.2355415,
+    "longitude": -96.489888,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 618103428,
+    "name": "Fishing Pier",
+    "latitude": 39.2273372,
+    "longitude": -94.7237753,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "bicycle": "no",
+      "foot": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 620134387,
+    "name": "Fishing Pier",
+    "latitude": 39.2134636,
+    "longitude": -94.7355204,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 620567619,
+    "name": "Fishing Pier",
+    "latitude": 39.1331025,
+    "longitude": -95.2406922,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 620974890,
+    "name": "Fishing Pier",
+    "latitude": 39.2088918,
+    "longitude": -94.7534051,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "bicycle": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 623127332,
+    "name": "Fishing Pier",
+    "latitude": 39.0669752,
+    "longitude": -94.7126124,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623275404,
+    "name": "Fishing Pier",
+    "latitude": 38.9725342,
+    "longitude": -94.672835,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623275405,
+    "name": "Fishing Pier",
+    "latitude": 38.9724719,
+    "longitude": -94.6728865,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623281732,
+    "name": "Fishing Pier",
+    "latitude": 39.347912,
+    "longitude": -95.0636351,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 626536612,
+    "name": "Fishing Pier",
+    "latitude": 38.985324,
+    "longitude": -94.8064111,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 810621816,
+    "name": "Fishing Pier",
+    "latitude": 37.9013702,
+    "longitude": -96.3018574,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 810621819,
+    "name": "Fishing Pier",
+    "latitude": 37.9019491,
+    "longitude": -96.2969269,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 810621821,
+    "name": "Fishing Pier",
+    "latitude": 37.9027241,
+    "longitude": -96.297108,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 810621831,
+    "name": "Fishing Pier",
+    "latitude": 37.9019785,
+    "longitude": -96.2920903,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 810621833,
+    "name": "Fishing Pier",
+    "latitude": 37.9026017,
+    "longitude": -96.2919116,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 810621935,
+    "name": "Fishing Pier",
+    "latitude": 37.8925871,
+    "longitude": -96.2931693,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 815581098,
+    "name": "Fishing Pier",
+    "latitude": 38.1954021,
+    "longitude": -94.6861436,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 840702396,
+    "name": "Fishing Pier",
+    "latitude": 39.2038777,
+    "longitude": -94.6565838,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 840702550,
+    "name": "Fishing Pier",
+    "latitude": 39.2038566,
+    "longitude": -94.6340236,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 841040826,
+    "name": "Fishing Pier",
+    "latitude": 39.2013384,
+    "longitude": -94.6789097,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 844101942,
+    "name": "Fishing Pier",
+    "latitude": 39.1815529,
+    "longitude": -94.665021,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 854290977,
+    "name": "Fishing Pier",
+    "latitude": 38.8776783,
+    "longitude": -94.8715778,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 857635160,
+    "name": "Fishing Pier",
+    "latitude": 38.9666488,
+    "longitude": -95.0063551,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 870941206,
+    "name": "Fishing Pier",
+    "latitude": 38.8724811,
+    "longitude": -94.8109292,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 903893535,
+    "name": "Fishing Pier",
+    "latitude": 38.647302,
+    "longitude": -95.5644669,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Osage, KS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 970407017,
+    "name": "Fishing Pier",
+    "latitude": 39.2313646,
+    "longitude": -96.5283637,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 974175937,
+    "name": "Fishing Pier",
+    "latitude": 38.5122413,
+    "longitude": -95.0355598,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 999538042,
+    "name": "Fishing Pier",
+    "latitude": 37.5299876,
+    "longitude": -94.8506292,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1028563923,
+    "name": "Fishing Pier",
+    "latitude": 39.2347862,
+    "longitude": -96.4869018,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1077506824,
+    "name": "Fishing Pier",
+    "latitude": 39.281176,
+    "longitude": -96.591098,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1082780611,
+    "name": "Fishing Pier",
+    "latitude": 39.4209007,
+    "longitude": -94.8045938,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 1090348861,
+    "name": "Fishing Pier",
+    "latitude": 38.9994441,
+    "longitude": -95.6322382,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1111881662,
+    "name": "Fishing Pier",
+    "latitude": 38.8637373,
+    "longitude": -94.665952,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1123368144,
+    "name": "Fishing Pier",
+    "latitude": 38.9752632,
+    "longitude": -95.3553688,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1123370187,
+    "name": "Fishing Pier",
+    "latitude": 38.9795982,
+    "longitude": -95.3569403,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1123370188,
+    "name": "Fishing Pier",
+    "latitude": 38.9793703,
+    "longitude": -95.3580923,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1139766170,
+    "name": "Fishing Pier",
+    "latitude": 38.8768533,
+    "longitude": -94.7028988,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1156632814,
+    "name": "Fishing Pier",
+    "latitude": 39.2821397,
+    "longitude": -94.7735882,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1156632815,
+    "name": "Fishing Pier",
+    "latitude": 39.2857394,
+    "longitude": -94.7716161,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1164641420,
+    "name": "Fishing Pier",
+    "latitude": 37.3566585,
+    "longitude": -95.6996961,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1198549855,
+    "name": "Fishing Pier",
+    "latitude": 39.2521433,
+    "longitude": -96.574339,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1198549856,
+    "name": "Fishing Pier",
+    "latitude": 39.2525802,
+    "longitude": -96.5740031,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1229074149,
+    "name": "Fishing Pier",
+    "latitude": 38.6588754,
+    "longitude": -94.898216,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1236526939,
+    "name": "Fishing Pier",
+    "latitude": 38.9580059,
+    "longitude": -95.2923872,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1236526943,
+    "name": "Fishing Pier",
+    "latitude": 38.9574834,
+    "longitude": -95.2922707,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1310612481,
+    "name": "Fishing Pier",
+    "latitude": 38.8943728,
+    "longitude": -94.8612948,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1316829049,
+    "name": "Fishing Pier",
+    "latitude": 38.9118188,
+    "longitude": -94.9704554,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1319374582,
+    "name": "Fishing Pier",
+    "latitude": 39.1661322,
+    "longitude": -94.7743341,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1319754025,
+    "name": "Fishing Pier",
+    "latitude": 39.1643429,
+    "longitude": -94.786374,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1319754033,
+    "name": "Fishing Pier",
+    "latitude": 39.1646449,
+    "longitude": -94.7877511,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1320906685,
+    "name": "Fishing Pier",
+    "latitude": 39.1382623,
+    "longitude": -95.4760811,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1323057520,
+    "name": "Fishing Pier",
+    "latitude": 39.1239282,
+    "longitude": -95.4120348,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1323221139,
+    "name": "Fishing Pier",
+    "latitude": 39.1379416,
+    "longitude": -95.4388186,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1323221147,
+    "name": "Fishing Pier",
+    "latitude": 39.1369967,
+    "longitude": -95.4235506,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1323303657,
+    "name": "Fishing Pier",
+    "latitude": 38.8479077,
+    "longitude": -94.8466213,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1323662329,
+    "name": "Fishing Pier",
+    "latitude": 38.8713036,
+    "longitude": -94.8683063,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1324891382,
+    "name": "Fishing Pier",
+    "latitude": 38.8792105,
+    "longitude": -94.8967217,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1327142069,
+    "name": "Fishing Pier",
+    "latitude": 38.6596141,
+    "longitude": -94.9274276,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1327390651,
+    "name": "Fishing Pier",
+    "latitude": 39.1243903,
+    "longitude": -95.4125475,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1346917660,
+    "name": "Fishing Pier",
+    "latitude": 38.8431272,
+    "longitude": -94.8444937,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1356289146,
+    "name": "Fishing Pier",
+    "latitude": 38.6781026,
+    "longitude": -94.8977264,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1356410735,
+    "name": "Fishing Pier",
+    "latitude": 38.8740709,
+    "longitude": -94.8729532,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1356841305,
+    "name": "Fishing Pier",
+    "latitude": 38.9118581,
+    "longitude": -95.3695694,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1356981820,
+    "name": "Fishing Pier",
+    "latitude": 38.6809614,
+    "longitude": -94.9220534,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1356981821,
+    "name": "Fishing Pier",
+    "latitude": 38.6943777,
+    "longitude": -94.9475264,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1358226246,
+    "name": "Fishing Pier",
+    "latitude": 38.934939,
+    "longitude": -95.3469684,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1363142399,
+    "name": "Fishing Pier",
+    "latitude": 38.3397523,
+    "longitude": -95.9528068,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "path",
+      "man_made": "pier",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1365863643,
+    "name": "Fishing Pier",
+    "latitude": 38.5850919,
+    "longitude": -94.8458343,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1375467252,
+    "name": "Fishing Pier",
+    "latitude": 38.6612366,
+    "longitude": -95.5533042,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377122599,
+    "name": "Fishing Pier",
+    "latitude": 38.6644848,
+    "longitude": -95.5555282,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1378071675,
+    "name": "Fishing Pier",
+    "latitude": 38.6564056,
+    "longitude": -95.5922028,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1378071676,
+    "name": "Fishing Pier",
+    "latitude": 38.6563962,
+    "longitude": -95.5928092,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1380094705,
+    "name": "Fishing Pier",
+    "latitude": 38.5190956,
+    "longitude": -95.7005974,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1380094711,
+    "name": "Fishing Pier",
+    "latitude": 38.5161116,
+    "longitude": -95.707038,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1381007080,
+    "name": "Fishing Pier",
+    "latitude": 38.4992242,
+    "longitude": -95.7145551,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1382672843,
+    "name": "Fishing Pier",
+    "latitude": 38.5174643,
+    "longitude": -95.732437,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1387917171,
+    "name": "Fishing Pier",
+    "latitude": 38.8363779,
+    "longitude": -95.3776668,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1387917191,
+    "name": "Fishing Pier",
+    "latitude": 38.8388542,
+    "longitude": -95.3758313,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1388772171,
+    "name": "Fishing Pier",
+    "latitude": 38.8003561,
+    "longitude": -95.1634146,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1388772179,
+    "name": "Fishing Pier",
+    "latitude": 38.8031355,
+    "longitude": -95.1551854,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1388772185,
+    "name": "Fishing Pier",
+    "latitude": 38.8037814,
+    "longitude": -95.1635775,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410115511,
+    "name": "Fishing Pier",
+    "latitude": 38.7632373,
+    "longitude": -95.6747871,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410219785,
+    "name": "Fishing Pier",
+    "latitude": 38.5109856,
+    "longitude": -94.6726467,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411556870,
+    "name": "Fishing Pier",
+    "latitude": 38.4150381,
+    "longitude": -96.1795526,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411624621,
+    "name": "Fishing Pier",
+    "latitude": 37.4226581,
+    "longitude": -95.201803,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1428177980,
+    "name": "Fishing Pier",
+    "latitude": 38.9899889,
+    "longitude": -95.6325299,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434402461,
+    "name": "Fishing Pier",
+    "latitude": 39.7799967,
+    "longitude": -94.8756127,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434402464,
+    "name": "Fishing Pier",
+    "latitude": 39.7833186,
+    "longitude": -94.8324354,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434402465,
+    "name": "Fishing Pier",
+    "latitude": 39.7824125,
+    "longitude": -94.8335116,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1434436808,
+    "name": "Fishing Pier",
+    "latitude": 39.7665074,
+    "longitude": -94.781745,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1442254440,
+    "name": "Fishing Pier",
+    "latitude": 37.8278947,
+    "longitude": -94.7244644,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1443522985,
+    "name": "Fishing Pier",
+    "latitude": 39.8338552,
+    "longitude": -94.869421,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1447607035,
+    "name": "Fishing Pier",
+    "latitude": 39.0611214,
+    "longitude": -95.7443487,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1448531361,
+    "name": "Fishing Pier",
+    "latitude": 38.9984735,
+    "longitude": -95.7474001,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1452499175,
+    "name": "Fishing Pier",
+    "latitude": 37.2544092,
+    "longitude": -95.7775472,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1452499176,
+    "name": "Fishing Pier",
+    "latitude": 37.2543802,
+    "longitude": -95.777486,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1472539275,
+    "name": "Fishing Pier",
+    "latitude": 38.4166853,
+    "longitude": -94.7939664,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473217658,
+    "name": "Fishing Pier",
+    "latitude": 38.5288105,
+    "longitude": -94.9935503,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473217662,
+    "name": "Fishing Pier",
+    "latitude": 38.5266745,
+    "longitude": -94.9945054,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473269775,
+    "name": "Fishing Pier",
+    "latitude": 39.1255441,
+    "longitude": -95.1471517,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473269780,
+    "name": "Fishing Pier",
+    "latitude": 39.1250977,
+    "longitude": -95.1478008,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473475834,
+    "name": "Fishing Pier",
+    "latitude": 39.8466895,
+    "longitude": -95.3744659,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473479342,
+    "name": "Fishing Pier",
+    "latitude": 39.6321554,
+    "longitude": -95.1739846,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1473746621,
+    "name": "Fishing Pier",
+    "latitude": 39.471885,
+    "longitude": -96.4091183,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1474021549,
+    "name": "Fishing Pier",
+    "latitude": 37.1637755,
+    "longitude": -95.6882289,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1474043060,
+    "name": "Fishing Pier",
+    "latitude": 37.4222538,
+    "longitude": -95.1968227,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1474292299,
+    "name": "Fishing Pier",
+    "latitude": 37.7955896,
+    "longitude": -95.8476926,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1474303193,
+    "name": "Fishing Pier",
+    "latitude": 37.7016974,
+    "longitude": -95.6707629,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1474303205,
+    "name": "Fishing Pier",
+    "latitude": 37.6932886,
+    "longitude": -95.6746476,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476015353,
+    "name": "Fishing Pier",
+    "latitude": 37.6426388,
+    "longitude": -94.8122542,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476015365,
+    "name": "Fishing Pier",
+    "latitude": 37.642379,
+    "longitude": -94.812738,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476015382,
+    "name": "Fishing Pier",
+    "latitude": 37.642194,
+    "longitude": -94.8118608,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476015384,
+    "name": "Fishing Pier",
+    "latitude": 37.630516,
+    "longitude": -94.8173089,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476015408,
+    "name": "Fishing Pier",
+    "latitude": 37.6413946,
+    "longitude": -94.8073433,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476015420,
+    "name": "Fishing Pier",
+    "latitude": 37.6426161,
+    "longitude": -94.8067463,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476334523,
+    "name": "Fishing Pier",
+    "latitude": 37.6584441,
+    "longitude": -96.0575591,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476334581,
+    "name": "Fishing Pier",
+    "latitude": 37.6583469,
+    "longitude": -96.1021515,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476334583,
+    "name": "Fishing Pier",
+    "latitude": 37.6574133,
+    "longitude": -96.1041395,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1478714676,
+    "name": "Fishing Pier",
+    "latitude": 38.3666883,
+    "longitude": -96.5911521,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1480455796,
+    "name": "Fishing Pier",
+    "latitude": 39.7672754,
+    "longitude": -96.0285363,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1482737193,
+    "name": "Fishing Pier",
+    "latitude": 37.7773653,
+    "longitude": -95.9357294,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1482737200,
+    "name": "Fishing Pier",
+    "latitude": 37.7752863,
+    "longitude": -95.9381798,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1490412031,
+    "name": "Fishing Pier",
+    "latitude": 38.835105,
+    "longitude": -94.7466968,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 6979171016,
+    "name": "Fishing Pier",
+    "latitude": 37.0522692,
+    "longitude": -95.6405609,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 7926356965,
+    "name": "Fish Feeder",
+    "latitude": 37.793643,
+    "longitude": -95.0689369,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Fish Feeder"
+    }
+  },
+  {
+    "id": 9322628180,
+    "name": "Carsons Fishing Pond",
+    "latitude": 39.6395483,
+    "longitude": -95.8146409,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "permissive",
+      "description": "Great spot for fellow high school students to hang out and fish",
+      "fishing": "permissive",
+      "leisure": "fishing",
+      "name": "Carsons Fishing Pond"
+    }
+  },
+  {
+    "id": 9344457729,
+    "name": "Fish Feeder",
+    "latitude": 38.9386444,
+    "longitude": -95.3903236,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "amenity": "feeding_place",
+      "feeding:for": "fish",
+      "leisure": "fishing",
+      "name": "Fish Feeder"
+    }
+  },
+  {
+    "id": 11418332758,
+    "name": "Clinton Fishing Spot",
+    "latitude": 38.9047733,
+    "longitude": -95.3697158,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Clinton Fishing Spot"
+    }
+  },
+  {
+    "id": 12777101733,
+    "name": "Fishing Pier",
+    "latitude": 38.5170308,
+    "longitude": -95.6995825,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 12777101735,
+    "name": "Fishing Pier",
+    "latitude": 38.5179971,
+    "longitude": -95.7073932,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "fishing"
+    }
   }
 ]

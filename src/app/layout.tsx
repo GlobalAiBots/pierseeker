@@ -7,27 +7,24 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "RampSeeker | Every Boat Ramp in America — 29,000+ Launch Sites",
+  title: "PierSeeker | Every Fishing Pier in America — 31,000+ Fishing Spots",
   description:
-    "Find boat ramps across the United States. 29,000+ ramps with GPS coordinates, amenities, and local tips. Detailed coverage for Oklahoma and Texas.",
+    "Find fishing piers across the United States. 31,000+ piers, docks, and jetties with GPS coordinates, amenities, and local tips. Saltwater and freshwater. Free.",
   keywords:
-    "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
+    "fishing pier near me, public fishing pier, fishing dock, saltwater pier fishing, pier fishing spots, fishing pier directory",
   openGraph: {
-    title: "RampSeeker | Every Boat Ramp in America",
-    description: "29,000+ boat ramps across the US. GPS coordinates, amenities, local tips.",
-    url: "https://rampseeker.com",
-    siteName: "RampSeeker",
+    title: "PierSeeker | Every Fishing Pier in America",
+    description: "31,000+ fishing piers across the US. GPS coordinates, amenities, local tips.",
+    url: "https://pierseeker.com",
+    siteName: "PierSeeker",
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: "RampSeeker | Every Boat Ramp in America",
-    description: "261+ boat ramps across 19 Oklahoma lakes. GPS coordinates, amenities, local tips.",
+    title: "PierSeeker | Every Fishing Pier in America",
+    description: "31,000+ fishing piers across 44 states. GPS coordinates, amenities, local tips.",
   },
-  alternates: { canonical: "https://rampseeker.com" },
-  verification: {
-    google: "JWsw31t4naK4EN6UbytAGjUR7PuyS4e3i1lgEcjM-R4",
-  },
+  alternates: { canonical: "https://pierseeker.com" },
   other: {
     "google-adsense-account": "ca-pub-4822220549367368",
   },
@@ -38,15 +35,15 @@ function Nav() {
     <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-gray-200">
       <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 font-bold text-lg font-[Cabin]">
-          <span className="text-2xl">&#9875;</span>
-          <span className="text-charcoal">Ramp<span className="text-water">Seeker</span></span>
+          <span className="text-2xl">🎣</span>
+          <span className="text-charcoal">Pier<span className="text-ocean">Seeker</span></span>
         </Link>
         <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
           <StatesDropdown />
-          <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
-          <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
-          <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
-          <Link href="/for-businesses" className="text-sunset font-bold hover:text-sunset-dark transition hidden sm:block">For Businesses</Link>
+          <Link href="/map" className="text-gray-500 hover:text-ocean transition">Map</Link>
+          <Link href="/blog" className="text-gray-500 hover:text-ocean transition hidden sm:block">Blog</Link>
+          <Link href="/about" className="text-gray-500 hover:text-ocean transition hidden sm:block">About</Link>
+          <Link href="/for-businesses" className="text-coral font-bold hover:text-coral-dark transition hidden sm:block">For Businesses</Link>
         </div>
       </div>
     </nav>
@@ -59,42 +56,43 @@ function Footer() {
       <div className="max-w-6xl mx-auto px-4 py-10">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-gray-500">
           <div>
-            <p className="font-bold text-charcoal mb-2 font-[Cabin]">&#9875; RampSeeker</p>
-            <p>The most complete boat ramp directory in America. 29,000+ ramps across 46 states.</p>
+            <p className="font-bold text-charcoal mb-2 font-[Cabin]">🎣 PierSeeker</p>
+            <p>The most complete fishing pier directory in America. 31,000+ piers across 44 states.</p>
           </div>
           <div>
             <p className="font-bold text-charcoal mb-2">Links</p>
             <div className="flex flex-col gap-1">
-              <Link href="/" className="hover:text-water transition">All Ramps</Link>
-              <Link href="/lakes" className="hover:text-water transition">Lakes</Link>
-              <Link href="/map" className="hover:text-water transition">Map</Link>
-              <Link href="/about" className="hover:text-water transition">About</Link>
-              <Link href="/blog" className="hover:text-water transition">Blog</Link>
-              <Link href="/for-businesses" className="hover:text-water transition">For Businesses</Link>
-              <Link href="/privacy" className="hover:text-water transition">Privacy</Link>
-              <Link href="/terms" className="hover:text-water transition">Terms</Link>
+              <Link href="/" className="hover:text-ocean transition">All Piers</Link>
+              <Link href="/map" className="hover:text-ocean transition">Map</Link>
+              <Link href="/about" className="hover:text-ocean transition">About</Link>
+              <Link href="/blog" className="hover:text-ocean transition">Blog</Link>
+              <Link href="/for-businesses" className="hover:text-ocean transition">For Businesses</Link>
+              <Link href="/privacy" className="hover:text-ocean transition">Privacy</Link>
+              <Link href="/terms" className="hover:text-ocean transition">Terms</Link>
             </div>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">Know a ramp we missed?</p>
-            <a href="mailto:hello@rampseeker.com" className="text-water hover:text-water-light transition">hello@rampseeker.com</a>
+            <p className="font-bold text-charcoal mb-2">Know a pier we missed?</p>
+            <a href="mailto:hello@pierseeker.com" className="text-ocean hover:text-ocean-light transition">hello@pierseeker.com</a>
           </div>
           <div>
             <p className="font-bold text-charcoal mb-2">From Global AI Bots</p>
             <div className="flex flex-col gap-1">
-              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Global AI Bots</a>
-              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Chat</a>
-              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Voice</a>
-              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Grand Lake AI</a>
+              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">Global AI Bots</a>
+              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">CLETUS AI Chat</a>
+              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">CLETUS AI Voice</a>
+              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">Grand Lake AI</a>
+              <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">RampSeeker</a>
+              <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">BarkSeeker</a>
             </div>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap justify-between items-center text-xs text-gray-400 gap-4">
-          <span>&copy; {new Date().getFullYear()} RampSeeker. All rights reserved.</span>
+          <span>&copy; {new Date().getFullYear()} PierSeeker. All rights reserved.</span>
           <div className="flex gap-3">
-            <a href="mailto:hello@rampseeker.com?subject=Advertising%20Inquiry" className="hover:text-water transition">Advertise With Us</a>
+            <a href="mailto:hello@pierseeker.com?subject=Advertising%20Inquiry" className="hover:text-ocean transition">Advertise With Us</a>
             <span>&middot;</span>
-            <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water/70 hover:text-water transition">Grand Lake AI</a> project.</span>
+            <span>A <a href="https://globalaibots.com" target="_blank" className="text-ocean/70 hover:text-ocean transition">Global AI Bots</a> project.</span>
           </div>
         </div>
       </div>

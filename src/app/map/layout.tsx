@@ -1,16 +1,16 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "US Boat Ramp Map — Find Launch Sites in All 50 States | RampSeeker",
-  description: "Interactive map of 29,000+ boat ramps across 46 states. Browse by state to find boat launch sites with GPS coordinates, amenities, and directions.",
+  title: "US Fishing Pier Map — Find Piers in All 50 States | PierSeeker",
+  description: "Interactive map of 30,000+ fishing piers across 44 states. Browse by state to find public piers, jetties, and docks with GPS coordinates, amenities, and directions.",
   openGraph: {
-    title: "US Boat Ramp Map — RampSeeker",
-    description: "29,000+ boat ramps across 46 states. Find your launch.",
-    url: "https://rampseeker.com/map",
-    siteName: "RampSeeker",
+    title: "US Fishing Pier Map — PierSeeker",
+    description: "30,000+ fishing piers across 44 states. Find your pier.",
+    url: "https://pierseeker.com/map",
+    siteName: "PierSeeker",
   },
-  twitter: { card: "summary", title: "US Boat Ramp Map | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/map" },
+  twitter: { card: "summary", title: "US Fishing Pier Map | PierSeeker" },
+  alternates: { canonical: "https://pierseeker.com/map" },
 };
 
 export default function MapLayout({ children }: { children: React.ReactNode }) {

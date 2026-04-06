@@ -1,0 +1,407 @@
+[
+  {
+    "place_id": "osm_168995789",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.5609819,
+    "longitude": -104.0202891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_262457350",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.559748,
+    "longitude": -104.0149928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_262624549",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.5585911,
+    "longitude": -104.0107017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_345072881",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 47.9944112,
+    "longitude": -106.4874248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_404244742",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.4393444,
+    "longitude": -109.2286065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_468416528",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.8397915,
+    "longitude": -108.4775286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_639568584",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.2516526,
+    "longitude": -107.9633325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_756781957",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.0959833,
+    "longitude": -108.2132664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_769485514",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.7469717,
+    "longitude": -108.6113017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_891111576",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.5785003,
+    "longitude": -107.2943804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_891111598",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.6084157,
+    "longitude": -107.3107342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_891504050",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.7596703,
+    "longitude": -107.4371441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893926775",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.9055406,
+    "longitude": -107.1708998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1016458097",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.4019936,
+    "longitude": -108.939245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1098944353",
+    "name": "Virgelle Ferry Road North",
+    "formatted_address": ", Montana, USA",
+    "latitude": 48.0018072,
+    "longitude": -110.2532409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1286687744",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.4180471,
+    "longitude": -110.418247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1295814766",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.4022584,
+    "longitude": -110.396428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1362646077",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.4804223,
+    "longitude": -106.7660047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1362647972",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.4691217,
+    "longitude": -106.757851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1362649601",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.4986408,
+    "longitude": -106.782384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1363132059",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.9565129,
+    "longitude": -108.262534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1363132060",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.9570032,
+    "longitude": -108.2617125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1408685043",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 46.274616,
+    "longitude": -106.6789508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1414315066",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.413426,
+    "longitude": -110.3543532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1422754616",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 46.3636575,
+    "longitude": -104.2691097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1422754622",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 46.3589842,
+    "longitude": -104.2685403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1485098007",
+    "name": "Fishing Pier",
+    "formatted_address": ", Montana, USA",
+    "latitude": 46.4039859,
+    "longitude": -105.853585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "man_made_pier"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

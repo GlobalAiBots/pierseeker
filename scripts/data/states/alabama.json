@@ -161,5 +161,8047 @@
     "tags": {
       "leisure": "fishing"
     }
+  },
+  {
+    "id": 10905829,
+    "name": "Fishing Pier",
+    "latitude": 30.964989,
+    "longitude": -87.2858275,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "tiger:cfcc": "C32",
+      "tiger:county": "Escambia, FL",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 83432884,
+    "name": "Pensacola Beach Pier",
+    "latitude": 30.3293013,
+    "longitude": -87.1423741,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "charge": "2.25 USD",
+      "charge:conditional": "7.50 USD @ adult fishing; 4.50 USD @ youth fishing; 6.50 USD @ senior fishing; 6.50 USD @ military",
+      "fee": "yes",
+      "fee:conditional": "no @ age < 6",
+      "floating": "no",
+      "lit": "yes",
+      "man_made": "pier",
+      "name": "Pensacola Beach Pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 83459432,
+    "name": "Okaloosa Island Fishing Pier",
+    "latitude": 30.3920965,
+    "longitude": -86.5930794,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "Okaloosa Island Fishing Pier"
+    }
+  },
+  {
+    "id": 119095793,
+    "name": "Fisherman's Warf",
+    "latitude": 34.7870791,
+    "longitude": -87.6501597,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "foot": "yes",
+      "layer": "1",
+      "leisure": "fishing",
+      "man_made": "pier",
+      "name": "Fisherman's Warf",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 120718382,
+    "name": "Fishing Pier",
+    "latitude": 33.2096771,
+    "longitude": -87.5980038,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 130445746,
+    "name": "Fishing Pier",
+    "latitude": 33.2141802,
+    "longitude": -87.5717206,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bicycle": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 130577197,
+    "name": "Fishing Pier",
+    "latitude": 33.2221376,
+    "longitude": -87.5449071,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 136791958,
+    "name": "Fishing Pier",
+    "latitude": 33.3041336,
+    "longitude": -87.6774086,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 136791959,
+    "name": "Fishing Pier",
+    "latitude": 33.2986483,
+    "longitude": -87.6739505,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 136791960,
+    "name": "Fishing Pier",
+    "latitude": 33.2972999,
+    "longitude": -87.6776698,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 141329705,
+    "name": "Fishing Pier",
+    "latitude": 31.2629304,
+    "longitude": -88.34745,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 548283666,
+    "name": "Bob Sikes Fishing Pier",
+    "latitude": 30.3460206,
+    "longitude": -87.1517957,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "fishing": "yes",
+      "floating": "no",
+      "foot": "yes",
+      "layer": "1",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "name": "Bob Sikes Fishing Pier",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 145073771,
+    "name": "Fishing Pier",
+    "latitude": 30.3505934,
+    "longitude": -87.1550642,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bicycle": "yes",
+      "bridge": "yes",
+      "highway": "footway",
+      "layer": "1",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "seamark:bridge:category": "fixed",
+      "seamark:type": "bridge",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 175791729,
+    "name": "Fishing Pier",
+    "latitude": 33.346355,
+    "longitude": -87.6086478,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 175791731,
+    "name": "Fishing Pier",
+    "latitude": 33.3520057,
+    "longitude": -87.5564246,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 175791732,
+    "name": "Fishing Pier",
+    "latitude": 33.3470892,
+    "longitude": -87.6072932,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 175791735,
+    "name": "Fishing Pier",
+    "latitude": 33.3477231,
+    "longitude": -87.6077126,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 176533283,
+    "name": "Fishing Pier",
+    "latitude": 30.4327998,
+    "longitude": -88.1375244,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 218119762,
+    "name": "Fishing Pier",
+    "latitude": 33.340936,
+    "longitude": -87.7852816,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "building": "yes",
+      "man_made": "pier",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 218192413,
+    "name": "Navarre Beach Fishing Pier",
+    "latitude": 30.3780632,
+    "longitude": -86.8634092,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:postcode": "32566",
+      "bicycle": "yes",
+      "bridge": "boardwalk",
+      "fishing": "yes",
+      "foot": "yes",
+      "horse": "no",
+      "layer": "1",
+      "lit": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "name": "Navarre Beach Fishing Pier",
+      "source": "https://www.santarosa.fl.gov/248/Navarre-Beach-Pier",
+      "stroller": "yes",
+      "surface": "wood",
+      "width": "6.22"
+    }
+  },
+  {
+    "id": 220687059,
+    "name": "Fishing Pier",
+    "latitude": 30.2506447,
+    "longitude": -88.0769241,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 830556275,
+    "name": "USCG",
+    "latitude": 30.2513613,
+    "longitude": -88.079072,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 221131105,
+    "name": "Fishing Pier",
+    "latitude": 30.2552261,
+    "longitude": -88.0859037,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 221376311,
+    "name": "Fishing Pier",
+    "latitude": 30.2480769,
+    "longitude": -88.0869407,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 221974838,
+    "name": "Fishing Pier",
+    "latitude": 30.3095241,
+    "longitude": -88.1390598,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 222240412,
+    "name": "Fishing Pier",
+    "latitude": 30.2626695,
+    "longitude": -88.1129475,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 225875505,
+    "name": "Fishing Pier",
+    "latitude": 30.3733091,
+    "longitude": -87.273184,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 225875510,
+    "name": "Fishing Pier",
+    "latitude": 30.3673188,
+    "longitude": -87.2695499,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 225875511,
+    "name": "Fishing Pier",
+    "latitude": 30.372427,
+    "longitude": -87.2726555,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 234852826,
+    "name": "Fishing Pier",
+    "latitude": 30.3998375,
+    "longitude": -87.2459315,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 237452966,
+    "name": "Fishing Pier",
+    "latitude": 33.5431324,
+    "longitude": -86.595165,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 238120480,
+    "name": "Fishing Pier",
+    "latitude": 33.8320062,
+    "longitude": -86.5492857,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 238120481,
+    "name": "Fishing Pier",
+    "latitude": 33.832578,
+    "longitude": -86.5490631,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "building": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 241996347,
+    "name": "Fishing Pier",
+    "latitude": 30.402023,
+    "longitude": -87.2141831,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 242304775,
+    "name": "Fishing Pier",
+    "latitude": 30.3507075,
+    "longitude": -87.1754155,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "fish": "yes",
+      "leisure": "fishing",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 243605934,
+    "name": "Fishing Pier",
+    "latitude": 33.5709556,
+    "longitude": -86.7248364,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 243736922,
+    "name": "Fishing Pier",
+    "latitude": 34.3638306,
+    "longitude": -86.3439705,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 243736943,
+    "name": "T Pier",
+    "latitude": 34.4029859,
+    "longitude": -86.2063998,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "T Pier"
+    }
+  },
+  {
+    "id": 243736927,
+    "name": "Fishing Pier",
+    "latitude": 34.400948,
+    "longitude": -86.2076203,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 243736930,
+    "name": "Fishing Pier",
+    "latitude": 34.3623669,
+    "longitude": -86.3446612,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 287396331,
+    "name": "Fishing Pier",
+    "latitude": 33.7350859,
+    "longitude": -86.4993961,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 288177164,
+    "name": "Fishing Pier",
+    "latitude": 30.2477682,
+    "longitude": -87.6672662,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 289884109,
+    "name": "Fishing Pier",
+    "latitude": 30.3115812,
+    "longitude": -87.4218517,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 290087208,
+    "name": "Fishing Pier",
+    "latitude": 30.3725303,
+    "longitude": -87.1776403,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 290087209,
+    "name": "Fishing Pier",
+    "latitude": 30.3724336,
+    "longitude": -87.1775827,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 290087211,
+    "name": "Fishing Pier",
+    "latitude": 30.3710529,
+    "longitude": -87.1745615,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 305928719,
+    "name": "Fishing Pier",
+    "latitude": 30.3635383,
+    "longitude": -87.3362902,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 307382349,
+    "name": "Fishing Pier",
+    "latitude": 30.3739267,
+    "longitude": -87.1764702,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 308771054,
+    "name": "Fishing Pier",
+    "latitude": 33.4024652,
+    "longitude": -86.797171,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 317326048,
+    "name": "Fishing Pier",
+    "latitude": 31.0077228,
+    "longitude": -87.2704492,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 318033038,
+    "name": "Fishing Pier",
+    "latitude": 30.6365201,
+    "longitude": -87.9184916,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bicycle": "no",
+      "bridge": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "surface": "wood",
+      "width": "2"
+    }
+  },
+  {
+    "id": 318033401,
+    "name": "Fishing Pier",
+    "latitude": 30.6385922,
+    "longitude": -87.9164818,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bicycle": "no",
+      "bridge": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "surface": "wood",
+      "width": "1"
+    }
+  },
+  {
+    "id": 318033574,
+    "name": "Fishing Pier",
+    "latitude": 30.637714,
+    "longitude": -87.91778,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bicycle": "no",
+      "bridge": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "surface": "wood",
+      "width": "1.5"
+    }
+  },
+  {
+    "id": 318155977,
+    "name": "Fairhope Municipal Pier",
+    "latitude": 30.5250265,
+    "longitude": -87.914889,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Fairhope",
+      "addr:housenumber": "4",
+      "addr:postcode": "36532",
+      "addr:state": "AL",
+      "addr:street": "North Beach Road",
+      "floating": "no",
+      "lit": "yes",
+      "man_made": "pier",
+      "name": "Fairhope Municipal Pier",
+      "surface": "concrete",
+      "website": "http://www.cofairhope.com/living/parks-and-recreation/parks-and-trails"
+    }
+  },
+  {
+    "id": 322886744,
+    "name": "Fishing Pier",
+    "latitude": 30.4051348,
+    "longitude": -86.7927714,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322886746,
+    "name": "Fishing Pier",
+    "latitude": 30.404657,
+    "longitude": -86.8033634,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322886747,
+    "name": "Fishing Pier",
+    "latitude": 30.4056301,
+    "longitude": -86.7998998,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322886749,
+    "name": "Fishing Pier",
+    "latitude": 30.4039918,
+    "longitude": -86.7919892,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322886752,
+    "name": "Fishing Pier",
+    "latitude": 30.406694,
+    "longitude": -86.8086531,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 322886761,
+    "name": "Fishing Pier",
+    "latitude": 30.4020516,
+    "longitude": -86.7900022,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 334541279,
+    "name": "Fishing Pier",
+    "latitude": 30.3204221,
+    "longitude": -87.2560862,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 334541347,
+    "name": "Fishing Pier",
+    "latitude": 30.330744,
+    "longitude": -87.293024,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Fishing Pier"
+    }
+  },
+  {
+    "id": 334867408,
+    "name": "Fishing Pier",
+    "latitude": 30.3301743,
+    "longitude": -87.2889589,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "width": "2"
+    }
+  },
+  {
+    "id": 349687312,
+    "name": "Fishing Pier",
+    "latitude": 30.4282511,
+    "longitude": -86.6077088,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 350101347,
+    "name": "Fishing Pier",
+    "latitude": 30.4020238,
+    "longitude": -86.6076234,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 355512000,
+    "name": "Muscogee Wharf",
+    "latitude": 30.4105839,
+    "longitude": -87.1956505,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Pensacola",
+      "addr:state": "FL",
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Muscogee Wharf"
+    }
+  },
+  {
+    "id": 355519406,
+    "name": "Fishing Pier",
+    "latitude": 30.4138308,
+    "longitude": -87.1986175,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1101524061,
+    "name": "Fuel Farm Road",
+    "latitude": 30.3319702,
+    "longitude": -87.3318025,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "highway": "unclassified",
+      "lanes": "2",
+      "man_made": "pier",
+      "maxspeed": "15 mph",
+      "name": "Fuel Farm Road",
+      "oneway": "no",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 359250919,
+    "name": "Fishing Pier",
+    "latitude": 30.3437322,
+    "longitude": -87.2669751,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "landuse": "military",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 359250920,
+    "name": "Fishing Pier",
+    "latitude": 30.3440546,
+    "longitude": -87.2678444,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 360119305,
+    "name": "Fishing Pier",
+    "latitude": 30.4114091,
+    "longitude": -87.1909258,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 361476366,
+    "name": "Fishing Pier",
+    "latitude": 30.5613406,
+    "longitude": -88.0842012,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 361478144,
+    "name": "Fishing Pier",
+    "latitude": 30.5682177,
+    "longitude": -88.0851614,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362188637,
+    "name": "Fishing Pier",
+    "latitude": 30.728093,
+    "longitude": -88.0437807,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362188638,
+    "name": "Fishing Pier",
+    "latitude": 30.7137109,
+    "longitude": -88.0415844,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362194802,
+    "name": "Fishing Pier",
+    "latitude": 30.5308537,
+    "longitude": -88.121152,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362194803,
+    "name": "Fishing Pier",
+    "latitude": 30.5330011,
+    "longitude": -88.1370532,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362194804,
+    "name": "Fishing Pier",
+    "latitude": 30.533425,
+    "longitude": -88.1428634,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362194848,
+    "name": "Fishing Pier",
+    "latitude": 30.6090505,
+    "longitude": -88.0556001,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no"
+    }
+  },
+  {
+    "id": 362194895,
+    "name": "Fishing Pier",
+    "latitude": 30.6063456,
+    "longitude": -88.0587458,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362194897,
+    "name": "Fishing Pier",
+    "latitude": 30.5988012,
+    "longitude": -88.0601245,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362285004,
+    "name": "Fishing Pier",
+    "latitude": 30.7269773,
+    "longitude": -88.0461009,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362285500,
+    "name": "Fishing Pier",
+    "latitude": 30.721057,
+    "longitude": -88.0394965,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362289579,
+    "name": "Fishing Pier",
+    "latitude": 30.7153013,
+    "longitude": -88.0374624,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362289580,
+    "name": "Fishing Pier",
+    "latitude": 30.7073751,
+    "longitude": -88.0364829,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362289581,
+    "name": "Fishing Pier",
+    "latitude": 30.7000108,
+    "longitude": -88.0355584,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362289585,
+    "name": "Fishing Pier",
+    "latitude": 30.6973918,
+    "longitude": -88.0352779,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362636570,
+    "name": "Fishing Pier",
+    "latitude": 30.6675783,
+    "longitude": -87.9366793,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362636573,
+    "name": "Fishing Pier",
+    "latitude": 30.667257,
+    "longitude": -87.936729,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bridge": "yes",
+      "foot": "designated",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 362672547,
+    "name": "Fishing Pier",
+    "latitude": 30.2320573,
+    "longitude": -88.0177735,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 362672561,
+    "name": "Engineers Wharf",
+    "latitude": 30.2306484,
+    "longitude": -88.0239077,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "historic": "ruins",
+      "man_made": "pier",
+      "name": "Engineers Wharf"
+    }
+  },
+  {
+    "id": 362684525,
+    "name": "U.S. Coast Guard",
+    "latitude": 30.650025,
+    "longitude": -88.0591674,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "coast_guard",
+      "name": "U.S. Coast Guard",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 362684529,
+    "name": "Fishing Pier",
+    "latitude": 30.6460218,
+    "longitude": -88.0593745,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 363326320,
+    "name": "Fishing Pier",
+    "latitude": 30.6826867,
+    "longitude": -88.0121958,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 363645315,
+    "name": "Fishing Pier",
+    "latitude": 30.3818152,
+    "longitude": -86.3301277,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 367502931,
+    "name": "Fishing Pier",
+    "latitude": 32.3413739,
+    "longitude": -86.0322109,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 367503423,
+    "name": "Fishing Pier",
+    "latitude": 32.3480826,
+    "longitude": -86.0321298,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 367503424,
+    "name": "Fishing Pier",
+    "latitude": 32.3453504,
+    "longitude": -86.0282842,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 376513063,
+    "name": "Fishing Pier",
+    "latitude": 32.3082912,
+    "longitude": -87.8100563,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 376513064,
+    "name": "Fishing Pier",
+    "latitude": 32.3152847,
+    "longitude": -87.8175723,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "fixme": "armchair survey, what is this? Watertower?",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 376513071,
+    "name": "Fishing Pier",
+    "latitude": 32.3132638,
+    "longitude": -87.8105942,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 376513085,
+    "name": "Fishing Pier",
+    "latitude": 32.3073683,
+    "longitude": -87.8100802,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 377811021,
+    "name": "Quietwater Boardwalk",
+    "latitude": 30.3361158,
+    "longitude": -87.1409395,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "name": "Quietwater Boardwalk",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 384547574,
+    "name": "Fishing Pier",
+    "latitude": 34.6434834,
+    "longitude": -86.730348,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 384881076,
+    "name": "Fishing Pier",
+    "latitude": 33.3695812,
+    "longitude": -86.3540261,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388649624,
+    "name": "Fishing Pier",
+    "latitude": 30.3277258,
+    "longitude": -86.1441114,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388649626,
+    "name": "Fishing Pier",
+    "latitude": 30.3276573,
+    "longitude": -86.141653,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 388649628,
+    "name": "Fishing Pier",
+    "latitude": 30.3259876,
+    "longitude": -86.1414893,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 430671474,
+    "name": "Fishing Pier",
+    "latitude": 33.597168,
+    "longitude": -86.1878657,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 430671481,
+    "name": "Fishing Pier",
+    "latitude": 33.5963559,
+    "longitude": -86.1873834,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 434758092,
+    "name": "Fishing Pier",
+    "latitude": 30.4974966,
+    "longitude": -87.3841219,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 440814052,
+    "name": "Fishing Pier",
+    "latitude": 34.4390369,
+    "longitude": -87.9436369,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 440814053,
+    "name": "Fishing Pier",
+    "latitude": 34.4488821,
+    "longitude": -87.966949,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 440822074,
+    "name": "Fishing Pier",
+    "latitude": 34.4215311,
+    "longitude": -87.9199744,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441619768,
+    "name": "Fishing Pier",
+    "latitude": 34.8072083,
+    "longitude": -87.2334514,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441623292,
+    "name": "Fishing Pier",
+    "latitude": 34.8208812,
+    "longitude": -87.3165413,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441635070,
+    "name": "Fishing Pier",
+    "latitude": 34.6852138,
+    "longitude": -87.0699422,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441635071,
+    "name": "Fishing Pier",
+    "latitude": 34.7787344,
+    "longitude": -87.2195344,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441641079,
+    "name": "Fishing Pier",
+    "latitude": 34.847493,
+    "longitude": -87.1171498,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441650351,
+    "name": "Fishing Pier",
+    "latitude": 34.5799382,
+    "longitude": -86.7305278,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441654831,
+    "name": "Fishing Pier",
+    "latitude": 34.5592137,
+    "longitude": -86.9327675,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 442442534,
+    "name": "Fishing Pier",
+    "latitude": 34.7938296,
+    "longitude": -87.3878952,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444469513,
+    "name": "Fishing Pier",
+    "latitude": 34.7792721,
+    "longitude": -87.6939871,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444604819,
+    "name": "Fishing Pier",
+    "latitude": 34.7922077,
+    "longitude": -87.6373368,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 444604822,
+    "name": "Fishing Pier",
+    "latitude": 34.767293,
+    "longitude": -87.7114488,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 445128160,
+    "name": "Fishing Pier",
+    "latitude": 34.7891601,
+    "longitude": -87.6751122,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 445129011,
+    "name": "Fishing Pier",
+    "latitude": 34.7874155,
+    "longitude": -87.6743481,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 446381977,
+    "name": "Fishing Pier",
+    "latitude": 34.8502534,
+    "longitude": -87.5703192,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 446386126,
+    "name": "Fishing Pier",
+    "latitude": 34.8424855,
+    "longitude": -87.5391796,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    }
+  },
+  {
+    "id": 446386128,
+    "name": "Fishing Pier",
+    "latitude": 34.8426466,
+    "longitude": -87.5409632,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 446407714,
+    "name": "Fishing Pier",
+    "latitude": 34.8427735,
+    "longitude": -87.5436524,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 448828283,
+    "name": "Fishing Pier",
+    "latitude": 34.7963916,
+    "longitude": -86.926945,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 448828284,
+    "name": "Fishing Pier",
+    "latitude": 34.7955604,
+    "longitude": -86.9288313,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 449025026,
+    "name": "Fishing Pier",
+    "latitude": 30.6818478,
+    "longitude": -88.0196982,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 449427925,
+    "name": "Fishing Pier",
+    "latitude": 34.8485512,
+    "longitude": -87.1159889,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 449464883,
+    "name": "Fishing Pier",
+    "latitude": 32.9206574,
+    "longitude": -87.1599967,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 449464884,
+    "name": "Fishing Pier",
+    "latitude": 32.9213703,
+    "longitude": -87.1669083,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 451638526,
+    "name": "Fishing Pier",
+    "latitude": 30.4661797,
+    "longitude": -86.4259822,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 451638528,
+    "name": "Fishing Pier",
+    "latitude": 30.466224,
+    "longitude": -86.4318574,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 451638539,
+    "name": "Fishing Pier",
+    "latitude": 30.467662,
+    "longitude": -86.4325306,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 451642927,
+    "name": "Fishing Pier",
+    "latitude": 30.4729522,
+    "longitude": -86.4365177,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 452782800,
+    "name": "Fishing Pier",
+    "latitude": 30.4750869,
+    "longitude": -86.4379586,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 452782801,
+    "name": "Fishing Pier",
+    "latitude": 30.480118,
+    "longitude": -86.4417412,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 452782803,
+    "name": "Fishing Pier",
+    "latitude": 30.4825785,
+    "longitude": -86.4430988,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 452782808,
+    "name": "Fishing Pier",
+    "latitude": 30.4815508,
+    "longitude": -86.4428657,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 454339968,
+    "name": "Fishing Pier",
+    "latitude": 34.7762393,
+    "longitude": -87.2131995,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457091221,
+    "name": "Fishing Pier",
+    "latitude": 34.7296883,
+    "longitude": -87.2837572,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457091612,
+    "name": "Fishing Pier",
+    "latitude": 34.786149,
+    "longitude": -87.3935215,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457091961,
+    "name": "Fishing Pier",
+    "latitude": 34.7931304,
+    "longitude": -87.3695879,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457238433,
+    "name": "Fishing Pier",
+    "latitude": 34.7735548,
+    "longitude": -87.4308922,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457239095,
+    "name": "Fishing Pier",
+    "latitude": 34.7834885,
+    "longitude": -87.4374495,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457247317,
+    "name": "Fishing Pier",
+    "latitude": 34.6231982,
+    "longitude": -86.9952116,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457259723,
+    "name": "Fishing Pier",
+    "latitude": 34.616286,
+    "longitude": -86.972348,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457959846,
+    "name": "Fishing Pier",
+    "latitude": 34.8462159,
+    "longitude": -87.3672235,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 457972380,
+    "name": "Fishing Pier",
+    "latitude": 34.9128036,
+    "longitude": -87.5892817,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 458122412,
+    "name": "Fishing Pier",
+    "latitude": 34.5766836,
+    "longitude": -86.5594775,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 458122895,
+    "name": "Fishing Pier",
+    "latitude": 34.5626849,
+    "longitude": -86.5465109,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 458392039,
+    "name": "Fishing Pier",
+    "latitude": 30.399739,
+    "longitude": -87.2377667,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 458392040,
+    "name": "Fishing Pier",
+    "latitude": 30.4001485,
+    "longitude": -87.235925,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 459633303,
+    "name": "Fishing Pier",
+    "latitude": 34.7918181,
+    "longitude": -87.6227491,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 459657508,
+    "name": "Fishing Pier",
+    "latitude": 34.8390556,
+    "longitude": -87.9447975,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 459839407,
+    "name": "Fishing Pier",
+    "latitude": 34.9135065,
+    "longitude": -88.0606939,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 461415776,
+    "name": "Robert Henry Public Fishing Pier",
+    "latitude": 32.3190961,
+    "longitude": -86.7862672,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "Robert Henry Public Fishing Pier"
+    }
+  },
+  {
+    "id": 464961714,
+    "name": "Fishing Pier",
+    "latitude": 34.4505094,
+    "longitude": -87.9727439,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 465937127,
+    "name": "Fishing Pier",
+    "latitude": 34.598718,
+    "longitude": -86.5179456,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 466171593,
+    "name": "Fishing Pier",
+    "latitude": 34.6133704,
+    "longitude": -86.9779951,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 469782750,
+    "name": "Fishing Pier",
+    "latitude": 33.1764547,
+    "longitude": -86.5154089,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 470025752,
+    "name": "county park shore and piers",
+    "latitude": 34.6381572,
+    "longitude": -86.0133587,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "county park shore and piers",
+      "width": "6"
+    }
+  },
+  {
+    "id": 471978524,
+    "name": "Fishing Pier",
+    "latitude": 30.6634239,
+    "longitude": -87.1131321,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 471978534,
+    "name": "Fishing Pier",
+    "latitude": 30.6688483,
+    "longitude": -87.1058091,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 471990758,
+    "name": "Fishing Pier",
+    "latitude": 30.6665488,
+    "longitude": -87.1076788,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472224430,
+    "name": "Fishing Pier",
+    "latitude": 30.6272946,
+    "longitude": -87.0333678,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472459821,
+    "name": "Fishing Pier",
+    "latitude": 34.6184049,
+    "longitude": -86.970154,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472472832,
+    "name": "Fishing Pier",
+    "latitude": 34.5888539,
+    "longitude": -86.9404765,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472472836,
+    "name": "Fishing Pier",
+    "latitude": 34.5537121,
+    "longitude": -86.9459636,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 991812610,
+    "name": "Non-Motorized Launch",
+    "latitude": 34.5779359,
+    "longitude": -86.5628445,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Non-Motorized Launch"
+    }
+  },
+  {
+    "id": 472491961,
+    "name": "Fishing Pier",
+    "latitude": 34.7029195,
+    "longitude": -86.5983165,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472643059,
+    "name": "Fishing Pier",
+    "latitude": 34.6216063,
+    "longitude": -87.0102155,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472643061,
+    "name": "Fishing Pier",
+    "latitude": 34.6232613,
+    "longitude": -87.0089607,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472737412,
+    "name": "Fishing Pier",
+    "latitude": 34.5727894,
+    "longitude": -86.9292214,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472832151,
+    "name": "Fishing Pier",
+    "latitude": 34.5875017,
+    "longitude": -86.9523955,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 472832152,
+    "name": "Fishing Pier",
+    "latitude": 34.5874995,
+    "longitude": -86.9523193,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 473048931,
+    "name": "Fishing Pier",
+    "latitude": 34.6234706,
+    "longitude": -86.9916445,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 473098874,
+    "name": "Fishing Pier",
+    "latitude": 34.5704936,
+    "longitude": -86.9378923,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 473444795,
+    "name": "Fishing Pier",
+    "latitude": 34.5941923,
+    "longitude": -86.9442422,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 474931735,
+    "name": "Fishing Pier",
+    "latitude": 34.609154,
+    "longitude": -86.9919531,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 474931752,
+    "name": "Fishing Pier",
+    "latitude": 34.612542,
+    "longitude": -86.9769061,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 474931753,
+    "name": "Fishing Pier",
+    "latitude": 34.612488,
+    "longitude": -86.9769768,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 839809181,
+    "name": "Training platform",
+    "latitude": 34.6755374,
+    "longitude": -86.7313717,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "name": "Training platform"
+    }
+  },
+  {
+    "id": 475567035,
+    "name": "Fishing Pier",
+    "latitude": 34.5619053,
+    "longitude": -87.0005505,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 475841333,
+    "name": "Fishing Pier",
+    "latitude": 33.3627688,
+    "longitude": -88.3245333,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 478015096,
+    "name": "Fishing Pier",
+    "latitude": 30.4755482,
+    "longitude": -87.9232542,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 478387904,
+    "name": "Fishing Pier",
+    "latitude": 30.4822003,
+    "longitude": -87.934988,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 478522830,
+    "name": "Fishing Pier",
+    "latitude": 30.5127745,
+    "longitude": -87.9209666,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "amenity": "shelter",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 478716857,
+    "name": "Fishing Pier",
+    "latitude": 34.577523,
+    "longitude": -86.561513,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 478785841,
+    "name": "Fishing Pier",
+    "latitude": 30.5179317,
+    "longitude": -87.9158202,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 479226774,
+    "name": "Weeks Bay Reserve fishing pier",
+    "latitude": 30.4148271,
+    "longitude": -87.8259169,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "fishing": "yes",
+      "floating": "no",
+      "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/217993479_4320070274754224_4759073123273924792_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=973b4a&_nc_ohc=ZA_Mqym2_akAX_4P5sD&_nc_ht=scontent-dfw5-2.xx&oh=2f1e2992bfdd8c6379a7da38ccf65c82&oe=60F6812E",
+      "man_made": "pier",
+      "name": "Weeks Bay Reserve fishing pier"
+    }
+  },
+  {
+    "id": 479305436,
+    "name": "Fishing Pier",
+    "latitude": 30.3765632,
+    "longitude": -87.8370828,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 479395999,
+    "name": "Lion's Park Boat Ramp",
+    "latitude": 30.5108838,
+    "longitude": -86.4811839,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Lion's Park Boat Ramp"
+    }
+  },
+  {
+    "id": 479396000,
+    "name": "Alan's Little Marina",
+    "latitude": 30.513038,
+    "longitude": -86.4832284,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Alan's Little Marina"
+    }
+  },
+  {
+    "id": 483247828,
+    "name": "Fishing Pier",
+    "latitude": 30.4856967,
+    "longitude": -87.9335731,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 483548566,
+    "name": "Fishing Pier",
+    "latitude": 34.667043,
+    "longitude": -86.4574881,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 484244219,
+    "name": "Fishing Pier",
+    "latitude": 34.7588176,
+    "longitude": -86.7146921,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 488017437,
+    "name": "Fishing Pier",
+    "latitude": 34.4054407,
+    "longitude": -86.2016403,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 488019690,
+    "name": "Fishing Pier",
+    "latitude": 34.4064635,
+    "longitude": -86.1771113,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 488019692,
+    "name": "Fishing Pier",
+    "latitude": 34.4062725,
+    "longitude": -86.177629,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 488040425,
+    "name": "Fishing Pier",
+    "latitude": 34.3694807,
+    "longitude": -86.2172623,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 488046707,
+    "name": "Fishing Pier",
+    "latitude": 34.4154396,
+    "longitude": -86.187518,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 493714019,
+    "name": "Fishing Pier",
+    "latitude": 30.2814958,
+    "longitude": -87.6851506,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 494910093,
+    "name": "Fishing Pier",
+    "latitude": 30.3108919,
+    "longitude": -87.6859952,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 495921673,
+    "name": "Fishing Pier",
+    "latitude": 31.0924009,
+    "longitude": -86.550034,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 495978551,
+    "name": "Fishing Pier",
+    "latitude": 31.0896076,
+    "longitude": -86.5430853,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 497443830,
+    "name": "Fishing Pier",
+    "latitude": 34.5400737,
+    "longitude": -87.9738999,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 497443832,
+    "name": "Fishing Pier",
+    "latitude": 34.5453811,
+    "longitude": -87.9093284,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 497443836,
+    "name": "Fishing Pier",
+    "latitude": 34.5223485,
+    "longitude": -87.9473701,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 501468416,
+    "name": "Fishing Pier",
+    "latitude": 30.4956026,
+    "longitude": -86.4456917,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 505126169,
+    "name": "Fishing Pier",
+    "latitude": 34.9168165,
+    "longitude": -88.2441258,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 512127354,
+    "name": "Fishing Pier",
+    "latitude": 30.630091,
+    "longitude": -87.9190307,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 519474580,
+    "name": "Fishing Pier",
+    "latitude": 33.2257189,
+    "longitude": -87.5962909,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 524242302,
+    "name": "Fishing Pier",
+    "latitude": 33.7855595,
+    "longitude": -86.0654821,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 525065254,
+    "name": "Fishing Pier",
+    "latitude": 34.295983,
+    "longitude": -87.2721939,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 531073590,
+    "name": "Fishing Pier",
+    "latitude": 30.3810184,
+    "longitude": -87.2822056,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 532966312,
+    "name": "Fishing Pier",
+    "latitude": 34.8494315,
+    "longitude": -88.0867287,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 533004349,
+    "name": "Fishing Pier",
+    "latitude": 34.6966385,
+    "longitude": -87.1555764,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 533255962,
+    "name": "Fishing Pier",
+    "latitude": 34.1919003,
+    "longitude": -86.8609594,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 533457302,
+    "name": "Fishing Pier",
+    "latitude": 33.9930708,
+    "longitude": -88.485359,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 533486832,
+    "name": "Fishing Pier",
+    "latitude": 34.008883,
+    "longitude": -88.4768478,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 533490590,
+    "name": "Fishing Pier",
+    "latitude": 30.6260575,
+    "longitude": -87.9207917,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411002388,
+    "name": "Orange Avenue Pier",
+    "latitude": 30.5157358,
+    "longitude": -87.9174351,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "Orange Avenue Pier"
+    }
+  },
+  {
+    "id": 534387706,
+    "name": "Fishing Pier",
+    "latitude": 30.5996159,
+    "longitude": -87.914059,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 534600250,
+    "name": "Fishing Pier",
+    "latitude": 34.8110307,
+    "longitude": -86.3930791,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 547407842,
+    "name": "Fishing Pier",
+    "latitude": 30.7188954,
+    "longitude": -86.5348764,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 547446104,
+    "name": "USS Alabama Park Fishing Pier",
+    "latitude": 30.683063,
+    "longitude": -88.0126739,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier",
+      "name": "USS Alabama Park Fishing Pier"
+    }
+  },
+  {
+    "id": 1433887327,
+    "name": "Pensacola Rowing Club Dock",
+    "latitude": 30.4315517,
+    "longitude": -87.1896853,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "name": "Pensacola Rowing Club Dock"
+    }
+  },
+  {
+    "id": 548279116,
+    "name": "Fishing Pier",
+    "latitude": 30.4329193,
+    "longitude": -87.18769,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553815424,
+    "name": "Fishing Pier",
+    "latitude": 30.4014368,
+    "longitude": -87.2247325,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553871564,
+    "name": "Fishing Pier",
+    "latitude": 30.4012434,
+    "longitude": -87.2318834,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553871596,
+    "name": "Fishing Pier",
+    "latitude": 30.4034509,
+    "longitude": -87.2138554,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553872621,
+    "name": "Fishing Pier",
+    "latitude": 30.4020935,
+    "longitude": -87.2064472,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553872622,
+    "name": "Fishing Pier",
+    "latitude": 30.4029269,
+    "longitude": -87.2065921,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553872623,
+    "name": "Fishing Pier",
+    "latitude": 30.407198,
+    "longitude": -87.2096604,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553878120,
+    "name": "Fishing Pier",
+    "latitude": 30.402635,
+    "longitude": -87.2279186,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553878122,
+    "name": "Fishing Pier",
+    "latitude": 30.4033311,
+    "longitude": -87.2272261,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 553878135,
+    "name": "Fishing Pier",
+    "latitude": 30.4186208,
+    "longitude": -87.1916274,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 554154374,
+    "name": "Fishing Pier",
+    "latitude": 30.4196127,
+    "longitude": -87.193595,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 554154404,
+    "name": "Fishing Pier",
+    "latitude": 30.4229199,
+    "longitude": -87.1886784,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 554154415,
+    "name": "Fishing Pier",
+    "latitude": 30.4233292,
+    "longitude": -87.1857581,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 556020871,
+    "name": "Fishing Pier",
+    "latitude": 30.3306585,
+    "longitude": -87.163468,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 558298281,
+    "name": "Fishing Pier",
+    "latitude": 34.956158,
+    "longitude": -88.2299841,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 562294153,
+    "name": "Fishing Pier",
+    "latitude": 30.3729059,
+    "longitude": -86.1149973,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 562294161,
+    "name": "Fishing Pier",
+    "latitude": 30.398679,
+    "longitude": -86.2288269,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 564122888,
+    "name": "Fishing Pier",
+    "latitude": 30.3918913,
+    "longitude": -86.8078692,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 565553092,
+    "name": "Fishing Pier",
+    "latitude": 30.2485255,
+    "longitude": -87.6809148,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 568553384,
+    "name": "Fishing Pier",
+    "latitude": 33.6435454,
+    "longitude": -86.932009,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Cardiff",
+      "addr:postcode": "35041",
+      "addr:state": "AL",
+      "area": "yes",
+      "description": "Cardiff Fishing Pier",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 569714318,
+    "name": "Fishing Pier",
+    "latitude": 33.1774157,
+    "longitude": -86.5211105,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 569714320,
+    "name": "Fishing Pier",
+    "latitude": 33.1775236,
+    "longitude": -86.5207229,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 614154876,
+    "name": "Fishing Pier",
+    "latitude": 33.2182253,
+    "longitude": -87.5589235,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 616039750,
+    "name": "Fishing Pier",
+    "latitude": 33.2180109,
+    "longitude": -87.5482385,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 617982572,
+    "name": "Waterfront Park Pier",
+    "latitude": 30.2953487,
+    "longitude": -87.5750582,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Orange Beach",
+      "addr:housenumber": "26425",
+      "addr:postcode": "36561",
+      "addr:state": "AL",
+      "addr:street": "Canal Road",
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Waterfront Park Pier"
+    }
+  },
+  {
+    "id": 623286739,
+    "name": "Fishing Pier",
+    "latitude": 30.2845253,
+    "longitude": -87.6342582,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623354927,
+    "name": "Fishing Pier",
+    "latitude": 30.3213178,
+    "longitude": -87.5333946,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628503166,
+    "name": "Grander",
+    "latitude": 30.2886608,
+    "longitude": -87.5616732,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Grander"
+    }
+  },
+  {
+    "id": 623678152,
+    "name": "Fishing Pier",
+    "latitude": 30.2914548,
+    "longitude": -87.5574992,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623678165,
+    "name": "Fishing Pier",
+    "latitude": 30.2919006,
+    "longitude": -87.5522289,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623678177,
+    "name": "Fishing Pier",
+    "latitude": 30.2927045,
+    "longitude": -87.5473664,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623678189,
+    "name": "Fishing Pier",
+    "latitude": 30.2918163,
+    "longitude": -87.5426802,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 623678210,
+    "name": "Fishing Pier",
+    "latitude": 30.28993,
+    "longitude": -87.5422989,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625182693,
+    "name": "Fishing Pier",
+    "latitude": 30.4079837,
+    "longitude": -87.2560025,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625182695,
+    "name": "Fishing Pier",
+    "latitude": 30.4071028,
+    "longitude": -87.2554785,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625183023,
+    "name": "Fishing Pier",
+    "latitude": 30.4124393,
+    "longitude": -87.2587046,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625704988,
+    "name": "Fishing Pier",
+    "latitude": 30.3102363,
+    "longitude": -87.5262834,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625901793,
+    "name": "Fishing Pier",
+    "latitude": 30.2841589,
+    "longitude": -87.5543663,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625901796,
+    "name": "Fishing Pier",
+    "latitude": 30.2720485,
+    "longitude": -87.5829813,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 625901815,
+    "name": "Fishing Pier",
+    "latitude": 30.2807248,
+    "longitude": -87.5606931,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 626849738,
+    "name": "Fishing Pier",
+    "latitude": 30.2834126,
+    "longitude": -87.5641395,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 626858112,
+    "name": "Fishing Pier",
+    "latitude": 30.2946052,
+    "longitude": -87.5782467,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 626858123,
+    "name": "Fishing Pier",
+    "latitude": 30.2943361,
+    "longitude": -87.5826669,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 626858143,
+    "name": "Fishing Pier",
+    "latitude": 30.2949579,
+    "longitude": -87.5876741,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627046422,
+    "name": "Fishing Pier",
+    "latitude": 30.326396,
+    "longitude": -87.5336003,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627052403,
+    "name": "Fishing Pier",
+    "latitude": 30.2786369,
+    "longitude": -87.5500595,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627052425,
+    "name": "Fishing Pier",
+    "latitude": 30.2800268,
+    "longitude": -87.54716,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627069614,
+    "name": "Fishing Pier",
+    "latitude": 30.2834168,
+    "longitude": -87.5181785,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627069630,
+    "name": "Fishing Pier",
+    "latitude": 30.2819632,
+    "longitude": -87.5235878,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627069641,
+    "name": "Fishing Pier",
+    "latitude": 30.2815098,
+    "longitude": -87.5275829,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627069658,
+    "name": "Fishing Pier",
+    "latitude": 30.2801311,
+    "longitude": -87.5325303,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627113676,
+    "name": "Fishing Pier",
+    "latitude": 30.3102667,
+    "longitude": -87.522228,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627113722,
+    "name": "Fishing Pier",
+    "latitude": 30.3108591,
+    "longitude": -87.5173506,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627115697,
+    "name": "Fishing Pier",
+    "latitude": 30.3072594,
+    "longitude": -87.5145747,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627115723,
+    "name": "Fishing Pier",
+    "latitude": 30.3024817,
+    "longitude": -87.5154538,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 627115750,
+    "name": "Fishing Pier",
+    "latitude": 30.3004056,
+    "longitude": -87.5175678,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628497824,
+    "name": "Fishing Pier",
+    "latitude": 30.3000137,
+    "longitude": -87.5225889,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628497842,
+    "name": "Fishing Pier",
+    "latitude": 30.2983647,
+    "longitude": -87.5277516,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628497855,
+    "name": "Fishing Pier",
+    "latitude": 30.2973263,
+    "longitude": -87.5310991,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628497863,
+    "name": "Fishing Pier",
+    "latitude": 30.296663,
+    "longitude": -87.5326507,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628497889,
+    "name": "Fishing Pier",
+    "latitude": 30.293095,
+    "longitude": -87.5375749,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628503172,
+    "name": "Fishing Pier",
+    "latitude": 30.2876334,
+    "longitude": -87.5645238,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628503185,
+    "name": "Fishing Pier",
+    "latitude": 30.2858907,
+    "longitude": -87.5682222,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628503205,
+    "name": "Fishing Pier",
+    "latitude": 30.2855473,
+    "longitude": -87.5622602,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628506189,
+    "name": "Fishing Pier",
+    "latitude": 30.2949995,
+    "longitude": -87.6302814,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628715399,
+    "name": "Fishing Pier",
+    "latitude": 30.2769395,
+    "longitude": -87.5602217,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628730484,
+    "name": "Fishing Pier",
+    "latitude": 30.2787289,
+    "longitude": -87.5557182,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628733398,
+    "name": "Fishing Pier",
+    "latitude": 30.2738468,
+    "longitude": -87.5774813,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628733402,
+    "name": "Fishing Pier",
+    "latitude": 30.2733957,
+    "longitude": -87.5795606,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628733478,
+    "name": "Fishing Pier",
+    "latitude": 30.277355,
+    "longitude": -87.5724364,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628736673,
+    "name": "Fishing Pier",
+    "latitude": 30.277511,
+    "longitude": -87.5713643,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628736720,
+    "name": "Fishing Pier",
+    "latitude": 30.2791475,
+    "longitude": -87.5674304,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628740327,
+    "name": "Fishing Pier",
+    "latitude": 30.2758478,
+    "longitude": -87.5673255,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 628740359,
+    "name": "Four Seasons Pier",
+    "latitude": 30.2693437,
+    "longitude": -87.5794686,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Orange Beach",
+      "addr:housenumber": "26072",
+      "addr:postcode": "36561",
+      "addr:state": "AL",
+      "addr:street": "Perdido Beach Boulevard",
+      "man_made": "pier",
+      "name": "Four Seasons Pier"
+    }
+  },
+  {
+    "id": 633797972,
+    "name": "Fishing Pier",
+    "latitude": 30.2642683,
+    "longitude": -87.6146174,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 633806420,
+    "name": "Paddle Boats",
+    "latitude": 30.2665673,
+    "longitude": -87.6062121,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Orange Beach",
+      "addr:housenumber": "24559",
+      "addr:postcode": "36561",
+      "addr:state": "AL",
+      "addr:street": "Perdido Beach Boulevard",
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Paddle Boats"
+    }
+  },
+  {
+    "id": 645851510,
+    "name": "Fishing Pier",
+    "latitude": 34.8123321,
+    "longitude": -87.3327287,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 645851511,
+    "name": "Fishing Pier",
+    "latitude": 34.8116121,
+    "longitude": -87.331977,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 645851514,
+    "name": "Fishing Pier",
+    "latitude": 34.8125765,
+    "longitude": -87.329708,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 645852726,
+    "name": "Fishing Pier",
+    "latitude": 34.799609,
+    "longitude": -87.328735,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 646474328,
+    "name": "Fishing Pier",
+    "latitude": 34.8155092,
+    "longitude": -87.4122973,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 649278709,
+    "name": "Fishing Pier",
+    "latitude": 34.8462249,
+    "longitude": -87.7307507,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bridge": "yes",
+      "layer": "1",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 649279938,
+    "name": "Valparaiso Fishing Pier",
+    "latitude": 30.5014923,
+    "longitude": -86.4891173,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "no",
+      "fishing": "yes",
+      "foot": "yes",
+      "lit": "yes",
+      "man_made": "pier",
+      "name": "Valparaiso Fishing Pier"
+    }
+  },
+  {
+    "id": 655289318,
+    "name": "Fishing Pier",
+    "latitude": 34.6372156,
+    "longitude": -86.0137447,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "surface": "ground",
+      "width": "6"
+    }
+  },
+  {
+    "id": 662473807,
+    "name": "Fishing Pier",
+    "latitude": 33.964603,
+    "longitude": -87.7771778,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 663787022,
+    "name": "Fishing Pier",
+    "latitude": 33.3074089,
+    "longitude": -87.5135664,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 669577937,
+    "name": "Fishing Pier",
+    "latitude": 30.4052902,
+    "longitude": -86.6374545,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 671564139,
+    "name": "Fishing Pier",
+    "latitude": 30.2825507,
+    "longitude": -87.7359726,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 671564141,
+    "name": "Fishing Pier",
+    "latitude": 30.2803534,
+    "longitude": -87.7360183,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 675203441,
+    "name": "Fishing Pier",
+    "latitude": 30.3460581,
+    "longitude": -87.0809663,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 678171578,
+    "name": "Fishing Pier",
+    "latitude": 33.4007321,
+    "longitude": -86.8136879,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bicycle": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 681769408,
+    "name": "Fishing Pier",
+    "latitude": 30.4121274,
+    "longitude": -86.4927839,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 681769410,
+    "name": "Fishing Pier",
+    "latitude": 30.4125364,
+    "longitude": -86.4924846,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 681986381,
+    "name": "Fishing Pier",
+    "latitude": 30.4057169,
+    "longitude": -86.4833024,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 686761846,
+    "name": "Fishing Pier",
+    "latitude": 30.4053844,
+    "longitude": -88.2486241,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "material": "wood"
+    }
+  },
+  {
+    "id": 697261880,
+    "name": "Fishing Pier",
+    "latitude": 30.3076666,
+    "longitude": -87.527658,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697261882,
+    "name": "Fishing Pier",
+    "latitude": 30.3074906,
+    "longitude": -87.5278283,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697261903,
+    "name": "Fishing Pier",
+    "latitude": 30.3036594,
+    "longitude": -87.5328414,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697261925,
+    "name": "Fishing Pier",
+    "latitude": 30.2999611,
+    "longitude": -87.5447598,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697261944,
+    "name": "Fishing Pier",
+    "latitude": 30.2976826,
+    "longitude": -87.5476408,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697261948,
+    "name": "Fishing Pier",
+    "latitude": 30.2971935,
+    "longitude": -87.5534014,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 697261950,
+    "name": "Fishing Pier",
+    "latitude": 30.2984541,
+    "longitude": -87.5537406,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697261991,
+    "name": "Fishing Pier",
+    "latitude": 30.3012828,
+    "longitude": -87.557518,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697264022,
+    "name": "Fishing Pier",
+    "latitude": 30.3025578,
+    "longitude": -87.5602091,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697264058,
+    "name": "Fishing Pier",
+    "latitude": 30.3044236,
+    "longitude": -87.5629136,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697266680,
+    "name": "Fishing Pier",
+    "latitude": 30.3024902,
+    "longitude": -87.5672706,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697266682,
+    "name": "Fishing Pier",
+    "latitude": 30.3023589,
+    "longitude": -87.5677993,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697266717,
+    "name": "Fishing Pier",
+    "latitude": 30.2973001,
+    "longitude": -87.5711452,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697629454,
+    "name": "Fishing Pier",
+    "latitude": 30.503452,
+    "longitude": -86.5008176,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 699017783,
+    "name": "Fishing Pier",
+    "latitude": 30.2877342,
+    "longitude": -87.6111758,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 701692422,
+    "name": "Fishing Pier",
+    "latitude": 30.3289625,
+    "longitude": -87.1716867,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 702570814,
+    "name": "Lighthouse Pointe Community Pier",
+    "latitude": 30.3937847,
+    "longitude": -86.9553644,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "Lighthouse Pointe Community Pier"
+    }
+  },
+  {
+    "id": 702593775,
+    "name": "Fishing Pier",
+    "latitude": 30.4001146,
+    "longitude": -86.8646745,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 704240346,
+    "name": "Fishing Pier",
+    "latitude": 30.4064903,
+    "longitude": -86.9566861,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 709046433,
+    "name": "Fishing Pier",
+    "latitude": 30.4763821,
+    "longitude": -86.0539803,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 717946178,
+    "name": "Fishing Pier",
+    "latitude": 30.4110246,
+    "longitude": -86.50054,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 718136648,
+    "name": "Fishing Pier",
+    "latitude": 30.7300482,
+    "longitude": -86.2046814,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 718136654,
+    "name": "Fishing Pier",
+    "latitude": 30.7350188,
+    "longitude": -86.204422,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "highway": "footway",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 729331223,
+    "name": "Fishing Pier",
+    "latitude": 30.4025739,
+    "longitude": -87.2202194,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 733682584,
+    "name": "Fishing Pier",
+    "latitude": 30.4041265,
+    "longitude": -86.6211749,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 751653619,
+    "name": "Fishing Pier",
+    "latitude": 34.9124085,
+    "longitude": -87.5890409,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 756764851,
+    "name": "Fishing Pier",
+    "latitude": 30.4040019,
+    "longitude": -86.6235961,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 758279483,
+    "name": "Fishing Pier",
+    "latitude": 30.39766,
+    "longitude": -86.5852045,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 758279573,
+    "name": "Fishing Pier",
+    "latitude": 30.400338,
+    "longitude": -86.592454,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 758279614,
+    "name": "Fishing Pier",
+    "latitude": 30.4010525,
+    "longitude": -86.5954808,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 763279761,
+    "name": "Fishing Pier",
+    "latitude": 31.9741253,
+    "longitude": -87.1280046,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 764665769,
+    "name": "Fishing Pier",
+    "latitude": 33.0835169,
+    "longitude": -88.2649656,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "source": "Esri beta"
+    }
+  },
+  {
+    "id": 766602321,
+    "name": "Fishing Pier",
+    "latitude": 30.3135466,
+    "longitude": -87.4429617,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 770620078,
+    "name": "Fishing Pier",
+    "latitude": 30.2992379,
+    "longitude": -87.6104203,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 776387980,
+    "name": "Fishing Pier",
+    "latitude": 34.822758,
+    "longitude": -87.1584302,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "building:levels": "1",
+      "description": "A single covered boat slip",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 776971918,
+    "name": "Fishing Pier",
+    "latitude": 30.3116846,
+    "longitude": -87.5694936,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 776971919,
+    "name": "Fishing Pier",
+    "latitude": 30.3126935,
+    "longitude": -87.5689343,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 776971920,
+    "name": "Fishing Pier",
+    "latitude": 30.312909,
+    "longitude": -87.5673612,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 777805767,
+    "name": "Fishing Pier",
+    "latitude": 34.3574074,
+    "longitude": -86.3169293,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 777805768,
+    "name": "Fishing Pier",
+    "latitude": 34.3576229,
+    "longitude": -86.3173123,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 778438048,
+    "name": "Fishing Pier",
+    "latitude": 30.7542662,
+    "longitude": -87.9842552,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 780476611,
+    "name": "Fishing Pier",
+    "latitude": 30.299816,
+    "longitude": -87.6133657,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 780476635,
+    "name": "Fishing Pier",
+    "latitude": 30.3000988,
+    "longitude": -87.6073469,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 782895286,
+    "name": "Fishing Pier",
+    "latitude": 30.2898517,
+    "longitude": -87.5139671,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 783725501,
+    "name": "Fishing Pier",
+    "latitude": 34.363149,
+    "longitude": -86.3059183,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 803124066,
+    "name": "Fishing Pier",
+    "latitude": 33.3791469,
+    "longitude": -86.9889469,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 803452941,
+    "name": "Fishing Pier",
+    "latitude": 33.3732912,
+    "longitude": -86.6996142,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 803452955,
+    "name": "Fishing Pier",
+    "latitude": 33.3912744,
+    "longitude": -86.7234333,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 810158233,
+    "name": "Fishing Pier",
+    "latitude": 30.5080219,
+    "longitude": -86.4245001,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 817082748,
+    "name": "Fishing Pier",
+    "latitude": 30.525961,
+    "longitude": -87.9110982,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 822628827,
+    "name": "Fishing Pier",
+    "latitude": 33.330518,
+    "longitude": -86.8607497,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 824401149,
+    "name": "Fishing Pier",
+    "latitude": 32.9142353,
+    "longitude": -86.6263992,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 829530576,
+    "name": "Fishing Pier",
+    "latitude": 30.3219622,
+    "longitude": -87.5323079,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 829530585,
+    "name": "Fishing Pier",
+    "latitude": 30.3210252,
+    "longitude": -87.526473,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 829530594,
+    "name": "Fishing Pier",
+    "latitude": 30.3216342,
+    "longitude": -87.5220394,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 830368982,
+    "name": "U.S. Coast Guard",
+    "latitude": 32.5149538,
+    "longitude": -87.8750322,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "no",
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "name": "U.S. Coast Guard"
+    }
+  },
+  {
+    "id": 830509051,
+    "name": "Fishing Pier",
+    "latitude": 30.3919033,
+    "longitude": -86.5257383,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1481336445,
+    "name": "City of Mobile Barge Wharf",
+    "latitude": 30.6478142,
+    "longitude": -88.0548013,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "private",
+      "name": "City of Mobile Barge Wharf",
+      "source": "USACE Docks GIS map layer",
+      "source_ref": "https://geospatial-usace.opendata.arcgis.com/datasets/23d91bd988ac4fc9943128965bddfa37_0/about",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 832977153,
+    "name": "Fishing Pier",
+    "latitude": 30.7855851,
+    "longitude": -88.1027021,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 832977162,
+    "name": "Fishing Pier",
+    "latitude": 30.7794027,
+    "longitude": -88.1028002,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 833122292,
+    "name": "Fishing Pier",
+    "latitude": 30.3246294,
+    "longitude": -87.6520713,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 833371916,
+    "name": "Fishing Pier",
+    "latitude": 30.7820987,
+    "longitude": -88.0732203,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 835819925,
+    "name": "Fishing Pier",
+    "latitude": 30.6977091,
+    "longitude": -88.0856274,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 838863899,
+    "name": "Fishing Pier",
+    "latitude": 30.2968306,
+    "longitude": -87.5500911,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 839801562,
+    "name": "Fishing Pier",
+    "latitude": 33.296315,
+    "longitude": -86.8163293,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 839820520,
+    "name": "Fishing Pier",
+    "latitude": 34.7712991,
+    "longitude": -87.2689735,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 849083530,
+    "name": "Fishing Pier",
+    "latitude": 34.8056685,
+    "longitude": -87.6282574,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 857435372,
+    "name": "Patrol Boat Pier",
+    "latitude": 30.3446088,
+    "longitude": -87.2900037,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "name": "Patrol Boat Pier"
+    }
+  },
+  {
+    "id": 911393607,
+    "name": "Fishing Pier",
+    "latitude": 30.2391496,
+    "longitude": -87.8856581,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 923006267,
+    "name": "Fishing Pier",
+    "latitude": 31.5621609,
+    "longitude": -88.0338288,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 923099113,
+    "name": "Fishing Pier",
+    "latitude": 33.8650133,
+    "longitude": -86.1039445,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 930812787,
+    "name": "Fishing Pier",
+    "latitude": 30.3868214,
+    "longitude": -86.3537653,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 938107795,
+    "name": "Fishing Pier",
+    "latitude": 32.6171271,
+    "longitude": -87.5314768,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 941149606,
+    "name": "Fishing Pier",
+    "latitude": 30.3446582,
+    "longitude": -86.216337,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 952079715,
+    "name": "Fishing Pier",
+    "latitude": 30.3985656,
+    "longitude": -86.1691558,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956109967,
+    "name": "Fishing Pier",
+    "latitude": 30.3959226,
+    "longitude": -87.4503428,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956939705,
+    "name": "Fishing Pier",
+    "latitude": 30.3712565,
+    "longitude": -87.8376782,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956939710,
+    "name": "Fishing Pier",
+    "latitude": 30.366973,
+    "longitude": -87.8371806,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956939714,
+    "name": "Fishing Pier",
+    "latitude": 30.3623803,
+    "longitude": -87.835122,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956939736,
+    "name": "Fishing Pier",
+    "latitude": 30.3574408,
+    "longitude": -87.8325666,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956939737,
+    "name": "Fishing Pier",
+    "latitude": 30.3570311,
+    "longitude": -87.832295,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956947901,
+    "name": "Fishing Pier",
+    "latitude": 30.3391005,
+    "longitude": -87.7793824,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 956956673,
+    "name": "Fishing Pier",
+    "latitude": 30.3604368,
+    "longitude": -87.7651392,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958265561,
+    "name": "Fishing Pier",
+    "latitude": 30.6760116,
+    "longitude": -87.9210791,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958265597,
+    "name": "Fishing Pier",
+    "latitude": 30.6793242,
+    "longitude": -87.9205853,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958265601,
+    "name": "Fishing Pier",
+    "latitude": 30.6911333,
+    "longitude": -87.9137163,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536620,
+    "name": "Fishing Pier",
+    "latitude": 30.4861304,
+    "longitude": -87.1565844,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536624,
+    "name": "Fishing Pier",
+    "latitude": 30.4893195,
+    "longitude": -87.1525234,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536625,
+    "name": "Fishing Pier",
+    "latitude": 30.4896075,
+    "longitude": -87.1520694,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536628,
+    "name": "Fishing Pier",
+    "latitude": 30.5023215,
+    "longitude": -87.1591323,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536629,
+    "name": "Fishing Pier",
+    "latitude": 30.5027069,
+    "longitude": -87.1591695,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536630,
+    "name": "Fishing Pier",
+    "latitude": 30.519494,
+    "longitude": -87.1704166,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536634,
+    "name": "Fishing Pier",
+    "latitude": 30.5203811,
+    "longitude": -87.1727729,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536636,
+    "name": "Fishing Pier",
+    "latitude": 30.5230502,
+    "longitude": -87.1795182,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 958536637,
+    "name": "Fishing Pier",
+    "latitude": 30.5252923,
+    "longitude": -87.182881,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 959169176,
+    "name": "Fishing Pier",
+    "latitude": 30.8749421,
+    "longitude": -87.8836835,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 959554608,
+    "name": "Fishing Pier",
+    "latitude": 30.4812964,
+    "longitude": -87.9320467,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 959554623,
+    "name": "Fishing Pier",
+    "latitude": 30.4785765,
+    "longitude": -87.9272859,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 959556185,
+    "name": "Fishing Pier",
+    "latitude": 30.474675,
+    "longitude": -87.9223243,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 960801669,
+    "name": "Fishing Pier",
+    "latitude": 30.9271591,
+    "longitude": -87.7540743,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965955161,
+    "name": "Fishing Pier",
+    "latitude": 30.242763,
+    "longitude": -87.7405114,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965955164,
+    "name": "Fishing Pier",
+    "latitude": 30.2423628,
+    "longitude": -87.7416545,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965955166,
+    "name": "Fishing Pier",
+    "latitude": 30.2422113,
+    "longitude": -87.7431689,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965955175,
+    "name": "Fishing Pier",
+    "latitude": 30.2421615,
+    "longitude": -87.7478378,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965955189,
+    "name": "Fishing Pier",
+    "latitude": 30.2408412,
+    "longitude": -87.753527,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 965955214,
+    "name": "Fishing Pier",
+    "latitude": 30.2395804,
+    "longitude": -87.7578148,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966007984,
+    "name": "Fishing Pier",
+    "latitude": 30.2336622,
+    "longitude": -87.9809245,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966007988,
+    "name": "Fishing Pier",
+    "latitude": 30.2331494,
+    "longitude": -87.9825577,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966007995,
+    "name": "Fishing Pier",
+    "latitude": 30.2329186,
+    "longitude": -87.9884102,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966008000,
+    "name": "Fishing Pier",
+    "latitude": 30.2330343,
+    "longitude": -87.9928766,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966251795,
+    "name": "Fishing Pier",
+    "latitude": 30.2342527,
+    "longitude": -87.9743516,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966799135,
+    "name": "Fishing Pier",
+    "latitude": 30.2453515,
+    "longitude": -87.8467687,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966799138,
+    "name": "Fishing Pier",
+    "latitude": 30.2448817,
+    "longitude": -87.8480412,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966799146,
+    "name": "Fishing Pier",
+    "latitude": 30.2414256,
+    "longitude": -87.8523548,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966799160,
+    "name": "Fishing Pier",
+    "latitude": 30.2427811,
+    "longitude": -87.8535837,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966799163,
+    "name": "Fishing Pier",
+    "latitude": 30.2418101,
+    "longitude": -87.8563555,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 966799164,
+    "name": "Fishing Pier",
+    "latitude": 30.2410129,
+    "longitude": -87.8588575,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 967215997,
+    "name": "Fishing Pier",
+    "latitude": 30.7159624,
+    "longitude": -86.1146481,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 967216000,
+    "name": "Fishing Pier",
+    "latitude": 30.7188071,
+    "longitude": -86.1118968,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970358744,
+    "name": "Fishing Pier",
+    "latitude": 30.2345567,
+    "longitude": -87.8095599,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970378604,
+    "name": "Fishing Pier",
+    "latitude": 30.2337503,
+    "longitude": -87.8003338,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970495867,
+    "name": "Fishing Pier",
+    "latitude": 30.2383033,
+    "longitude": -87.7691934,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970495878,
+    "name": "Fishing Pier",
+    "latitude": 30.239152,
+    "longitude": -87.7625408,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970495896,
+    "name": "Fishing Pier",
+    "latitude": 30.2372129,
+    "longitude": -87.7720532,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970495898,
+    "name": "Fishing Pier",
+    "latitude": 30.2371197,
+    "longitude": -87.7726004,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970495908,
+    "name": "Fishing Pier",
+    "latitude": 30.2361407,
+    "longitude": -87.7777865,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 970497130,
+    "name": "Fishing Pier",
+    "latitude": 30.2600831,
+    "longitude": -87.7729291,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 974428345,
+    "name": "Fishing Pier",
+    "latitude": 31.2235237,
+    "longitude": -87.8617569,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 979712651,
+    "name": "Fishing Pier",
+    "latitude": 30.6895897,
+    "longitude": -88.0373398,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 985639934,
+    "name": "Fishing Pier",
+    "latitude": 30.4422244,
+    "longitude": -88.281707,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1009396534,
+    "name": "Fishing Pier",
+    "latitude": 30.4638021,
+    "longitude": -86.5918846,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1013614129,
+    "name": "Fishing Pier",
+    "latitude": 31.0480274,
+    "longitude": -87.8912201,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1014947565,
+    "name": "Fishing Pier",
+    "latitude": 33.7881138,
+    "longitude": -86.0519786,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1015711289,
+    "name": "Fishing Pier",
+    "latitude": 34.7167466,
+    "longitude": -87.1283073,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1015711291,
+    "name": "Fishing Pier",
+    "latitude": 34.7179006,
+    "longitude": -87.1292124,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1015711298,
+    "name": "Fishing Pier",
+    "latitude": 34.7199064,
+    "longitude": -87.1270706,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1022985028,
+    "name": "Fishing Pier",
+    "latitude": 30.3734745,
+    "longitude": -87.3456819,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "covered": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1025018335,
+    "name": "Fishing Pier",
+    "latitude": 34.7829356,
+    "longitude": -87.1469689,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1025026015,
+    "name": "Fishing Pier",
+    "latitude": 34.7018301,
+    "longitude": -87.1468823,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1025026019,
+    "name": "Fishing Pier",
+    "latitude": 34.7022934,
+    "longitude": -87.1477013,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1025029644,
+    "name": "Fishing Pier",
+    "latitude": 34.7030976,
+    "longitude": -87.1488572,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1025035821,
+    "name": "Fishing Pier",
+    "latitude": 34.5109292,
+    "longitude": -87.1647792,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1039481241,
+    "name": "Fishing Pier",
+    "latitude": 34.5781481,
+    "longitude": -86.0831548,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1039481255,
+    "name": "Fishing Pier",
+    "latitude": 34.5806373,
+    "longitude": -86.0824616,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1039481284,
+    "name": "Fishing Pier",
+    "latitude": 34.5772076,
+    "longitude": -86.0791252,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1040241750,
+    "name": "Fishing Pier",
+    "latitude": 34.8496814,
+    "longitude": -86.7093256,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1041338802,
+    "name": "Fishing Pier",
+    "latitude": 31.3084783,
+    "longitude": -86.9821589,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1047231350,
+    "name": "Fishing Pier",
+    "latitude": 32.602601,
+    "longitude": -86.9902986,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1051035629,
+    "name": "Fishing Pier",
+    "latitude": 34.0016001,
+    "longitude": -86.0014857,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1051946560,
+    "name": "Fishing Pier",
+    "latitude": 34.7942822,
+    "longitude": -87.620922,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 1052026717,
+    "name": "Fishing Pier",
+    "latitude": 33.5458613,
+    "longitude": -86.2689436,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1059429754,
+    "name": "Fishing Pier",
+    "latitude": 30.6386264,
+    "longitude": -88.0956427,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064319678,
+    "name": "Fishing Pier",
+    "latitude": 30.3127907,
+    "longitude": -87.4286815,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064482738,
+    "name": "Fishing Pier",
+    "latitude": 33.0211092,
+    "longitude": -86.7336259,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064482739,
+    "name": "Fishing Pier",
+    "latitude": 33.0221687,
+    "longitude": -86.7312673,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064960625,
+    "name": "Fishing Pier",
+    "latitude": 30.3194456,
+    "longitude": -87.3922758,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064960626,
+    "name": "Fishing Pier",
+    "latitude": 30.3193217,
+    "longitude": -87.3925465,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064960630,
+    "name": "Fishing Pier",
+    "latitude": 30.3171007,
+    "longitude": -87.3942383,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064960638,
+    "name": "Fishing Pier",
+    "latitude": 30.3127634,
+    "longitude": -87.3978548,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064960639,
+    "name": "Fishing Pier",
+    "latitude": 30.3124738,
+    "longitude": -87.3981659,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064961001,
+    "name": "Fishing Pier",
+    "latitude": 30.3238477,
+    "longitude": -87.3720449,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064961003,
+    "name": "Fishing Pier",
+    "latitude": 30.3233134,
+    "longitude": -87.3732932,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064961676,
+    "name": "Fishing Pier",
+    "latitude": 30.3275087,
+    "longitude": -87.3544879,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064961677,
+    "name": "Fishing Pier",
+    "latitude": 30.3268371,
+    "longitude": -87.3548045,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064961686,
+    "name": "Fishing Pier",
+    "latitude": 30.3264195,
+    "longitude": -87.3579003,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064961695,
+    "name": "Fishing Pier",
+    "latitude": 30.3265883,
+    "longitude": -87.363192,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064962506,
+    "name": "Fishing Pier",
+    "latitude": 30.2898475,
+    "longitude": -87.4875847,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064964243,
+    "name": "Fishing Pier",
+    "latitude": 30.3226459,
+    "longitude": -87.388562,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064964245,
+    "name": "Fishing Pier",
+    "latitude": 30.3230012,
+    "longitude": -87.3873779,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1064964253,
+    "name": "Fishing Pier",
+    "latitude": 30.3238475,
+    "longitude": -87.3824455,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1069476578,
+    "name": "Fishing Pier",
+    "latitude": 30.6661703,
+    "longitude": -87.9307951,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1076833941,
+    "name": "Fishing Pier",
+    "latitude": 31.3550245,
+    "longitude": -87.1779695,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1080404630,
+    "name": "Fishing Pier",
+    "latitude": 34.4510844,
+    "longitude": -86.3340443,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1080405609,
+    "name": "Fishing Pier",
+    "latitude": 34.446827,
+    "longitude": -86.3363015,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1080975630,
+    "name": "Fishing Pier",
+    "latitude": 34.0841147,
+    "longitude": -86.9580394,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1080975640,
+    "name": "Fishing Pier",
+    "latitude": 34.0840702,
+    "longitude": -86.957121,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1080977772,
+    "name": "Fishing Pier",
+    "latitude": 34.0793146,
+    "longitude": -86.9754884,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1083374446,
+    "name": "Fishing Pier",
+    "latitude": 30.416438,
+    "longitude": -87.9088191,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1087023540,
+    "name": "Fishing Pier",
+    "latitude": 30.3401155,
+    "longitude": -87.111001,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "bicycle": "designated",
+      "foot": "designated",
+      "highway": "cycleway",
+      "lit": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "oneway": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1087023541,
+    "name": "Fishing Pier",
+    "latitude": 30.3284811,
+    "longitude": -87.175883,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1089387911,
+    "name": "Fishing Pier",
+    "latitude": 30.5887519,
+    "longitude": -87.0094031,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1089596381,
+    "name": "Fishing Pier",
+    "latitude": 30.4892001,
+    "longitude": -87.9100515,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1089814610,
+    "name": "Fishing Pier",
+    "latitude": 30.4461684,
+    "longitude": -86.9127385,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090625342,
+    "name": "Fishing Pier",
+    "latitude": 34.3805974,
+    "longitude": -86.2885457,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090625793,
+    "name": "Fishing Pier",
+    "latitude": 34.383247,
+    "longitude": -86.2817706,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090626474,
+    "name": "Fishing Pier",
+    "latitude": 34.3845757,
+    "longitude": -86.2743382,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090626826,
+    "name": "Fishing Pier",
+    "latitude": 34.3980086,
+    "longitude": -86.2771175,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090626828,
+    "name": "Fishing Pier",
+    "latitude": 34.3973303,
+    "longitude": -86.2781283,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090627450,
+    "name": "Fishing Pier",
+    "latitude": 34.4117418,
+    "longitude": -86.2671318,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090629065,
+    "name": "Fishing Pier",
+    "latitude": 34.5150486,
+    "longitude": -86.1083287,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090629547,
+    "name": "Fishing Pier",
+    "latitude": 34.5302492,
+    "longitude": -86.0887608,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090629853,
+    "name": "Fishing Pier",
+    "latitude": 34.5311618,
+    "longitude": -86.0874975,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090630684,
+    "name": "Fishing Pier",
+    "latitude": 34.5218642,
+    "longitude": -86.0920822,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1090630689,
+    "name": "Fishing Pier",
+    "latitude": 34.5227772,
+    "longitude": -86.0942654,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1105424000,
+    "name": "Fishing Pier",
+    "latitude": 30.2880598,
+    "longitude": -87.7367153,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1117195077,
+    "name": "Fishing Pier",
+    "latitude": 30.7082906,
+    "longitude": -87.9152672,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1143794727,
+    "name": "Fishing Pier",
+    "latitude": 30.2432157,
+    "longitude": -87.7355752,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1146860870,
+    "name": "Fishing Pier",
+    "latitude": 30.2802283,
+    "longitude": -87.7286137,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1154081869,
+    "name": "Fishing Pier",
+    "latitude": 33.451901,
+    "longitude": -86.1347231,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1154556563,
+    "name": "Fishing Pier",
+    "latitude": 30.7750102,
+    "longitude": -86.1717661,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1155829463,
+    "name": "Fishing Pier",
+    "latitude": 30.6394952,
+    "longitude": -87.0181745,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1164466686,
+    "name": "Fishing Pier",
+    "latitude": 30.3551619,
+    "longitude": -87.2631057,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1164489127,
+    "name": "Fishing Pier",
+    "latitude": 30.3451065,
+    "longitude": -87.2737548,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence_type": "railing",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1165134868,
+    "name": "Fishing Pier",
+    "latitude": 30.368662,
+    "longitude": -86.2599484,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178626667,
+    "name": "Fishing Pier",
+    "latitude": 32.4229455,
+    "longitude": -86.793425,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1179595102,
+    "name": "Fishing Pier",
+    "latitude": 32.6241726,
+    "longitude": -86.7496049,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1180288609,
+    "name": "Fishing Pier",
+    "latitude": 32.5507312,
+    "longitude": -86.6878057,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1181466531,
+    "name": "Fishing Pier",
+    "latitude": 30.5313886,
+    "longitude": -87.3541223,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "bicycle": "yes",
+      "floating": "no",
+      "foot": "yes",
+      "horse": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "motor_vehicle": "no",
+      "name": "Fishing Pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1184568022,
+    "name": "Fishing Pier",
+    "latitude": 33.9960344,
+    "longitude": -86.0018094,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1184568763,
+    "name": "Fishing Pier",
+    "latitude": 33.9904418,
+    "longitude": -86.0032683,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1184568765,
+    "name": "Fishing Pier",
+    "latitude": 33.9903885,
+    "longitude": -86.0020531,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1189432619,
+    "name": "Fishing Pier",
+    "latitude": 33.1964704,
+    "longitude": -87.5337078,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "private"
+    }
+  },
+  {
+    "id": 1194681773,
+    "name": "Fishing Pier",
+    "latitude": 30.8201204,
+    "longitude": -88.0581096,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1211986084,
+    "name": "Fishing Pier",
+    "latitude": 33.286512,
+    "longitude": -86.841944,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1218315495,
+    "name": "Fishing Pier",
+    "latitude": 30.381298,
+    "longitude": -88.2579764,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1267556975,
+    "name": "Fishing Pier",
+    "latitude": 32.4503998,
+    "longitude": -86.3514244,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1278682898,
+    "name": "Fishing Pier",
+    "latitude": 34.9082005,
+    "longitude": -87.1034631,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1278682900,
+    "name": "Fishing Pier",
+    "latitude": 34.9058103,
+    "longitude": -87.105307,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1286716868,
+    "name": "Fishing Pier",
+    "latitude": 30.3011411,
+    "longitude": -87.7369189,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1288807733,
+    "name": "Fishing Pier",
+    "latitude": 30.2550754,
+    "longitude": -87.715891,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1288853062,
+    "name": "Fishing Pier",
+    "latitude": 33.4646795,
+    "longitude": -86.3214685,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1290965545,
+    "name": "Fishing Pier",
+    "latitude": 30.4050504,
+    "longitude": -87.262236,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1290965547,
+    "name": "Fishing Pier",
+    "latitude": 30.4050163,
+    "longitude": -87.2625105,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1290965565,
+    "name": "Fishing Pier",
+    "latitude": 30.4025735,
+    "longitude": -87.2675789,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1290965566,
+    "name": "Fishing Pier",
+    "latitude": 30.4024792,
+    "longitude": -87.2678042,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1291332119,
+    "name": "Fishing Pier",
+    "latitude": 30.9211994,
+    "longitude": -87.8518356,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1291332124,
+    "name": "Fishing Pier",
+    "latitude": 30.9201149,
+    "longitude": -87.8405723,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1291571185,
+    "name": "Fishing Pier",
+    "latitude": 30.5888327,
+    "longitude": -88.1076046,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1295808449,
+    "name": "Fishing Pier",
+    "latitude": 30.8692642,
+    "longitude": -87.9955942,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1296133664,
+    "name": "Fishing Pier",
+    "latitude": 30.8472748,
+    "longitude": -88.1161021,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1296665930,
+    "name": "Fishing Pier",
+    "latitude": 30.9048779,
+    "longitude": -87.9802575,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1296665947,
+    "name": "Fishing Pier",
+    "latitude": 30.9066939,
+    "longitude": -87.9759653,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1296683557,
+    "name": "Fishing Pier",
+    "latitude": 30.9637409,
+    "longitude": -87.9853904,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302545168,
+    "name": "Fishing Pier",
+    "latitude": 31.3603622,
+    "longitude": -86.1111929,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1302545183,
+    "name": "Fishing Pier",
+    "latitude": 31.3641765,
+    "longitude": -86.1191114,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1307364679,
+    "name": "Fishing Pier",
+    "latitude": 30.2501041,
+    "longitude": -88.1912064,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1313076201,
+    "name": "Fishing Pier",
+    "latitude": 30.7518021,
+    "longitude": -88.2348443,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1314702536,
+    "name": "Fishing Pier",
+    "latitude": 30.6744196,
+    "longitude": -87.933665,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1314702547,
+    "name": "Fishing Pier",
+    "latitude": 30.6757936,
+    "longitude": -87.9315849,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1319711644,
+    "name": "Fishing Pier",
+    "latitude": 30.523405,
+    "longitude": -87.4453662,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1343621266,
+    "name": "Fishing Pier",
+    "latitude": 30.5983977,
+    "longitude": -87.6937418,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1343621771,
+    "name": "Fishing Pier",
+    "latitude": 30.5781889,
+    "longitude": -87.6567473,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1372554203,
+    "name": "Fishing Pier",
+    "latitude": 33.2073448,
+    "longitude": -87.5927463,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1381116485,
+    "name": "B Dock",
+    "latitude": 34.9912404,
+    "longitude": -88.251194,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "B Dock"
+    }
+  },
+  {
+    "id": 1382153052,
+    "name": "Fishing Pier",
+    "latitude": 30.4035072,
+    "longitude": -86.627724,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384145898,
+    "name": "Fishing Pier",
+    "latitude": 30.5017012,
+    "longitude": -86.4549238,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1384145902,
+    "name": "Fishing Pier",
+    "latitude": 30.5028095,
+    "longitude": -86.4542387,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1388836029,
+    "name": "Fishing Pier",
+    "latitude": 33.7627519,
+    "longitude": -86.0437041,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1388836030,
+    "name": "Fishing Pier",
+    "latitude": 33.7624893,
+    "longitude": -86.0437793,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1391407449,
+    "name": "Fishing Pier",
+    "latitude": 34.7174425,
+    "longitude": -86.671632,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1391414552,
+    "name": "Fishing Pier",
+    "latitude": 34.1016834,
+    "longitude": -86.5813625,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410132426,
+    "name": "Fishing Pier",
+    "latitude": 30.4034001,
+    "longitude": -86.8351297,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410140529,
+    "name": "Fishing Pier",
+    "latitude": 30.434665,
+    "longitude": -87.9127503,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410140533,
+    "name": "Fishing Pier",
+    "latitude": 30.4353022,
+    "longitude": -87.9124111,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1410140781,
+    "name": "Fishing Pier",
+    "latitude": 30.4377741,
+    "longitude": -87.9128966,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204416,
+    "name": "Fishing Pier",
+    "latitude": 30.6197886,
+    "longitude": -87.9145606,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204419,
+    "name": "Fishing Pier",
+    "latitude": 30.6158447,
+    "longitude": -87.9127821,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204423,
+    "name": "Fishing Pier",
+    "latitude": 30.6111219,
+    "longitude": -87.9128586,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204427,
+    "name": "Fishing Pier",
+    "latitude": 30.6082514,
+    "longitude": -87.912482,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204429,
+    "name": "Fishing Pier",
+    "latitude": 30.6068085,
+    "longitude": -87.9125633,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204437,
+    "name": "Fishing Pier",
+    "latitude": 30.5960887,
+    "longitude": -87.9142778,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204446,
+    "name": "Fishing Pier",
+    "latitude": 30.592042,
+    "longitude": -87.9147324,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204455,
+    "name": "Fishing Pier",
+    "latitude": 30.5871886,
+    "longitude": -87.9150394,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204466,
+    "name": "Fishing Pier",
+    "latitude": 30.5823761,
+    "longitude": -87.9135063,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204473,
+    "name": "Fishing Pier",
+    "latitude": 30.5799062,
+    "longitude": -87.9124995,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204478,
+    "name": "Fishing Pier",
+    "latitude": 30.5768544,
+    "longitude": -87.9114169,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204485,
+    "name": "Fishing Pier",
+    "latitude": 30.5718698,
+    "longitude": -87.9075173,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204486,
+    "name": "Fishing Pier",
+    "latitude": 30.5716312,
+    "longitude": -87.9073937,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204491,
+    "name": "Fishing Pier",
+    "latitude": 30.5656815,
+    "longitude": -87.9042018,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204494,
+    "name": "Fishing Pier",
+    "latitude": 30.5578842,
+    "longitude": -87.902902,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204495,
+    "name": "Fishing Pier",
+    "latitude": 30.5572473,
+    "longitude": -87.9029957,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204497,
+    "name": "Fishing Pier",
+    "latitude": 30.5536553,
+    "longitude": -87.9023813,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204499,
+    "name": "Fishing Pier",
+    "latitude": 30.5524154,
+    "longitude": -87.901984,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204504,
+    "name": "Fishing Pier",
+    "latitude": 30.5471567,
+    "longitude": -87.9025558,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204508,
+    "name": "Fishing Pier",
+    "latitude": 30.5412569,
+    "longitude": -87.9045492,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204515,
+    "name": "Fishing Pier",
+    "latitude": 30.5374494,
+    "longitude": -87.9051922,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204517,
+    "name": "Fishing Pier",
+    "latitude": 30.5337538,
+    "longitude": -87.9079712,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204520,
+    "name": "Fishing Pier",
+    "latitude": 30.5313733,
+    "longitude": -87.9087058,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204534,
+    "name": "Fishing Pier",
+    "latitude": 30.5122995,
+    "longitude": -87.9211073,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204546,
+    "name": "Fishing Pier",
+    "latitude": 30.5078213,
+    "longitude": -87.922502,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204548,
+    "name": "Fishing Pier",
+    "latitude": 30.5072398,
+    "longitude": -87.9230079,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204563,
+    "name": "Fishing Pier",
+    "latitude": 30.50242,
+    "longitude": -87.925633,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204575,
+    "name": "Fishing Pier",
+    "latitude": 30.4965956,
+    "longitude": -87.9267541,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204580,
+    "name": "Fishing Pier",
+    "latitude": 30.495385,
+    "longitude": -87.927705,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204591,
+    "name": "Fishing Pier",
+    "latitude": 30.4922916,
+    "longitude": -87.9300975,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204605,
+    "name": "Fishing Pier",
+    "latitude": 30.4885874,
+    "longitude": -87.9325962,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204617,
+    "name": "Fishing Pier",
+    "latitude": 30.4724003,
+    "longitude": -87.9209889,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204625,
+    "name": "Fishing Pier",
+    "latitude": 30.4666946,
+    "longitude": -87.9193327,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204643,
+    "name": "Fishing Pier",
+    "latitude": 30.4623143,
+    "longitude": -87.9183757,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204656,
+    "name": "Fishing Pier",
+    "latitude": 30.4573047,
+    "longitude": -87.917812,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204659,
+    "name": "Fishing Pier",
+    "latitude": 30.4566967,
+    "longitude": -87.9173667,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204675,
+    "name": "Fishing Pier",
+    "latitude": 30.4524034,
+    "longitude": -87.915949,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204690,
+    "name": "Fishing Pier",
+    "latitude": 30.4474914,
+    "longitude": -87.9147708,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204723,
+    "name": "Fishing Pier",
+    "latitude": 30.4324208,
+    "longitude": -87.9121823,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204741,
+    "name": "Fishing Pier",
+    "latitude": 30.4274577,
+    "longitude": -87.9112688,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411204759,
+    "name": "Fishing Pier",
+    "latitude": 30.422367,
+    "longitude": -87.9103942,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411268458,
+    "name": "Fishing Pier",
+    "latitude": 30.4765438,
+    "longitude": -87.8891781,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411268463,
+    "name": "Fishing Pier",
+    "latitude": 30.4741373,
+    "longitude": -87.8945542,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1411678177,
+    "name": "Fishing Pier",
+    "latitude": 30.398184,
+    "longitude": -87.8452415,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414518132,
+    "name": "Fishing Pier",
+    "latitude": 30.3406151,
+    "longitude": -87.1463116,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414518133,
+    "name": "Fishing Pier",
+    "latitude": 30.3364221,
+    "longitude": -87.1431159,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414518137,
+    "name": "Fishing Pier",
+    "latitude": 30.3359145,
+    "longitude": -87.1362274,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1414518140,
+    "name": "Fishing Pier",
+    "latitude": 30.3357936,
+    "longitude": -87.1307843,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1426121006,
+    "name": "Fishing Pier",
+    "latitude": 30.3924263,
+    "longitude": -86.5069218,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1426121007,
+    "name": "Fishing Pier",
+    "latitude": 30.3925524,
+    "longitude": -86.5065087,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1426121188,
+    "name": "Fishing Pier",
+    "latitude": 30.3926624,
+    "longitude": -86.5075045,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435035254,
+    "name": "Fishing Pier",
+    "latitude": 33.9713032,
+    "longitude": -86.0302143,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435922388,
+    "name": "Fishing Pier",
+    "latitude": 30.2915573,
+    "longitude": -87.7403094,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1435922402,
+    "name": "Fishing Pier",
+    "latitude": 30.2911162,
+    "longitude": -87.7425779,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1442865634,
+    "name": "Fishing Pier",
+    "latitude": 30.3118906,
+    "longitude": -87.7223625,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1442865638,
+    "name": "Fishing Pier",
+    "latitude": 30.3119572,
+    "longitude": -87.7225418,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1456925996,
+    "name": "Fishing Pier",
+    "latitude": 30.308461,
+    "longitude": -87.7276696,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1456926003,
+    "name": "Fishing Pier",
+    "latitude": 30.3074287,
+    "longitude": -87.7277262,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1456926007,
+    "name": "Fishing Pier",
+    "latitude": 30.3070612,
+    "longitude": -87.7251106,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1458488162,
+    "name": "Fishing Pier",
+    "latitude": 33.5330948,
+    "longitude": -88.499187,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "operator": "United States Army Corps of Engineers",
+      "operator:short": "USACE",
+      "operator:type": "military",
+      "operator:wikidata": "Q1049334",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1464979193,
+    "name": "Fishing Pier",
+    "latitude": 30.6274688,
+    "longitude": -87.6142603,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "foot": "yes",
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1466167712,
+    "name": "Fishing Pier",
+    "latitude": 30.4953953,
+    "longitude": -87.9103477,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1469030683,
+    "name": "Fishing Pier",
+    "latitude": 30.692645,
+    "longitude": -87.9114699,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1470783519,
+    "name": "Fishing Pier",
+    "latitude": 30.5113969,
+    "longitude": -87.4488183,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1471524503,
+    "name": "Fishing Pier",
+    "latitude": 30.624784,
+    "longitude": -87.774853,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1471864463,
+    "name": "Fishing Pier",
+    "latitude": 30.2916032,
+    "longitude": -87.4951803,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1471864495,
+    "name": "Fishing Pier",
+    "latitude": 30.2926792,
+    "longitude": -87.4895979,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1471864512,
+    "name": "Fishing Pier",
+    "latitude": 30.2931054,
+    "longitude": -87.4874403,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1471873262,
+    "name": "Fishing Pier",
+    "latitude": 30.2902898,
+    "longitude": -87.4864614,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1472183777,
+    "name": "Fishing Pier",
+    "latitude": 30.6718633,
+    "longitude": -87.7455374,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1475250446,
+    "name": "Fishing Pier",
+    "latitude": 34.7977635,
+    "longitude": -87.6256104,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1475250448,
+    "name": "Fishing Pier",
+    "latitude": 34.7973736,
+    "longitude": -87.6260239,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1476709737,
+    "name": "Fishing Pier",
+    "latitude": 30.7129629,
+    "longitude": -87.878942,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1476720106,
+    "name": "Fishing Pier",
+    "latitude": 30.9125985,
+    "longitude": -87.7538468,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1477355600,
+    "name": "Fishing Pier",
+    "latitude": 30.2457783,
+    "longitude": -87.7260884,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1477355615,
+    "name": "Fishing Pier",
+    "latitude": 30.2455608,
+    "longitude": -87.727682,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1477764823,
+    "name": "Fishing Pier",
+    "latitude": 34.8067177,
+    "longitude": -87.6270152,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1477773260,
+    "name": "Fishing Pier",
+    "latitude": 34.8078631,
+    "longitude": -87.6196024,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1477773264,
+    "name": "Fishing Pier",
+    "latitude": 34.8038286,
+    "longitude": -87.63293,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1478496841,
+    "name": "Fishing Pier",
+    "latitude": 30.9864272,
+    "longitude": -87.7538196,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1478503134,
+    "name": "Fishing Pier",
+    "latitude": 30.9946123,
+    "longitude": -87.7399153,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1478554881,
+    "name": "Tuscaloosa Area Office & Repair",
+    "latitude": 33.216547,
+    "longitude": -87.5642997,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "private",
+      "name": "Tuscaloosa Area Office & Repair",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1478731189,
+    "name": "Fishing Pier",
+    "latitude": 30.402022,
+    "longitude": -87.4830754,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1478780739,
+    "name": "Fishing Pier",
+    "latitude": 33.2096548,
+    "longitude": -88.2878162,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1478780740,
+    "name": "Fishing Pier",
+    "latitude": 33.2117328,
+    "longitude": -88.2874321,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1478790393,
+    "name": "Fishing Pier",
+    "latitude": 33.231028,
+    "longitude": -88.2945887,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "guest",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1479249767,
+    "name": "Fishing Pier",
+    "latitude": 33.2127078,
+    "longitude": -88.2858595,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier",
+      "mooring": "yes",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1485820096,
+    "name": "Fishing Pier",
+    "latitude": 30.4473048,
+    "longitude": -87.6379932,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1486253889,
+    "name": "Fishing Pier",
+    "latitude": 30.68582,
+    "longitude": -87.8967422,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1487871901,
+    "name": "Fishing Pier",
+    "latitude": 30.6935098,
+    "longitude": -87.7258799,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1488503776,
+    "name": "Fishing Pier",
+    "latitude": 30.7657653,
+    "longitude": -87.901471,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1488671062,
+    "name": "Fishing Pier",
+    "latitude": 30.8910601,
+    "longitude": -87.7070591,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1488671069,
+    "name": "Fishing Pier",
+    "latitude": 30.8933838,
+    "longitude": -87.7071456,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489658143,
+    "name": "Fishing Pier",
+    "latitude": 30.6207971,
+    "longitude": -87.8579663,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489672359,
+    "name": "Fishing Pier",
+    "latitude": 34.1482059,
+    "longitude": -86.2302207,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489672361,
+    "name": "Fishing Pier",
+    "latitude": 34.1624229,
+    "longitude": -86.1537119,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489672383,
+    "name": "Fishing Pier",
+    "latitude": 34.166295,
+    "longitude": -86.1571804,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489968570,
+    "name": "Fishing Pier",
+    "latitude": 30.9715013,
+    "longitude": -87.8823277,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489968593,
+    "name": "Fishing Pier",
+    "latitude": 30.9725604,
+    "longitude": -87.8796937,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1489968603,
+    "name": "Fishing Pier",
+    "latitude": 30.9761789,
+    "longitude": -87.8744224,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1490347087,
+    "name": "Fishing Pier",
+    "latitude": 30.7642669,
+    "longitude": -87.9212178,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1490386739,
+    "name": "Fishing Pier",
+    "latitude": 30.7624856,
+    "longitude": -87.9203344,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1490386743,
+    "name": "Fishing Pier",
+    "latitude": 30.7581392,
+    "longitude": -87.9161295,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1490430047,
+    "name": "Fishing Pier",
+    "latitude": 31.2729284,
+    "longitude": -87.6992106,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1495978283,
+    "name": "Fishing Pier",
+    "latitude": 30.9659505,
+    "longitude": -87.838016,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
   }
 ]
