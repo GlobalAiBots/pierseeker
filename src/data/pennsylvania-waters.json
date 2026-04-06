@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pennsylvania-all",
+    "name": "Pennsylvania Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Pennsylvania.",
+    "lat": 40.4387375,
+    "lng": -79.4368202,
+    "radius": 5,
+    "pierCount": 188,
+    "type": "mixed"
+  }
+]

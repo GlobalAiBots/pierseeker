@@ -1,0 +1,12 @@
+[
+  {
+    "id": "massachusetts-all",
+    "name": "Massachusetts Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Massachusetts.",
+    "lat": 42.4011413,
+    "lng": -71.0887654,
+    "radius": 5,
+    "pierCount": 1207,
+    "type": "mixed"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "michigan-all",
+    "name": "Michigan Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Michigan.",
+    "lat": 42.7570779,
+    "lng": -84.7540294,
+    "radius": 5,
+    "pierCount": 2863,
+    "type": "mixed"
+  }
+]

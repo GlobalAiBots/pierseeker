@@ -1,0 +1,12 @@
+[
+  {
+    "id": "florida-all",
+    "name": "Florida Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Florida.",
+    "lat": 28.3875633,
+    "lng": -81.5366652,
+    "radius": 5,
+    "pierCount": 64,
+    "type": "mixed"
+  }
+]

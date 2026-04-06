@@ -1,0 +1,12 @@
+[
+  {
+    "id": "indiana-all",
+    "name": "Indiana Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Indiana.",
+    "lat": 38.8805051,
+    "lng": -86.8217675,
+    "radius": 5,
+    "pierCount": 419,
+    "type": "mixed"
+  }
+]

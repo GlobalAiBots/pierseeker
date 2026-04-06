@@ -1,0 +1,12 @@
+[
+  {
+    "id": "illinois-all",
+    "name": "Illinois Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Illinois.",
+    "lat": 38.7072724,
+    "lng": -90.1753875,
+    "radius": 5,
+    "pierCount": 1435,
+    "type": "mixed"
+  }
+]

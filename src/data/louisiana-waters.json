@@ -1,0 +1,12 @@
+[
+  {
+    "id": "louisiana-all",
+    "name": "Louisiana Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Louisiana.",
+    "lat": 29.2617552,
+    "lng": -89.9538771,
+    "radius": 5,
+    "pierCount": 627,
+    "type": "mixed"
+  }
+]

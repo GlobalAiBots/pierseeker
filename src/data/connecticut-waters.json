@@ -1,0 +1,12 @@
+[
+  {
+    "id": "connecticut-all",
+    "name": "Connecticut Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Connecticut.",
+    "lat": 41.2768186,
+    "lng": -73.5510155,
+    "radius": 5,
+    "pierCount": 649,
+    "type": "mixed"
+  }
+]

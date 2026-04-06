@@ -1,0 +1,12 @@
+[
+  {
+    "id": "washington-all",
+    "name": "Washington Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Washington.",
+    "lat": 48.5831188,
+    "lng": -123.5214174,
+    "radius": 5,
+    "pierCount": 2607,
+    "type": "mixed"
+  }
+]

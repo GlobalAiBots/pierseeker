@@ -1,0 +1,12 @@
+[
+  {
+    "id": "california-all",
+    "name": "California Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in California.",
+    "lat": 37.6447648,
+    "lng": -122.1559376,
+    "radius": 5,
+    "pierCount": 1832,
+    "type": "mixed"
+  }
+]

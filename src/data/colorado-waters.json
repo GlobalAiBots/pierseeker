@@ -1,0 +1,12 @@
+[
+  {
+    "id": "colorado-all",
+    "name": "Colorado Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Colorado.",
+    "lat": 39.6884427,
+    "lng": -104.8942649,
+    "radius": 5,
+    "pierCount": 275,
+    "type": "mixed"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "wyoming-all",
+    "name": "Wyoming Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Wyoming.",
+    "lat": 43.7672467,
+    "lng": -110.7441147,
+    "radius": 5,
+    "pierCount": 55,
+    "type": "mixed"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "new-jersey-all",
+    "name": "New Jersey Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in New Jersey.",
+    "lat": 40.7487454,
+    "lng": -74.0102155,
+    "radius": 5,
+    "pierCount": 1233,
+    "type": "mixed"
+  }
+]

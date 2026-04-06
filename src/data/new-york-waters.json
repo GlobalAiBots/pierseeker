@@ -1,0 +1,12 @@
+[
+  {
+    "id": "new-york-all",
+    "name": "New York Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in New York.",
+    "lat": 41.5056641,
+    "lng": -73.986733,
+    "radius": 5,
+    "pierCount": 2442,
+    "type": "mixed"
+  }
+]

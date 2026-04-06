@@ -1,0 +1,12 @@
+[
+  {
+    "id": "virginia-all",
+    "name": "Virginia Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Virginia.",
+    "lat": 38.4194725,
+    "lng": -79.9802923,
+    "radius": 5,
+    "pierCount": 1242,
+    "type": "mixed"
+  }
+]

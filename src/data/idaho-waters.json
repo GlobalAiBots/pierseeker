@@ -1,0 +1,12 @@
+[
+  {
+    "id": "idaho-all",
+    "name": "Idaho Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Idaho.",
+    "lat": 48.9594632,
+    "lng": -113.888651,
+    "radius": 5,
+    "pierCount": 407,
+    "type": "mixed"
+  }
+]

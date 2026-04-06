@@ -1,0 +1,12 @@
+[
+  {
+    "id": "georgia-all",
+    "name": "Georgia Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Georgia.",
+    "lat": 34.4279399,
+    "lng": -84.2100133,
+    "radius": 5,
+    "pierCount": 314,
+    "type": "mixed"
+  }
+]

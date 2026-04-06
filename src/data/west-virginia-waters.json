@@ -1,0 +1,12 @@
+[
+  {
+    "id": "west-virginia-all",
+    "name": "West Virginia Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in West Virginia.",
+    "lat": 39.6652565,
+    "lng": -79.8566588,
+    "radius": 5,
+    "pierCount": 7,
+    "type": "mixed"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "texas-all",
+    "name": "Texas Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Texas.",
+    "lat": 30.2766745,
+    "lng": -97.774143,
+    "radius": 5,
+    "pierCount": 1227,
+    "type": "mixed"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "arizona-all",
+    "name": "Arizona Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Arizona.",
+    "lat": 33.8505682,
+    "lng": -112.2591314,
+    "radius": 5,
+    "pierCount": 168,
+    "type": "mixed"
+  }
+]

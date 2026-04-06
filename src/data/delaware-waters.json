@@ -1,0 +1,12 @@
+[
+  {
+    "id": "delaware-all",
+    "name": "Delaware Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Delaware.",
+    "lat": 39.7157495,
+    "lng": -75.5139769,
+    "radius": 5,
+    "pierCount": 197,
+    "type": "mixed"
+  }
+]

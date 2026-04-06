@@ -1,0 +1,12 @@
+[
+  {
+    "id": "utah-all",
+    "name": "Utah Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Utah.",
+    "lat": 41.1089698,
+    "lng": -112.0168817,
+    "radius": 5,
+    "pierCount": 147,
+    "type": "mixed"
+  }
+]

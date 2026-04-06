@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tennessee-all",
+    "name": "Tennessee Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Tennessee.",
+    "lat": 35.1025306,
+    "lng": -85.2300171,
+    "radius": 5,
+    "pierCount": 290,
+    "type": "mixed"
+  }
+]

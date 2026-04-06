@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mississippi-all",
+    "name": "Mississippi Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Mississippi.",
+    "lat": 30.3906558,
+    "lng": -88.8709675,
+    "radius": 5,
+    "pierCount": 108,
+    "type": "mixed"
+  }
+]

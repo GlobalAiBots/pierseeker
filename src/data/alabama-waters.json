@@ -1,0 +1,12 @@
+[
+  {
+    "id": "alabama-all",
+    "name": "Alabama Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Alabama.",
+    "lat": 30.4869806,
+    "lng": -86.6093981,
+    "radius": 5,
+    "pierCount": 703,
+    "type": "mixed"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "south-dakota-all",
+    "name": "South Dakota Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in South Dakota.",
+    "lat": 43.2744811,
+    "lng": -97.0860188,
+    "radius": 5,
+    "pierCount": 4,
+    "type": "mixed"
+  }
+]

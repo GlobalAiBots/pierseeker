@@ -1,0 +1,12 @@
+[
+  {
+    "id": "minnesota-all",
+    "name": "Minnesota Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Minnesota.",
+    "lat": 46.7482735,
+    "lng": -92.094357,
+    "radius": 5,
+    "pierCount": 2053,
+    "type": "mixed"
+  }
+]

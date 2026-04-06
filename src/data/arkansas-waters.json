@@ -1,0 +1,12 @@
+[
+  {
+    "id": "arkansas-all",
+    "name": "Arkansas Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Arkansas.",
+    "lat": 36.1992953,
+    "lng": -94.215396,
+    "radius": 5,
+    "pierCount": 330,
+    "type": "mixed"
+  }
+]

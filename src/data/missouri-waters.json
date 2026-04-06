@@ -1,0 +1,12 @@
+[
+  {
+    "id": "missouri-all",
+    "name": "Missouri Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Missouri.",
+    "lat": 38.0971253,
+    "lng": -93.580507,
+    "radius": 5,
+    "pierCount": 323,
+    "type": "mixed"
+  }
+]

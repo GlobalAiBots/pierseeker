@@ -1,0 +1,12 @@
+[
+  {
+    "id": "oregon-all",
+    "name": "Oregon Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Oregon.",
+    "lat": 45.4055053,
+    "lng": -121.4216895,
+    "radius": 5,
+    "pierCount": 851,
+    "type": "mixed"
+  }
+]

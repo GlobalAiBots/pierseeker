@@ -1,0 +1,12 @@
+[
+  {
+    "id": "rhode-island-all",
+    "name": "Rhode Island Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Rhode Island.",
+    "lat": 41.1835708,
+    "lng": -71.5814571,
+    "radius": 5,
+    "pierCount": 9,
+    "type": "mixed"
+  }
+]

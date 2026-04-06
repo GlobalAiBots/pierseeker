@@ -1,0 +1,12 @@
+[
+  {
+    "id": "maine-all",
+    "name": "Maine Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Maine.",
+    "lat": 45.8755617,
+    "lng": -66.9813139,
+    "radius": 5,
+    "pierCount": 1211,
+    "type": "mixed"
+  }
+]

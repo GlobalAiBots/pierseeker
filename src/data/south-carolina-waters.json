@@ -1,0 +1,12 @@
+[
+  {
+    "id": "south-carolina-all",
+    "name": "South Carolina Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in South Carolina.",
+    "lat": 32.3144281,
+    "lng": -80.4855759,
+    "radius": 5,
+    "pierCount": 9,
+    "type": "mixed"
+  }
+]

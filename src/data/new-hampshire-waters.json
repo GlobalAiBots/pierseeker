@@ -1,0 +1,12 @@
+[
+  {
+    "id": "new-hampshire-all",
+    "name": "New Hampshire Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in New Hampshire.",
+    "lat": 43.1130893,
+    "lng": -72.0169703,
+    "radius": 5,
+    "pierCount": 453,
+    "type": "mixed"
+  }
+]

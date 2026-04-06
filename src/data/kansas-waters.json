@@ -1,0 +1,12 @@
+[
+  {
+    "id": "kansas-all",
+    "name": "Kansas Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Kansas.",
+    "lat": 38.3763952,
+    "lng": -94.7233899,
+    "radius": 5,
+    "pierCount": 170,
+    "type": "mixed"
+  }
+]

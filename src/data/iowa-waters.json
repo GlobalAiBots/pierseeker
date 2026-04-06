@@ -1,0 +1,12 @@
+[
+  {
+    "id": "iowa-all",
+    "name": "Iowa Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Iowa.",
+    "lat": 42.5105422,
+    "lng": -90.650456,
+    "radius": 5,
+    "pierCount": 331,
+    "type": "mixed"
+  }
+]

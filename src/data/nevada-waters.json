@@ -1,0 +1,12 @@
+[
+  {
+    "id": "nevada-all",
+    "name": "Nevada Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Nevada.",
+    "lat": 40.5016892,
+    "lng": -114.0338243,
+    "radius": 5,
+    "pierCount": 1,
+    "type": "mixed"
+  }
+]

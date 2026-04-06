@@ -1,0 +1,12 @@
+[
+  {
+    "id": "oklahoma-all",
+    "name": "Oklahoma Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Oklahoma.",
+    "lat": 36.0611884,
+    "lng": -96.0571013,
+    "radius": 5,
+    "pierCount": 203,
+    "type": "mixed"
+  }
+]

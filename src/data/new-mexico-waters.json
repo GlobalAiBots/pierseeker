@@ -1,0 +1,12 @@
+[
+  {
+    "id": "new-mexico-all",
+    "name": "New Mexico Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in New Mexico.",
+    "lat": 33.1814249,
+    "lng": -107.1996645,
+    "radius": 5,
+    "pierCount": 48,
+    "type": "mixed"
+  }
+]

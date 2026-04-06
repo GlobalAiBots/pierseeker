@@ -1,0 +1,12 @@
+[
+  {
+    "id": "kentucky-all",
+    "name": "Kentucky Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Kentucky.",
+    "lat": 37.3135704,
+    "lng": -86.2300854,
+    "radius": 5,
+    "pierCount": 324,
+    "type": "mixed"
+  }
+]

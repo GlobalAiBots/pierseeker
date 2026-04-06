@@ -1,0 +1,12 @@
+[
+  {
+    "id": "maryland-all",
+    "name": "Maryland Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Maryland.",
+    "lat": 39.283798,
+    "lng": -76.6056614,
+    "radius": 5,
+    "pierCount": 2274,
+    "type": "mixed"
+  }
+]

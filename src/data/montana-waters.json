@@ -1,0 +1,12 @@
+[
+  {
+    "id": "montana-all",
+    "name": "Montana Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Montana.",
+    "lat": 44.5609819,
+    "lng": -104.0202891,
+    "radius": 5,
+    "pierCount": 27,
+    "type": "mixed"
+  }
+]

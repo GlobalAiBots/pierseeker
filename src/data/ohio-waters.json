@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ohio-all",
+    "name": "Ohio Fishing Piers",
+    "description": "All fishing piers, docks, and jetties in Ohio.",
+    "lat": 39.2146384,
+    "lng": -84.2798172,
+    "radius": 5,
+    "pierCount": 760,
+    "type": "mixed"
+  }
+]
