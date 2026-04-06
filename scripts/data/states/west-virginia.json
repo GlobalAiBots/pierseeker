@@ -1,36 +1,80 @@
 [
   {
-    "id": 1327140242,
-    "name": "Boat Ramp",
-    "latitude": 39.6594205,
-    "longitude": -79.9916944,
+    "id": 1169228491,
+    "name": "Fishing Pier",
+    "latitude": 39.6652565,
+    "longitude": -79.8566588,
     "state": "West Virginia",
     "stateAbbr": "WV",
     "tags": {
-      "leisure": "slipway",
-      "source": "Bing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1732570040,
-    "name": "Boat Ramp",
-    "latitude": 39.6863686,
-    "longitude": -79.9407816,
+    "id": 1169228501,
+    "name": "Fishing Pier",
+    "latitude": 39.6615004,
+    "longitude": -79.8525945,
     "state": "West Virginia",
     "stateAbbr": "WV",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 8979756360,
-    "name": "Boat Ramp",
-    "latitude": 39.5182541,
-    "longitude": -80.0916834,
+    "id": 1169228503,
+    "name": "Fishing Pier",
+    "latitude": 39.6607628,
+    "longitude": -79.8524599,
     "state": "West Virginia",
     "stateAbbr": "WV",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1278716681,
+    "name": "Fishing Pier",
+    "latitude": 39.6784222,
+    "longitude": -79.8593948,
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1287904702,
+    "name": "Fishing Pier",
+    "latitude": 39.5224588,
+    "longitude": -79.8955602,
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1287904703,
+    "name": "Fishing Pier",
+    "latitude": 39.5226727,
+    "longitude": -79.895662,
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 4020709795,
+    "name": "Bruceton Mills Public Fishing Area",
+    "latitude": 39.6602254,
+    "longitude": -79.6376877,
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "tags": {
+      "leisure": "fishing",
+      "name": "Bruceton Mills Public Fishing Area"
     }
   }
 ]

@@ -1,2175 +1,2353 @@
 [
   {
-    "id": 183528672,
-    "name": "Boat Ramp",
-    "latitude": 38.4047603,
-    "longitude": -75.0631174,
+    "id": 83225102,
+    "name": "Fishing Pier",
+    "latitude": 39.7157495,
+    "longitude": -75.5139769,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 488359971,
-    "name": "Boat Ramp",
-    "latitude": 39.4142936,
-    "longitude": -75.3209319,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "addr:street": "Road",
-      "fee": "no",
-      "leisure": "slipway",
-      "name": "Boat ramp",
-      "surface": "unpaved"
-    }
-  },
-  {
-    "id": 489036565,
-    "name": "Boat Ramp",
-    "latitude": 39.4091371,
-    "longitude": -75.0552089,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 489042221,
-    "name": "Boat Ramp",
-    "latitude": 39.4252756,
-    "longitude": -75.3585813,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "surface": "paved"
-    }
-  },
-  {
-    "id": 994212660,
-    "name": "Boat Ramp",
-    "latitude": 39.547774,
-    "longitude": -75.7027972,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
+      "access": "private",
+      "man_made": "pier",
+      "mooring": "yes",
+      "note": "The description of the mooring key \"Only explicitly marked mooring areas should be shown.\" This location has not been visited to confirm the limits of the mooring areas.",
       "source": "Yahoo"
     }
   },
   {
-    "id": 1030346060,
-    "name": "Boat Ramp",
-    "latitude": 39.388453,
-    "longitude": -75.527185,
+    "id": 85631058,
+    "name": "Fishing Pier",
+    "latitude": 39.5540952,
+    "longitude": -75.6188667,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Yahoo; knowledge",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 85631077,
+    "name": "Fishing Pier",
+    "latitude": 39.5553511,
+    "longitude": -75.6454187,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier",
+      "source": "knowledge; Bing",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 120486447,
+    "name": "Fishing Pier",
+    "latitude": 39.5781514,
+    "longitude": -75.5883488,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
       "source": "Bing"
     }
   },
   {
-    "id": 1030346062,
-    "name": "Boat Ramp",
-    "latitude": 39.388442,
-    "longitude": -75.5270621,
+    "id": 120486506,
+    "name": "Fishing Pier",
+    "latitude": 39.5784903,
+    "longitude": -75.5871427,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway",
+      "man_made": "pier",
       "source": "Bing"
     }
   },
   {
-    "id": 1030346068,
-    "name": "Boat Ramp",
-    "latitude": 39.3884475,
-    "longitude": -75.5271236,
+    "id": 129700343,
+    "name": "Fishing Pier",
+    "latitude": 38.6224752,
+    "longitude": -75.6242967,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway",
+      "man_made": "pier",
       "source": "Bing"
     }
   },
   {
-    "id": 1039442296,
-    "name": "Boat Ramp",
-    "latitude": 39.6924621,
-    "longitude": -75.5293462,
+    "id": 129700344,
+    "name": "Fishing Pier",
+    "latitude": 38.6227296,
+    "longitude": -75.6240354,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 129705490,
+    "name": "Fishing Pier",
+    "latitude": 38.6334368,
+    "longitude": -75.6179508,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 129728931,
+    "name": "Fishing Pier",
+    "latitude": 38.6329751,
+    "longitude": -75.6167236,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "source": "NAIP"
+    }
+  },
+  {
+    "id": 134579247,
+    "name": "Fishing Pier",
+    "latitude": 39.7969348,
+    "longitude": -75.413756,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 136881940,
+    "name": "Fishing Pier",
+    "latitude": 39.4259039,
+    "longitude": -75.5749445,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
       "access": "private",
-      "leisure": "slipway",
-      "source": "Bing, Oct 2007"
-    }
-  },
-  {
-    "id": 1316706296,
-    "name": "Boat Ramp",
-    "latitude": 39.4311289,
-    "longitude": -75.6011301,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1357665181,
-    "name": "Boat Ramp",
-    "latitude": 39.5047767,
-    "longitude": -75.5799715,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1564225637,
-    "name": "Boat Ramp",
-    "latitude": 39.7092561,
-    "longitude": -75.596804,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
+      "man_made": "pier",
       "source": "Bing"
     }
   },
   {
-    "id": 1606909311,
-    "name": "Boat Ramp",
-    "latitude": 39.5893966,
-    "longitude": -75.165279,
+    "id": 141796094,
+    "name": "Fishing Pier",
+    "latitude": 39.7368477,
+    "longitude": -75.5548314,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway",
-      "name": "Boat ramp"
+      "man_made": "pier",
+      "source": "Bing"
     }
   },
   {
-    "id": 1606917447,
-    "name": "Public Boat Ramp",
-    "latitude": 39.5967217,
-    "longitude": -75.1649142,
+    "id": 141797202,
+    "name": "Fishing Pier",
+    "latitude": 39.7359519,
+    "longitude": -75.5585252,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "access": "yes",
-      "fee": "no",
-      "lanes": "1",
-      "leisure": "slipway",
-      "name": "Public boat ramp"
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Bing"
     }
   },
   {
-    "id": 1673576526,
-    "name": "Boat Ramp",
-    "latitude": 38.5720434,
-    "longitude": -75.100005,
+    "id": 142957295,
+    "name": "Fishing Pier",
+    "latitude": 39.7092152,
+    "longitude": -75.5968994,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Bing"
     }
   },
   {
-    "id": 1673880957,
-    "name": "White Horse Park Boat Launch",
-    "latitude": 38.4014231,
-    "longitude": -75.1575708,
+    "id": 148285699,
+    "name": "Fishing Pier",
+    "latitude": 39.7326806,
+    "longitude": -75.5320891,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway",
-      "name": "White Horse Park Boat Launch"
+      "man_made": "pier",
+      "source": "Bing"
     }
   },
   {
-    "id": 1734742598,
-    "name": "Boat Ramp",
-    "latitude": 38.4788746,
-    "longitude": -75.0968399,
+    "id": 148397170,
+    "name": "Fishing Pier",
+    "latitude": 39.7358241,
+    "longitude": -75.5359152,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier",
+      "source": "Bing"
     }
   },
   {
-    "id": 1987684886,
-    "name": "Boat Ramp",
-    "latitude": 38.6163883,
-    "longitude": -75.1242855,
+    "id": 178582345,
+    "name": "Fishing Pier",
+    "latitude": 39.5852683,
+    "longitude": -75.5723178,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "access": "private",
-      "leisure": "slipway",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 188213426,
+    "name": "Fishing Pier",
+    "latitude": 38.6362089,
+    "longitude": -75.1679586,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
       "source": "Bing, 2010"
     }
   },
   {
-    "id": 1988362022,
-    "name": "Boat Ramp",
-    "latitude": 38.6359056,
-    "longitude": -75.167482,
+    "id": 189646634,
+    "name": "Fishing Pier",
+    "latitude": 38.5412557,
+    "longitude": -75.722649,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1989029395,
-    "name": "Boat Ramp",
-    "latitude": 38.6158049,
-    "longitude": -75.0729908,
+    "id": 197111888,
+    "name": "Fishing Pier",
+    "latitude": 39.1141712,
+    "longitude": -75.4994049,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2022472940,
-    "name": "Boat Ramp",
-    "latitude": 39.685272,
-    "longitude": -75.6322377,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2074064478,
-    "name": "Boat Ramp",
-    "latitude": 39.1141069,
-    "longitude": -75.4993283,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
+      "man_made": "pier",
       "source": "Bing",
       "source:date": "2010-06/2011-05"
     }
   },
   {
-    "id": 2074064482,
-    "name": "Boat Ramp",
-    "latitude": 39.1141522,
-    "longitude": -75.4993149,
+    "id": 205707379,
+    "name": "Fishing",
+    "latitude": 39.6614199,
+    "longitude": -75.0496251,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway",
-      "source": "Bing",
-      "source:date": "2010-06/2011-05"
+      "man_made": "pier",
+      "name": "Fishing"
     }
   },
   {
-    "id": 2156756641,
-    "name": "Boat Ramp",
-    "latitude": 39.6620144,
-    "longitude": -75.0493394,
+    "id": 225521714,
+    "name": "24 SPC",
+    "latitude": 38.6097694,
+    "longitude": -75.067696,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
+      "description": "The 24-foot shallow water boats can be used to support a natural disaster response.",
+      "floating": "yes",
+      "image": "https://www.facebook.com/USCoastGuardStationIndianRiver/photos/a.456419904456970/2118542808244663/?type=3&theater",
+      "man_made": "pier",
+      "name": "24 SPC"
     }
   },
   {
-    "id": 2178919025,
-    "name": "Boat Ramp",
-    "latitude": 39.7283143,
-    "longitude": -75.1428916,
+    "id": 225595565,
+    "name": "Fishing Pier",
+    "latitude": 38.6132142,
+    "longitude": -75.0726495,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2471568888,
-    "name": "Boat Ramp",
-    "latitude": 39.3810606,
-    "longitude": -75.2223693,
+    "id": 225595569,
+    "name": "Fishing Pier",
+    "latitude": 38.6122807,
+    "longitude": -75.0725464,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "fee": "yes",
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2582748611,
-    "name": "Boat Ramp",
-    "latitude": 38.5589645,
-    "longitude": -75.2198668,
+    "id": 225752740,
+    "name": "Fishing Pier",
+    "latitude": 39.5747864,
+    "longitude": -75.5895877,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2597399918,
-    "name": "Boat Ramp",
-    "latitude": 38.8218524,
-    "longitude": -75.2596656,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3373603322,
-    "name": "Mulberry Landing Boat Ramp",
-    "latitude": 38.4852642,
-    "longitude": -75.0773876,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "addr:city": "Frankford",
-      "addr:postcode": "19945",
-      "addr:state": "DE",
-      "addr:street": "Mulberry Landing Road",
-      "leisure": "slipway",
-      "name": "Mulberry Landing Boat Ramp"
-    }
-  },
-  {
-    "id": 3700455974,
-    "name": "Boat Ramp",
-    "latitude": 38.61393,
-    "longitude": -75.0724213,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3802639043,
-    "name": "Fort DuPont Public Boat Ramp",
-    "latitude": 39.5753164,
-    "longitude": -75.5890243,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "description": "Public Boat ramp to C&D Branch Canal, access to C&D Canal and Delaware River.",
-      "leisure": "slipway",
-      "name": "Fort DuPont Public Boat Ramp"
-    }
-  },
-  {
-    "id": 4269096129,
-    "name": "Boat Ramp",
-    "latitude": 38.4995296,
-    "longitude": -75.0845573,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4283394239,
-    "name": "James Farm Canoe Launch",
-    "latitude": 38.5789952,
-    "longitude": -75.0836497,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "James Farm Canoe Launch"
-    }
-  },
-  {
-    "id": 4283394240,
-    "name": "New Road Non-Motorized Boat Launch",
-    "latitude": 38.6705004,
-    "longitude": -75.0726043,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "New Road Non-Motorized Boat Launch"
-    }
-  },
-  {
-    "id": 4283394241,
-    "name": "Savages Ditch Kayak Launch",
-    "latitude": 38.6291691,
-    "longitude": -75.0719672,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Savages Ditch Kayak Launch"
-    }
-  },
-  {
-    "id": 4283398693,
-    "name": "Boat Ramp",
-    "latitude": 38.613858,
-    "longitude": -75.0724059,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4285304043,
-    "name": "Boat Ramp",
-    "latitude": 38.5458473,
-    "longitude": -75.0711664,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4285304060,
-    "name": "Boat Ramp",
-    "latitude": 38.5497228,
-    "longitude": -75.0636346,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4285304084,
-    "name": "Boat Ramp",
-    "latitude": 38.5542335,
-    "longitude": -75.0643638,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4288170611,
-    "name": "Lewes Public Boat Ramp",
-    "latitude": 38.7909094,
-    "longitude": -75.1656357,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Lewes Public Boat Ramp"
-    }
-  },
-  {
-    "id": 4288199037,
-    "name": "Boat Ramp",
-    "latitude": 38.5222693,
-    "longitude": -75.0687107,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4288211388,
-    "name": "Assawoman Day Area",
-    "latitude": 38.4973667,
-    "longitude": -75.0561714,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Assawoman Day Area"
-    }
-  },
-  {
-    "id": 4551648779,
-    "name": "Ingrams Pond Boat Ramp",
-    "latitude": 38.5886111,
-    "longitude": -75.3280861,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Ingrams Pond Boat Ramp"
-    }
-  },
-  {
-    "id": 4572128614,
-    "name": "Seaford Boat Ramp",
-    "latitude": 38.6334718,
-    "longitude": -75.6180236,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Seaford Boat Ramp"
-    }
-  },
-  {
-    "id": 4680032286,
-    "name": "Rosedale Public Boat Ramp",
-    "latitude": 38.5943614,
-    "longitude": -75.2083745,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Rosedale Public Boat Ramp"
-    }
-  },
-  {
-    "id": 4680033415,
-    "name": "Massey'S Landing Public Boat Ramp",
-    "latitude": 38.6252153,
-    "longitude": -75.0997941,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Massey's Landing Public Boat Ramp"
-    }
-  },
-  {
-    "id": 4682199624,
-    "name": "Boat Ramp",
-    "latitude": 38.5810162,
-    "longitude": -75.1523483,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4684674991,
-    "name": "Pot-Nets Creekside Boat Ramp",
-    "latitude": 38.6431206,
-    "longitude": -75.1472289,
+    "id": 233980561,
+    "name": "Fishing Pier",
+    "latitude": 39.5737932,
+    "longitude": -75.4844331,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
       "access": "private",
-      "leisure": "slipway",
-      "name": "Pot-Nets Creekside Boat Ramp"
-    }
-  },
-  {
-    "id": 4915885581,
-    "name": "Millsboro Pond Boat Ramp",
-    "latitude": 38.5977602,
-    "longitude": -75.2929582,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Millsboro Pond Boat Ramp"
-    }
-  },
-  {
-    "id": 4945179035,
-    "name": "Boat Ramp",
-    "latitude": 38.4558892,
-    "longitude": -75.0732265,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4945181787,
-    "name": "Boat Ramp",
-    "latitude": 38.5768464,
-    "longitude": -75.0892228,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4945181788,
-    "name": "Boat Ramp",
-    "latitude": 38.5738085,
-    "longitude": -75.0937214,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5009010926,
-    "name": "Boat Ramp",
-    "latitude": 38.4653761,
-    "longitude": -75.0866939,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5034851855,
-    "name": "Boat Ramp",
-    "latitude": 38.5915791,
-    "longitude": -75.1261276,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5112066465,
-    "name": "Boat Ramp",
-    "latitude": 38.6799008,
-    "longitude": -75.5943195,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5114017313,
-    "name": "Boat Ramp",
-    "latitude": 38.6434337,
-    "longitude": -75.5514568,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5141322224,
-    "name": "Greenwich Boatworks & Marina",
-    "latitude": 39.3837733,
-    "longitude": -75.3502529,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "fee": "yes",
-      "leisure": "slipway",
-      "name": "Greenwich Boatworks & Marina"
-    }
-  },
-  {
-    "id": 5195636508,
-    "name": "Boat Ramp",
-    "latitude": 38.5586872,
-    "longitude": -75.5547867,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5344160552,
-    "name": "Boat Ramp",
-    "latitude": 38.7788006,
-    "longitude": -75.3099427,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5595631037,
-    "name": "Boat Ramp",
-    "latitude": 38.54557,
-    "longitude": -75.7174228,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "canoe": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "motorboat": "yes"
-    }
-  },
-  {
-    "id": 5621066260,
-    "name": "Boat Ramp",
-    "latitude": 38.4233189,
-    "longitude": -75.5653515,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5693104699,
-    "name": "Boat Ramp",
-    "latitude": 39.7172556,
-    "longitude": -75.4763778,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5731394372,
-    "name": "Kayak Launch",
-    "latitude": 38.5010531,
-    "longitude": -75.071239,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Kayak Launch"
-    }
-  },
-  {
-    "id": 6298257631,
-    "name": "Boat Ramp",
-    "latitude": 38.7762394,
-    "longitude": -75.3126729,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6386982654,
-    "name": "Boat Ramp",
-    "latitude": 38.9042749,
-    "longitude": -75.4862536,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6386982660,
-    "name": "Boat Ramp",
-    "latitude": 38.9114958,
-    "longitude": -75.465068,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6568959296,
-    "name": "Boat Ramp",
-    "latitude": 38.4776025,
-    "longitude": -75.0897469,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6747154796,
-    "name": "Riverdale Boat Ramp",
-    "latitude": 38.5930174,
-    "longitude": -75.1863651,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Riverdale Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154797,
-    "name": "Pot-Nets Bayside Boat Ramp",
-    "latitude": 38.6113629,
-    "longitude": -75.1548999,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Pot-Nets Bayside Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154798,
-    "name": "Pontoon Point Boat Ramp",
-    "latitude": 38.612739,
-    "longitude": -75.1481699,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Pontoon Point Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154799,
-    "name": "Boat Ramp",
-    "latitude": 38.6132665,
-    "longitude": -75.1405063,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6747154800,
-    "name": "Pot-Nets Seaside Boat Ramp",
-    "latitude": 38.6198538,
-    "longitude": -75.0992297,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Pot-Nets Seaside Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154801,
-    "name": "Pot-Nets Dockside Boat Ramp",
-    "latitude": 38.6255819,
-    "longitude": -75.1082324,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Pot-Nets Dockside Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154802,
-    "name": "Pot-Nets Coveside Boat Ramp",
-    "latitude": 38.6308439,
-    "longitude": -75.1180969,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Pot-Nets Coveside Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154803,
-    "name": "Bay City Boat Ramp",
-    "latitude": 38.6339282,
-    "longitude": -75.1257513,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Bay City Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154804,
-    "name": "Rehoboth Shores Boat Ramp",
-    "latitude": 38.6338752,
-    "longitude": -75.1326204,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Rehoboth Shores Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154805,
-    "name": "Mariner'S Cove Boat Ramp",
-    "latitude": 38.6284457,
-    "longitude": -75.129459,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Mariner's Cove Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154806,
-    "name": "Leisure Point Boat Ramp",
-    "latitude": 38.6395926,
-    "longitude": -75.1575982,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Leisure Point Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154807,
-    "name": "Winding Creek Village Boat Ramp",
-    "latitude": 38.6435832,
-    "longitude": -75.1597692,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "name": "Winding Creek Village Boat Ramp"
-    }
-  },
-  {
-    "id": 6747154808,
-    "name": "Boat Ramp",
-    "latitude": 38.5915626,
-    "longitude": -75.2119554,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6773665662,
-    "name": "Malone'S Bayside Marina",
-    "latitude": 38.6247953,
-    "longitude": -75.1204513,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Malone's Bayside Marina"
-    }
-  },
-  {
-    "id": 6791971193,
-    "name": "Boat Ramp",
-    "latitude": 38.6555344,
-    "longitude": -75.1733892,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6821257133,
-    "name": "Boat Ramp",
-    "latitude": 39.3128994,
-    "longitude": -75.1564704,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6821400887,
-    "name": "Boat Ramp",
-    "latitude": 39.3349799,
-    "longitude": -75.2022144,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "surface": "paved"
-    }
-  },
-  {
-    "id": 6829145503,
-    "name": "Hancock Harbor",
-    "latitude": 39.3770403,
-    "longitude": -75.3557161,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "fee": "yes",
-      "leisure": "slipway",
-      "name": "Hancock Harbor",
-      "website": "http://www.hancockharbor.com/"
-    }
-  },
-  {
-    "id": 6833051851,
-    "name": "Boat Ramp",
-    "latitude": 39.4264213,
-    "longitude": -75.2359113,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "fee": "no",
-      "leisure": "slipway",
-      "trailer": "yes"
-    }
-  },
-  {
-    "id": 6845177744,
-    "name": "Boat Ramp",
-    "latitude": 38.9975246,
-    "longitude": -75.7860125,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "charge": "5 USD",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6845254939,
-    "name": "Boat Ramp",
-    "latitude": 38.6788412,
-    "longitude": -75.7748402,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6845254941,
-    "name": "Boat Ramp",
-    "latitude": 38.6787858,
-    "longitude": -75.7748518,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6845255655,
-    "name": "Boat Ramp",
-    "latitude": 38.6881111,
-    "longitude": -75.7702305,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6853713041,
-    "name": "Boat Ramp",
-    "latitude": 39.4477427,
-    "longitude": -75.2405188,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6858933863,
-    "name": "Boat Ramp",
-    "latitude": 39.391787,
-    "longitude": -75.2029169,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6901659515,
-    "name": "Boat Ramp",
-    "latitude": 39.0679382,
-    "longitude": -75.7362245,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6936879114,
-    "name": "Boat Ramp",
-    "latitude": 38.5948478,
-    "longitude": -75.2879346,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6936889523,
-    "name": "Boat Ramp",
-    "latitude": 38.5945944,
-    "longitude": -75.2892845,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7041218319,
-    "name": "Boat Ramp",
-    "latitude": 38.5752227,
-    "longitude": -75.7929889,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7056149488,
-    "name": "Boat Ramp",
-    "latitude": 38.5570681,
-    "longitude": -75.5774653,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7198573144,
-    "name": "Boat Ramp",
-    "latitude": 39.246153,
-    "longitude": -75.1302746,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "leisure": "slipway",
-      "parking": "yes"
-    }
-  },
-  {
-    "id": 7499993128,
-    "name": "Boat Ramp",
-    "latitude": 39.1683106,
-    "longitude": -75.520993,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7567854284,
-    "name": "Boat Ramp",
-    "latitude": 38.544424,
-    "longitude": -75.0824512,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7567870076,
-    "name": "Boat Ramp",
-    "latitude": 38.5571856,
-    "longitude": -75.0885915,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7600896361,
-    "name": "Boat Ramp",
-    "latitude": 38.5829666,
-    "longitude": -75.2532652,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7690092368,
-    "name": "Boat Ramp",
-    "latitude": 38.5874474,
-    "longitude": -75.0748825,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "permissive",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7706498924,
-    "name": "Boat Ramp",
-    "latitude": 38.6162,
-    "longitude": -75.0728865,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7857943769,
-    "name": "Boat Ramp",
-    "latitude": 38.6278064,
-    "longitude": -75.6461943,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7880207825,
-    "name": "Boat Ramp",
-    "latitude": 39.0460718,
-    "longitude": -75.393626,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7899233667,
-    "name": "Boat Ramp",
-    "latitude": 38.5439906,
-    "longitude": -75.0652695,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7990714601,
-    "name": "Coursey Pond Boat Ramp",
-    "latitude": 38.9895047,
-    "longitude": -75.5113258,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Coursey Pond Boat Ramp"
-    }
-  },
-  {
-    "id": 8009988386,
-    "name": "Boat Ramp",
-    "latitude": 38.8207199,
-    "longitude": -75.2655324,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8274481938,
-    "name": "Boat Ramp",
-    "latitude": 38.5405853,
-    "longitude": -75.6365346,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8283838417,
-    "name": "Boat Ramp",
-    "latitude": 38.5643198,
-    "longitude": -75.6723153,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8413288424,
-    "name": "Boat Ramp",
-    "latitude": 38.777736,
-    "longitude": -75.1407576,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8448558798,
-    "name": "Boat Ramp",
-    "latitude": 39.2383236,
-    "longitude": -75.0957764,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8821414257,
-    "name": "Boat Ramp",
-    "latitude": 38.4677638,
-    "longitude": -75.1076374,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8872997348,
-    "name": "Boat Ramp",
-    "latitude": 38.6877936,
-    "longitude": -75.0755327,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8913997014,
-    "name": "Boat Ramp",
-    "latitude": 38.5633849,
-    "longitude": -75.5393909,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9122291530,
-    "name": "Boat Ramp",
-    "latitude": 39.7487329,
-    "longitude": -75.455686,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9382970490,
-    "name": "Boat Ramp",
-    "latitude": 39.2430315,
-    "longitude": -75.1700948,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9649305585,
-    "name": "Boat Ramp",
-    "latitude": 39.6561487,
-    "longitude": -75.5686859,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9740490651,
-    "name": "Cedar Creek Public Boat Ramp",
-    "latitude": 38.9392955,
-    "longitude": -75.321624,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Cedar Creek Public Boat Ramp"
-    }
-  },
-  {
-    "id": 9996572683,
-    "name": "Boat Ramp",
-    "latitude": 38.5909597,
-    "longitude": -75.1223222,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10104720781,
-    "name": "Boat Ramp",
-    "latitude": 38.6379233,
-    "longitude": -75.6105365,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10104720782,
-    "name": "Boat Ramp",
-    "latitude": 38.6366368,
-    "longitude": -75.6115592,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10809764237,
-    "name": "Boat Ramp",
-    "latitude": 38.7793578,
-    "longitude": -75.1414364,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10879233113,
-    "name": "Boat Ramp",
-    "latitude": 39.4210808,
-    "longitude": -75.4270216,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "canoe": "yes",
-      "leisure": "slipway",
-      "source": "Bing",
-      "tidal": "yes"
-    }
-  },
-  {
-    "id": 10879241772,
-    "name": "Boat Ramp",
-    "latitude": 39.4333335,
-    "longitude": -75.4187503,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "source": "Bing"
-    }
-  },
-  {
-    "id": 10879241774,
-    "name": "Boat Ramp",
-    "latitude": 39.4438468,
-    "longitude": -75.4090068,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "source": "Bing"
-    }
-  },
-  {
-    "id": 10879246817,
-    "name": "Boat Ramp",
-    "latitude": 39.434397,
-    "longitude": -75.4174834,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway",
-      "source": "Bing"
-    }
-  },
-  {
-    "id": 10936864803,
-    "name": "Boat Ramp",
-    "latitude": 38.9807009,
-    "longitude": -75.529365,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10950879678,
-    "name": "Boat Ramp",
-    "latitude": 39.058501,
-    "longitude": -75.3977105,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10950879680,
-    "name": "Boat Ramp",
-    "latitude": 39.058527,
-    "longitude": -75.3976464,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10950879682,
-    "name": "Boat Ramp",
-    "latitude": 39.0585557,
-    "longitude": -75.3975734,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10950879684,
-    "name": "Boat Ramp",
-    "latitude": 39.0582019,
-    "longitude": -75.398351,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10950886724,
-    "name": "Boat Ramp",
-    "latitude": 39.1603142,
-    "longitude": -75.4442089,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10951014561,
-    "name": "Boat Ramp",
-    "latitude": 39.194291,
-    "longitude": -75.4030368,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10951014562,
-    "name": "Boat Ramp",
-    "latitude": 39.1943123,
-    "longitude": -75.4028957,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10951019997,
-    "name": "Boat Ramp",
-    "latitude": 39.0760727,
-    "longitude": -75.4170201,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10951053605,
-    "name": "Boat Ramp",
-    "latitude": 39.0572949,
-    "longitude": -75.3995067,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11017797933,
-    "name": "Boat Ramp",
-    "latitude": 38.582786,
-    "longitude": -75.06252,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "fee": "no",
-      "leisure": "slipway",
-      "surface": "concrete"
-    }
-  },
-  {
-    "id": 11303113054,
-    "name": "Boat Ramp",
-    "latitude": 39.4081449,
-    "longitude": -75.0671326,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11481314079,
-    "name": "Boat Ramp",
-    "latitude": 38.7933407,
-    "longitude": -75.2728529,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11628129481,
-    "name": "Boat Ramp",
-    "latitude": 39.4086368,
-    "longitude": -75.5992687,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11628129534,
-    "name": "Boat Ramp",
-    "latitude": 39.4526987,
-    "longitude": -75.6543483,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11628129557,
-    "name": "Boat Ramp",
-    "latitude": 39.4386169,
-    "longitude": -75.6933764,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11632324006,
-    "name": "Boat Ramp",
-    "latitude": 39.2919552,
-    "longitude": -75.1973361,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11632324134,
-    "name": "Boat Ramp",
-    "latitude": 39.2977329,
-    "longitude": -75.2476996,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11772447167,
-    "name": "Boat Ramp",
-    "latitude": 39.3736934,
-    "longitude": -75.2931349,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "canoe": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "tidal": "yes"
-    }
-  },
-  {
-    "id": 12023664304,
-    "name": "Boat Ramp",
-    "latitude": 38.877463,
-    "longitude": -75.2759004,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "canoe": "yes",
-      "leisure": "slipway",
-      "parking": "yes"
-    }
-  },
-  {
-    "id": 12122176860,
-    "name": "Boat Ramp",
-    "latitude": 39.2231119,
-    "longitude": -75.4926132,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12134877497,
-    "name": "Boat Ramp",
-    "latitude": 39.6696551,
-    "longitude": -75.4661227,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "canoe": "discouraged",
-      "fee": "no",
-      "leisure": "slipway",
-      "parking": "yes",
-      "surface": "concrete",
-      "trailer": "yes"
-    }
-  },
-  {
-    "id": 12134881394,
-    "name": "Pittsfield Street Boat Launch",
-    "latitude": 39.6402308,
-    "longitude": -75.4800464,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "name": "Pittsfield Street Boat Launch",
-      "parking": "yes"
-    }
-  },
-  {
-    "id": 12134881589,
-    "name": "Boat Ramp",
-    "latitude": 39.6718781,
-    "longitude": -75.4457802,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12134946907,
-    "name": "Boat Ramp",
-    "latitude": 39.5792114,
-    "longitude": -75.4762245,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12134946959,
-    "name": "Boat Ramp",
-    "latitude": 39.5799008,
-    "longitude": -75.4804896,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "customers",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12137608872,
-    "name": "Boat Ramp",
-    "latitude": 39.5284359,
-    "longitude": -75.2679116,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "access": "yes",
-      "bin": "yes",
-      "camping": "no",
-      "canoe": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "opening_hours": "sunrise-sunset",
-      "parking": "no",
-      "picnic_table": "yes",
-      "surface": "concrete",
-      "toilets": "no"
-    }
-  },
-  {
-    "id": 12429090151,
-    "name": "Boat Ramp",
-    "latitude": 39.4544828,
-    "longitude": -75.4312225,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12434381890,
-    "name": "Boat Ramp",
-    "latitude": 39.3508594,
-    "longitude": -75.2581025,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12542660806,
-    "name": "Boat Ramp",
-    "latitude": 38.5760857,
-    "longitude": -75.7942919,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12542660833,
-    "name": "Boat Ramp",
-    "latitude": 38.6397076,
-    "longitude": -75.6116611,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "canoe": "designated",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12623805142,
-    "name": "Boat Ramp",
-    "latitude": 39.3770126,
-    "longitude": -75.0365948,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12697407166,
-    "name": "Boat Ramp",
-    "latitude": 39.3888704,
-    "longitude": -75.6347508,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 13432920323,
-    "name": "Unpowered Boatslip",
-    "latitude": 38.662177,
-    "longitude": -75.1725514,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Unpowered Boatslip",
-      "surface": "sand"
-    }
-  },
-  {
-    "id": 13433061666,
-    "name": "Boat Ramp",
-    "latitude": 38.6606,
-    "longitude": -75.1698229,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 13433061667,
-    "name": "Boat Ramp",
-    "latitude": 38.6654484,
-    "longitude": -75.1824271,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 429655848,
-    "name": "Boat Ramp",
-    "latitude": 38.7909308,
-    "longitude": -75.1654274,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 429655849,
-    "name": "Boat Ramp",
-    "latitude": 38.7910408,
-    "longitude": -75.165662,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 429655850,
-    "name": "Boat Ramp",
-    "latitude": 38.7909882,
-    "longitude": -75.1655523,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 470362351,
-    "name": "Scotton Landing Slipway",
-    "latitude": 39.0848923,
-    "longitude": -75.4604522,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Scotton Landing Slipway",
-      "source": "bing;local knowledge",
-      "vehicle": "yes"
-    }
-  },
-  {
-    "id": 545358595,
-    "name": "Boat Ramp",
-    "latitude": 39.553162,
-    "longitude": -75.7127932,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 730842718,
-    "name": "Boat Ramp",
-    "latitude": 38.9712395,
-    "longitude": -75.7996249,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "charge": "5 USD",
-      "fee": "yes",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "website": "https://www.carolinemd.org/344/Boat-Ramps-Permit-Requirements"
-    }
-  },
-  {
-    "id": 737192371,
-    "name": "Boat Ramp",
-    "latitude": 39.0679395,
-    "longitude": -75.7361519,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 740934169,
-    "name": "Cupola Park Boat Ramp",
-    "latitude": 38.594531,
-    "longitude": -75.2892654,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "name": "Cupola Park Boat Ramp",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 740935002,
-    "name": "Cupola Park Boat Ramp",
-    "latitude": 38.5948583,
-    "longitude": -75.2880355,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "name": "Cupola Park Boat Ramp",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 809382836,
-    "name": "Boat Ramp",
-    "latitude": 38.5443737,
-    "longitude": -75.0825139,
-    "state": "Delaware",
-    "stateAbbr": "DE",
-    "tags": {
       "highway": "path",
-      "leisure": "slipway",
-      "surface": "ground"
+      "man_made": "pier"
     }
   },
   {
-    "id": 822651321,
-    "name": "Boat Ramp",
-    "latitude": 38.5298401,
-    "longitude": -75.4799517,
+    "id": 257355170,
+    "name": "Fishing Pier",
+    "latitude": 39.683572,
+    "longitude": -75.5097828,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "fee": "yes",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 905991260,
-    "name": "Boat Ramp",
-    "latitude": 38.7874321,
-    "longitude": -75.1611486,
+    "id": 1451978943,
+    "name": "Crabbing Pier",
+    "latitude": 38.6655755,
+    "longitude": -75.1803225,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier",
+      "name": "Crabbing Pier"
     }
   },
   {
-    "id": 1017265437,
-    "name": "Boat Ramp",
-    "latitude": 39.2430064,
-    "longitude": -75.1700344,
+    "id": 305819026,
+    "name": "Fishing Pier",
+    "latitude": 38.5842234,
+    "longitude": -75.1972839,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1096334714,
-    "name": "Boat Ramp",
-    "latitude": 38.4232696,
-    "longitude": -75.5654984,
+    "id": 318739236,
+    "name": "Fishing Pier",
+    "latitude": 39.7360184,
+    "longitude": -75.5520185,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "parking_aisle"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1356288213,
-    "name": "Boat Ramp",
-    "latitude": 39.6483695,
-    "longitude": -75.5324157,
+    "id": 318739237,
+    "name": "Fishing Pier",
+    "latitude": 39.7300654,
+    "longitude": -75.561081,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1412321724,
-    "name": "Boat Ramp",
-    "latitude": 38.5439945,
-    "longitude": -75.0653057,
+    "id": 318739240,
+    "name": "Fishing Pier",
+    "latitude": 39.7344322,
+    "longitude": -75.5440825,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "asphalt"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1451978892,
-    "name": "Boat Ramp",
-    "latitude": 38.6649673,
-    "longitude": -75.1783974,
+    "id": 318739249,
+    "name": "Fishing Pier",
+    "latitude": 39.7359149,
+    "longitude": -75.5407435,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 372327894,
+    "name": "Fishing Pier",
+    "latitude": 39.5534636,
+    "longitude": -75.7188236,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 384741989,
+    "name": "Children's Fishing Pier",
+    "latitude": 38.7202708,
+    "longitude": -75.0800838,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "name": "Children's Fishing Pier"
+    }
+  },
+  {
+    "id": 427723615,
+    "name": "Fishing Pier",
+    "latitude": 38.5011351,
+    "longitude": -75.0713597,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 427732570,
+    "name": "Holts Landing State Park Pier",
+    "latitude": 38.5919442,
+    "longitude": -75.1282962,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "name": "Holts Landing State Park Pier"
+    }
+  },
+  {
+    "id": 428022876,
+    "name": "Fishing Pier",
+    "latitude": 38.5891095,
+    "longitude": -75.0633418,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 441550388,
+    "name": "Fishing Pier",
+    "latitude": 39.6017202,
+    "longitude": -75.5537967,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "bicycle": "yes",
+      "foot": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 480917284,
+    "name": "Rehoboth Bay Park Pier",
+    "latitude": 38.6866075,
+    "longitude": -75.1270765,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "name": "Rehoboth Bay Park Pier"
+    }
+  },
+  {
+    "id": 497953842,
+    "name": "Fishing Pier",
+    "latitude": 39.7953477,
+    "longitude": -75.4124263,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 527381916,
+    "name": "Fishing Pier",
+    "latitude": 38.6598525,
+    "longitude": -75.1697347,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 527381920,
+    "name": "Fishing Pier",
+    "latitude": 38.6588435,
+    "longitude": -75.1668361,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 527381931,
+    "name": "Fishing Pier",
+    "latitude": 38.6577192,
+    "longitude": -75.1592696,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 527381934,
+    "name": "Fishing Pier",
+    "latitude": 38.6583146,
+    "longitude": -75.1574632,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 527381937,
+    "name": "Fishing Pier",
+    "latitude": 38.6574217,
+    "longitude": -75.1565764,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 527634507,
+    "name": "Fishing Pier",
+    "latitude": 39.0998114,
+    "longitude": -75.5576858,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 528711602,
+    "name": "Fishing Pier",
+    "latitude": 38.7078697,
+    "longitude": -75.0837085,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545084628,
+    "name": "Fishing Pier",
+    "latitude": 38.5742411,
+    "longitude": -75.1099828,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545124515,
+    "name": "Fishing Pier",
+    "latitude": 39.5618006,
+    "longitude": -75.7306362,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "description": "fishing pier",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545358620,
+    "name": "Fishing Pier",
+    "latitude": 39.5477731,
+    "longitude": -75.7046265,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545358622,
+    "name": "Fishing Pier",
+    "latitude": 39.5471241,
+    "longitude": -75.7044748,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545358633,
+    "name": "Fishing Pier",
+    "latitude": 39.5468681,
+    "longitude": -75.70856,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 545667028,
+    "name": "Fishing Pier",
+    "latitude": 39.5627695,
+    "longitude": -75.7093137,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 546688882,
+    "name": "Fishing Pier",
+    "latitude": 39.5593122,
+    "longitude": -75.7204627,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 549787486,
+    "name": "Fishing Pier",
+    "latitude": 38.7762351,
+    "longitude": -75.1389496,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 583575031,
+    "name": "Fishing Pier",
+    "latitude": 39.2774904,
+    "longitude": -75.5805691,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 583790024,
+    "name": "Fishing Pier",
+    "latitude": 39.1548475,
+    "longitude": -75.518431,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1236478375,
+    "name": "Milton Fishing Pier",
+    "latitude": 38.7772697,
+    "longitude": -75.3124699,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "area": "yes",
+      "leisure": "fishing",
+      "man_made": "pier",
+      "name": "Milton Fishing Pier"
+    }
+  },
+  {
+    "id": 586376163,
+    "name": "Fishing Pier",
+    "latitude": 38.778715,
+    "longitude": -75.309961,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 587282335,
+    "name": "Fishing Pier",
+    "latitude": 38.6403453,
+    "longitude": -75.6106894,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 593957860,
+    "name": "Scotton Landing Pier",
+    "latitude": 39.0849307,
+    "longitude": -75.4606604,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Scotton Landing Pier"
+    }
+  },
+  {
+    "id": 593961072,
+    "name": "Ferry Street",
+    "latitude": 38.543926,
+    "longitude": -75.7201234,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "pedestrian",
+      "man_made": "pier",
+      "name": "Ferry Street",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Wicomico, MD",
+      "tiger:name_base": "Ferry",
+      "tiger:name_type": "St",
+      "tiger:reviewed": "no",
+      "tiger:zip_left": "21861",
+      "tiger:zip_right": "21861"
+    }
+  },
+  {
+    "id": 649327884,
+    "name": "Fishing Pier",
+    "latitude": 39.1256162,
+    "longitude": -75.5446464,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 697186441,
+    "name": "Fishing Pier",
+    "latitude": 39.184613,
+    "longitude": -75.3996892,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 702169161,
+    "name": "Fishing Pier",
+    "latitude": 38.566745,
+    "longitude": -75.0648863,
     "state": "Delaware",
     "stateAbbr": "DE",
     "tags": {
       "access": "private",
-      "leisure": "slipway"
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 712973322,
+    "name": "Fishing Pier",
+    "latitude": 38.5816216,
+    "longitude": -75.1532439,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 712973324,
+    "name": "Fishing Pier",
+    "latitude": 38.5817821,
+    "longitude": -75.1520819,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 712973326,
+    "name": "Fishing Pier",
+    "latitude": 38.5825053,
+    "longitude": -75.1553338,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 721192395,
+    "name": "Fishing Pier",
+    "latitude": 38.6419592,
+    "longitude": -75.1303213,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 722101883,
+    "name": "Fishing Pier",
+    "latitude": 38.6222343,
+    "longitude": -75.1146036,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 722101884,
+    "name": "Fishing Pier",
+    "latitude": 38.6222233,
+    "longitude": -75.1115713,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 722101887,
+    "name": "Fishing Pier",
+    "latitude": 38.6225377,
+    "longitude": -75.111608,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 722115413,
+    "name": "Fishing Pier",
+    "latitude": 38.6340799,
+    "longitude": -75.109945,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 723581136,
+    "name": "Fishing Pier",
+    "latitude": 38.5948014,
+    "longitude": -75.2016383,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 723581138,
+    "name": "Fishing Pier",
+    "latitude": 38.5944166,
+    "longitude": -75.2025206,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 723979896,
+    "name": "Fishing Pier",
+    "latitude": 38.629374,
+    "longitude": -75.1032559,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 724208929,
+    "name": "Fishing Pier",
+    "latitude": 38.6171709,
+    "longitude": -75.1021659,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 724244944,
+    "name": "Fishing Pier",
+    "latitude": 38.6378748,
+    "longitude": -75.1698325,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 728128589,
+    "name": "Mispillion Riverwalk",
+    "latitude": 38.9145719,
+    "longitude": -75.4213836,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier",
+      "name": "Mispillion Riverwalk"
+    }
+  },
+  {
+    "id": 729212213,
+    "name": "Boat Dock",
+    "latitude": 38.5449806,
+    "longitude": -75.7626997,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Boat Dock"
+    }
+  },
+  {
+    "id": 730852019,
+    "name": "Fishing Pier",
+    "latitude": 38.6941021,
+    "longitude": -75.7724796,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 731572380,
+    "name": "Fishing Pier",
+    "latitude": 38.6595384,
+    "longitude": -75.1839108,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 731572408,
+    "name": "Fishing Pier",
+    "latitude": 38.6594111,
+    "longitude": -75.1875179,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 741773351,
+    "name": "Fishing Pier",
+    "latitude": 38.6852322,
+    "longitude": -75.7695661,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 741773353,
+    "name": "Fishing Pier",
+    "latitude": 38.6783179,
+    "longitude": -75.7747377,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 744199052,
+    "name": "Fishing Pier",
+    "latitude": 38.5712238,
+    "longitude": -75.7782134,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "fishing": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 744511641,
+    "name": "Fishing Pier",
+    "latitude": 39.6572095,
+    "longitude": -75.5611282,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 744523839,
+    "name": "Cape Henlopen State Park Fishing Pier",
+    "latitude": 38.7881603,
+    "longitude": -75.1025154,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "bicycle": "yes",
+      "foot": "yes",
+      "man_made": "pier",
+      "name": "Cape Henlopen State Park Fishing Pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 744523220,
+    "name": "Cape Shores Private Pier",
+    "latitude": 38.7854879,
+    "longitude": -75.108165,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Cape Shores Private Pier"
+    }
+  },
+  {
+    "id": 744523340,
+    "name": "Fishing Pier",
+    "latitude": 38.7830047,
+    "longitude": -75.1158334,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1002130113,
+    "name": "Lewes Terminal Pier",
+    "latitude": 38.782916,
+    "longitude": -75.1193704,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "name": "Lewes Terminal Pier"
+    }
+  },
+  {
+    "id": 746472439,
+    "name": "Fishing Pier",
+    "latitude": 38.7788578,
+    "longitude": -75.7298287,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 754838744,
+    "name": "Fishing Pier",
+    "latitude": 39.689839,
+    "longitude": -75.5216487,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "bridge:support": "pier",
+      "man_made": "pier",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 754838745,
+    "name": "Fishing Pier",
+    "latitude": 39.6874924,
+    "longitude": -75.5146434,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "bridge:support": "pier",
+      "man_made": "pier",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 755355869,
+    "name": "Fishing Pier",
+    "latitude": 38.5743737,
+    "longitude": -75.7918328,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 800160383,
+    "name": "Fishing Pier",
+    "latitude": 39.3053987,
+    "longitude": -75.3766207,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 805161758,
+    "name": "Fishing Pier",
+    "latitude": 39.584807,
+    "longitude": -75.5921825,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "foot": "private",
+      "man_made": "pier",
+      "motor_vehicle": "private"
+    }
+  },
+  {
+    "id": 805161760,
+    "name": "Fishing Pier",
+    "latitude": 39.58646,
+    "longitude": -75.5944386,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "foot": "private",
+      "man_made": "pier",
+      "motor_vehicle": "private"
+    }
+  },
+  {
+    "id": 818871455,
+    "name": "Fishing Pier",
+    "latitude": 38.6898988,
+    "longitude": -75.0774113,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 818871456,
+    "name": "Fishing Pier",
+    "latitude": 38.6898209,
+    "longitude": -75.0783522,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 822523003,
+    "name": "Fishing Pier",
+    "latitude": 38.5281761,
+    "longitude": -75.4772595,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 822523004,
+    "name": "Fishing Pier",
+    "latitude": 38.5285698,
+    "longitude": -75.4792634,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 822651326,
+    "name": "Fishing Pier",
+    "latitude": 38.5274432,
+    "longitude": -75.4804893,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 823134325,
+    "name": "Coast Guard Pier",
+    "latitude": 38.7900746,
+    "longitude": -75.1628906,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "image": "https://www.dvidshub.net/image/4368640/station-roosevelt-inlet",
+      "landuse": "military",
+      "man_made": "pier",
+      "name": "Coast Guard Pier"
+    }
+  },
+  {
+    "id": 825495140,
+    "name": "Fishing Pier",
+    "latitude": 38.5750507,
+    "longitude": -75.0947982,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 827513726,
+    "name": "USCG",
+    "latitude": 39.242453,
+    "longitude": -75.1732211,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 827513727,
+    "name": "USCG",
+    "latitude": 39.2425617,
+    "longitude": -75.1732441,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "USCG"
+    }
+  },
+  {
+    "id": 827513728,
+    "name": "Fishing Pier",
+    "latitude": 39.2426714,
+    "longitude": -75.1718331,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 836697861,
+    "name": "Fishing Pier",
+    "latitude": 39.242537,
+    "longitude": -75.5158603,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 836697862,
+    "name": "Fishing Pier",
+    "latitude": 39.2421134,
+    "longitude": -75.5158636,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 844671696,
+    "name": "Fishing Pier",
+    "latitude": 39.0460735,
+    "longitude": -75.3944309,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 847019616,
+    "name": "Fishing Pier",
+    "latitude": 39.3324199,
+    "longitude": -75.471691,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 847019617,
+    "name": "Fishing Pier",
+    "latitude": 39.3328171,
+    "longitude": -75.4713225,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 859105887,
+    "name": "Fishing Pier",
+    "latitude": 39.5716774,
+    "longitude": -75.5902782,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 905812957,
+    "name": "Fishing Pier",
+    "latitude": 38.6192025,
+    "longitude": -75.0676917,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 905835563,
+    "name": "Fishing Pier",
+    "latitude": 38.6319602,
+    "longitude": -75.076158,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 905897318,
+    "name": "Fishing Pier",
+    "latitude": 38.608941,
+    "longitude": -75.0645693,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 905981927,
+    "name": "Fishing Pier",
+    "latitude": 38.7775023,
+    "longitude": -75.1404015,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 905989521,
+    "name": "Fishing Pier",
+    "latitude": 38.7923572,
+    "longitude": -75.1682648,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "waterway:type": "boat_lift"
+    }
+  },
+  {
+    "id": 905989523,
+    "name": "Fishing Pier",
+    "latitude": 38.7925001,
+    "longitude": -75.1684822,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 905991255,
+    "name": "Fishing Pier",
+    "latitude": 38.7878711,
+    "longitude": -75.1612396,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 905991256,
+    "name": "Fishing Pier",
+    "latitude": 38.78747,
+    "longitude": -75.1613406,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 940595549,
+    "name": "Fishing Pier",
+    "latitude": 39.4143327,
+    "longitude": -75.3209361,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 944043736,
+    "name": "Fishing Pier",
+    "latitude": 39.7265457,
+    "longitude": -75.7298709,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 963436701,
+    "name": "Boat Dock",
+    "latitude": 38.5506191,
+    "longitude": -75.7368673,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Boat Dock"
+    }
+  },
+  {
+    "id": 965239553,
+    "name": "Fishing Pier",
+    "latitude": 38.5410869,
+    "longitude": -75.0576729,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 989738764,
+    "name": "Fishing Pier",
+    "latitude": 39.7097744,
+    "longitude": -75.5140863,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 994980391,
+    "name": "Fishing Pier",
+    "latitude": 38.7500378,
+    "longitude": -75.2184797,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1001998935,
+    "name": "Fishing Pier",
+    "latitude": 38.8145947,
+    "longitude": -75.0925128,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "website": "http://delawarebaylights.org/OurDock.html/"
+    }
+  },
+  {
+    "id": 1001998938,
+    "name": "Fishing Pier",
+    "latitude": 38.7970918,
+    "longitude": -75.1000808,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1002130114,
+    "name": "Fishing Pier",
+    "latitude": 38.7823622,
+    "longitude": -75.1192419,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1004004223,
+    "name": "Fishing Pier",
+    "latitude": 38.5570752,
+    "longitude": -75.5772235,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1053016857,
+    "name": "Fishing Pier",
+    "latitude": 38.7441447,
+    "longitude": -75.1920655,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1053220976,
+    "name": "Old New Castle - Pennsville Ferry Wharf",
+    "latitude": 39.6612041,
+    "longitude": -75.5578764,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "floating": "no",
+      "image": "https://www.nj.com/resizer/DjxIH8ubGSm1nppxzeimM9efuKs=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/db55aa2fdf/width2048/135_1949newcastleferryaerialjpgc65fbdb40839cce9.jpeg",
+      "lit": "no",
+      "man_made": "pier",
+      "name": "Old New Castle - Pennsville Ferry Wharf",
+      "surface": "water"
+    }
+  },
+  {
+    "id": 1104211011,
+    "name": "Fishing Pier",
+    "latitude": 38.6372937,
+    "longitude": -75.6115257,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1117852030,
+    "name": "Fishing Pier",
+    "latitude": 39.7167917,
+    "longitude": -75.5179486,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "layer": "1",
+      "man_made": "pier",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 1124496277,
+    "name": "Fishing Pier",
+    "latitude": 39.751054,
+    "longitude": -75.4935262,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "description": "Edgemoor Buoy Depot operated by the U.S. Lighthouse Establishment from 1880-1925.",
+      "historic": "maritime",
+      "man_made": "pier",
+      "old_name:1880-1925": "Edgemoor Buoy Depot",
+      "source_ref": "https://archives.uslhs.org/places/edgemoor-depot",
+      "start_date": "1880"
+    }
+  },
+  {
+    "id": 1125949982,
+    "name": "Fishing Pier",
+    "latitude": 39.6125322,
+    "longitude": -75.5718677,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1125952848,
+    "name": "Fishing Pier",
+    "latitude": 39.6120262,
+    "longitude": -75.589987,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1125952862,
+    "name": "Fishing Pier",
+    "latitude": 39.6118064,
+    "longitude": -75.597054,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1125952863,
+    "name": "Fishing Pier",
+    "latitude": 39.6115996,
+    "longitude": -75.604726,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1139718797,
+    "name": "Fishing Pier",
+    "latitude": 39.5122399,
+    "longitude": -75.4793712,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1139720793,
+    "name": "Fishing Pier",
+    "latitude": 39.4983188,
+    "longitude": -75.5016842,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1147214817,
+    "name": "Fishing Pier",
+    "latitude": 39.2339171,
+    "longitude": -75.0366351,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1151130657,
+    "name": "Grove Park Canal Dock",
+    "latitude": 38.7150383,
+    "longitude": -75.0926248,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier",
+      "name": "Grove Park Canal Dock",
+      "width": "3"
+    }
+  },
+  {
+    "id": 1165386889,
+    "name": "Fishing Pier",
+    "latitude": 39.1765537,
+    "longitude": -75.5274785,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "footway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1170354534,
+    "name": "Fishing Pier",
+    "latitude": 39.4342885,
+    "longitude": -75.4176128,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1170354913,
+    "name": "Fishing Pier",
+    "latitude": 39.4438192,
+    "longitude": -75.4090433,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1178707168,
+    "name": "Fishing Pier",
+    "latitude": 39.1936461,
+    "longitude": -75.4016669,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178707505,
+    "name": "Fishing Pier",
+    "latitude": 39.160377,
+    "longitude": -75.4450069,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178708609,
+    "name": "Fishing Pier",
+    "latitude": 39.0578426,
+    "longitude": -75.3985637,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1178709654,
+    "name": "Fishing Pier",
+    "latitude": 38.9457498,
+    "longitude": -75.3161357,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1186351589,
+    "name": "Fishing Pier",
+    "latitude": 38.5826336,
+    "longitude": -75.0628043,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1211354438,
+    "name": "Fishing Pier",
+    "latitude": 38.9860121,
+    "longitude": -75.1133617,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1211485557,
+    "name": "Bayside Pier",
+    "latitude": 38.6103954,
+    "longitude": -75.1510484,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "floating": "no",
+      "horse": "no",
+      "lit": "yes",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "name": "Bayside Pier",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1219802187,
+    "name": "Fishing Pier",
+    "latitude": 39.4001304,
+    "longitude": -75.0533677,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "bridge": "pier",
+      "highway": "footway",
+      "layer": "1",
+      "man_made": "pier",
+      "surface": "metal"
+    }
+  },
+  {
+    "id": 1219802190,
+    "name": "Fishing Pier",
+    "latitude": 39.3943161,
+    "longitude": -75.0398731,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1219855249,
+    "name": "Fishing Pier",
+    "latitude": 39.4081006,
+    "longitude": -75.067065,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1220030498,
+    "name": "Fishing Pier",
+    "latitude": 39.2765025,
+    "longitude": -75.0873127,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1232817141,
+    "name": "Fishing Pier",
+    "latitude": 39.4613676,
+    "longitude": -75.4398108,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1232817151,
+    "name": "Fishing Pier",
+    "latitude": 39.4594707,
+    "longitude": -75.4528279,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1250749657,
+    "name": "Fishing Pier",
+    "latitude": 38.5676587,
+    "longitude": -75.182395,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1250985565,
+    "name": "Fishing Pier",
+    "latitude": 39.3885381,
+    "longitude": -75.5272287,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1251272069,
+    "name": "Fishing Pier",
+    "latitude": 39.2287515,
+    "longitude": -75.1477377,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1263276034,
+    "name": "Fishing Pier",
+    "latitude": 39.5186172,
+    "longitude": -75.5087691,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "mooring": "no",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 1263276043,
+    "name": "Fishing Pier",
+    "latitude": 39.5258717,
+    "longitude": -75.5161594,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1297772734,
+    "name": "Fishing Pier",
+    "latitude": 38.877624,
+    "longitude": -75.2759511,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1306958474,
+    "name": "Fishing Pier",
+    "latitude": 39.7398207,
+    "longitude": -75.0989196,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1310960097,
+    "name": "Fishing Pier",
+    "latitude": 39.640691,
+    "longitude": -75.4799968,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1343091323,
+    "name": "Fishing Pier",
+    "latitude": 39.4298005,
+    "longitude": -75.43392,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1343884309,
+    "name": "Fishing Pier",
+    "latitude": 39.6123979,
+    "longitude": -75.5815252,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1343884315,
+    "name": "Fishing Pier",
+    "latitude": 39.6124632,
+    "longitude": -75.5719298,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1349872759,
+    "name": "Fishing Pier",
+    "latitude": 39.3341705,
+    "longitude": -75.4744653,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1349897926,
+    "name": "Fishing Pier",
+    "latitude": 38.5086577,
+    "longitude": -75.7583733,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355259513,
+    "name": "Fishing Pier",
+    "latitude": 38.5456717,
+    "longitude": -75.7172221,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "lit": "no",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1355496477,
+    "name": "Fishing Pier",
+    "latitude": 38.7802643,
+    "longitude": -75.28338,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377894261,
+    "name": "Fishing Pier",
+    "latitude": 38.9329759,
+    "longitude": -75.3243777,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377894268,
+    "name": "Fishing Pier",
+    "latitude": 38.9380242,
+    "longitude": -75.3216434,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1377894271,
+    "name": "Fishing Pier",
+    "latitude": 38.9370416,
+    "longitude": -75.3223924,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1436784046,
+    "name": "Fishing Pier",
+    "latitude": 38.5499884,
+    "longitude": -75.0635179,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1442923087,
+    "name": "Fishing Pier",
+    "latitude": 39.6718105,
+    "longitude": -75.4457519,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "area": "yes",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1451978888,
+    "name": "Fishing Pier",
+    "latitude": 38.6627729,
+    "longitude": -75.1737236,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422105,
+    "name": "Fishing Pier",
+    "latitude": 38.6624244,
+    "longitude": -75.1755013,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422115,
+    "name": "Fishing Pier",
+    "latitude": 38.6663002,
+    "longitude": -75.1825247,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422127,
+    "name": "Fishing Pier",
+    "latitude": 38.6569638,
+    "longitude": -75.1698608,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422132,
+    "name": "Fishing Pier",
+    "latitude": 38.6560816,
+    "longitude": -75.1725958,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422142,
+    "name": "Fishing Pier",
+    "latitude": 38.6567498,
+    "longitude": -75.1782307,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422148,
+    "name": "Fishing Pier",
+    "latitude": 38.6578223,
+    "longitude": -75.1804494,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422175,
+    "name": "Fishing Pier",
+    "latitude": 38.6572484,
+    "longitude": -75.1826409,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422233,
+    "name": "Fishing Pier",
+    "latitude": 38.6561552,
+    "longitude": -75.1671867,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 1464422239,
+    "name": "Fishing Pier",
+    "latitude": 38.6553525,
+    "longitude": -75.1608556,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 571897336,
+    "name": "Fishing Pier",
+    "latitude": 39.5701023,
+    "longitude": -75.636455,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "description": "It is not unusual to see one or two fishermen here during daylight or shortly after dark. No signs indicate permissivness for fishing.",
+      "leisure": "fishing",
+      "source": "survey"
+    }
+  },
+  {
+    "id": 6841794758,
+    "name": "Tibury Creek",
+    "latitude": 39.1122365,
+    "longitude": -75.5113588,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "fishing": "fee",
+      "leisure": "fishing",
+      "name": "Tibury Creek"
+    }
+  },
+  {
+    "id": 6859020720,
+    "name": "Fishing Pier",
+    "latitude": 39.0200683,
+    "longitude": -75.7699754,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 6859082392,
+    "name": "Fishing Pier",
+    "latitude": 39.0158298,
+    "longitude": -75.7741519,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "fishing"
+    }
+  },
+  {
+    "id": 9330106809,
+    "name": "Crystal Lake",
+    "latitude": 39.4569918,
+    "longitude": -75.0366035,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "fishing": "yes",
+      "leisure": "fishing",
+      "name": "Crystal Lake"
     }
   }
 ]

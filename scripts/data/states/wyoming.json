@@ -1,948 +1,641 @@
 [
   {
-    "id": 466121074,
-    "name": "Moose Landing",
-    "latitude": 43.6561929,
-    "longitude": -110.714046,
+    "id": 108531012,
+    "name": "Fishing Pier",
+    "latitude": 43.7672467,
+    "longitude": -110.7441147,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway",
-      "name": "Moose Landing"
+      "bicycle": "no",
+      "foot": "yes",
+      "highway": "path",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no"
     }
   },
   {
-    "id": 1183476748,
-    "name": "Fremont Lake",
-    "latitude": 42.9051751,
-    "longitude": -109.8358203,
+    "id": 108531033,
+    "name": "Fishing Pier",
+    "latitude": 43.751716,
+    "longitude": -110.7257703,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "ele": "2263",
-      "leisure": "slipway",
-      "name": "Fremont Lake",
-      "source": "collected by Volker Bartheld, converted and imported by malenki"
+      "access": "customers",
+      "foot": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 1183479245,
-    "name": "Lewis Lake",
-    "latitude": 44.2826159,
-    "longitude": -110.6288299,
+    "id": 225648174,
+    "name": "Fishing Pier",
+    "latitude": 41.2369812,
+    "longitude": -105.8366886,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "ele": "2368",
-      "leisure": "slipway",
-      "name": "Lewis Lake",
-      "source": "collected by Volker Bartheld, converted and imported by malenki"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1195243714,
-    "name": "Boat Ramp",
-    "latitude": 42.9652811,
-    "longitude": -109.8410688,
+    "id": 246554994,
+    "name": "Fishing Pier",
+    "latitude": 43.3932549,
+    "longitude": -108.164852,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier",
+      "mooring": "yes"
     }
   },
   {
-    "id": 1195318673,
-    "name": "Boat Ramp",
-    "latitude": 42.9924293,
-    "longitude": -109.9027529,
+    "id": 264500978,
+    "name": "Fishing Pier",
+    "latitude": 44.368444,
+    "longitude": -104.780225,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2029345959,
-    "name": "Boat Ramp",
-    "latitude": 43.4416032,
-    "longitude": -109.5332288,
+    "id": 264500979,
+    "name": "Fishing Pier",
+    "latitude": 44.3655868,
+    "longitude": -104.7796027,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2029347236,
-    "name": "Boat Ramp",
-    "latitude": 43.4502771,
-    "longitude": -109.5405623,
+    "id": 264508804,
+    "name": "Fishing Pier",
+    "latitude": 44.3640026,
+    "longitude": -104.8021406,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2083857919,
-    "name": "Boat Ramp",
-    "latitude": 42.4973206,
-    "longitude": -104.9639831,
+    "id": 264508807,
+    "name": "Fishing Pier",
+    "latitude": 44.3667456,
+    "longitude": -104.8341339,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2083857926,
-    "name": "Boat Ramp",
-    "latitude": 42.496377,
-    "longitude": -104.9641726,
+    "id": 264513790,
+    "name": "Fishing Pier",
+    "latitude": 44.3728562,
+    "longitude": -104.7765611,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2488143943,
-    "name": "Boat Ramp",
-    "latitude": 43.6358061,
-    "longitude": -110.5229558,
+    "id": 338381902,
+    "name": "Fishing Pier",
+    "latitude": 41.3031668,
+    "longitude": -105.564929,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2535857732,
-    "name": "Lakeside",
-    "latitude": 43.2194014,
-    "longitude": -108.1818574,
+    "id": 342753769,
+    "name": "Fishing Pier",
+    "latitude": 43.9014881,
+    "longitude": -110.6435659,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway",
-      "name": "Lakeside"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2570824660,
-    "name": "Boat Ramp",
-    "latitude": 42.6995989,
-    "longitude": -108.9261395,
+    "id": 342753771,
+    "name": "Fishing Pier",
+    "latitude": 43.9029378,
+    "longitude": -110.6443839,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 3184553839,
-    "name": "Boat Ramp",
-    "latitude": 42.5210136,
-    "longitude": -104.9826377,
+    "id": 355281034,
+    "name": "Fishing Pier",
+    "latitude": 41.15535,
+    "longitude": -104.8278914,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 3317148190,
-    "name": "Moose Landing",
-    "latitude": 43.6558955,
-    "longitude": -110.7141656,
+    "id": 419715115,
+    "name": "Fishing Pier",
+    "latitude": 41.2139061,
+    "longitude": -105.8229458,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway",
-      "name": "Moose Landing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 3368607929,
-    "name": "Lusby Boat Ramp",
-    "latitude": 42.5936091,
-    "longitude": -106.615864,
+    "id": 427828158,
+    "name": "Fishing Pier",
+    "latitude": 41.3375153,
+    "longitude": -106.3201476,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "lanes": "1",
-      "leisure": "slipway",
-      "name": "Lusby boat ramp",
-      "surface": "paving_stones"
+      "highway": "footway",
+      "man_made": "pier",
+      "surface": "paved"
     }
   },
   {
-    "id": 3438439564,
-    "name": "Boat Ramp",
-    "latitude": 43.0959861,
-    "longitude": -109.9610245,
+    "id": 510045278,
+    "name": "Fishing Pier",
+    "latitude": 43.8387895,
+    "longitude": -110.6168946,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 3877010360,
-    "name": "Boat Ramp",
-    "latitude": 43.9006835,
-    "longitude": -110.642733,
+    "id": 510045545,
+    "name": "Fishing Pier",
+    "latitude": 43.8439705,
+    "longitude": -110.6121844,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 4078276624,
-    "name": "Boat Ramp",
-    "latitude": 42.0211039,
-    "longitude": -106.7298814,
+    "id": 599998593,
+    "name": "Fishing Pier",
+    "latitude": 44.2661913,
+    "longitude": -105.4876181,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4085821027,
-    "name": "Boat Ramp",
-    "latitude": 43.692192,
-    "longitude": -108.1632875,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5960176498,
-    "name": "Pritchard Boat Ramp",
-    "latitude": 43.2916149,
-    "longitude": -110.790804,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Pritchard Boat Ramp"
-    }
-  },
-  {
-    "id": 6135667800,
-    "name": "Boat Ramp",
-    "latitude": 42.96126,
-    "longitude": -109.8545438,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7658863575,
-    "name": "Boat Ramp",
-    "latitude": 43.1858318,
-    "longitude": -110.9548145,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "canoe": "yes",
-      "leisure": "slipway",
-      "surface": "paved",
-      "tidal": "no"
-    }
-  },
-  {
-    "id": 7658863577,
-    "name": "Boat Ramp",
-    "latitude": 43.185888,
-    "longitude": -110.9544939,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "canoe": "yes",
-      "leisure": "slipway",
-      "surface": "paved",
-      "tidal": "no"
-    }
-  },
-  {
-    "id": 7661775623,
-    "name": "Elbow Boat Ramp",
-    "latitude": 43.2131373,
-    "longitude": -110.789534,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Elbow Boat Ramp"
-    }
-  },
-  {
-    "id": 8064344128,
-    "name": "Boat Ramp",
-    "latitude": 43.7517573,
-    "longitude": -110.0049554,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8461363482,
-    "name": "Boat Ramp",
-    "latitude": 42.4683968,
-    "longitude": -106.8655428,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
-    }
-  },
-  {
-    "id": 8461363483,
-    "name": "Boat Ramp",
-    "latitude": 42.4677777,
-    "longitude": -106.8731736,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
-    }
-  },
-  {
-    "id": 8721143395,
-    "name": "Boat Ramp",
-    "latitude": 43.221726,
-    "longitude": -110.0102214,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8833024833,
-    "name": "Boat Ramp",
-    "latitude": 42.6333398,
-    "longitude": -108.8785671,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9883665463,
-    "name": "Boat Ramp",
-    "latitude": 43.3013512,
-    "longitude": -110.775597,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9938782759,
-    "name": "Boat Ramp",
-    "latitude": 42.7719178,
-    "longitude": -106.531208,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10028013917,
-    "name": "Boat Ramp",
-    "latitude": 43.2047683,
-    "longitude": -110.8207692,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10028013918,
-    "name": "Boat Ramp",
-    "latitude": 43.204494,
-    "longitude": -110.8212558,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10738345607,
-    "name": "Boulder Lake Boating Site",
-    "latitude": 42.8559649,
-    "longitude": -109.6223551,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Boulder Lake Boating Site",
-      "surface": "unpaved",
-      "website": "https://www.fs.usda.gov/recarea/btnf/recarea/?recid=82407"
-    }
-  },
-  {
-    "id": 10957878589,
-    "name": "Boat Ramp",
-    "latitude": 43.7606608,
-    "longitude": -110.6274484,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12091204293,
-    "name": "Boat Ramp",
-    "latitude": 44.0013981,
-    "longitude": -110.6915612,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "access": "permit",
-      "leisure": "slipway",
+      "area": "yes",
       "lit": "no",
-      "surface": "dirt",
-      "width": "2 ft"
+      "man_made": "pier",
+      "source": "survey",
+      "surface": "wood"
     }
   },
   {
-    "id": 12253808996,
-    "name": "New Fork River Mesa Bridge Public Access Area",
-    "latitude": 42.8369801,
-    "longitude": -109.863329,
+    "id": 654779537,
+    "name": "Fishing Pier",
+    "latitude": 42.9306584,
+    "longitude": -109.7416574,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway",
-      "name": "New Fork River Mesa Bridge Public Access Area"
+      "floating": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 13046857264,
-    "name": "Boat Ramp",
-    "latitude": 44.1758293,
-    "longitude": -107.5027813,
+    "id": 783218016,
+    "name": "Fishing Pier",
+    "latitude": 41.162025,
+    "longitude": -104.838065,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 13048156565,
-    "name": "Boat Ramp",
-    "latitude": 44.3590524,
-    "longitude": -108.3165573,
+    "id": 783218018,
+    "name": "Fishing Pier",
+    "latitude": 41.1604772,
+    "longitude": -104.8367506,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 13048156739,
-    "name": "Boat Ramp",
-    "latitude": 44.3550107,
-    "longitude": -108.309646,
+    "id": 828914086,
+    "name": "Fishing Pier",
+    "latitude": 42.5964395,
+    "longitude": -110.9171208,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 13300280539,
-    "name": "Wilson Boat Ramp",
-    "latitude": 43.5001678,
-    "longitude": -110.8408295,
+    "id": 837415764,
+    "name": "Fishing Pier",
+    "latitude": 42.5863219,
+    "longitude": -110.9056677,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "canoe": "yes",
-      "leisure": "slipway",
-      "name": "Wilson Boat Ramp",
-      "surface": "unpaved",
-      "tidal": "no"
+      "man_made": "pier"
     }
   },
   {
-    "id": 13648440877,
-    "name": "Pacific Creek Landing",
-    "latitude": 43.8457419,
-    "longitude": -110.5178476,
+    "id": 854810481,
+    "name": "Fishing Pier",
+    "latitude": 41.2850639,
+    "longitude": -106.1398123,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "permit",
-      "canoe": "permit",
-      "leisure": "slipway",
-      "name": "Pacific Creek Landing"
+      "man_made": "pier"
     }
   },
   {
-    "id": 243739368,
-    "name": "Boat Ramp",
-    "latitude": 42.030971,
-    "longitude": -110.0749512,
+    "id": 893874118,
+    "name": "Fishing Pier",
+    "latitude": 41.3705442,
+    "longitude": -106.2534093,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 245725702,
-    "name": "Boat Ramp",
-    "latitude": 43.654151,
-    "longitude": -108.1976382,
+    "id": 893874119,
+    "name": "Fishing Pier",
+    "latitude": 41.3703852,
+    "longitude": -106.252365,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 246556957,
-    "name": "Boat Ramp",
-    "latitude": 43.3306764,
-    "longitude": -108.152322,
+    "id": 904928593,
+    "name": "Fishing Pier",
+    "latitude": 43.7473877,
+    "longitude": -110.0586048,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "highway": "service",
-      "lanes": "1",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "paved"
+      "man_made": "pier"
     }
   },
   {
-    "id": 302174194,
-    "name": "Boat Ramp",
-    "latitude": 44.1726704,
-    "longitude": -107.2152344,
+    "id": 941911996,
+    "name": "Fishing Pier",
+    "latitude": 42.8595523,
+    "longitude": -110.9433089,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 302174245,
-    "name": "Boat Ramp",
-    "latitude": 44.179065,
-    "longitude": -107.2212785,
+    "id": 944093870,
+    "name": "Fishing Pier",
+    "latitude": 42.8573147,
+    "longitude": -110.9076602,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "tiger:cfcc": "A41",
-      "tiger:county": "Big Horn, WY",
-      "tiger:reviewed": "yes"
+      "man_made": "pier"
     }
   },
   {
-    "id": 318105567,
-    "name": "Boat Ramp",
-    "latitude": 43.2048564,
-    "longitude": -110.8208679,
+    "id": 955864925,
+    "name": "Fishing Pier",
+    "latitude": 43.7861321,
+    "longitude": -110.7320986,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 329061141,
-    "name": "Boat Ramp",
-    "latitude": 44.286337,
-    "longitude": -106.9237573,
+    "id": 962642335,
+    "name": "Fishing Pier",
+    "latitude": 43.7538184,
+    "longitude": -110.9479056,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 329913722,
-    "name": "Gray Reef Dam Boat Launch",
-    "latitude": 42.5683197,
-    "longitude": -106.7011215,
+    "id": 1022951650,
+    "name": "Fishing Pier",
+    "latitude": 42.120616,
+    "longitude": -110.543531,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "name": "Gray Reef Dam boat launch",
-      "service": "slipway",
-      "surface": "unpaved"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 329914552,
-    "name": "Lusby Boat Ramp",
-    "latitude": 42.5936826,
-    "longitude": -106.615801,
+    "id": 1022954807,
+    "name": "Fishing Pier",
+    "latitude": 42.1216085,
+    "longitude": -110.5372878,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway",
-      "name": "Lusby Boat Ramp"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 332081072,
-    "name": "Boat Ramp",
-    "latitude": 44.2826508,
-    "longitude": -110.6286653,
+    "id": 1042711845,
+    "name": "Fishing Pier",
+    "latitude": 42.6340991,
+    "longitude": -110.812282,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 334243322,
-    "name": "Boat Ramp",
-    "latitude": 43.838645,
-    "longitude": -110.6168779,
+    "id": 1046904755,
+    "name": "Fishing Pier",
+    "latitude": 42.8002995,
+    "longitude": -110.9263165,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 654786402,
-    "name": "Boat Ramp",
-    "latitude": 42.9614012,
-    "longitude": -109.8546588,
+    "id": 1074960331,
+    "name": "Fishing Pier",
+    "latitude": 43.8540791,
+    "longitude": -110.6754611,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "floating": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 820207785,
-    "name": "Boat Ramp",
-    "latitude": 43.2046195,
-    "longitude": -110.8213687,
+    "id": 1082381595,
+    "name": "Fishing Pier",
+    "latitude": 42.939399,
+    "longitude": -110.9477269,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 820532620,
-    "name": "Boat Ramp",
-    "latitude": 43.2132316,
-    "longitude": -110.7894831,
+    "id": 1142095504,
+    "name": "Fishing Pier",
+    "latitude": 41.3214636,
+    "longitude": -105.5860598,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "paved"
-    }
-  },
-  {
-    "id": 1083256480,
-    "name": "Boat Ramp",
-    "latitude": 42.6995484,
-    "longitude": -108.9261743,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
+      "man_made": "pier",
       "surface": "concrete"
     }
   },
   {
-    "id": 1089390447,
-    "name": "Boat Ramp",
-    "latitude": 44.369929,
-    "longitude": -104.7935741,
+    "id": 1165425893,
+    "name": "Fishing Pier",
+    "latitude": 42.9923746,
+    "longitude": -109.9028282,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "floating": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 1179807155,
-    "name": "Boat Ramp",
-    "latitude": 43.7605844,
-    "longitude": -110.6272148,
+    "id": 1190012621,
+    "name": "Fishing Pier",
+    "latitude": 44.1093606,
+    "longitude": -110.853934,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "floating": "yes",
+      "man_made": "pier",
+      "mooring": "no"
     }
   },
   {
-    "id": 1293295523,
-    "name": "Boat Ramp",
-    "latitude": 43.4006725,
-    "longitude": -108.1694912,
+    "id": 1204251270,
+    "name": "Fishing Pier",
+    "latitude": 43.5979915,
+    "longitude": -110.767517,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "highway": "service",
-      "lanes": "1",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "paved"
+      "floating": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 1293295526,
-    "name": "Boat Ramp",
-    "latitude": 43.4006338,
-    "longitude": -108.1693492,
+    "id": 1204251271,
+    "name": "Fishing Pier",
+    "latitude": 43.5979025,
+    "longitude": -110.7673112,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "highway": "service",
-      "lanes": "3",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "paved"
+      "floating": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 1293298815,
-    "name": "Boat Ramp",
-    "latitude": 43.3306636,
-    "longitude": -108.152236,
+    "id": 1204774965,
+    "name": "Fishing Pier",
+    "latitude": 43.937744,
+    "longitude": -110.6430439,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "highway": "service",
-      "lanes": "1",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "paved"
+      "man_made": "pier"
     }
   },
   {
-    "id": 1293300140,
-    "name": "Boat Ramp",
-    "latitude": 43.2628532,
-    "longitude": -108.1927098,
+    "id": 1204774985,
+    "name": "Fishing Pier",
+    "latitude": 43.9302558,
+    "longitude": -110.6403505,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "access": "yes",
-      "highway": "service",
-      "lanes": "1",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "paved"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2344073868,
-    "name": "Boat Ramp",
-    "latitude": 41.2358431,
-    "longitude": -105.8642628,
+    "id": 1219414653,
+    "name": "Fishing Pier",
+    "latitude": 41.1787322,
+    "longitude": -105.2299465,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 2409196044,
-    "name": "Boat Ramp",
-    "latitude": 41.1777683,
-    "longitude": -105.2377063,
+    "id": 1221773259,
+    "name": "Fishing Pier",
+    "latitude": 43.6401192,
+    "longitude": -110.5811581,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 2657543663,
-    "name": "Boat Ramp",
-    "latitude": 41.871402,
-    "longitude": -106.2216626,
+    "id": 1281829818,
+    "name": "Fishing Pier",
+    "latitude": 44.3922666,
+    "longitude": -110.5486681,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 3932458058,
-    "name": "Boat Ramp",
-    "latitude": 41.2382829,
-    "longitude": -105.9028183,
+    "id": 1293295524,
+    "name": "Fishing Pier",
+    "latitude": 43.4005616,
+    "longitude": -108.1694965,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 4235875871,
-    "name": "Boat Ramp",
-    "latitude": 41.888854,
-    "longitude": -105.7262986,
+    "id": 1293298817,
+    "name": "Fishing Pier",
+    "latitude": 43.3308244,
+    "longitude": -108.1522283,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 4235888205,
-    "name": "Boat Ramp",
-    "latitude": 41.3930449,
-    "longitude": -105.7875685,
+    "id": 1293300141,
+    "name": "Fishing Pier",
+    "latitude": 43.262894,
+    "longitude": -108.1927216,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 4270705328,
-    "name": "Boat Ramp",
-    "latitude": 41.270746,
-    "longitude": -106.5909222,
+    "id": 1375695265,
+    "name": "Fishing Pier",
+    "latitude": 43.6530694,
+    "longitude": -108.1998751,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 10671349214,
-    "name": "Boat Ramp",
-    "latitude": 41.3319082,
-    "longitude": -106.7273618,
+    "id": 1413251037,
+    "name": "Fishing Pier",
+    "latitude": 42.8993971,
+    "longitude": -109.8248214,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "man_made": "pier"
     }
   },
   {
-    "id": 11267506578,
-    "name": "Boat Ramp",
-    "latitude": 41.6042881,
-    "longitude": -106.0900915,
+    "id": 1448394429,
+    "name": "Fishing Pier",
+    "latitude": 42.360951,
+    "longitude": -105.7164754,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "leisure": "slipway"
+      "area": "yes",
+      "man_made": "pier"
     }
   },
   {
-    "id": 225648177,
-    "name": "Boat Ramp",
-    "latitude": 41.2369571,
-    "longitude": -105.8365263,
+    "id": 1469071664,
+    "name": "Fishing Pier",
+    "latitude": 42.8325623,
+    "longitude": -110.9740788,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "concrete"
+      "man_made": "pier"
     }
   },
   {
-    "id": 225648179,
-    "name": "Boat Ramp",
-    "latitude": 41.2358004,
-    "longitude": -105.8642956,
+    "id": 1469105810,
+    "name": "Fishing Pier",
+    "latitude": 42.850414,
+    "longitude": -110.9523923,
     "state": "Wyoming",
     "stateAbbr": "WY",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 256391038,
-    "name": "Boat Ramp",
-    "latitude": 41.024036,
-    "longitude": -106.8676137,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1131051962,
-    "name": "Boat Ramp",
-    "latitude": 41.3318719,
-    "longitude": -106.7274517,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1185632262,
-    "name": "Don Johnson Boat Ramp",
-    "latitude": 41.4509753,
-    "longitude": -106.8040892,
-    "state": "Wyoming",
-    "stateAbbr": "WY",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Don Johnson Boat Ramp"
+      "man_made": "pier"
     }
   }
 ]
