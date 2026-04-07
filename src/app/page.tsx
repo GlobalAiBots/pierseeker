@@ -1,5 +1,4 @@
 "use client";
-/* eslint-disable @next/next/no-img-element */
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
@@ -68,13 +67,13 @@ export default function Home() {
       }) }} />
 
       {/* HERO */}
-      <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
-        <img src="/images/hero-pier-fishing.jpg" alt="Fishing pier at sunset" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
-        <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(10,61,98,0.85) 0%, rgba(10,61,98,0.4) 50%, transparent 100%)' }} />
+      <section className="relative py-20 md:py-32 text-center px-4 text-white overflow-hidden" style={{ background: "linear-gradient(135deg, #0A3D62 0%, #1B6CA8 40%, #2980B9 70%, #0A3D62 100%)" }}>
+        <div className="absolute inset-0 opacity-10" style={{ backgroundImage: "url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.4'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")" }} />
 
-        <div className="relative z-10 text-center px-4 py-16 md:py-24">
+        <div className="relative z-10">
+          <p className="text-white/80 text-sm font-semibold tracking-widest uppercase mb-4">Fishing Pier Directory</p>
           <h1 className="font-[Cabin] text-5xl md:text-7xl font-bold text-white leading-tight max-w-3xl mx-auto">Every Fishing Pier in America</h1>
-          <p className="text-white/80 mt-4 max-w-lg mx-auto">{unified.length.toLocaleString()}+ fishing piers across {stateList.length} states. Find your spot.</p>
+          <p className="text-white/70 mt-4 max-w-lg mx-auto">{unified.length.toLocaleString()}+ fishing piers across {stateList.length} states. Find your spot.</p>
 
           <div className="max-w-xl mx-auto mt-8 relative">
             <input type="text" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search by state, city, water body, or pier name..." className="w-full px-5 py-4 rounded-xl bg-white border border-gray-200 text-charcoal outline-none focus:border-ocean focus:ring-2 focus:ring-ocean/20 transition shadow-2xl text-sm" />
@@ -97,15 +96,11 @@ export default function Home() {
             ))}
             <a href="#browse-states" className="text-white/70 hover:text-white font-semibold px-4 py-2 text-xs transition">Browse all {stateList.length} states &darr;</a>
           </div>
-        </div>
 
-        <div className="relative z-10 w-full mt-auto">
-          <div className="bg-[#0A3D62]/80 backdrop-blur-sm border-t border-white/10 py-5">
-            <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
-              {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: String(stateList.length), label: "States" },{ value: "Free", label: "& Updated" },{ value: "GPS", label: "Verified" }].map((s) => (
-                <div key={s.label}><p className="font-[Cabin] text-2xl font-bold text-white">{s.value}</p><p className="text-white/60 text-xs mt-0.5">{s.label}</p></div>
-              ))}
-            </div>
+          <div className="flex flex-wrap justify-center gap-8 md:gap-16 text-center mt-12">
+            {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: String(stateList.length), label: "States" },{ value: "Free", label: "& Updated" },{ value: "GPS", label: "Verified" }].map((s) => (
+              <div key={s.label}><p className="font-[Cabin] text-2xl font-bold text-white">{s.value}</p><p className="text-white/60 text-xs mt-0.5">{s.label}</p></div>
+            ))}
           </div>
         </div>
       </section>
