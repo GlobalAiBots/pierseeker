@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useMemo } from "react";
 
 import { unified, isGenericName } from "@/data/all-piers";
 import CletusAd from "@/components/CletusAd";
@@ -17,6 +17,9 @@ export default function MichiganPage() {
 
   const namedCount = useMemo(() => stPiers.filter(p => !isGenericName(p.name)).length, [stPiers]);
 
+  const [selectedCity, setSelectedCity] = useState<string | null>(null);
+  const filteredPiers = selectedCity ? stPiers.filter(p => p.city?.trim() === selectedCity) : stPiers;
+
   return (
     <div>
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(10,61,98,0.06) 0%, transparent 50%)" }}>
@@ -30,16 +33,16 @@ export default function MichiganPage() {
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
             {cityMap.slice(0, 16).map(([city, count]) => (
-              <div key={city} className="bg-white border border-gray-200 rounded-lg p-3">
+              <button key={city} onClick={() => { setSelectedCity(city === selectedCity ? null : city); document.getElementById("pier-list")?.scrollIntoView({ behavior: "smooth" }); }} className={"text-left bg-white border rounded-lg p-3 hover:border-ocean hover:bg-[#E8F4F8] transition cursor-pointer " + (selectedCity === city ? "border-ocean bg-[#E8F4F8] ring-2 ring-ocean" : "border-gray-200")}>
                 <p className="font-bold text-charcoal text-sm">{city}</p>
                 <p className="text-gray-400 text-xs">{count} pier{count !== 1 ? "s" : ""}</p>
-              </div>
+              </button>
             ))}
           </div>
         </section>
       )}
 
-      <PierList piers={stPiers} stateName="Michigan" />
+      <div id="pier-list">{selectedCity && <div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-ocean hover:underline">&larr; Show all {stPiers.length} piers</button></div>}</div><PierList piers={filteredPiers} stateName="Michigan" />
 
       <section className="max-w-4xl mx-auto px-4 py-10">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Michigan Pier Fishing FAQ</h2>

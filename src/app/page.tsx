@@ -1,4 +1,5 @@
 "use client";
+/* eslint-disable @next/next/no-img-element */
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
@@ -67,39 +68,45 @@ export default function Home() {
       }) }} />
 
       {/* HERO */}
-      <section className="relative py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(10,61,98,0.06) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(255,107,107,0.04) 0%, transparent 50%)" }}>
-        <p className="text-ocean text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Fishing Pier Directory</p>
-        <h1 className="font-[Cabin] text-4xl md:text-6xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Fishing Pier in America</h1>
-        <p className="text-gray-500 mt-4 max-w-lg mx-auto">{unified.length.toLocaleString()}+ fishing piers across {stateList.length} states. Find your spot.</p>
+      <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
+        <img src="/images/hero-pier-fishing.jpg" alt="Fishing pier at sunset" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(10,61,98,0.85) 0%, rgba(10,61,98,0.4) 50%, transparent 100%)' }} />
 
-        <div className="max-w-xl mx-auto mt-8 relative">
-          <input type="text" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search by state, city, water body, or pier name..." className="w-full px-5 py-4 rounded-xl bg-white border border-gray-200 text-charcoal outline-none focus:border-ocean focus:ring-2 focus:ring-ocean/20 transition shadow-lg text-sm" />
-          <svg className="absolute right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" /></svg>
-          {suggestions.length > 0 && (
-            <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-xl z-20 overflow-hidden">
-              {suggestions.map((s, i) => (
-                <Link key={i} href={s.href} className="flex items-center gap-3 px-4 py-3 hover:bg-ocean/5 transition border-b border-gray-100 last:border-0">
-                  <span className="text-[10px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded">{s.type}</span>
-                  <span className="text-sm text-charcoal">{s.label}</span>
-                </Link>
+        <div className="relative z-10 text-center px-4 py-16 md:py-24">
+          <h1 className="font-[Cabin] text-5xl md:text-7xl font-bold text-white leading-tight max-w-3xl mx-auto">Every Fishing Pier in America</h1>
+          <p className="text-white/80 mt-4 max-w-lg mx-auto">{unified.length.toLocaleString()}+ fishing piers across {stateList.length} states. Find your spot.</p>
+
+          <div className="max-w-xl mx-auto mt-8 relative">
+            <input type="text" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search by state, city, water body, or pier name..." className="w-full px-5 py-4 rounded-xl bg-white border border-gray-200 text-charcoal outline-none focus:border-ocean focus:ring-2 focus:ring-ocean/20 transition shadow-2xl text-sm" />
+            <svg className="absolute right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" /></svg>
+            {suggestions.length > 0 && (
+              <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-xl z-20 overflow-hidden">
+                {suggestions.map((s, i) => (
+                  <Link key={i} href={s.href} className="flex items-center gap-3 px-4 py-3 hover:bg-ocean/5 transition border-b border-gray-100 last:border-0">
+                    <span className="text-[10px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded">{s.type}</span>
+                    <span className="text-sm text-charcoal">{s.label}</span>
+                  </Link>
+                ))}
+              </div>
+            )}
+          </div>
+
+          <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
+            {statesWithCounts.slice(0, 6).map((s) => (
+              <Link key={s.code} href={`/${s.slug}`} className="bg-white/15 hover:bg-white/25 text-white font-bold px-4 py-2 rounded-lg transition text-xs backdrop-blur-sm border border-white/10">{s.name} ({s.count.toLocaleString()})</Link>
+            ))}
+            <a href="#browse-states" className="text-white/70 hover:text-white font-semibold px-4 py-2 text-xs transition">Browse all {stateList.length} states &darr;</a>
+          </div>
+        </div>
+
+        <div className="relative z-10 w-full mt-auto">
+          <div className="bg-[#0A3D62]/80 backdrop-blur-sm border-t border-white/10 py-5">
+            <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
+              {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: String(stateList.length), label: "States" },{ value: "Free", label: "& Updated" },{ value: "GPS", label: "Verified" }].map((s) => (
+                <div key={s.label}><p className="font-[Cabin] text-2xl font-bold text-white">{s.value}</p><p className="text-white/60 text-xs mt-0.5">{s.label}</p></div>
               ))}
             </div>
-          )}
-        </div>
-
-        <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
-          {statesWithCounts.slice(0, 6).map((s) => (
-            <Link key={s.code} href={`/${s.slug}`} className="bg-ocean/90 hover:bg-ocean text-white font-bold px-4 py-2 rounded-lg transition shadow-sm text-xs">{s.name} ({s.count.toLocaleString()})</Link>
-          ))}
-          <a href="#browse-states" className="text-ocean font-semibold px-4 py-2 text-xs hover:text-ocean-light transition">Browse all {stateList.length} states &darr;</a>
-        </div>
-      </section>
-
-      <section className="bg-white border-y border-gray-200 py-6">
-        <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
-          {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: String(stateList.length), label: "States" },{ value: "Free", label: "& Updated" },{ value: "GPS", label: "Verified" }].map((s) => (
-            <div key={s.label}><p className="font-[Cabin] text-2xl font-bold text-charcoal">{s.value}</p><p className="text-gray-400 text-xs mt-0.5">{s.label}</p></div>
-          ))}
+          </div>
         </div>
       </section>
 

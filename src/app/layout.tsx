@@ -7,14 +7,14 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PierSeeker | Every Fishing Pier in America — 31,000+ Fishing Spots",
+  title: "PierSeeker | Every Fishing Pier in America — 31,824+ Fishing Spots",
   description:
-    "Find fishing piers across the United States. 31,000+ piers, docks, and jetties with GPS coordinates, amenities, and local tips. Saltwater and freshwater. Free.",
+    "Find fishing piers across the United States. 31,824+ piers, docks, and jetties with GPS coordinates, amenities, and local tips. Saltwater and freshwater. Free.",
   keywords:
     "fishing pier near me, public fishing pier, fishing dock, saltwater pier fishing, pier fishing spots, fishing pier directory",
   openGraph: {
     title: "PierSeeker | Every Fishing Pier in America",
-    description: "31,000+ fishing piers across the US. GPS coordinates, amenities, local tips.",
+    description: "31,824+ fishing piers across the US. GPS coordinates, amenities, local tips.",
     url: "https://pierseeker.com",
     siteName: "PierSeeker",
     type: "website",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "PierSeeker | Every Fishing Pier in America",
-    description: "31,000+ fishing piers across 44 states. GPS coordinates, amenities, local tips.",
+    description: "31,824+ fishing piers across 44 states. GPS coordinates, amenities, local tips.",
   },
   alternates: { canonical: "https://pierseeker.com" },
   other: {
@@ -52,45 +52,46 @@ function Nav() {
 
 function Footer() {
   return (
-    <footer className="bg-gray-100 border-t border-gray-200 mt-16">
+    <footer className="bg-[#0A2240] border-t border-[#0A3D62] mt-16">
       <div className="max-w-6xl mx-auto px-4 py-10">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-gray-500">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
-            <p className="font-bold text-charcoal mb-2 font-[Cabin]">🎣 PierSeeker</p>
-            <p>The most complete fishing pier directory in America. 31,000+ piers across 44 states.</p>
+            <p className="font-bold text-white mb-2 font-[Cabin]">&#127907; PierSeeker</p>
+            <p>The most complete fishing pier directory in America. 31,824+ piers across 44 states.</p>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">Links</p>
+            <p className="font-bold text-white/70 mb-2">Links</p>
             <div className="flex flex-col gap-1">
-              <Link href="/" className="hover:text-ocean transition">All Piers</Link>
-              <Link href="/map" className="hover:text-ocean transition">Map</Link>
-              <Link href="/about" className="hover:text-ocean transition">About</Link>
-              <Link href="/blog" className="hover:text-ocean transition">Blog</Link>
-              <Link href="/for-businesses" className="hover:text-ocean transition">For Businesses</Link>
-              <Link href="/privacy" className="hover:text-ocean transition">Privacy</Link>
-              <Link href="/terms" className="hover:text-ocean transition">Terms</Link>
+              <Link href="/" className="text-white/40 hover:text-white transition">All Piers</Link>
+              <Link href="/map" className="text-white/40 hover:text-white transition">Map</Link>
+              <Link href="/about" className="text-white/40 hover:text-white transition">About</Link>
+              <Link href="/blog" className="text-white/40 hover:text-white transition">Blog</Link>
+              <Link href="/for-businesses" className="text-white/40 hover:text-white transition">For Businesses</Link>
+              <Link href="/privacy" className="text-white/40 hover:text-white transition">Privacy</Link>
+              <Link href="/terms" className="text-white/40 hover:text-white transition">Terms</Link>
             </div>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">Know a pier we missed?</p>
+            <p className="font-bold text-white/70 mb-2">Know a pier we missed?</p>
             <a href="mailto:hello@pierseeker.com" className="text-ocean hover:text-ocean-light transition">hello@pierseeker.com</a>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">From Global AI Bots</p>
+            <p className="font-bold text-white/70 mb-2">From Global AI Bots</p>
             <div className="flex flex-col gap-1">
-              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">Global AI Bots</a>
-              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">CLETUS AI Chat</a>
-              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">CLETUS AI Voice</a>
-              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">Grand Lake AI</a>
-              <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">RampSeeker</a>
-              <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-ocean transition">BarkSeeker</a>
+              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">Global AI Bots</a>
+              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">CLETUS AI Chat</a>
+              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">CLETUS AI Voice</a>
+              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">Grand Lake AI</a>
+              <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">RampSeeker</a>
+              <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BarkSeeker</a>
+              <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BabyMyDog</a>
             </div>
           </div>
         </div>
-        <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap justify-between items-center text-xs text-gray-400 gap-4">
+        <div className="mt-8 pt-6 border-t border-white/10 flex flex-wrap justify-between items-center text-xs text-white/30 gap-4">
           <span>&copy; {new Date().getFullYear()} PierSeeker. All rights reserved.</span>
           <div className="flex gap-3">
-            <a href="mailto:hello@pierseeker.com?subject=Advertising%20Inquiry" className="hover:text-ocean transition">Advertise With Us</a>
+            <a href="mailto:hello@pierseeker.com?subject=Advertising%20Inquiry" className="text-white/40 hover:text-white transition">Advertise With Us</a>
             <span>&middot;</span>
             <span>A <a href="https://globalaibots.com" target="_blank" className="text-ocean/70 hover:text-ocean transition">Global AI Bots</a> project.</span>
           </div>
@@ -117,7 +118,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           strategy="afterInteractive"
         />
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-N85PYDH398"
+          src="https://www.googletagmanager.com/gtag/js?id=G-ZYVEZJP51D"
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -125,9 +126,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-N85PYDH398');
+            gtag('config', 'G-ZYVEZJP51D');
           `}
         </Script>
+        <a href="/blog" className="block w-full bg-[#0A3D62] text-white text-center py-2 text-xs sm:text-sm font-medium hover:bg-[#083352] transition">
+          &#127907; New: Find fishing piers near you &mdash; Browse all 44 states &rarr;
+        </a>
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />

@@ -1,8 +1,18 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import dynamic from "next/dynamic";
 import { unified, getUnifiedPierById } from "@/data/all-piers";
 import CletusAd from "@/components/CletusAd";
 import type { Metadata } from "next";
+
+const PierMap = dynamic(() => import("@/components/PierMap"), {
+  ssr: false,
+  loading: () => (
+    <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}>
+      <p className="text-gray-400 text-sm">Loading map...</p>
+    </div>
+  ),
+});
 
 export const dynamicParams = true;
 
@@ -63,7 +73,7 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
     { q: `Is ${pier.name} free to fish from?`, a: "Most public fishing piers are free to use. Some state or municipal piers may have a small access fee during peak season." },
   ];
 
-  const embedUrl = `https://www.google.com/maps?q=${pier.latitude},${pier.longitude}&z=15&output=embed`;
+  const mapPiers = [{ id: pier.id, name: pier.name, latitude: pier.latitude, longitude: pier.longitude, city: pier.city }];
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
@@ -90,9 +100,7 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">{pier.name}</h1>
       <p className="text-gray-500 mb-6">{pier.city ? `${pier.city}, ` : ""}{stName} &middot; GPS: {pier.latitude.toFixed(4)}, {pier.longitude.toFixed(4)}</p>
 
-      <div className="rounded-xl overflow-hidden border border-gray-200 shadow-sm mb-8" style={{ height: 350 }}>
-        <iframe src={embedUrl} width="100%" height="100%" style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade" title={`${pier.name} map`} allowFullScreen />
-      </div>
+      <PierMap piers={mapPiers} center={[pier.latitude, pier.longitude]} zoom={15} height="400px" className="mb-8" />
 
       <div className="flex flex-wrap gap-3 mb-8">
         <a href={`https://www.google.com/maps/dir/?api=1&destination=${pier.latitude},${pier.longitude}`} target="_blank" rel="noopener noreferrer" className="bg-coral hover:bg-coral-dark text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">
