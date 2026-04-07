@@ -7,14 +7,14 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PierSeeker | Every Fishing Pier in America — 31,824+ Fishing Spots",
+  title: "PierSeeker | Every Fishing Pier in America — 34,900+ Fishing Spots",
   description:
-    "Find fishing piers across the United States. 31,824+ piers, docks, and jetties with GPS coordinates, amenities, and local tips. Saltwater and freshwater. Free.",
+    "Find fishing piers across the United States. 34,900+ piers, docks, and jetties with GPS coordinates, amenities, and local tips. Saltwater and freshwater. Free.",
   keywords:
     "fishing pier near me, public fishing pier, fishing dock, saltwater pier fishing, pier fishing spots, fishing pier directory",
   openGraph: {
     title: "PierSeeker | Every Fishing Pier in America",
-    description: "31,824+ fishing piers across the US. GPS coordinates, amenities, local tips.",
+    description: "34,900+ fishing piers across the US. GPS coordinates, amenities, local tips.",
     url: "https://pierseeker.com",
     siteName: "PierSeeker",
     type: "website",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "PierSeeker | Every Fishing Pier in America",
-    description: "31,824+ fishing piers across 44 states. GPS coordinates, amenities, local tips.",
+    description: "34,900+ fishing piers across 44 states. GPS coordinates, amenities, local tips.",
   },
   alternates: { canonical: "https://pierseeker.com" },
   other: {
@@ -57,7 +57,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
             <p className="font-bold text-white mb-2 font-[Cabin]">&#127907; PierSeeker</p>
-            <p>The most complete fishing pier directory in America. 31,824+ piers across 44 states.</p>
+            <p>The most complete fishing pier directory in America. 34,900+ piers across 44 states.</p>
           </div>
           <div>
             <p className="font-bold text-white/70 mb-2">Links</p>
