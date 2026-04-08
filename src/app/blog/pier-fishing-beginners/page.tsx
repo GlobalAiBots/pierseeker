@@ -30,6 +30,8 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Pier Fishing for Beginners: Everything You Need to Know</h1>
       <p className="text-gray-400 text-sm mb-8">April 3, 2026 &middot; 7 min read</p>
 
+      <img src="/images/blog/beginner-fishing.jpg" alt="Beginner fishing from a pier" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           If you have ever wanted to try fishing but felt overwhelmed by the idea of buying a boat, learning to navigate open water, or spending hundreds of dollars on gear before you even know if you enjoy it, pier fishing is the answer. Public fishing piers give you direct access to productive water from a stable platform with zero boating experience required. It is the most accessible, affordable, and social way to start fishing, and it is a lot more productive than most beginners expect.

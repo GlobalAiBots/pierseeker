@@ -30,6 +30,8 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Free Fishing Piers: How to Find Public Piers That Don&apos;t Charge</h1>
       <p className="text-gray-400 text-sm mb-8">March 28, 2026 &middot; 5 min read</p>
 
+      <img src="/images/blog/free-pier.jpg" alt="Public fishing pier at sunset" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Here is the good news that many new anglers do not realize: the vast majority of public fishing piers in the United States are completely free to fish from. You do not need to pay an entrance fee, buy a pier pass, or join any membership. You can simply walk out, drop a line, and start fishing. The idea that pier fishing requires a fee is one of the biggest misconceptions in the sport, and it keeps a lot of people from trying something they would genuinely enjoy.

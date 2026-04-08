@@ -30,6 +30,8 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Best Fishing Piers in Florida: Saltwater Spots You Need to Visit</h1>
       <p className="text-gray-400 text-sm mb-8">April 5, 2026 &middot; 6 min read</p>
 
+      <img src="/images/blog/florida-pier.jpg" alt="Fishing pier extending into ocean waters" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Florida is the undisputed capital of pier fishing in the United States. With more than 1,300 miles of coastline wrapping around the Gulf of Mexico and the Atlantic Ocean, the Sunshine State offers saltwater anglers an embarrassment of riches when it comes to public fishing piers. Whether you are chasing tarpon under the lights at midnight or soaking cut bait for snapper on a lazy Saturday morning, there is a Florida pier that fits the bill. Here are the best fishing piers in Florida that every angler needs to visit at least once.

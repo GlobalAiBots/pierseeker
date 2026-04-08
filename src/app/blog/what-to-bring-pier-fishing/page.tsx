@@ -30,6 +30,8 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">What to Bring Pier Fishing: The Complete Gear Checklist</h1>
       <p className="text-gray-400 text-sm mb-8">April 1, 2026 &middot; 5 min read</p>
 
+      <img src="/images/blog/fishing-gear.jpg" alt="Pier fishing gear and tackle" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Nothing ruins a fishing trip faster than realizing you forgot something important after you have already made the drive to the pier. Whether you are heading to a saltwater pier on the coast or a freshwater pier on your local lake, having a solid checklist ensures you spend your time fishing instead of wishing you had packed that one thing sitting on your garage shelf. Here is everything you need to bring pier fishing, broken down by category.

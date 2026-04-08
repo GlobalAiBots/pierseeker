@@ -30,6 +30,8 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Night Pier Fishing: Tips for Catching More After Dark</h1>
       <p className="text-gray-400 text-sm mb-8">March 25, 2026 &middot; 5 min read</p>
 
+      <img src="/images/blog/night-fishing.jpg" alt="Night fishing on a pier" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Some of the best pier fishing happens after the sun goes down. While most casual anglers pack up at sunset, the anglers who stick around, or show up specifically for the night shift, often catch more and bigger fish than they would during the day. Night pier fishing is one of the most underrated tactics in the sport, and if you have never tried it, you are missing out on some genuinely exciting action.
