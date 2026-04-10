@@ -63,10 +63,20 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
   const stSlug = stateSlugs[pier.state] || pier.state.toLowerCase();
   const stName = stateNames[pier.state] || pier.state;
 
-  // Find nearby piers (same state, within ~0.1 degrees)
-  const nearby = unified
-    .filter((p) => p.id !== pier.id && p.state === pier.state && Math.abs(p.latitude - pier.latitude) < 0.1 && Math.abs(p.longitude - pier.longitude) < 0.1)
-    .slice(0, 6);
+  // Precomputed nearby piers
+  const nearbyData = (() => {
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const data = require("@/data/nearby.json");
+      return (data[pier.id] || []).slice(0, 5);
+    } catch { return []; }
+  })();
+  const nearby = nearbyData.length > 0
+    ? nearbyData.map((n: { id: string; name: string; distance: number; city: string; state: string }) => {
+        const found = unified.find((p) => p.id === n.id);
+        return found ? { ...found, distanceMiles: n.distance } : null;
+      }).filter(Boolean)
+    : unified.filter((p) => p.id !== pier.id && p.state === pier.state).slice(0, 5);
 
   const faqs = [
     { q: `Where is ${pier.name}?`, a: `${pier.name} is located at GPS coordinates ${pier.latitude.toFixed(4)}, ${pier.longitude.toFixed(4)} in ${pier.city || stName}.` },
@@ -133,10 +143,10 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
         <>
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4 mt-8">Nearby Piers</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-            {nearby.map((p) => (
+            {nearby.map((p: { id: string; name: string; city: string; state: string; distanceMiles?: number }) => (
               <Link key={p.id} href={`/piers/${p.id}`} className="group bg-white border border-gray-200 rounded-xl p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-ocean">
                 <p className="font-bold text-charcoal group-hover:text-ocean transition text-sm">{p.name}</p>
-                <p className="text-gray-500 text-xs">{p.city || stName}</p>
+                <p className="text-gray-500 text-xs">{p.city || stName}{p.distanceMiles ? ` \u00b7 ${p.distanceMiles} mi` : ""}</p>
               </Link>
             ))}
           </div>

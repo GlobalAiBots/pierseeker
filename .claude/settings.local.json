@@ -134,7 +134,10 @@
       "Bash(ls src/app/*/cities/)",
       "Read(//d/pierseeker/src/app/cities/[city/]/**)",
       "Bash(node -e \"const d=JSON.parse\\(require\\('fs'\\).readFileSync\\('src/data/alabama-parks.json'\\)\\); console.log\\(JSON.stringify\\(d[0],null,2\\)\\)\")",
-      "Bash(grep -rl \"unified\" src/data/*.ts)"
+      "Bash(grep -rl \"unified\" src/data/*.ts)",
+      "Bash(node -e \"const d=require\\('./src/data/mechanics-index.json'\\); let wc=0; d.forEach\\(m=>{if\\(m.city&&m.city.trim\\(\\)\\) wc++}\\); console.log\\('Total:',d.length,'With city:',wc\\)\")",
+      "Bash(node scripts/generate-nearby.js)",
+      "Read(//d/pierseeker/src/app/ramps/[id/]/**)"
     ]
   }
 }
