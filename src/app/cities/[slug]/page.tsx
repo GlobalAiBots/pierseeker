@@ -42,6 +42,14 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: `How many fishing piers are in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName}. Browse them all on PierSeeker with maps and directions.` } },
+          { "@type": "Question", name: `Where is the closest fishing pier in ${cityInfo.city}?`, acceptedAnswer: { "@type": "Answer", text: `PierSeeker lists all ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName} with exact GPS locations. Click any listing for directions.` } },
+          { "@type": "Question", name: `Can I fish at night from piers in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `Night fishing rules vary by pier and jurisdiction in ${cityInfo.city}. Many public piers allow night fishing but check local regulations. PierSeeker lists amenities like lighting for each pier.` } },
+        ],
+      }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-ocean transition">Home</Link><span>/</span>
         <Link href={`/${cityInfo.stateSlug}`} className="hover:text-ocean transition">{cityInfo.stateName}</Link><span>/</span>

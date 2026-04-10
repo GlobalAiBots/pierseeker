@@ -22,6 +22,16 @@ export default function MissouriPage() {
 
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "How many fishing piers are in Missouri?", acceptedAnswer: { "@type": "Answer", text: `There are ${stPiers.length} fishing piers in Missouri. PierSeeker has mapped every public pier, dock, and jetty across the state.` } },
+          { "@type": "Question", name: "Do I need a fishing license to fish from a pier in Missouri?", acceptedAnswer: { "@type": "Answer", text: "Most states require a fishing license even when fishing from a public pier. Check Missouri's fish and wildlife department for current license requirements and fees." } },
+          { "@type": "Question", name: "Are there free fishing piers in Missouri?", acceptedAnswer: { "@type": "Answer", text: "Many fishing piers in Missouri are free to access, especially those at public parks and state recreation areas. Some popular piers may charge a small access fee." } },
+          { "@type": "Question", name: "What fish can I catch from piers in Missouri?", acceptedAnswer: { "@type": "Answer", text: "Species vary by location and season. Coastal piers in Missouri often yield redfish, flounder, and trout. Freshwater piers are great for bass, catfish, and crappie." } },
+          { "@type": "Question", name: "How do I find fishing piers near me in Missouri?", acceptedAnswer: { "@type": "Answer", text: `Use PierSeeker to browse all ${stPiers.length} fishing piers in Missouri by city. Each listing includes a map, GPS coordinates, and directions.` } },
+        ],
+      }) }} />
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(10,61,98,0.06) 0%, transparent 50%)" }}>
         <p className="text-ocean text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Missouri Fishing Pier Directory</p>
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Fishing Pier in Missouri</h1>
