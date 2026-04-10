@@ -140,7 +140,8 @@
       "Read(//d/pierseeker/src/app/ramps/[id/]/**)",
       "Read(//d/marinaseeker/src/app/marinas/[id/]/**)",
       "Read(//d/pierseeker/src/app/shops/[id/]/**)",
-      "Bash(node scripts/add-faq-schema.js)"
+      "Bash(node scripts/add-faq-schema.js)",
+      "Bash(node scripts/generate-categories.js)"
     ]
   }
 }

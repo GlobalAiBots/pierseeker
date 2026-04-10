@@ -1,0 +1,894 @@
+[
+  {
+    "slug": "saltwater",
+    "title": "Saltwater Fishing Piers",
+    "description": "Ocean, bay, and gulf fishing piers along America’s coastlines — perfect for redfish, flounder, snook, and more.",
+    "totalCount": 24263,
+    "states": [
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 3143
+      },
+      {
+        "code": "WA",
+        "name": "Washington",
+        "slug": "washington",
+        "count": 2607
+      },
+      {
+        "code": "NY",
+        "name": "New York",
+        "slug": "new-york",
+        "count": 2442
+      },
+      {
+        "code": "MD",
+        "name": "Maryland",
+        "slug": "maryland",
+        "count": 2274
+      },
+      {
+        "code": "CA",
+        "name": "California",
+        "slug": "california",
+        "count": 1832
+      },
+      {
+        "code": "NC",
+        "name": "North Carolina",
+        "slug": "north-carolina",
+        "count": 1737
+      },
+      {
+        "code": "VA",
+        "name": "Virginia",
+        "slug": "virginia",
+        "count": 1242
+      },
+      {
+        "code": "NJ",
+        "name": "New Jersey",
+        "slug": "new-jersey",
+        "count": 1233
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 1227
+      },
+      {
+        "code": "ME",
+        "name": "Maine",
+        "slug": "maine",
+        "count": 1211
+      },
+      {
+        "code": "MA",
+        "name": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 1207
+      },
+      {
+        "code": "OR",
+        "name": "Oregon",
+        "slug": "oregon",
+        "count": 851
+      },
+      {
+        "code": "AL",
+        "name": "Alabama",
+        "slug": "alabama",
+        "count": 703
+      },
+      {
+        "code": "CT",
+        "name": "Connecticut",
+        "slug": "connecticut",
+        "count": 649
+      },
+      {
+        "code": "LA",
+        "name": "Louisiana",
+        "slug": "louisiana",
+        "count": 627
+      },
+      {
+        "code": "NH",
+        "name": "New Hampshire",
+        "slug": "new-hampshire",
+        "count": 453
+      },
+      {
+        "code": "GA",
+        "name": "Georgia",
+        "slug": "georgia",
+        "count": 314
+      },
+      {
+        "code": "DE",
+        "name": "Delaware",
+        "slug": "delaware",
+        "count": 197
+      },
+      {
+        "code": "PA",
+        "name": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 188
+      },
+      {
+        "code": "MS",
+        "name": "Mississippi",
+        "slug": "mississippi",
+        "count": 108
+      },
+      {
+        "code": "RI",
+        "name": "Rhode Island",
+        "slug": "rhode-island",
+        "count": 9
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "slug": "freshwater",
+    "title": "Freshwater Fishing Piers",
+    "description": "Lake, river, and reservoir fishing piers across inland America — great for bass, catfish, crappie, and trout.",
+    "totalCount": 10640,
+    "states": [
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 2863
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 2053
+      },
+      {
+        "code": "IL",
+        "name": "Illinois",
+        "slug": "illinois",
+        "count": 1435
+      },
+      {
+        "code": "OH",
+        "name": "Ohio",
+        "slug": "ohio",
+        "count": 760
+      },
+      {
+        "code": "IN",
+        "name": "Indiana",
+        "slug": "indiana",
+        "count": 419
+      },
+      {
+        "code": "ID",
+        "name": "Idaho",
+        "slug": "idaho",
+        "count": 407
+      },
+      {
+        "code": "IA",
+        "name": "Iowa",
+        "slug": "iowa",
+        "count": 331
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas",
+        "slug": "arkansas",
+        "count": 330
+      },
+      {
+        "code": "KY",
+        "name": "Kentucky",
+        "slug": "kentucky",
+        "count": 324
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 323
+      },
+      {
+        "code": "TN",
+        "name": "Tennessee",
+        "slug": "tennessee",
+        "count": 290
+      },
+      {
+        "code": "CO",
+        "name": "Colorado",
+        "slug": "colorado",
+        "count": 275
+      },
+      {
+        "code": "OK",
+        "name": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 203
+      },
+      {
+        "code": "KS",
+        "name": "Kansas",
+        "slug": "kansas",
+        "count": 170
+      },
+      {
+        "code": "AZ",
+        "name": "Arizona",
+        "slug": "arizona",
+        "count": 168
+      },
+      {
+        "code": "UT",
+        "name": "Utah",
+        "slug": "utah",
+        "count": 147
+      },
+      {
+        "code": "WY",
+        "name": "Wyoming",
+        "slug": "wyoming",
+        "count": 55
+      },
+      {
+        "code": "NM",
+        "name": "New Mexico",
+        "slug": "new-mexico",
+        "count": 48
+      },
+      {
+        "code": "MT",
+        "name": "Montana",
+        "slug": "montana",
+        "count": 27
+      },
+      {
+        "code": "WV",
+        "name": "West Virginia",
+        "slug": "west-virginia",
+        "count": 7
+      },
+      {
+        "code": "SD",
+        "name": "South Dakota",
+        "slug": "south-dakota",
+        "count": 4
+      },
+      {
+        "code": "NV",
+        "name": "Nevada",
+        "slug": "nevada",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "slug": "public-piers",
+    "title": "Public Fishing Piers",
+    "description": "Free public fishing piers maintained by state parks, cities, and counties — no membership required.",
+    "totalCount": 221,
+    "states": [
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 60
+      },
+      {
+        "code": "WA",
+        "name": "Washington",
+        "slug": "washington",
+        "count": 24
+      },
+      {
+        "code": "NY",
+        "name": "New York",
+        "slug": "new-york",
+        "count": 21
+      },
+      {
+        "code": "NJ",
+        "name": "New Jersey",
+        "slug": "new-jersey",
+        "count": 15
+      },
+      {
+        "code": "ME",
+        "name": "Maine",
+        "slug": "maine",
+        "count": 11
+      },
+      {
+        "code": "NC",
+        "name": "North Carolina",
+        "slug": "north-carolina",
+        "count": 11
+      },
+      {
+        "code": "MA",
+        "name": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 10
+      },
+      {
+        "code": "OR",
+        "name": "Oregon",
+        "slug": "oregon",
+        "count": 8
+      },
+      {
+        "code": "AL",
+        "name": "Alabama",
+        "slug": "alabama",
+        "count": 7
+      },
+      {
+        "code": "MD",
+        "name": "Maryland",
+        "slug": "maryland",
+        "count": 7
+      },
+      {
+        "code": "CA",
+        "name": "California",
+        "slug": "california",
+        "count": 6
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 6
+      },
+      {
+        "code": "KS",
+        "name": "Kansas",
+        "slug": "kansas",
+        "count": 5
+      },
+      {
+        "code": "DE",
+        "name": "Delaware",
+        "slug": "delaware",
+        "count": 4
+      },
+      {
+        "code": "IL",
+        "name": "Illinois",
+        "slug": "illinois",
+        "count": 3
+      },
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 3
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 3
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "code": "KY",
+        "name": "Kentucky",
+        "slug": "kentucky",
+        "count": 2
+      },
+      {
+        "code": "VA",
+        "name": "Virginia",
+        "slug": "virginia",
+        "count": 2
+      },
+      {
+        "code": "CT",
+        "name": "Connecticut",
+        "slug": "connecticut",
+        "count": 1
+      },
+      {
+        "code": "GA",
+        "name": "Georgia",
+        "slug": "georgia",
+        "count": 1
+      },
+      {
+        "code": "IN",
+        "name": "Indiana",
+        "slug": "indiana",
+        "count": 1
+      },
+      {
+        "code": "LA",
+        "name": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "code": "MS",
+        "name": "Mississippi",
+        "slug": "mississippi",
+        "count": 1
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 1
+      },
+      {
+        "code": "NH",
+        "name": "New Hampshire",
+        "slug": "new-hampshire",
+        "count": 1
+      },
+      {
+        "code": "NM",
+        "name": "New Mexico",
+        "slug": "new-mexico",
+        "count": 1
+      },
+      {
+        "code": "PA",
+        "name": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 1
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 1
+      },
+      {
+        "code": "WV",
+        "name": "West Virginia",
+        "slug": "west-virginia",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "slug": "docks",
+    "title": "Fishing Docks & Jetties",
+    "description": "Fishing docks, jetties, and smaller launch-adjacent spots perfect for shore fishing and crabbing.",
+    "totalCount": 1011,
+    "states": [
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 299
+      },
+      {
+        "code": "WA",
+        "name": "Washington",
+        "slug": "washington",
+        "count": 112
+      },
+      {
+        "code": "CA",
+        "name": "California",
+        "slug": "california",
+        "count": 69
+      },
+      {
+        "code": "NY",
+        "name": "New York",
+        "slug": "new-york",
+        "count": 58
+      },
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 54
+      },
+      {
+        "code": "IL",
+        "name": "Illinois",
+        "slug": "illinois",
+        "count": 43
+      },
+      {
+        "code": "MA",
+        "name": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 42
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 40
+      },
+      {
+        "code": "OR",
+        "name": "Oregon",
+        "slug": "oregon",
+        "count": 37
+      },
+      {
+        "code": "ME",
+        "name": "Maine",
+        "slug": "maine",
+        "count": 32
+      },
+      {
+        "code": "OH",
+        "name": "Ohio",
+        "slug": "ohio",
+        "count": 26
+      },
+      {
+        "code": "NC",
+        "name": "North Carolina",
+        "slug": "north-carolina",
+        "count": 19
+      },
+      {
+        "code": "LA",
+        "name": "Louisiana",
+        "slug": "louisiana",
+        "count": 17
+      },
+      {
+        "code": "NJ",
+        "name": "New Jersey",
+        "slug": "new-jersey",
+        "count": 17
+      },
+      {
+        "code": "MD",
+        "name": "Maryland",
+        "slug": "maryland",
+        "count": 16
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 16
+      },
+      {
+        "code": "VA",
+        "name": "Virginia",
+        "slug": "virginia",
+        "count": 13
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 12
+      },
+      {
+        "code": "NH",
+        "name": "New Hampshire",
+        "slug": "new-hampshire",
+        "count": 11
+      },
+      {
+        "code": "GA",
+        "name": "Georgia",
+        "slug": "georgia",
+        "count": 9
+      },
+      {
+        "code": "OK",
+        "name": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 9
+      },
+      {
+        "code": "PA",
+        "name": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 7
+      },
+      {
+        "code": "TN",
+        "name": "Tennessee",
+        "slug": "tennessee",
+        "count": 6
+      },
+      {
+        "code": "AL",
+        "name": "Alabama",
+        "slug": "alabama",
+        "count": 5
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas",
+        "slug": "arkansas",
+        "count": 5
+      },
+      {
+        "code": "KS",
+        "name": "Kansas",
+        "slug": "kansas",
+        "count": 5
+      },
+      {
+        "code": "AZ",
+        "name": "Arizona",
+        "slug": "arizona",
+        "count": 4
+      },
+      {
+        "code": "CT",
+        "name": "Connecticut",
+        "slug": "connecticut",
+        "count": 4
+      },
+      {
+        "code": "DE",
+        "name": "Delaware",
+        "slug": "delaware",
+        "count": 4
+      },
+      {
+        "code": "ID",
+        "name": "Idaho",
+        "slug": "idaho",
+        "count": 4
+      },
+      {
+        "code": "KY",
+        "name": "Kentucky",
+        "slug": "kentucky",
+        "count": 4
+      },
+      {
+        "code": "CO",
+        "name": "Colorado",
+        "slug": "colorado",
+        "count": 3
+      },
+      {
+        "code": "IN",
+        "name": "Indiana",
+        "slug": "indiana",
+        "count": 3
+      },
+      {
+        "code": "IA",
+        "name": "Iowa",
+        "slug": "iowa",
+        "count": 3
+      },
+      {
+        "code": "NM",
+        "name": "New Mexico",
+        "slug": "new-mexico",
+        "count": 1
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 1
+      },
+      {
+        "code": "UT",
+        "name": "Utah",
+        "slug": "utah",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "slug": "boat-launches",
+    "title": "Piers with Boat Launches",
+    "description": "Fishing piers co-located with boat ramps and slipways — fish from the pier or launch your boat.",
+    "totalCount": 822,
+    "states": [
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 692
+      },
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 15
+      },
+      {
+        "code": "WA",
+        "name": "Washington",
+        "slug": "washington",
+        "count": 14
+      },
+      {
+        "code": "NY",
+        "name": "New York",
+        "slug": "new-york",
+        "count": 13
+      },
+      {
+        "code": "NC",
+        "name": "North Carolina",
+        "slug": "north-carolina",
+        "count": 13
+      },
+      {
+        "code": "CA",
+        "name": "California",
+        "slug": "california",
+        "count": 11
+      },
+      {
+        "code": "IL",
+        "name": "Illinois",
+        "slug": "illinois",
+        "count": 8
+      },
+      {
+        "code": "ME",
+        "name": "Maine",
+        "slug": "maine",
+        "count": 6
+      },
+      {
+        "code": "KY",
+        "name": "Kentucky",
+        "slug": "kentucky",
+        "count": 5
+      },
+      {
+        "code": "MD",
+        "name": "Maryland",
+        "slug": "maryland",
+        "count": 5
+      },
+      {
+        "code": "OR",
+        "name": "Oregon",
+        "slug": "oregon",
+        "count": 5
+      },
+      {
+        "code": "AL",
+        "name": "Alabama",
+        "slug": "alabama",
+        "count": 4
+      },
+      {
+        "code": "NJ",
+        "name": "New Jersey",
+        "slug": "new-jersey",
+        "count": 4
+      },
+      {
+        "code": "VA",
+        "name": "Virginia",
+        "slug": "virginia",
+        "count": 3
+      },
+      {
+        "code": "CO",
+        "name": "Colorado",
+        "slug": "colorado",
+        "count": 2
+      },
+      {
+        "code": "CT",
+        "name": "Connecticut",
+        "slug": "connecticut",
+        "count": 2
+      },
+      {
+        "code": "DE",
+        "name": "Delaware",
+        "slug": "delaware",
+        "count": 2
+      },
+      {
+        "code": "MA",
+        "name": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 2
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 2
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 2
+      },
+      {
+        "code": "OK",
+        "name": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 2
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 2
+      },
+      {
+        "code": "AZ",
+        "name": "Arizona",
+        "slug": "arizona",
+        "count": 1
+      },
+      {
+        "code": "IN",
+        "name": "Indiana",
+        "slug": "indiana",
+        "count": 1
+      },
+      {
+        "code": "IA",
+        "name": "Iowa",
+        "slug": "iowa",
+        "count": 1
+      },
+      {
+        "code": "LA",
+        "name": "Louisiana",
+        "slug": "louisiana",
+        "count": 1
+      },
+      {
+        "code": "OH",
+        "name": "Ohio",
+        "slug": "ohio",
+        "count": 1
+      },
+      {
+        "code": "PA",
+        "name": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 1
+      },
+      {
+        "code": "TN",
+        "name": "Tennessee",
+        "slug": "tennessee",
+        "count": 1
+      },
+      {
+        "code": "UT",
+        "name": "Utah",
+        "slug": "utah",
+        "count": 1
+      }
+    ]
+  }
+]
