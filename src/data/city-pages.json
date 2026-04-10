@@ -1,0 +1,2092 @@
+[
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Baldwin County",
+    "citySlug": "baldwin-county",
+    "count": 87,
+    "lat": 30.398033096551735,
+    "lng": -87.748570145977
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Sussex County",
+    "citySlug": "sussex-county",
+    "count": 69,
+    "lat": 38.65412583043479,
+    "lng": -75.18293509710139
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Escambia County",
+    "citySlug": "escambia-county",
+    "count": 63,
+    "lat": 30.38344838253967,
+    "lng": -87.28450515714287
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Diego",
+    "citySlug": "san-diego",
+    "count": 58,
+    "lat": 32.74719682586206,
+    "lng": -117.21232542413796
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Francisco",
+    "citySlug": "san-francisco",
+    "count": 46,
+    "lat": 37.792733095652174,
+    "lng": -122.41241620869562
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Orange Beach",
+    "citySlug": "orange-beach",
+    "count": 42,
+    "lat": 30.291759188095234,
+    "lng": -87.5672691095238
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Mohave County",
+    "citySlug": "mohave-county",
+    "count": 32,
+    "lat": 34.949379934375,
+    "lng": -114.367414440625
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Okaloosa County",
+    "citySlug": "okaloosa-county",
+    "count": 29,
+    "lat": 30.453342517241374,
+    "lng": -86.54480836551723
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "New Castle County",
+    "citySlug": "new-castle-county",
+    "count": 29,
+    "lat": 39.61274409999998,
+    "lng": -75.5988664310345
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Mobile",
+    "citySlug": "mobile",
+    "count": 23,
+    "lat": 30.66225972173913,
+    "lng": -88.0548854304348
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Clark County",
+    "citySlug": "clark-county",
+    "count": 23,
+    "lat": 35.67695785652174,
+    "lng": -114.65516333913043
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Richmond",
+    "citySlug": "richmond",
+    "count": 22,
+    "lat": 37.92555948636364,
+    "lng": -122.37757070909092
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Oakland",
+    "citySlug": "oakland",
+    "count": 22,
+    "lat": 37.77937205909091,
+    "lng": -122.25410734545453
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Pensacola",
+    "citySlug": "pensacola",
+    "count": 21,
+    "lat": 30.40945876190476,
+    "lng": -87.21464598571428
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Bernardino County",
+    "citySlug": "san-bernardino-county",
+    "count": 21,
+    "lat": 34.26010456666667,
+    "lng": -117.01039757142858
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Bullhead City",
+    "citySlug": "bullhead-city",
+    "count": 20,
+    "lat": 35.113898649999996,
+    "lng": -114.599314395
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Los Angeles",
+    "citySlug": "los-angeles",
+    "count": 19,
+    "lat": 33.821352600000004,
+    "lng": -118.2879382894737
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Shasta County",
+    "citySlug": "shasta-county",
+    "count": 19,
+    "lat": 40.768429531578946,
+    "lng": -122.34878910526318
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "count": 18,
+    "lat": 30.246679049999997,
+    "lng": -87.74767205000002
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Fresno County",
+    "citySlug": "fresno-county",
+    "count": 18,
+    "lat": 37.00788121666667,
+    "lng": -119.2548695888889
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Limestone County",
+    "citySlug": "limestone-county",
+    "count": 16,
+    "lat": 34.764228612500006,
+    "lng": -87.11826125
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Santa Rosa County",
+    "citySlug": "santa-rosa-county",
+    "count": 16,
+    "lat": 30.48990310625,
+    "lng": -86.9572054875
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Lauderdale County",
+    "citySlug": "lauderdale-county",
+    "count": 16,
+    "lat": 34.83136640625,
+    "lng": -87.47093693750001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Redwood City",
+    "citySlug": "redwood-city",
+    "count": 16,
+    "lat": 37.50845861875001,
+    "lng": -122.20687598125
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Conway County",
+    "citySlug": "conway-county",
+    "count": 15,
+    "lat": 35.19888768,
+    "lng": -92.72868471333331
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Alameda",
+    "citySlug": "alameda",
+    "count": 15,
+    "lat": 37.77062352666667,
+    "lng": -122.27087501999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Los Angeles County",
+    "citySlug": "los-angeles-county",
+    "count": 15,
+    "lat": 33.51539282666666,
+    "lng": -118.42688589333332
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Walton County",
+    "citySlug": "walton-county",
+    "count": 14,
+    "lat": 30.45356695,
+    "lng": -86.19537584999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Marin County",
+    "citySlug": "marin-county",
+    "count": 14,
+    "lat": 38.019622299999995,
+    "lng": -122.60868775000002
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Guntersville",
+    "citySlug": "guntersville",
+    "count": 13,
+    "lat": 34.387202330769234,
+    "lng": -86.24307656923078
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Humboldt County",
+    "citySlug": "humboldt-county",
+    "count": 13,
+    "lat": 40.7856464923077,
+    "lng": -124.19913132307693
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Decatur",
+    "citySlug": "decatur",
+    "count": 12,
+    "lat": 34.591765933333335,
+    "lng": -86.96646325
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Eureka",
+    "citySlug": "eureka",
+    "count": 12,
+    "lat": 40.794552816666666,
+    "lng": -124.18136034999999
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Kent County",
+    "citySlug": "kent-county",
+    "count": 12,
+    "lat": 39.19154684166667,
+    "lng": -75.47124269166666
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Coconino County",
+    "citySlug": "coconino-county",
+    "count": 11,
+    "lat": 36.486330800000005,
+    "lng": -111.3713900909091
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Maricopa County",
+    "citySlug": "maricopa-county",
+    "count": 11,
+    "lat": 33.57560425454545,
+    "lng": -111.51302887272726
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Tuscaloosa",
+    "citySlug": "tuscaloosa",
+    "count": 10,
+    "lat": 33.276960630000005,
+    "lng": -87.56511421
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Lawrence County",
+    "citySlug": "lawrence-county",
+    "count": 10,
+    "lat": 34.71911409,
+    "lng": -87.26294504
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Contra Costa County",
+    "citySlug": "contra-costa-county",
+    "count": 10,
+    "lat": 38.03958408999999,
+    "lng": -122.08518732
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sonoma County",
+    "citySlug": "sonoma-county",
+    "count": 10,
+    "lat": 38.34404654,
+    "lng": -123.02336654999999
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Wilmington",
+    "citySlug": "wilmington",
+    "count": 10,
+    "lat": 39.73043013,
+    "lng": -75.54113213
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Lewes",
+    "citySlug": "lewes",
+    "count": 10,
+    "lat": 38.78522933000001,
+    "lng": -75.14560146000001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Huntsville",
+    "citySlug": "huntsville",
+    "count": 9,
+    "lat": 34.62953432222221,
+    "lng": -86.58323735555555
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Tempe",
+    "citySlug": "tempe",
+    "count": 9,
+    "lat": 33.42287122222222,
+    "lng": -111.9365469111111
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Diego County",
+    "citySlug": "san-diego-county",
+    "count": 9,
+    "lat": 32.808878288888884,
+    "lng": -117.00935636666665
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Ventura County",
+    "citySlug": "ventura-county",
+    "count": 9,
+    "lat": 34.120314622222224,
+    "lng": -119.31035413333335
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Mateo County",
+    "citySlug": "san-mateo-county",
+    "count": 9,
+    "lat": 37.56580032222222,
+    "lng": -122.42024093333332
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Rafael",
+    "citySlug": "san-rafael",
+    "count": 9,
+    "lat": 37.97104035555556,
+    "lng": -122.49478347777777
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Washoe County",
+    "citySlug": "washoe-county",
+    "count": 9,
+    "lat": 39.25240658888889,
+    "lng": -119.92920375555556
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Lake County",
+    "citySlug": "lake-county",
+    "count": 9,
+    "lat": 39.10084145555555,
+    "lng": -122.89112078888888
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Colbert County",
+    "citySlug": "colbert-county",
+    "count": 8,
+    "lat": 34.800581962500004,
+    "lng": -87.7139490125
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Marshall County",
+    "citySlug": "marshall-county",
+    "count": 8,
+    "lat": 34.418279775,
+    "lng": -86.286210475
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Peoria",
+    "citySlug": "peoria",
+    "count": 8,
+    "lat": 33.8573390125,
+    "lng": -112.27023766250001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sausalito",
+    "citySlug": "sausalito",
+    "count": 8,
+    "lat": 37.8632855,
+    "lng": -122.48839835
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Truckee",
+    "citySlug": "truckee",
+    "count": 8,
+    "lat": 39.325852187500004,
+    "lng": -120.27211137500001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Franklin County",
+    "citySlug": "franklin-county",
+    "count": 7,
+    "lat": 34.48110897142856,
+    "lng": -87.94770037142858
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Morro Bay",
+    "citySlug": "morro-bay",
+    "count": 7,
+    "lat": 35.36216497142857,
+    "lng": -120.85214702857142
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Oxnard",
+    "citySlug": "oxnard",
+    "count": 7,
+    "lat": 34.18067595714285,
+    "lng": -119.22609937142856
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Dauphin Island",
+    "citySlug": "dauphin-island",
+    "count": 6,
+    "lat": 30.2629171,
+    "lng": -88.09680796666667
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "San Bernardino County",
+    "citySlug": "san-bernardino-county",
+    "count": 6,
+    "lat": 34.606390383333334,
+    "lng": -114.45623741666667
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Pope County",
+    "citySlug": "pope-county",
+    "count": 6,
+    "lat": 35.238019216666665,
+    "lng": -93.12569433333334
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Memphis",
+    "citySlug": "memphis",
+    "count": 6,
+    "lat": 35.07649473333333,
+    "lng": -90.13826401666667
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Placer County",
+    "citySlug": "placer-county",
+    "count": 6,
+    "lat": 39.229195866666664,
+    "lng": -120.18596129999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santa Cruz",
+    "citySlug": "santa-cruz",
+    "count": 6,
+    "lat": 36.965309833333336,
+    "lng": -122.01170375
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sacramento County",
+    "citySlug": "sacramento-county",
+    "count": 6,
+    "lat": 38.315901450000005,
+    "lng": -121.27846576666667
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Newport Beach",
+    "citySlug": "newport-beach",
+    "count": 6,
+    "lat": 33.60883548333333,
+    "lng": -117.9156291166667
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Berkeley",
+    "citySlug": "berkeley",
+    "count": 6,
+    "lat": 37.86144826666666,
+    "lng": -122.31052938333333
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Long Beach",
+    "citySlug": "long-beach",
+    "count": 6,
+    "lat": 33.75428971666667,
+    "lng": -118.20620996666668
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Vallejo",
+    "citySlug": "vallejo",
+    "count": 6,
+    "lat": 38.104343916666664,
+    "lng": -122.2602326
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sacramento",
+    "citySlug": "sacramento",
+    "count": 6,
+    "lat": 38.5727379,
+    "lng": -121.51218984999998
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santa Barbara County",
+    "citySlug": "santa-barbara-county",
+    "count": 6,
+    "lat": 34.43648445,
+    "lng": -120.00578853333333
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "El Dorado County",
+    "citySlug": "el-dorado-county",
+    "count": 6,
+    "lat": 38.89909166666667,
+    "lng": -120.10807213333334
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Mendocino County",
+    "citySlug": "mendocino-county",
+    "count": 6,
+    "lat": 39.33795543333334,
+    "lng": -123.56022866666666
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Dimas",
+    "citySlug": "san-dimas",
+    "count": 6,
+    "lat": 34.08568293333333,
+    "lng": -117.80492466666665
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Trinity County",
+    "citySlug": "trinity-county",
+    "count": 6,
+    "lat": 40.792636816666665,
+    "lng": -122.79693171666668
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Tishomingo County",
+    "citySlug": "tishomingo-county",
+    "count": 5,
+    "lat": 34.71236244000001,
+    "lng": -88.29097894000002
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Tuscaloosa County",
+    "citySlug": "tuscaloosa-county",
+    "count": 5,
+    "lat": 33.293347340000004,
+    "lng": -87.68212028
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Mobile County",
+    "citySlug": "mobile-county",
+    "count": 5,
+    "lat": 30.487858640000002,
+    "lng": -88.14758144000001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Gulf Breeze",
+    "citySlug": "gulf-breeze",
+    "count": 5,
+    "lat": 30.368130199999996,
+    "lng": -87.17633404
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Scottsboro",
+    "citySlug": "scottsboro",
+    "count": 5,
+    "lat": 34.60227316,
+    "lng": -86.054369
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Morgan County",
+    "citySlug": "morgan-county",
+    "count": 5,
+    "lat": 34.602812220000004,
+    "lng": -86.97362664
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Gila County",
+    "citySlug": "gila-county",
+    "count": 5,
+    "lat": 33.68265424,
+    "lng": -111.14032088000002
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Searcy",
+    "citySlug": "searcy",
+    "count": 5,
+    "lat": 35.2496443,
+    "lng": -91.71661362
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Solano County",
+    "citySlug": "solano-county",
+    "count": 5,
+    "lat": 38.15172304,
+    "lng": -121.99868382
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Mateo",
+    "citySlug": "san-mateo",
+    "count": 5,
+    "lat": 37.582907660000004,
+    "lng": -122.31055097999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Monterey County",
+    "citySlug": "monterey-county",
+    "count": 5,
+    "lat": 36.6083934,
+    "lng": -121.65092958
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Martinez",
+    "citySlug": "martinez",
+    "count": 5,
+    "lat": 38.03052986,
+    "lng": -122.13041395999998
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Stockton",
+    "citySlug": "stockton",
+    "count": 5,
+    "lat": 37.95696388,
+    "lng": -121.34652772
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Plumas County",
+    "citySlug": "plumas-county",
+    "count": 5,
+    "lat": 40.2635895,
+    "lng": -121.13458206
+  },
+  {
+    "state": "CO",
+    "stateName": "Colorado",
+    "stateSlug": "colorado",
+    "city": "Grand County",
+    "citySlug": "grand-county",
+    "count": 5,
+    "lat": 40.137185779999996,
+    "lng": -106.41408304
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Downe Township",
+    "citySlug": "downe-township",
+    "count": 5,
+    "lat": 39.246588020000004,
+    "lng": -75.15066974
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Lower Alloways Creek Township",
+    "citySlug": "lower-alloways-creek-township",
+    "count": 5,
+    "lat": 39.456649219999996,
+    "lng": -75.44917114
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Cullman County",
+    "citySlug": "cullman-county",
+    "count": 4,
+    "lat": 34.0540042,
+    "lng": -86.99423475
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Chilton County",
+    "citySlug": "chilton-county",
+    "count": 4,
+    "lat": 32.940336699999996,
+    "lng": -86.6341291
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Hoover",
+    "citySlug": "hoover",
+    "count": 4,
+    "lat": 33.381247425,
+    "lng": -86.798760475
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Spanish Fort",
+    "citySlug": "spanish-fort",
+    "count": 4,
+    "lat": 30.6692543,
+    "lng": -87.931320625
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Marengo County",
+    "citySlug": "marengo-county",
+    "count": 4,
+    "lat": 32.311052,
+    "lng": -87.81207574999999
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Shelby County",
+    "citySlug": "shelby-county",
+    "count": 4,
+    "lat": 33.2252438,
+    "lng": -86.47781710000001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Gadsden",
+    "citySlug": "gadsden",
+    "count": 4,
+    "lat": 33.9946162,
+    "lng": -86.002154125
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Langston",
+    "citySlug": "langston",
+    "count": 4,
+    "lat": 34.5265131,
+    "lng": -86.090651475
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "La Paz County",
+    "citySlug": "la-paz-county",
+    "count": 4,
+    "lat": 33.985054675,
+    "lng": -114.25718392499999
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Graham County",
+    "citySlug": "graham-county",
+    "count": 4,
+    "lat": 32.807831125,
+    "lng": -109.76767592499999
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Yuma County",
+    "citySlug": "yuma-county",
+    "count": 4,
+    "lat": 32.861539775,
+    "lng": -114.467656925
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Chandler",
+    "citySlug": "chandler",
+    "count": 4,
+    "lat": 33.290521075,
+    "lng": -111.90407074999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Mississippi County",
+    "citySlug": "mississippi-county",
+    "count": 4,
+    "lat": 35.793743775,
+    "lng": -90.098244925
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Luis Obispo County",
+    "citySlug": "san-luis-obispo-county",
+    "count": 4,
+    "lat": 35.358963949999996,
+    "lng": -120.89596030000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Avalon",
+    "citySlug": "avalon",
+    "count": 4,
+    "lat": 33.34765905,
+    "lng": -118.32553877500001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Tiburon",
+    "citySlug": "tiburon",
+    "count": 4,
+    "lat": 37.869970800000004,
+    "lng": -122.44561470000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Brisbane",
+    "citySlug": "brisbane",
+    "count": 4,
+    "lat": 37.683753075,
+    "lng": -122.37904055
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "South San Francisco",
+    "citySlug": "south-san-francisco",
+    "count": 4,
+    "lat": 37.663567725,
+    "lng": -122.37989847499999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Benicia",
+    "citySlug": "benicia",
+    "count": 4,
+    "lat": 38.04776495,
+    "lng": -122.1596031
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Coronado",
+    "citySlug": "coronado",
+    "count": 4,
+    "lat": 32.666617175,
+    "lng": -117.16139765
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Dana Point",
+    "citySlug": "dana-point",
+    "count": 4,
+    "lat": 33.4606122,
+    "lng": -117.6982324
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Fremont",
+    "citySlug": "fremont",
+    "count": 4,
+    "lat": 37.55374665,
+    "lng": -122.04841819999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Monterey",
+    "citySlug": "monterey",
+    "count": 4,
+    "lat": 36.60605905,
+    "lng": -121.89179910000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santa Barbara",
+    "citySlug": "santa-barbara",
+    "count": 4,
+    "lat": 34.407031025,
+    "lng": -119.69052815
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Chula Vista",
+    "citySlug": "chula-vista",
+    "count": 4,
+    "lat": 32.630518425,
+    "lng": -117.071365625
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santee",
+    "citySlug": "santee",
+    "count": 4,
+    "lat": 32.85846385,
+    "lng": -117.00691925000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Mariposa County",
+    "citySlug": "mariposa-county",
+    "count": 4,
+    "lat": 37.625015525,
+    "lng": -120.28113859999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Jose",
+    "citySlug": "san-jose",
+    "count": 4,
+    "lat": 37.361026100000004,
+    "lng": -121.84641462500001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Joaquin County",
+    "citySlug": "san-joaquin-county",
+    "count": 4,
+    "lat": 37.982590724999994,
+    "lng": -121.44889965
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Dorchester County",
+    "citySlug": "dorchester-county",
+    "count": 4,
+    "lat": 38.560299300000004,
+    "lng": -75.76740330000001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Lowndes County",
+    "citySlug": "lowndes-county",
+    "count": 3,
+    "lat": 32.680699733333334,
+    "lng": -87.25926373333333
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Pike Road",
+    "citySlug": "pike-road",
+    "count": 3,
+    "lat": 32.344935633333336,
+    "lng": -86.03087496666667
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Madison County",
+    "citySlug": "madison-county",
+    "count": 3,
+    "lat": 34.74688343333333,
+    "lng": -86.61097749999999
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Florence",
+    "citySlug": "florence",
+    "count": 3,
+    "lat": 34.811731333333334,
+    "lng": -87.63085456666666
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Fairhope",
+    "citySlug": "fairhope",
+    "count": 3,
+    "lat": 30.507622533333333,
+    "lng": -87.9144356
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "St. Clair County",
+    "citySlug": "st-clair-county",
+    "count": 3,
+    "lat": 33.7050841,
+    "lng": -86.1636317
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Autauga County",
+    "citySlug": "autauga-county",
+    "count": 3,
+    "lat": 32.53261643333334,
+    "lng": -86.74361186666665
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Yavapai County",
+    "citySlug": "yavapai-county",
+    "count": 3,
+    "lat": 34.542569199999996,
+    "lng": -112.42503753333334
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Gilbert",
+    "citySlug": "gilbert",
+    "count": 3,
+    "lat": 33.2861174,
+    "lng": -111.7430977
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Faulkner County",
+    "citySlug": "faulkner-county",
+    "count": 3,
+    "lat": 35.237237,
+    "lng": -92.3422162
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Cleburne County",
+    "citySlug": "cleburne-county",
+    "count": 3,
+    "lat": 35.4946284,
+    "lng": -91.9977292
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Greene County",
+    "citySlug": "greene-county",
+    "count": 3,
+    "lat": 36.0005666,
+    "lng": -90.70130206666666
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Tuolumne County",
+    "citySlug": "tuolumne-county",
+    "count": 3,
+    "lat": 37.76256796666667,
+    "lng": -120.2228477
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Tehama County",
+    "citySlug": "tehama-county",
+    "count": 3,
+    "lat": 40.1236675,
+    "lng": -122.23993753333332
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Siskiyou County",
+    "citySlug": "siskiyou-county",
+    "count": 3,
+    "lat": 41.381183633333336,
+    "lng": -122.09269880000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Marin City",
+    "citySlug": "marin-city",
+    "count": 3,
+    "lat": 37.87342983333333,
+    "lng": -122.50293506666667
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Emeryville",
+    "citySlug": "emeryville",
+    "count": 3,
+    "lat": 37.83900043333333,
+    "lng": -122.30696703333335
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Leandro",
+    "citySlug": "san-leandro",
+    "count": 3,
+    "lat": 37.696999,
+    "lng": -122.19256940000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Belvedere",
+    "citySlug": "belvedere",
+    "count": 3,
+    "lat": 37.87204643333333,
+    "lng": -122.46228576666665
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Yuba County",
+    "citySlug": "yuba-county",
+    "count": 3,
+    "lat": 39.366931099999995,
+    "lng": -121.24988566666666
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Pittsburg",
+    "citySlug": "pittsburg",
+    "count": 3,
+    "lat": 38.0374519,
+    "lng": -121.88718053333332
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Huntington Beach",
+    "citySlug": "huntington-beach",
+    "count": 3,
+    "lat": 33.6939334,
+    "lng": -118.03192443333334
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "La Quinta",
+    "citySlug": "la-quinta",
+    "count": 3,
+    "lat": 33.63186233333334,
+    "lng": -116.26317983333333
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santa Cruz County",
+    "citySlug": "santa-cruz-county",
+    "count": 3,
+    "lat": 37.103330766666666,
+    "lng": -122.11150356666667
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Port Hueneme",
+    "citySlug": "port-hueneme",
+    "count": 3,
+    "lat": 34.14948813333333,
+    "lng": -119.20830256666666
+  },
+  {
+    "state": "CO",
+    "stateName": "Colorado",
+    "stateSlug": "colorado",
+    "city": "Routt County",
+    "citySlug": "routt-county",
+    "count": 3,
+    "lat": 40.762341533333334,
+    "lng": -106.95763796666665
+  },
+  {
+    "state": "CO",
+    "stateName": "Colorado",
+    "stateSlug": "colorado",
+    "city": "Moffat County",
+    "citySlug": "moffat-county",
+    "count": 3,
+    "lat": 40.35919736666666,
+    "lng": -107.54834546666667
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Sharptown",
+    "citySlug": "sharptown",
+    "count": 3,
+    "lat": 38.5436178,
+    "lng": -75.71999816666668
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Rehoboth Beach",
+    "citySlug": "rehoboth-beach",
+    "count": 3,
+    "lat": 38.714392933333336,
+    "lng": -75.08547236666668
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Federalsburg",
+    "citySlug": "federalsburg",
+    "count": 3,
+    "lat": 38.68588406666667,
+    "lng": -75.77226113333334
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Caroline County",
+    "citySlug": "caroline-county",
+    "count": 3,
+    "lat": 38.93825196666666,
+    "lng": -75.75798533333334
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Elsinboro Township",
+    "citySlug": "elsinboro-township",
+    "count": 3,
+    "lat": 39.5189096,
+    "lng": -75.50143323333333
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Millville",
+    "citySlug": "millville",
+    "count": 3,
+    "lat": 39.40084903333333,
+    "lng": -75.05343526666667
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Walker County",
+    "citySlug": "walker-county",
+    "count": 2,
+    "lat": 33.937808000000004,
+    "lng": -87.10581425
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Calera",
+    "citySlug": "calera",
+    "count": 2,
+    "lat": 33.160644950000005,
+    "lng": -86.72779779999999
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Washington County",
+    "citySlug": "washington-county",
+    "count": 2,
+    "lat": 31.41254565,
+    "lng": -88.1906394
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Blount County",
+    "citySlug": "blount-county",
+    "count": 2,
+    "lat": 33.832292100000004,
+    "lng": -86.5491744
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Daphne",
+    "citySlug": "daphne",
+    "count": 2,
+    "lat": 30.6312888,
+    "lng": -87.91964164999999
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Riverside",
+    "citySlug": "riverside",
+    "count": 2,
+    "lat": 33.59676195,
+    "lng": -86.18762455000001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Athens",
+    "citySlug": "athens",
+    "count": 2,
+    "lat": 34.795975999999996,
+    "lng": -86.92788815
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Brent",
+    "citySlug": "brent",
+    "count": 2,
+    "lat": 32.92101385,
+    "lng": -87.1634525
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Covington County",
+    "citySlug": "covington-county",
+    "count": 2,
+    "lat": 31.09100425,
+    "lng": -86.54655965
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Amory",
+    "citySlug": "amory",
+    "count": 2,
+    "lat": 34.0009769,
+    "lng": -88.4811034
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Valparaiso",
+    "citySlug": "valparaiso",
+    "count": 2,
+    "lat": 30.50247215,
+    "lng": -86.49496745
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Destin",
+    "citySlug": "destin",
+    "count": 2,
+    "lat": 30.408922150000002,
+    "lng": -86.48804315000001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Bayou La Batre",
+    "citySlug": "bayou-la-batre",
+    "count": 2,
+    "lat": 30.4238044,
+    "lng": -88.26516555
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Pelham",
+    "citySlug": "pelham",
+    "count": 2,
+    "lat": 33.3348031,
+    "lng": -86.75797175
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Prichard",
+    "citySlug": "prichard",
+    "count": 2,
+    "lat": 30.7824939,
+    "lng": -88.10275115
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "DeFuniak Springs",
+    "citySlug": "defuniak-springs",
+    "count": 2,
+    "lat": 30.71738475,
+    "lng": -86.11327245
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Conecuh County",
+    "citySlug": "conecuh-county",
+    "count": 2,
+    "lat": 31.3317514,
+    "lng": -87.08006420000001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Saraland",
+    "citySlug": "saraland",
+    "count": 2,
+    "lat": 30.8336976,
+    "lng": -88.08710585
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Creola",
+    "citySlug": "creola",
+    "count": 2,
+    "lat": 30.88707105,
+    "lng": -87.98792585
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Phoenix",
+    "citySlug": "phoenix",
+    "count": 2,
+    "lat": 33.37344505,
+    "lng": -112.00332399999999
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Paradise Valley",
+    "citySlug": "paradise-valley",
+    "count": 2,
+    "lat": 33.5660063,
+    "lng": -111.9454073
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Show Low",
+    "citySlug": "show-low",
+    "count": 2,
+    "lat": 34.256382450000004,
+    "lng": -110.04769715
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Imperial County",
+    "citySlug": "imperial-county",
+    "count": 2,
+    "lat": 32.96349205,
+    "lng": -114.54411825
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Scottsdale",
+    "citySlug": "scottsdale",
+    "count": 2,
+    "lat": 33.4527102,
+    "lng": -111.90254585
+  },
+  {
+    "state": "AZ",
+    "stateName": "Arizona",
+    "stateSlug": "arizona",
+    "city": "Queen Creek",
+    "citySlug": "queen-creek",
+    "count": 2,
+    "lat": 33.246712599999995,
+    "lng": -111.615458
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Jonesboro",
+    "citySlug": "jonesboro",
+    "count": 2,
+    "lat": 35.775845,
+    "lng": -90.70242435
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Yell County",
+    "citySlug": "yell-county",
+    "count": 2,
+    "lat": 35.120053600000006,
+    "lng": -93.30170749999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Hayward",
+    "citySlug": "hayward",
+    "count": 2,
+    "lat": 37.6371014,
+    "lng": -122.15437299999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Bard Lake",
+    "citySlug": "bard-lake",
+    "count": 2,
+    "lat": 34.2424313,
+    "lng": -118.8286997
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Lafayette",
+    "citySlug": "lafayette",
+    "count": 2,
+    "lat": 37.883662400000006,
+    "lng": -122.1398533
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Palo Alto",
+    "citySlug": "palo-alto",
+    "count": 2,
+    "lat": 37.459292250000004,
+    "lng": -122.1034774
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Nevada County",
+    "citySlug": "nevada-county",
+    "count": 2,
+    "lat": 39.1792339,
+    "lng": -120.74210515
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Malibu",
+    "citySlug": "malibu",
+    "count": 2,
+    "lat": 34.02830585,
+    "lng": -118.73117395
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Redondo Beach",
+    "citySlug": "redondo-beach",
+    "count": 2,
+    "lat": 33.84252535,
+    "lng": -118.3926035
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Ventura",
+    "citySlug": "ventura",
+    "count": 2,
+    "lat": 34.2453456,
+    "lng": -119.26291855
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Mountain View",
+    "citySlug": "mountain-view",
+    "count": 2,
+    "lat": 37.43399475,
+    "lng": -122.0750567
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Anaheim",
+    "citySlug": "anaheim",
+    "count": 2,
+    "lat": 33.80843965,
+    "lng": -117.9217357
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Riverside County",
+    "citySlug": "riverside-county",
+    "count": 2,
+    "lat": 33.8673296,
+    "lng": -117.1772864
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Big Bear Lake",
+    "citySlug": "big-bear-lake",
+    "count": 2,
+    "lat": 34.238187249999996,
+    "lng": -116.89055965
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Alameda County",
+    "citySlug": "alameda-county",
+    "count": 2,
+    "lat": 37.65194015,
+    "lng": -121.9034804
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Napa County",
+    "citySlug": "napa-county",
+    "count": 2,
+    "lat": 38.53705595,
+    "lng": -122.30618715
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Del Norte County",
+    "citySlug": "del-norte-county",
+    "count": 2,
+    "lat": 41.7430596,
+    "lng": -124.18336
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Larkspur",
+    "citySlug": "larkspur",
+    "count": 2,
+    "lat": 37.94096605,
+    "lng": -122.5269027
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Belmont",
+    "citySlug": "belmont",
+    "count": 2,
+    "lat": 37.5322786,
+    "lng": -122.2699408
+  },
+  {
+    "state": "CO",
+    "stateName": "Colorado",
+    "stateSlug": "colorado",
+    "city": "Westminster",
+    "citySlug": "westminster",
+    "count": 2,
+    "lat": 39.89710395,
+    "lng": -105.04328665
+  },
+  {
+    "state": "CO",
+    "stateName": "Colorado",
+    "stateSlug": "colorado",
+    "city": "Broomfield",
+    "citySlug": "broomfield",
+    "count": 2,
+    "lat": 39.9794059,
+    "lng": -105.03247665
+  },
+  {
+    "state": "CO",
+    "stateName": "Colorado",
+    "stateSlug": "colorado",
+    "city": "Jefferson County",
+    "citySlug": "jefferson-county",
+    "count": 2,
+    "lat": 39.607066,
+    "lng": -105.08286785
+  },
+  {
+    "state": "CO",
+    "stateName": "Colorado",
+    "stateSlug": "colorado",
+    "city": "Park County",
+    "citySlug": "park-county",
+    "count": 2,
+    "lat": 38.92055485,
+    "lng": -105.49980959999999
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Seaford",
+    "citySlug": "seaford",
+    "count": 2,
+    "lat": 38.63689105,
+    "lng": -75.6143201
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Delaware City",
+    "citySlug": "delaware-city",
+    "count": 2,
+    "lat": 39.573231899999996,
+    "lng": -75.58993294999999
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Pennsville Township",
+    "citySlug": "pennsville-township",
+    "count": 2,
+    "lat": 39.6621315,
+    "lng": -75.4948898
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Dover",
+    "citySlug": "dover",
+    "count": 2,
+    "lat": 39.1657006,
+    "lng": -75.52295475
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Milton",
+    "citySlug": "milton",
+    "count": 2,
+    "lat": 38.77799235,
+    "lng": -75.31121544999999
+  },
+  {
+    "state": "DE",
+    "stateName": "Delaware",
+    "stateSlug": "delaware",
+    "city": "Leipsic",
+    "citySlug": "leipsic",
+    "count": 2,
+    "lat": 39.242325199999996,
+    "lng": -75.51586195
+  }
+]
