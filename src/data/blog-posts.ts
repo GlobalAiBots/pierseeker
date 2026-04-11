@@ -11,6 +11,30 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "pier-fishing-tips-for-beginners",
+    title: "Pier Fishing Tips for Beginners: Everything You Need to Know",
+    date: "April 11, 2026", readTime: "7 min read", category: "Beginner Guide",
+    description: "Gear, bait, casting technique, species by region, best times, and licensing — everything a new pier angler needs.",
+    gradient: "linear-gradient(135deg, #0A3D62 0%, #0D9488 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">🎯</text></svg>',
+  },
+  {
+    slug: "pier-vs-boat-fishing",
+    title: "Pier Fishing vs Boat Fishing: Pros, Cons & Which Is Right for You",
+    date: "April 11, 2026", readTime: "5 min read", category: "Guide",
+    description: "Cost, accessibility, species access, and experience level — how pier fishing and boat fishing compare.",
+    gradient: "linear-gradient(135deg, #1E3A5F 0%, #E76F51 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">⚖️</text></svg>',
+  },
+  {
+    slug: "best-fishing-piers-in-america",
+    title: "Best Fishing Piers in America: Top 25",
+    date: "April 11, 2026", readTime: "8 min read", category: "Destinations",
+    description: "The 25 best fishing piers in the US — curated by region with what makes each one worth the trip.",
+    gradient: "linear-gradient(135deg, #1E6091 0%, #2D6A4F 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">🏆</text></svg>',
+  },
+  {
     slug: "best-fishing-piers-florida",
     title: "Best Fishing Piers in Florida: Saltwater Spots You Need to Visit",
     date: "April 5, 2026", readTime: "6 min read", category: "Destinations",
