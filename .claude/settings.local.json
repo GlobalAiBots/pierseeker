@@ -146,7 +146,19 @@
       "Bash(node -e 'const d=JSON.parse\\(require\\('\\\\''fs'\\\\''\\).readFileSync\\('\\\\''src/data/__TRACKED_VAR__-parks.json'\\\\''\\)\\); const named=d.filter\\(p=>p.name&&!p.name.match\\(/^Dog Park$/i\\)\\); named.slice\\(0,12\\).forEach\\(p=>console.log\\(p.place_id+'\\\\'' | '\\\\''+p.name+'\\\\'' | '\\\\''+p.city\\)\\)')",
       "Bash([ -f \"D:/barkseeker/src/app/best-of/$d/page.tsx\" ])",
       "Bash(node -e 'const d=JSON.parse\\(require\\('\\\\''fs'\\\\''\\).readFileSync\\('\\\\''src/data/__TRACKED_VAR__-piers.json'\\\\''\\)\\); const named=d.filter\\(p=>p.name&&!p.name.match\\(/^\\(Fishing Pier|Pier|Dock\\)$/i\\)\\); named.slice\\(0,12\\).forEach\\(p=>console.log\\(p.place_id+'\\\\'' | '\\\\''+p.name+'\\\\'' | '\\\\''+p.city\\)\\)')",
-      "Bash([ -f \"D:/pierseeker/src/app/best-of/$d/page.tsx\" ])"
+      "Bash([ -f \"D:/pierseeker/src/app/best-of/$d/page.tsx\" ])",
+      "Bash(node -e 'const d=JSON.parse\\(require\\('\\\\''fs'\\\\''\\).readFileSync\\('\\\\''src/data/marinas.json'\\\\''\\)\\); d.filter\\(m=>m.state==='\\\\''__TRACKED_VAR__'\\\\''&&m.name\\).slice\\(0,12\\).forEach\\(m=>console.log\\(m.id+'\\\\'' | '\\\\''+m.name+'\\\\'' | '\\\\''+m.city\\)\\)')",
+      "Bash([ -f \"D:/marinaseeker/src/app/best-of/$d/page.tsx\" ])",
+      "Bash(node -e 'const d=require\\('\\\\''./src/data/mechanics-index.json'\\\\''\\); d.filter\\(s=>s.city==='\\\\''__TRACKED_VAR__'\\\\''&&s.name\\).slice\\(0,12\\).forEach\\(s=>console.log\\(s.id+'\\\\'' | '\\\\''+s.name+'\\\\'' | '\\\\''+\\(s.brand||'\\\\''Independent'\\\\''\\)\\)\\)')",
+      "Bash([ -f \"D:/mechanicseeker/src/app/best-of/$d/page.tsx\" ])",
+      "Bash([ -d \"D:/$d/src/app\" ])",
+      "Bash([ -d \"D:/$d/src\" ])",
+      "Bash(node:*)",
+      "Bash(git push:*)",
+      "Bash(ls \"D:/marinaseeker/public/images/hero\"*)",
+      "Read(//d/babymydog/src/app/ramps/[id/]/**)",
+      "Bash(mkdir -p D:/__TRACKED_VAR__/src/components D:/__TRACKED_VAR__/src/app/near-me)",
+      "Bash(cp D:/rampseeker/src/components/NearMeButton.tsx D:/__TRACKED_VAR__/src/components/NearMeButton.tsx)"
     ]
   }
 }
