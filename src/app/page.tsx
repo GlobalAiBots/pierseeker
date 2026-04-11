@@ -6,6 +6,7 @@ import { unified } from "@/data/all-piers";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
+import NearMeButton from "@/components/NearMeButton";
 
 const stateList: { name: string; slug: string; code: string }[] = [
   { name: "Alabama", slug: "alabama", code: "AL" },{ name: "Arizona", slug: "arizona", code: "AZ" },
@@ -91,7 +92,11 @@ export default function Home() {
             )}
           </div>
 
-          <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
+          <div className="flex justify-center mt-4">
+            <NearMeButton label="Find Piers Near Me" color="#0A3D62" />
+          </div>
+
+          <div className="flex gap-2 justify-center mt-4 flex-wrap max-w-2xl mx-auto">
             {statesWithCounts.slice(0, 6).map((s) => (
               <Link key={s.code} href={`/${s.slug}`} className="bg-white/15 hover:bg-white/25 text-white font-bold px-4 py-2 rounded-lg transition text-xs backdrop-blur-sm border border-white/10">{s.name} ({s.count.toLocaleString()})</Link>
             ))}
