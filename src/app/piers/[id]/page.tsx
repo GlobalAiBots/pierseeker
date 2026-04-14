@@ -81,6 +81,7 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
   const faqs = [
     { q: `Where is ${pier.name}?`, a: `${pier.name} is located at GPS coordinates ${pier.latitude.toFixed(4)}, ${pier.longitude.toFixed(4)} in ${pier.city || stName}.` },
     { q: `Is ${pier.name} free to fish from?`, a: "Most public fishing piers are free to use. Some state or municipal piers may have a small access fee during peak season." },
+    { q: `How do I get directions to ${pier.name}?`, a: `Click the "Get Directions" button on this page to open Google Maps with turn-by-turn directions to ${pier.name}.` },
   ];
 
   const mapPiers = [{ id: pier.id, name: pier.name, latitude: pier.latitude, longitude: pier.longitude, city: pier.city }];
@@ -100,6 +101,7 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
           { "@type": "ListItem", position: 3, name: pier.name, item: `https://pierseeker.com/piers/${pier.id}` },
         ],
       }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-ocean transition">Home</Link><span>/</span>
@@ -122,9 +124,64 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
         </div>
       </div>
 
-      <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-8 shadow-sm">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">About This Pier</h2>
-        <p className="text-gray-600 leading-relaxed">{pier.description}</p>
+      {pier.description && (
+        <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-6 shadow-sm">
+          <p className="text-gray-600 leading-relaxed">{pier.description}</p>
+        </div>
+      )}
+
+      {/* About This Pier — unique content */}
+      <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-6 shadow-sm">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">About {pier.name}</h2>
+        <p className="text-gray-600 leading-relaxed text-sm">
+          {pier.name} is a fishing pier located in {pier.city ? `${pier.city}, ` : ""}{stName}. {pier.amenities && pier.amenities.length > 0 ? `This pier offers amenities including ${pier.amenities.slice(0, 3).join(", ").toLowerCase()}.` : "This pier provides public fishing access."} GPS coordinates for navigation: {pier.latitude.toFixed(4)}, {pier.longitude.toFixed(4)}.
+        </p>
+        {pier.rating > 0 && (
+          <p className="text-gray-600 leading-relaxed text-sm mt-3">
+            Based on {pier.totalRatings} review{pier.totalRatings !== 1 ? "s" : ""}, {pier.name} has a {pier.rating}/5 rating. {pier.rating >= 4 ? "Anglers rate this as a top fishing spot." : "Check recent reviews before planning your trip."}
+          </p>
+        )}
+      </div>
+
+      {/* Tips */}
+      <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+        <h3 className="font-[Cabin] font-bold text-ocean mb-3">Tips for Fishing at {pier.name}</h3>
+        <ul className="space-y-2 text-sm text-gray-700">
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Check {stName} fishing license requirements before heading out &mdash; most states require one for pier fishing.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Best times to fish from piers are early morning, late afternoon, and around tidal changes.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Bring a variety of bait &mdash; shrimp, cut bait, and artificial lures all work from piers.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Read our <Link href="/blog/pier-fishing-tips-for-beginners" className="text-ocean hover:underline">pier fishing tips guide</Link> for more advice.</li>
+        </ul>
+      </div>
+
+      {/* Fishing in State */}
+      {(() => {
+        const stateCount = unified.filter(p => p.state === pier.state).length;
+        return (
+          <div className="bg-white border border-gray-200 rounded-xl p-6 mb-6 shadow-sm">
+            <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Fishing Piers in {stName}</h3>
+            <p className="text-gray-600 leading-relaxed text-sm">
+              {stName} has {stateCount.toLocaleString()} fishing piers, docks, and jetties listed on PierSeeker. From saltwater piers to freshwater docks, {stName} offers something for every angler. <Link href={`/${stSlug}`} className="text-ocean hover:underline">Browse all {stateCount.toLocaleString()} fishing piers in {stName}</Link>.
+            </p>
+          </div>
+        );
+      })()}
+
+      {/* Related Guides */}
+      <div className="mb-6">
+        <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Related Guides</h3>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          {[
+            { href: "/blog/pier-fishing-tips-for-beginners", title: "Pier Fishing Tips", desc: "Everything beginners need to know" },
+            { href: "/blog/pier-vs-boat-fishing", title: "Pier vs Boat Fishing", desc: "Pros, cons, and which is right for you" },
+            { href: "/blog/what-to-bring-pier-fishing", title: "What to Bring", desc: "Complete pier fishing gear checklist" },
+          ].map((g) => (
+            <Link key={g.href} href={g.href} className="group bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all">
+              <p className="font-bold text-charcoal group-hover:text-ocean transition text-sm">{g.title}</p>
+              <p className="text-gray-400 text-xs mt-1">{g.desc}</p>
+            </Link>
+          ))}
+        </div>
       </div>
 
       <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">FAQ</h2>
