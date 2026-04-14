@@ -1,10 +1,13 @@
 "use client";
 
 import { use, useState, useMemo } from "react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { unified } from "@/data/all-piers";
 import cityPages from "@/data/city-pages.json";
 import FeaturedArticle from "@/components/FeaturedArticle";
+
+const PierMap = dynamic(() => import("@/components/PierMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 350 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 
 interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
 const allCityPages = cityPages as CityPage[];
@@ -17,6 +20,9 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
     if (!cityInfo) return [];
     return unified.filter((p) => p.state === cityInfo.state && p.city?.trim() === cityInfo.city);
   }, [cityInfo]);
+
+  const mapPiers = useMemo(() => piers.map(p => ({ id: p.id, name: p.name, latitude: p.latitude, longitude: p.longitude, city: p.city })), [piers]);
+  const center = useMemo<[number, number]>(() => piers.length ? [piers.reduce((s, p) => s + p.latitude, 0) / piers.length, piers.reduce((s, p) => s + p.longitude, 0) / piers.length] : [39.8, -98.5], [piers]);
 
   const [search, setSearch] = useState("");
   const filtered = search.length >= 2
@@ -63,6 +69,8 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
       {piers.length > 5 && (
         <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Search piers in this city..." className="w-full max-w-md px-4 py-2.5 rounded-lg border border-gray-200 text-sm outline-none focus:border-ocean transition mb-6" />
       )}
+
+      {piers.length > 0 && <PierMap piers={mapPiers} center={center} zoom={12} height="350px" className="mb-8" />}
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-12">
         {filtered.map((p) => (
