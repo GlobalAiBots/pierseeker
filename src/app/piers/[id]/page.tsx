@@ -16,6 +16,7 @@ const PierMap = dynamic(() => import("@/components/PierMap"), {
 });
 
 export const dynamicParams = true;
+export const revalidate = 86400; // ISR: regenerate daily
 
 export function generateStaticParams() {
   return [];
@@ -64,20 +65,8 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
   const stSlug = stateSlugs[pier.state] || pier.state.toLowerCase();
   const stName = stateNames[pier.state] || pier.state;
 
-  // Precomputed nearby piers
-  const nearbyData = (() => {
-    try {
-      // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const data = require("@/data/nearby.json");
-      return (data[pier.id] || []).slice(0, 5);
-    } catch { return []; }
-  })();
-  const nearby = nearbyData.length > 0
-    ? nearbyData.map((n: { id: string; name: string; distance: number; city: string; state: string }) => {
-        const found = unified.find((p) => p.id === n.id);
-        return found ? { ...found, distanceMiles: n.distance } : null;
-      }).filter(Boolean)
-    : unified.filter((p) => p.id !== pier.id && p.state === pier.state).slice(0, 5);
+  // Nearby piers — same state, first 5
+  const nearby = unified.filter((p) => p.id !== pier.id && p.state === pier.state).slice(0, 5);
 
   const faqs = [
     { q: `Where is ${pier.name}?`, a: `${pier.name} is located at GPS coordinates ${pier.latitude.toFixed(4)}, ${pier.longitude.toFixed(4)} in ${pier.city || stName}.` },

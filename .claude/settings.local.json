@@ -192,7 +192,10 @@
       "Bash(grep -n \"SUPABASE_URL\\\\|supabaseUrl\" .env* src/lib/supabase*)",
       "Bash(grep \"SUPABASE_URL\" .env*)",
       "Bash(grep -rn \"d'Alene\\\\|O'Brien\\\\|it's\\\\|don't\\\\|can't\\\\|won't\\\\|that's\" src/app/*/page.tsx)",
-      "Bash(grep -v \"\\\\\\\\\\\\\\\\'\")"
+      "Bash(grep -v \"\\\\\\\\\\\\\\\\'\")",
+      "Bash(grep \"import.*alaska-lakes\\\\|import.*hawaii-lakes\\\\|import.*nebraska-lakes\\\\|import.*wisconsin-lakes\\\\|import.*vermont-lakes\\\\|import.*north-dakota-lakes\" src/data/*.ts)",
+      "Bash(rm -rf D:/pierseeker/.next)",
+      "Bash(NODE_OPTIONS='--max-old-space-size=4096' npx next build)"
     ]
   }
 }

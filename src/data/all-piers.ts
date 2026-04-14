@@ -151,3 +151,13 @@ export function getAllCities(): { city: string; count: number }[] {
   }
   return Object.entries(map).map(([city, count]) => ({ city, count })).sort((a, b) => b.count - a.count);
 }
+
+/** Get piers in a specific state (for nearby on detail pages) */
+export function getPiersByState(stateCode: string, limit = 10): UnifiedPier[] {
+  return allPiers.filter((p) => p.state === stateCode).slice(0, limit);
+}
+
+/** Get total pier count for a state */
+export function getStateCount(stateCode: string): number {
+  return allPiers.filter((p) => p.state === stateCode).length;
+}

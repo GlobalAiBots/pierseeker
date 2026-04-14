@@ -114,7 +114,7 @@ export default function Home() {
       <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
-          {statesWithCounts.map((s) => (
+          {statesWithCounts.filter(s => s.count > 0).map((s) => (
             <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:border-ocean hover:shadow-sm transition">
               <p className="font-bold text-charcoal text-sm group-hover:text-ocean transition">{s.name}</p>
               <p className="text-gray-400 text-xs">{s.count.toLocaleString()} piers</p>

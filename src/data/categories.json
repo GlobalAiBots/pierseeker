@@ -143,8 +143,14 @@
     "slug": "freshwater",
     "title": "Freshwater Fishing Piers",
     "description": "Lake, river, and reservoir fishing piers across inland America — great for bass, catfish, crappie, and trout.",
-    "totalCount": 10640,
+    "totalCount": 18746,
     "states": [
+      {
+        "code": "WI",
+        "name": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 6682
+      },
       {
         "code": "MI",
         "name": "Michigan",
@@ -170,6 +176,18 @@
         "count": 760
       },
       {
+        "code": "ND",
+        "name": "North Dakota",
+        "slug": "north-dakota",
+        "count": 546
+      },
+      {
+        "code": "NE",
+        "name": "Nebraska",
+        "slug": "nebraska",
+        "count": 502
+      },
+      {
         "code": "IN",
         "name": "Indiana",
         "slug": "indiana",
@@ -180,6 +198,12 @@
         "name": "Idaho",
         "slug": "idaho",
         "count": 407
+      },
+      {
+        "code": "VT",
+        "name": "Vermont",
+        "slug": "vermont",
+        "count": 376
       },
       {
         "code": "IA",
@@ -283,7 +307,7 @@
     "slug": "public-piers",
     "title": "Public Fishing Piers",
     "description": "Free public fishing piers maintained by state parks, cities, and counties — no membership required.",
-    "totalCount": 221,
+    "totalCount": 227,
     "states": [
       {
         "code": "FL",
@@ -355,6 +379,12 @@
         "code": "MN",
         "name": "Minnesota",
         "slug": "minnesota",
+        "count": 6
+      },
+      {
+        "code": "WI",
+        "name": "Wisconsin",
+        "slug": "wisconsin",
         "count": 6
       },
       {
@@ -477,7 +507,7 @@
     "slug": "docks",
     "title": "Fishing Docks & Jetties",
     "description": "Fishing docks, jetties, and smaller launch-adjacent spots perfect for shore fishing and crabbing.",
-    "totalCount": 1011,
+    "totalCount": 1103,
     "states": [
       {
         "code": "FL",
@@ -490,6 +520,12 @@
         "name": "Washington",
         "slug": "washington",
         "count": 112
+      },
+      {
+        "code": "WI",
+        "name": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 80
       },
       {
         "code": "CA",
@@ -585,6 +621,12 @@
         "code": "MO",
         "name": "Missouri",
         "slug": "missouri",
+        "count": 12
+      },
+      {
+        "code": "NE",
+        "name": "Nebraska",
+        "slug": "nebraska",
         "count": 12
       },
       {
@@ -707,7 +749,7 @@
     "slug": "boat-launches",
     "title": "Piers with Boat Launches",
     "description": "Fishing piers co-located with boat ramps and slipways — fish from the pier or launch your boat.",
-    "totalCount": 822,
+    "totalCount": 834,
     "states": [
       {
         "code": "FL",
@@ -738,6 +780,12 @@
         "name": "North Carolina",
         "slug": "north-carolina",
         "count": 13
+      },
+      {
+        "code": "WI",
+        "name": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 12
       },
       {
         "code": "CA",

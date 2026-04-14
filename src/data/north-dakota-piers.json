@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pier-north-dakota-eckroth-corner-1",
+    "name": "Eckroth Corner",
+    "description": "Fishing pier in North Dakota.",
+    "latitude": 46.569942,
+    "longitude": -100.5881634,
+    "address": "",
+    "city": "",
+    "county": "",
+    "state": "ND",
+    "rating": 0,
+    "totalRatings": 0,
+    "featured": false,
+    "amenities": [],
+    "fee": "",
+    "enriched": false,
+    "place_id": "pier-north-dakota-eckroth-corner-1",
+    "formatted_address": "",
+    "total_ratings": 0,
+    "types": [],
+    "business_status": "OPERATIONAL"
+  }
+]
