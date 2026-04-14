@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import dynamic from "next/dynamic";
 import { unified, getUnifiedPierById } from "@/data/all-piers";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import type { Metadata } from "next";
 
 const PierMap = dynamic(() => import("@/components/PierMap"), {
@@ -193,6 +194,8 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
           </details>
         ))}
       </div>
+
+      <FeaturedArticle listingSlug={pier.id} />
 
       <CletusAd />
 
