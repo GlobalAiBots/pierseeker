@@ -80,6 +80,16 @@
     "lng": -87.28450515714287
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Vinalhaven",
+    "citySlug": "vinalhaven",
+    "count": 63,
+    "lat": 44.09082208095237,
+    "lng": -68.8632322063492
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -118,6 +128,16 @@
     "count": 55,
     "lat": 29.92918657818182,
     "lng": -90.14124121818178
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Southport",
+    "citySlug": "southport",
+    "count": 52,
+    "lat": 43.824680130769224,
+    "lng": -69.6648170653846
   },
   {
     "state": "IL",
@@ -168,6 +188,16 @@
     "count": 46,
     "lat": 42.34493519130435,
     "lng": -88.02502307391308
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Lac-Jacques-Cartier",
+    "citySlug": "lac-jacques-cartier",
+    "count": 44,
+    "lat": 47.44131345909091,
+    "lng": -71.01288605
   },
   {
     "state": "AL",
@@ -260,6 +290,16 @@
     "lng": -81.75097660882355
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "North Haven",
+    "citySlug": "north-haven",
+    "count": 33,
+    "lat": 44.13959864848483,
+    "lng": -68.87106074545453
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -278,6 +318,16 @@
     "count": 32,
     "lat": 41.73367078125,
     "lng": -85.402761309375
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Sebago",
+    "citySlug": "sebago",
+    "count": 32,
+    "lat": 43.9003979,
+    "lng": -70.65998378125
   },
   {
     "state": "GA",
@@ -318,6 +368,16 @@
     "count": 29,
     "lat": 39.61274409999998,
     "lng": -75.5988664310345
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Tremont",
+    "citySlug": "tremont",
+    "count": 29,
+    "lat": 44.27917422758622,
+    "lng": -68.40553206206897
   },
   {
     "state": "ID",
@@ -370,6 +430,16 @@
     "lng": -96.54964828518517
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Boothbay Harbor",
+    "citySlug": "boothbay-harbor",
+    "count": 27,
+    "lat": 43.84765641851851,
+    "lng": -69.63800534444447
+  },
+  {
     "state": "FL",
     "stateName": "Florida",
     "stateSlug": "florida",
@@ -398,6 +468,16 @@
     "count": 25,
     "lat": 37.33533345600001,
     "lng": -89.783839944
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Standish",
+    "citySlug": "standish",
+    "count": 25,
+    "lat": 43.823923355999995,
+    "lng": -70.509690772
   },
   {
     "state": "FL",
@@ -510,6 +590,16 @@
     "lng": -88.12086374545454
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Denmark",
+    "citySlug": "denmark",
+    "count": 22,
+    "lat": 43.9647668090909,
+    "lng": -70.7717682
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -550,6 +640,16 @@
     "lng": -84.30405905238095
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Rangeley",
+    "citySlug": "rangeley",
+    "count": 21,
+    "lat": 44.94923548095238,
+    "lng": -70.73795633333334
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -568,6 +668,16 @@
     "count": 20,
     "lat": 41.453927895,
     "lng": -88.10695652000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Boothbay",
+    "citySlug": "boothbay",
+    "count": 20,
+    "lat": 43.85787136500001,
+    "lng": -69.618894865
   },
   {
     "state": "CA",
@@ -630,6 +740,16 @@
     "lng": -88.22890348421055
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Frye Island",
+    "citySlug": "frye-island",
+    "count": 19,
+    "lat": 43.8374614,
+    "lng": -70.52525994736843
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -650,6 +770,16 @@
     "lng": -119.2548695888889
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "York",
+    "citySlug": "york",
+    "count": 18,
+    "lat": 43.152355099999994,
+    "lng": -70.65510563888887
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -658,6 +788,16 @@
     "count": 17,
     "lat": 29.667186811764704,
     "lng": -91.48841716470588
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Mount Desert",
+    "citySlug": "mount-desert",
+    "count": 17,
+    "lat": 44.3425257,
+    "lng": -68.37665270588235
   },
   {
     "state": "AL",
@@ -768,6 +908,16 @@
     "count": 16,
     "lat": 39.081158387500004,
     "lng": -84.5328986
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Bar Harbor",
+    "citySlug": "bar-harbor",
+    "count": 16,
+    "lat": 44.407691187500006,
+    "lng": -68.27855701874999
   },
   {
     "state": "AR",
@@ -978,6 +1128,26 @@
     "count": 13,
     "lat": 41.13375356153846,
     "lng": -85.16609303846154
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Portland",
+    "citySlug": "portland",
+    "count": 13,
+    "lat": 43.65462674615385,
+    "lng": -70.2381340153846
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Isle au Haut",
+    "citySlug": "isle-au-haut",
+    "count": 13,
+    "lat": 44.07778598461538,
+    "lng": -68.63472345384615
   },
   {
     "state": "AL",
@@ -1220,6 +1390,46 @@
     "lng": -92.3816042
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "South Portland",
+    "citySlug": "south-portland",
+    "count": 11,
+    "lat": 43.64621622727273,
+    "lng": -70.253654
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Newington",
+    "citySlug": "newington",
+    "count": 11,
+    "lat": 43.10971530909091,
+    "lng": -70.81507011818182
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Campobello Parish",
+    "citySlug": "campobello-parish",
+    "count": 11,
+    "lat": 44.93368063636363,
+    "lng": -66.92694456363637
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Chebeague Island",
+    "citySlug": "chebeague-island",
+    "count": 11,
+    "lat": 43.73590938181819,
+    "lng": -70.11936859090908
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -1393,11 +1603,61 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Newington",
-    "citySlug": "newington",
+    "city": "Biddeford",
+    "citySlug": "biddeford",
     "count": 10,
-    "lat": 43.110071219999995,
-    "lng": -70.81688315
+    "lat": 43.45652423999999,
+    "lng": -70.3855661
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Rockland",
+    "citySlug": "rockland",
+    "count": 10,
+    "lat": 44.11077463,
+    "lng": -69.09943002
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Saint George",
+    "citySlug": "saint-george",
+    "count": 10,
+    "lat": 43.92618105,
+    "lng": -69.25774356
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Southwest Harbor",
+    "citySlug": "southwest-harbor",
+    "count": 10,
+    "lat": 44.27276852999999,
+    "lng": -68.31010155
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Kittery",
+    "citySlug": "kittery",
+    "count": 10,
+    "lat": 43.10557943,
+    "lng": -70.74109404000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Kennebunkport",
+    "citySlug": "kennebunkport",
+    "count": 10,
+    "lat": 43.3633357,
+    "lng": -70.44696274
   },
   {
     "state": "AL",
@@ -1598,6 +1858,16 @@
     "count": 9,
     "lat": 37.98164251111111,
     "lng": -84.44223947777778
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Cushing",
+    "citySlug": "cushing",
+    "count": 9,
+    "lat": 43.95256185555555,
+    "lng": -69.30491092222222
   },
   {
     "state": "AL",
@@ -1920,6 +2190,66 @@
     "lng": -92.66265849999999
   },
   {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Cranberry Isles",
+    "citySlug": "cranberry-isles",
+    "count": 8,
+    "lat": 44.2556978,
+    "lng": -68.259529
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Scarborough",
+    "citySlug": "scarborough",
+    "count": 8,
+    "lat": 43.5746509,
+    "lng": -70.3404613625
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Falmouth",
+    "citySlug": "falmouth",
+    "count": 8,
+    "lat": 43.714272387499996,
+    "lng": -70.21986025000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Harpswell",
+    "citySlug": "harpswell",
+    "count": 8,
+    "lat": 43.7885178875,
+    "lng": -69.94318085
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Bath",
+    "citySlug": "bath",
+    "count": 8,
+    "lat": 43.9135642,
+    "lng": -69.812786225
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Bremen",
+    "citySlug": "bremen",
+    "count": 8,
+    "lat": 43.9949904,
+    "lng": -69.3939428625
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -2163,11 +2493,31 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Campobello Parish",
-    "citySlug": "campobello-parish",
+    "city": "West Isles Parish",
+    "citySlug": "west-isles-parish",
     "count": 7,
-    "lat": 44.92963841428571,
-    "lng": -66.93114857142858
+    "lat": 44.98457427142858,
+    "lng": -66.94941661428571
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Eastport",
+    "citySlug": "eastport",
+    "count": 7,
+    "lat": 44.90528531428572,
+    "lng": -66.99559302857142
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "T41 MD BPP",
+    "citySlug": "t41-md-bpp",
+    "count": 7,
+    "lat": 45.06156827142858,
+    "lng": -68.12280141428572
   },
   {
     "state": "AL",
@@ -2663,11 +3013,41 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "South Portland",
-    "citySlug": "south-portland",
+    "city": "Camden",
+    "citySlug": "camden",
     "count": 6,
-    "lat": 43.65174688333334,
-    "lng": -70.23795193333332
+    "lat": 44.20907951666666,
+    "lng": -69.05545916666667
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Deer Isle",
+    "citySlug": "deer-isle",
+    "count": 6,
+    "lat": 44.26629225,
+    "lng": -68.68874861666666
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Georgetown",
+    "citySlug": "georgetown",
+    "count": 6,
+    "lat": 43.81805443333334,
+    "lng": -69.71892328333333
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "South Bristol",
+    "citySlug": "south-bristol",
+    "count": 6,
+    "lat": 43.86673931666667,
+    "lng": -69.56219001666666
   },
   {
     "state": "AL",
@@ -3403,11 +3783,71 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Portland",
-    "citySlug": "portland",
+    "city": "Stonington",
+    "citySlug": "stonington",
     "count": 5,
-    "lat": 43.653686519999994,
-    "lng": -70.24131908
+    "lat": 44.1565181,
+    "lng": -68.66586296
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Lubec",
+    "citySlug": "lubec",
+    "count": 5,
+    "lat": 44.87022852,
+    "lng": -66.9985823
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Dedham",
+    "citySlug": "dedham",
+    "count": 5,
+    "lat": 44.70965344,
+    "lng": -68.59611684
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Piscataquis County",
+    "citySlug": "piscataquis-county",
+    "count": 5,
+    "lat": 45.65753678,
+    "lng": -69.6803347
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "South Thomaston",
+    "citySlug": "south-thomaston",
+    "count": 5,
+    "lat": 44.013623200000005,
+    "lng": -69.12438979999999
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Saco",
+    "citySlug": "saco",
+    "count": 5,
+    "lat": 43.49428466,
+    "lng": -70.41272092
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Mont-Carmel",
+    "citySlug": "mont-carmel",
+    "count": 5,
+    "lat": 47.22597748,
+    "lng": -69.58509139999998
   },
   {
     "state": "AL",
@@ -4423,6 +4863,26 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
+    "city": "Pohénégamook",
+    "citySlug": "poh-n-gamook",
+    "count": 4,
+    "lat": 47.473690375,
+    "lng": -69.250515025
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Dover",
+    "citySlug": "dover",
+    "count": 4,
+    "lat": 43.130750850000005,
+    "lng": -70.836702725
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
     "city": "Montmagny (MRC)",
     "citySlug": "montmagny-mrc",
     "count": 4,
@@ -4433,11 +4893,141 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "West Isles Parish",
-    "citySlug": "west-isles-parish",
+    "city": "Brunswick",
+    "citySlug": "brunswick",
     "count": 4,
-    "lat": 44.96940275,
-    "lng": -66.97001625
+    "lat": 43.89154915,
+    "lng": -69.928598875
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Swan's Island",
+    "citySlug": "swan-s-island",
+    "count": 4,
+    "lat": 44.160680175,
+    "lng": -68.483560275
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Castine",
+    "citySlug": "castine",
+    "count": 4,
+    "lat": 44.379868325,
+    "lng": -68.80098437499998
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Jonesport",
+    "citySlug": "jonesport",
+    "count": 4,
+    "lat": 44.51938415000001,
+    "lng": -67.59713657500001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Searsport",
+    "citySlug": "searsport",
+    "count": 4,
+    "lat": 44.4500339,
+    "lng": -68.90321427500001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Augusta",
+    "citySlug": "augusta",
+    "count": 4,
+    "lat": 44.323720650000006,
+    "lng": -69.776484875
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Phippsburg",
+    "citySlug": "phippsburg",
+    "count": 4,
+    "lat": 43.810298025,
+    "lng": -69.833070425
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Yarmouth",
+    "citySlug": "yarmouth",
+    "count": 4,
+    "lat": 43.7958065,
+    "lng": -70.15071427500001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Greenville",
+    "citySlug": "greenville",
+    "count": 4,
+    "lat": 45.478210675,
+    "lng": -69.60365904999999
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Friendship",
+    "citySlug": "friendship",
+    "count": 4,
+    "lat": 43.949316499999995,
+    "lng": -69.33562817500001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Brownfield",
+    "citySlug": "brownfield",
+    "count": 4,
+    "lat": 43.910280375,
+    "lng": -70.84287395
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "T40 MD BPP",
+    "citySlug": "t40-md-bpp",
+    "count": 4,
+    "lat": 45.087252625000005,
+    "lng": -68.153468275
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "New Limerick",
+    "citySlug": "new-limerick",
+    "count": 4,
+    "lat": 46.0985176,
+    "lng": -67.94200725
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Sandy River Plantation",
+    "citySlug": "sandy-river-plantation",
+    "count": 4,
+    "lat": 44.89641065000001,
+    "lng": -70.556486375
   },
   {
     "state": "AL",
@@ -5733,11 +6323,191 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Dover",
-    "citySlug": "dover",
+    "city": "Freeport",
+    "citySlug": "freeport",
     "count": 3,
-    "lat": 43.12133466666668,
-    "lng": -70.83102743333333
+    "lat": 43.808166666666665,
+    "lng": -70.09693733333333
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Saint-François-de-l'Île-d'Orléans",
+    "citySlug": "saint-fran-ois-de-l-le-d-orl-ans",
+    "count": 3,
+    "lat": 46.99364433333333,
+    "lng": -70.82361406666666
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Ambejejus Lake",
+    "citySlug": "ambejejus-lake",
+    "count": 3,
+    "lat": 45.71698336666666,
+    "lng": -68.87325093333334
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Town of Saint Andrews",
+    "citySlug": "town-of-saint-andrews",
+    "count": 3,
+    "lat": 45.105252766666666,
+    "lng": -67.08213936666668
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Brooklin",
+    "citySlug": "brooklin",
+    "count": 3,
+    "lat": 44.24595493333334,
+    "lng": -68.55895196666667
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Bristol",
+    "citySlug": "bristol",
+    "count": 3,
+    "lat": 43.89663786666667,
+    "lng": -69.46718433333332
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Cutler",
+    "citySlug": "cutler",
+    "count": 3,
+    "lat": 44.654688166666666,
+    "lng": -67.20463033333334
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Kennebunk",
+    "citySlug": "kennebunk",
+    "count": 3,
+    "lat": 43.360839133333336,
+    "lng": -70.49449426666668
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Cape Elizabeth",
+    "citySlug": "cape-elizabeth",
+    "count": 3,
+    "lat": 43.56230286666667,
+    "lng": -70.24851943333334
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Addison",
+    "citySlug": "addison",
+    "count": 3,
+    "lat": 44.51501426666667,
+    "lng": -67.72287870000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Washington County",
+    "citySlug": "washington-county",
+    "count": 3,
+    "lat": 45.13320933333333,
+    "lng": -67.41741510000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Cumberland County",
+    "citySlug": "cumberland-county",
+    "count": 3,
+    "lat": 43.761872399999994,
+    "lng": -70.46788066666666
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Porter",
+    "citySlug": "porter",
+    "count": 3,
+    "lat": 43.84449553333334,
+    "lng": -70.94190683333333
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Bridgton",
+    "citySlug": "bridgton",
+    "count": 3,
+    "lat": 44.046353,
+    "lng": -70.74651426666667
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Owls Head",
+    "citySlug": "owls-head",
+    "count": 3,
+    "lat": 44.06846163333333,
+    "lng": -69.06371363333334
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Lincolnville",
+    "citySlug": "lincolnville",
+    "count": 3,
+    "lat": 44.2579419,
+    "lng": -69.1014404
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Berry Township",
+    "citySlug": "berry-township",
+    "count": 3,
+    "lat": 44.9032522,
+    "lng": -67.51640923333333
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Rangeley Plantation",
+    "citySlug": "rangeley-plantation",
+    "count": 3,
+    "lat": 44.93495283333334,
+    "lng": -70.63045993333334
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Lac-Pikauba",
+    "citySlug": "lac-pikauba",
+    "count": 3,
+    "lat": 47.47210116666667,
+    "lng": -70.903371
   },
   {
     "state": "AL",
@@ -7943,11 +8713,31 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Freeport",
-    "citySlug": "freeport",
+    "city": "Harvey Rural Community",
+    "citySlug": "harvey-rural-community",
     "count": 2,
-    "lat": 43.813939649999995,
-    "lng": -70.1061738
+    "lat": 45.8783666,
+    "lng": -67.00016070000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Southampton Parish",
+    "citySlug": "southampton-parish",
+    "count": 2,
+    "lat": 45.997073099999994,
+    "lng": -67.22931940000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Municipal District of St. Stephen",
+    "citySlug": "municipal-district-of-st-stephen",
+    "count": 2,
+    "lat": 45.1907674,
+    "lng": -67.26926065
   },
   {
     "state": "ME",
@@ -7968,16 +8758,6 @@
     "count": 2,
     "lat": 45.5113926,
     "lng": -70.84914895
-  },
-  {
-    "state": "ME",
-    "stateName": "Maine",
-    "stateSlug": "maine",
-    "city": "Saint-François-de-l'Île-d'Orléans",
-    "citySlug": "saint-fran-ois-de-l-le-d-orl-ans",
-    "count": 2,
-    "lat": 47.00923895,
-    "lng": -70.8339136
   },
   {
     "state": "ME",
@@ -8013,11 +8793,11 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Mount Desert",
-    "citySlug": "mount-desert",
+    "city": "Damariscotta",
+    "citySlug": "damariscotta",
     "count": 2,
-    "lat": 44.35030225,
-    "lng": -68.3217692
+    "lat": 44.03247575,
+    "lng": -69.5336617
   },
   {
     "state": "ME",
@@ -8043,20 +8823,310 @@
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Ambejejus Lake",
-    "citySlug": "ambejejus-lake",
+    "city": "Woolwich",
+    "citySlug": "woolwich",
     "count": 2,
-    "lat": 45.7293236,
-    "lng": -68.8375917
+    "lat": 43.95788625,
+    "lng": -69.80196194999999
   },
   {
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
-    "city": "Falmouth",
-    "citySlug": "falmouth",
+    "city": "Hancock",
+    "citySlug": "hancock",
     "count": 2,
-    "lat": 43.7189623,
-    "lng": -70.2104719
+    "lat": 44.5167634,
+    "lng": -68.28636610000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Islesboro",
+    "citySlug": "islesboro",
+    "count": 2,
+    "lat": 44.277983199999994,
+    "lng": -68.93316010000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Wells",
+    "citySlug": "wells",
+    "count": 2,
+    "lat": 43.319536400000004,
+    "lng": -70.5627795
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Cumberland",
+    "citySlug": "cumberland",
+    "count": 2,
+    "lat": 43.76460165,
+    "lng": -70.192555
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Douglas Parish",
+    "citySlug": "douglas-parish",
+    "count": 2,
+    "lat": 46.45441655,
+    "lng": -66.95744765
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Belgrade",
+    "citySlug": "belgrade",
+    "count": 2,
+    "lat": 44.540241050000006,
+    "lng": -69.8474925
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Limington",
+    "citySlug": "limington",
+    "count": 2,
+    "lat": 43.75623795,
+    "lng": -70.70720804999999
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "York County",
+    "citySlug": "york-county",
+    "count": 2,
+    "lat": 43.5202972,
+    "lng": -70.382586
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Windham",
+    "citySlug": "windham",
+    "count": 2,
+    "lat": 43.8323661,
+    "lng": -70.43860745
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Arrowsic",
+    "citySlug": "arrowsic",
+    "count": 2,
+    "lat": 43.8821524,
+    "lng": -69.79908205000001
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Hiram",
+    "citySlug": "hiram",
+    "count": 2,
+    "lat": 43.86835055,
+    "lng": -70.8257809
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "T3 ND BPP",
+    "citySlug": "t3-nd-bpp",
+    "count": 2,
+    "lat": 45.12979085,
+    "lng": -68.17720315
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Dexter",
+    "citySlug": "dexter",
+    "count": 2,
+    "lat": 45.0189471,
+    "lng": -69.33264919999999
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Wiscasset",
+    "citySlug": "wiscasset",
+    "count": 2,
+    "lat": 43.99553265,
+    "lng": -69.66689925
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Acton",
+    "citySlug": "acton",
+    "count": 2,
+    "lat": 43.5647264,
+    "lng": -70.95694695
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Orient",
+    "citySlug": "orient",
+    "count": 2,
+    "lat": 45.81682925,
+    "lng": -67.7923464
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Coös County",
+    "citySlug": "co-s-county",
+    "count": 2,
+    "lat": 44.8445765,
+    "lng": -71.06405065
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Frenchboro",
+    "citySlug": "frenchboro",
+    "count": 2,
+    "lat": 44.121093200000004,
+    "lng": -68.3620287
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Lincoln",
+    "citySlug": "lincoln",
+    "count": 2,
+    "lat": 45.396391550000004,
+    "lng": -68.439601
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Clifton",
+    "citySlug": "clifton",
+    "count": 2,
+    "lat": 44.818052449999996,
+    "lng": -68.5055033
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Waterboro",
+    "citySlug": "waterboro",
+    "count": 2,
+    "lat": 43.622617950000006,
+    "lng": -70.6880714
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Canterbury Parish",
+    "citySlug": "canterbury-parish",
+    "count": 2,
+    "lat": 45.995843550000004,
+    "lng": -67.4834711
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Stockton Springs",
+    "citySlug": "stockton-springs",
+    "count": 2,
+    "lat": 44.4699447,
+    "lng": -68.83473035
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Marion Township",
+    "citySlug": "marion-township",
+    "count": 2,
+    "lat": 44.79761105,
+    "lng": -67.3438538
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Meddybemps",
+    "citySlug": "meddybemps",
+    "count": 2,
+    "lat": 45.05533775,
+    "lng": -67.3506792
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Alexander",
+    "citySlug": "alexander",
+    "count": 2,
+    "lat": 45.0794245,
+    "lng": -67.40318005
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Thomaston",
+    "citySlug": "thomaston",
+    "count": 2,
+    "lat": 44.071556799999996,
+    "lng": -69.18207275
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Saint Patrick Parish",
+    "citySlug": "saint-patrick-parish",
+    "count": 2,
+    "lat": 45.1989708,
+    "lng": -67.07725405
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Tourville",
+    "citySlug": "tourville",
+    "count": 2,
+    "lat": 47.0329282,
+    "lng": -70.10800655
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Saint-Athanase",
+    "citySlug": "saint-athanase",
+    "count": 2,
+    "lat": 47.423961649999995,
+    "lng": -69.47185465000001
   }
 ]

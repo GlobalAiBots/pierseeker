@@ -26,11 +26,15 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const { id } = await params;
   const pier = getUnifiedPierById(id);
   if (!pier) return { title: "Pier Not Found" };
+  const isGeneric = /^(fishing\s*pier|pier|dock|jetty|wharf|boat\s*ramp|boat\s*launch)$/i.test(pier.name.trim());
+  const stN = stateNames[pier.state] || pier.state;
+  const loc = pier.city ? `${pier.city}, ${stN}` : stN;
+  const displayTitle = isGeneric ? `Fishing Pier in ${loc}` : pier.name;
   return {
-    title: `${pier.name} — Fishing Pier Details | PierSeeker`,
-    description: `${pier.name} fishing pier in ${pier.city || pier.state}. GPS coordinates, amenities, directions.`,
-    openGraph: { title: `${pier.name} — PierSeeker`, url: `https://pierseeker.com/piers/${pier.id}` },
-    twitter: { card: "summary", title: `${pier.name} | PierSeeker` },
+    title: `${displayTitle} — Fishing Pier | PierSeeker`,
+    description: `${displayTitle} fishing pier${pier.city ? ` in ${pier.city}` : ""}, ${stN}. GPS coordinates, amenities, and directions.`,
+    openGraph: { title: `${displayTitle} — PierSeeker`, url: `https://pierseeker.com/piers/${pier.id}` },
+    twitter: { card: "summary", title: `${displayTitle} | PierSeeker` },
     alternates: { canonical: `https://pierseeker.com/piers/${pier.id}` },
   };
 }
@@ -201,6 +205,36 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
           </div>
         </>
       )}
+
+      {/* Nearby Cities */}
+      {pier.city && (() => {
+        const otherCities = unified.filter(p => p.state === pier.state && p.city && p.city !== pier.city);
+        const uniqueCities = Array.from(new Set(otherCities.map(p => p.city))).slice(0, 6);
+        if (uniqueCities.length === 0) return null;
+        return (
+          <div className="mt-8">
+            <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Nearby Cities with Fishing Piers</h3>
+            <div className="flex flex-wrap gap-2">
+              {uniqueCities.map(city => (
+                <Link key={city} href={`/cities/${stSlug}-${city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">
+                  {city}, {pier.state}
+                </Link>
+              ))}
+            </div>
+          </div>
+        );
+      })()}
+
+      {/* People Also Search For */}
+      <div className="mt-8 bg-gray-50 border border-gray-200 rounded-xl p-5">
+        <h3 className="font-[Cabin] font-bold text-charcoal mb-3 text-sm">People Also Search For</h3>
+        <div className="flex flex-wrap gap-2">
+          {pier.city && <Link href={`/cities/${stSlug}-${pier.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Fishing piers near {pier.city}</Link>}
+          <Link href={`/${stSlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Fishing piers in {stName}</Link>
+          {pier.city && <Link href={`/cities/${stSlug}-${pier.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Free fishing piers near {pier.city}</Link>}
+          <Link href="/blog/pier-fishing-tips-for-beginners" className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Pier fishing tips</Link>
+        </div>
+      </div>
     </div>
   );
 }

@@ -3,7 +3,7 @@
     "slug": "saltwater",
     "title": "Saltwater Fishing Piers",
     "description": "Ocean, bay, and gulf fishing piers along America’s coastlines — perfect for redfish, flounder, snook, and more.",
-    "totalCount": 24263,
+    "totalCount": 24410,
     "states": [
       {
         "code": "FL",
@@ -120,6 +120,12 @@
         "count": 188
       },
       {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 156
+      },
+      {
         "code": "MS",
         "name": "Mississippi",
         "slug": "mississippi",
@@ -130,12 +136,6 @@
         "name": "Rhode Island",
         "slug": "rhode-island",
         "count": 9
-      },
-      {
-        "code": "SC",
-        "name": "South Carolina",
-        "slug": "south-carolina",
-        "count": 9
       }
     ]
   },
@@ -143,14 +143,8 @@
     "slug": "freshwater",
     "title": "Freshwater Fishing Piers",
     "description": "Lake, river, and reservoir fishing piers across inland America — great for bass, catfish, crappie, and trout.",
-    "totalCount": 18746,
+    "totalCount": 10887,
     "states": [
-      {
-        "code": "WI",
-        "name": "Wisconsin",
-        "slug": "wisconsin",
-        "count": 6682
-      },
       {
         "code": "MI",
         "name": "Michigan",
@@ -176,18 +170,6 @@
         "count": 760
       },
       {
-        "code": "ND",
-        "name": "North Dakota",
-        "slug": "north-dakota",
-        "count": 546
-      },
-      {
-        "code": "NE",
-        "name": "Nebraska",
-        "slug": "nebraska",
-        "count": 502
-      },
-      {
         "code": "IN",
         "name": "Indiana",
         "slug": "indiana",
@@ -198,12 +180,6 @@
         "name": "Idaho",
         "slug": "idaho",
         "count": 407
-      },
-      {
-        "code": "VT",
-        "name": "Vermont",
-        "slug": "vermont",
-        "count": 376
       },
       {
         "code": "IA",
@@ -248,6 +224,12 @@
         "count": 203
       },
       {
+        "code": "WI",
+        "name": "Wisconsin",
+        "slug": "wisconsin",
+        "count": 190
+      },
+      {
         "code": "KS",
         "name": "Kansas",
         "slug": "kansas",
@@ -278,10 +260,22 @@
         "count": 48
       },
       {
+        "code": "VT",
+        "name": "Vermont",
+        "slug": "vermont",
+        "count": 31
+      },
+      {
         "code": "MT",
         "name": "Montana",
         "slug": "montana",
         "count": 27
+      },
+      {
+        "code": "NE",
+        "name": "Nebraska",
+        "slug": "nebraska",
+        "count": 25
       },
       {
         "code": "WV",
@@ -300,6 +294,12 @@
         "name": "Nevada",
         "slug": "nevada",
         "count": 1
+      },
+      {
+        "code": "ND",
+        "name": "North Dakota",
+        "slug": "north-dakota",
+        "count": 1
       }
     ]
   },
@@ -307,7 +307,7 @@
     "slug": "public-piers",
     "title": "Public Fishing Piers",
     "description": "Free public fishing piers maintained by state parks, cities, and counties — no membership required.",
-    "totalCount": 227,
+    "totalCount": 246,
     "states": [
       {
         "code": "FL",
@@ -326,6 +326,12 @@
         "name": "New York",
         "slug": "new-york",
         "count": 21
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 20
       },
       {
         "code": "NJ",
@@ -490,12 +496,6 @@
         "count": 1
       },
       {
-        "code": "SC",
-        "name": "South Carolina",
-        "slug": "south-carolina",
-        "count": 1
-      },
-      {
         "code": "WV",
         "name": "West Virginia",
         "slug": "west-virginia",
@@ -507,7 +507,7 @@
     "slug": "docks",
     "title": "Fishing Docks & Jetties",
     "description": "Fishing docks, jetties, and smaller launch-adjacent spots perfect for shore fishing and crabbing.",
-    "totalCount": 1103,
+    "totalCount": 1179,
     "states": [
       {
         "code": "FL",
@@ -526,6 +526,12 @@
         "name": "Wisconsin",
         "slug": "wisconsin",
         "count": 80
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 77
       },
       {
         "code": "CA",
@@ -732,12 +738,6 @@
         "count": 1
       },
       {
-        "code": "SC",
-        "name": "South Carolina",
-        "slug": "south-carolina",
-        "count": 1
-      },
-      {
         "code": "UT",
         "name": "Utah",
         "slug": "utah",
@@ -749,7 +749,7 @@
     "slug": "boat-launches",
     "title": "Piers with Boat Launches",
     "description": "Fishing piers co-located with boat ramps and slipways — fish from the pier or launch your boat.",
-    "totalCount": 834,
+    "totalCount": 838,
     "states": [
       {
         "code": "FL",
@@ -833,6 +833,12 @@
         "code": "NJ",
         "name": "New Jersey",
         "slug": "new-jersey",
+        "count": 4
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
         "count": 4
       },
       {
