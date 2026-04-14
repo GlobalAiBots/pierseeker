@@ -1,5 +1,35 @@
 [
   {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Chicago",
+    "citySlug": "chicago",
+    "count": 108,
+    "lat": 41.881333699074084,
+    "lng": -87.63787218333329
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Monroe County",
+    "citySlug": "monroe-county",
+    "count": 106,
+    "lat": 24.79607412169811,
+    "lng": -81.04456188490565
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Plaquemines Parish",
+    "citySlug": "plaquemines-parish",
+    "count": 88,
+    "lat": 29.486917634090904,
+    "lng": -89.66666418863637
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -8,6 +38,16 @@
     "count": 87,
     "lat": 30.398033096551735,
     "lng": -87.748570145977
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Kootenai County",
+    "citySlug": "kootenai-county",
+    "count": 73,
+    "lat": 47.645678497260256,
+    "lng": -116.7617498945205
   },
   {
     "state": "DE",
@@ -20,6 +60,16 @@
     "lng": -75.18293509710139
   },
   {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Lee County",
+    "citySlug": "lee-county",
+    "count": 69,
+    "lat": 26.550265666666665,
+    "lng": -81.87039016521736
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -28,6 +78,16 @@
     "count": 63,
     "lat": 30.38344838253967,
     "lng": -87.28450515714287
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "count": 59,
+    "lat": 29.971507006779664,
+    "lng": -90.02800793050845
   },
   {
     "state": "CA",
@@ -40,6 +100,56 @@
     "lng": -117.21232542413796
   },
   {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Peoria County",
+    "citySlug": "peoria-county",
+    "count": 57,
+    "lat": 40.72903289122807,
+    "lng": -89.69221264561405
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Jefferson Parish",
+    "citySlug": "jefferson-parish",
+    "count": 55,
+    "lat": 29.92918657818182,
+    "lng": -90.14124121818178
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Franklin County",
+    "citySlug": "franklin-county",
+    "count": 51,
+    "lat": 38.03453439411764,
+    "lng": -89.02524012549019
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Lake County",
+    "citySlug": "lake-county",
+    "count": 48,
+    "lat": 47.7825529125,
+    "lng": -114.20559216874999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Saline County",
+    "citySlug": "saline-county",
+    "count": 47,
+    "lat": 37.74610224468086,
+    "lng": -88.57842047872339
+  },
+  {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
@@ -48,6 +158,16 @@
     "count": 46,
     "lat": 37.792733095652174,
     "lng": -122.41241620869562
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Lake County",
+    "citySlug": "lake-county",
+    "count": 46,
+    "lat": 42.34493519130435,
+    "lng": -88.02502307391308
   },
   {
     "state": "AL",
@@ -60,6 +180,86 @@
     "lng": -87.5672691095238
   },
   {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Lexington County",
+    "citySlug": "lexington-county",
+    "count": 42,
+    "lat": 34.04061084761905,
+    "lng": -81.29630029761904
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Port Arthur",
+    "citySlug": "port-arthur",
+    "count": 39,
+    "lat": 29.846959128205125,
+    "lng": -93.90274870769231
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Williamson County",
+    "citySlug": "williamson-county",
+    "count": 37,
+    "lat": 37.6680785,
+    "lng": -89.02826393513514
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Jacksonville",
+    "citySlug": "jacksonville",
+    "count": 35,
+    "lat": 30.351785351428575,
+    "lng": -81.55519174285712
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Bonner County",
+    "citySlug": "bonner-county",
+    "count": 35,
+    "lat": 48.295718874285704,
+    "lng": -116.66920559428571
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Jo Daviess County",
+    "citySlug": "jo-daviess-county",
+    "count": 35,
+    "lat": 42.43282296571428,
+    "lng": -90.20891671142859
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Louisville",
+    "citySlug": "louisville",
+    "count": 35,
+    "lat": 38.24606803428571,
+    "lng": -85.70232916857144
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Polk County",
+    "citySlug": "polk-county",
+    "count": 34,
+    "lat": 28.0012674382353,
+    "lng": -81.75097660882355
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -68,6 +268,36 @@
     "count": 32,
     "lat": 34.949379934375,
     "lng": -114.367414440625
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "LaGrange County",
+    "citySlug": "lagrange-county",
+    "count": 32,
+    "lat": 41.73367078125,
+    "lng": -85.402761309375
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Hall County",
+    "citySlug": "hall-county",
+    "count": 31,
+    "lat": 34.23308146451613,
+    "lng": -83.94694217096774
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Cook County",
+    "citySlug": "cook-county",
+    "count": 30,
+    "lat": 41.92405337333334,
+    "lng": -87.82327743333332
   },
   {
     "state": "AL",
@@ -90,6 +320,116 @@
     "lng": -75.5988664310345
   },
   {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Lewis and Clark County",
+    "citySlug": "lewis-and-clark-county",
+    "count": 28,
+    "lat": 46.76033424285713,
+    "lng": -111.89564893214286
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "St. Tammany Parish",
+    "citySlug": "st-tammany-parish",
+    "count": 28,
+    "lat": 30.314163064285708,
+    "lng": -90.01348584999998
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Flathead County",
+    "citySlug": "flathead-county",
+    "count": 27,
+    "lat": 48.173415166666686,
+    "lng": -114.24051622592594
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Steuben County",
+    "citySlug": "steuben-county",
+    "count": 27,
+    "lat": 41.71968397037037,
+    "lng": -84.98073345555552
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Dodge County",
+    "citySlug": "dodge-county",
+    "count": 27,
+    "lat": 41.44017454814815,
+    "lng": -96.54964828518517
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Collier County",
+    "citySlug": "collier-county",
+    "count": 26,
+    "lat": 26.009733153846152,
+    "lng": -81.62791257307693
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "St. Charles Parish",
+    "citySlug": "st-charles-parish",
+    "count": 26,
+    "lat": 29.930873561538462,
+    "lng": -90.33129573076923
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Cape Girardeau County",
+    "citySlug": "cape-girardeau-county",
+    "count": 25,
+    "lat": 37.33533345600001,
+    "lng": -89.783839944
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Cape Coral",
+    "citySlug": "cape-coral",
+    "count": 24,
+    "lat": 26.61835915,
+    "lng": -81.9578622375
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Jackson County",
+    "citySlug": "jackson-county",
+    "count": 24,
+    "lat": 40.188296729166666,
+    "lng": -89.94137564583332
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Saint Louis",
+    "citySlug": "saint-louis",
+    "count": 24,
+    "lat": 38.62262048750001,
+    "lng": -90.21525965833335
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -108,6 +448,16 @@
     "count": 23,
     "lat": 35.67695785652174,
     "lng": -114.65516333913043
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Omaha",
+    "citySlug": "omaha",
+    "count": 23,
+    "lat": 41.29485717826087,
+    "lng": -96.01474841304349
   },
   {
     "state": "CA",
@@ -130,6 +480,36 @@
     "lng": -122.25410734545453
   },
   {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Forsyth County",
+    "citySlug": "forsyth-county",
+    "count": 22,
+    "lat": 34.213293099999994,
+    "lng": -84.05471541818184
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bollinger County",
+    "citySlug": "bollinger-county",
+    "count": 22,
+    "lat": 37.36362851363637,
+    "lng": -89.90647082272727
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Calloway County",
+    "citySlug": "calloway-county",
+    "count": 22,
+    "lat": 36.60237617272726,
+    "lng": -88.12086374545454
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -150,6 +530,26 @@
     "lng": -117.01039757142858
   },
   {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Oconee County",
+    "citySlug": "oconee-county",
+    "count": 21,
+    "lat": 34.81006374761904,
+    "lng": -82.91152198095237
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Pendleton County",
+    "citySlug": "pendleton-county",
+    "count": 21,
+    "lat": 38.75166757619048,
+    "lng": -84.30405905238095
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -158,6 +558,16 @@
     "count": 20,
     "lat": 35.113898649999996,
     "lng": -114.599314395
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Will County",
+    "citySlug": "will-county",
+    "count": 20,
+    "lat": 41.453927895,
+    "lng": -88.10695652000001
   },
   {
     "state": "CA",
@@ -180,6 +590,46 @@
     "lng": -122.34878910526318
   },
   {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Broward County",
+    "citySlug": "broward-county",
+    "count": 19,
+    "lat": 26.087521989473686,
+    "lng": -80.22437050526315
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Saint Charles County",
+    "citySlug": "saint-charles-county",
+    "count": 19,
+    "lat": 38.78591534736842,
+    "lng": -90.65685081052632
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Rock Island County",
+    "citySlug": "rock-island-county",
+    "count": 19,
+    "lat": 41.49841652631579,
+    "lng": -90.58686431052632
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Marshall County",
+    "citySlug": "marshall-county",
+    "count": 19,
+    "lat": 36.91157095789474,
+    "lng": -88.22890348421055
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -198,6 +648,16 @@
     "count": 18,
     "lat": 37.00788121666667,
     "lng": -119.2548695888889
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "St. Mary Parish",
+    "citySlug": "st-mary-parish",
+    "count": 17,
+    "lat": 29.667186811764704,
+    "lng": -91.48841716470588
   },
   {
     "state": "AL",
@@ -240,6 +700,76 @@
     "lng": -122.20687598125
   },
   {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Pickens County",
+    "citySlug": "pickens-county",
+    "count": 16,
+    "lat": 34.7517024875,
+    "lng": -83.23369471874999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Fox Lake",
+    "citySlug": "fox-lake",
+    "count": 16,
+    "lat": 42.401687762499996,
+    "lng": -88.18161923125
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "LaSalle County",
+    "citySlug": "lasalle-county",
+    "count": 16,
+    "lat": 41.32513023125,
+    "lng": -88.84650814999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Peoria",
+    "citySlug": "peoria",
+    "count": 16,
+    "lat": 40.737467556249996,
+    "lng": -89.60228409375
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Calhoun County",
+    "citySlug": "calhoun-county",
+    "count": 16,
+    "lat": 39.11478815625001,
+    "lng": -90.73426110000003
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Edmonson County",
+    "citySlug": "edmonson-county",
+    "count": 16,
+    "lat": 37.3093580375,
+    "lng": -86.20947416874999
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Cincinnati",
+    "citySlug": "cincinnati",
+    "count": 16,
+    "lat": 39.081158387500004,
+    "lng": -84.5328986
+  },
+  {
     "state": "AR",
     "stateName": "Arkansas",
     "stateSlug": "arkansas",
@@ -270,6 +800,36 @@
     "lng": -118.42688589333332
   },
   {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Osceola County",
+    "citySlug": "osceola-county",
+    "count": 15,
+    "lat": 28.211425740000003,
+    "lng": -81.38996598000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "McHenry County",
+    "citySlug": "mchenry-county",
+    "count": 15,
+    "lat": 42.28198668666667,
+    "lng": -88.29419188
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Polk County",
+    "citySlug": "polk-county",
+    "count": 15,
+    "lat": 41.69056046666667,
+    "lng": -93.63337846
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -290,6 +850,86 @@
     "lng": -122.60868775000002
   },
   {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Miami",
+    "citySlug": "miami",
+    "count": 14,
+    "lat": 25.761278499999996,
+    "lng": -80.19671111428572
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Brevard County",
+    "citySlug": "brevard-county",
+    "count": 14,
+    "lat": 28.299862507142866,
+    "lng": -80.65904262857143
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Union County",
+    "citySlug": "union-county",
+    "count": 14,
+    "lat": 34.8581482,
+    "lng": -84.02890712142857
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "White County",
+    "citySlug": "white-county",
+    "count": 14,
+    "lat": 38.00424007857142,
+    "lng": -88.26701915
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "DuPage County",
+    "citySlug": "dupage-county",
+    "count": 14,
+    "lat": 41.86224833571429,
+    "lng": -88.14005811428571
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Springfield",
+    "citySlug": "springfield",
+    "count": 14,
+    "lat": 39.72493796428571,
+    "lng": -89.62510902142859
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "LaPorte County",
+    "citySlug": "laporte-county",
+    "count": 14,
+    "lat": 41.609047478571426,
+    "lng": -86.7444937642857
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Vicksburg",
+    "citySlug": "vicksburg",
+    "count": 14,
+    "lat": 32.377849042857136,
+    "lng": -90.89328082142856
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -308,6 +948,36 @@
     "count": 13,
     "lat": 40.7856464923077,
     "lng": -124.19913132307693
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Miami Beach",
+    "citySlug": "miami-beach",
+    "count": 13,
+    "lat": 25.782465576923077,
+    "lng": -80.14163265384617
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Miami-Dade County",
+    "citySlug": "miami-dade-county",
+    "count": 13,
+    "lat": 25.81252668461538,
+    "lng": -80.19765178461537
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Allen County",
+    "citySlug": "allen-county",
+    "count": 13,
+    "lat": 41.13375356153846,
+    "lng": -85.16609303846154
   },
   {
     "state": "AL",
@@ -340,6 +1010,126 @@
     "lng": -75.47124269166666
   },
   {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Key West",
+    "citySlug": "key-west",
+    "count": 12,
+    "lat": 24.570234350000003,
+    "lng": -81.77591741666669
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Gwinnett County",
+    "citySlug": "gwinnett-county",
+    "count": 12,
+    "lat": 34.03762584999999,
+    "lng": -84.029641775
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Jefferson County",
+    "citySlug": "jefferson-county",
+    "count": 12,
+    "lat": 38.262648841666675,
+    "lng": -88.98701233333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Massac County",
+    "citySlug": "massac-county",
+    "count": 12,
+    "lat": 37.1805804,
+    "lng": -88.72809088333332
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Washington County",
+    "citySlug": "washington-county",
+    "count": 12,
+    "lat": 38.07254691666666,
+    "lng": -90.30760544166667
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Pike County",
+    "citySlug": "pike-county",
+    "count": 12,
+    "lat": 39.44930655,
+    "lng": -91.00600357500001
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Shawnee County",
+    "citySlug": "shawnee-county",
+    "count": 12,
+    "lat": 39.000015975000004,
+    "lng": -95.64167520833333
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Greenwood County",
+    "citySlug": "greenwood-county",
+    "count": 12,
+    "lat": 37.89111377500001,
+    "lng": -96.2075946666667
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Douglas County",
+    "citySlug": "douglas-county",
+    "count": 12,
+    "lat": 38.88034035,
+    "lng": -95.31091185833333
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Osage County",
+    "citySlug": "osage-county",
+    "count": 12,
+    "lat": 38.594665508333335,
+    "lng": -95.64955846666668
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Campbell County",
+    "citySlug": "campbell-county",
+    "count": 12,
+    "lat": 38.93361850833333,
+    "lng": -84.35205138333332
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Hart County",
+    "citySlug": "hart-county",
+    "count": 12,
+    "lat": 37.30521885833333,
+    "lng": -86.09844606666667
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -358,6 +1148,76 @@
     "count": 11,
     "lat": 33.57560425454545,
     "lng": -111.51302887272726
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Richland County",
+    "citySlug": "richland-county",
+    "count": 11,
+    "lat": 34.09131270909091,
+    "lng": -81.05085902727275
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Missoula County",
+    "citySlug": "missoula-county",
+    "count": 11,
+    "lat": 47.08395141818182,
+    "lng": -113.66520536363637
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Dubuque",
+    "citySlug": "dubuque",
+    "count": 11,
+    "lat": 42.51666521818183,
+    "lng": -90.64986791818183
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Dickinson County",
+    "citySlug": "dickinson-county",
+    "count": 11,
+    "lat": 43.40855516363636,
+    "lng": -95.12730780909091
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Clermont County",
+    "citySlug": "clermont-county",
+    "count": 11,
+    "lat": 38.985990618181816,
+    "lng": -84.2064616909091
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Lafayette",
+    "citySlug": "lafayette",
+    "count": 11,
+    "lat": 30.199743809090908,
+    "lng": -92.03097569090909
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Union Parish",
+    "citySlug": "union-parish",
+    "count": 11,
+    "lat": 32.798925227272726,
+    "lng": -92.3816042
   },
   {
     "state": "AL",
@@ -418,6 +1278,126 @@
     "count": 10,
     "lat": 38.78522933000001,
     "lng": -75.14560146000001
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Volusia County",
+    "citySlug": "volusia-county",
+    "count": 10,
+    "lat": 29.125070130000005,
+    "lng": -80.9831501
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Marco Island",
+    "citySlug": "marco-island",
+    "count": 10,
+    "lat": 25.932235300000002,
+    "lng": -81.70003249
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Anderson County",
+    "citySlug": "anderson-county",
+    "count": 10,
+    "lat": 34.4642195,
+    "lng": -82.81416813999999
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Coeur d'Alene",
+    "citySlug": "coeur-d-alene",
+    "count": 10,
+    "lat": 47.67571488,
+    "lng": -116.79246117999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Clinton County",
+    "citySlug": "clinton-county",
+    "count": 10,
+    "lat": 38.66425209,
+    "lng": -89.29717065
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "McLean County",
+    "citySlug": "mclean-county",
+    "count": 10,
+    "lat": 40.58051038,
+    "lng": -88.93754945999999
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Lake County",
+    "citySlug": "lake-county",
+    "count": 10,
+    "lat": 41.55049066,
+    "lng": -87.38591414999999
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Trigg County",
+    "citySlug": "trigg-county",
+    "count": 10,
+    "lat": 36.81718141,
+    "lng": -87.9587774
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Grand Isle",
+    "citySlug": "grand-isle",
+    "count": 10,
+    "lat": 29.24193675,
+    "lng": -89.99263604
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Cameron Parish",
+    "citySlug": "cameron-parish",
+    "count": 10,
+    "lat": 29.818189280000002,
+    "lng": -93.50210504999998
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Rankin County",
+    "citySlug": "rankin-county",
+    "count": 10,
+    "lat": 32.41315184,
+    "lng": -90.01556239
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Newington",
+    "citySlug": "newington",
+    "count": 10,
+    "lat": 43.110071219999995,
+    "lng": -70.81688315
   },
   {
     "state": "AL",
@@ -500,6 +1480,126 @@
     "lng": -122.89112078888888
   },
   {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Marathon",
+    "citySlug": "marathon",
+    "count": 9,
+    "lat": 24.7225246,
+    "lng": -81.04348169999999
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Custer County",
+    "citySlug": "custer-county",
+    "count": 9,
+    "lat": 44.228196366666666,
+    "lng": -114.56836104444444
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Whiteside County",
+    "citySlug": "whiteside-county",
+    "count": 9,
+    "lat": 41.83100268888889,
+    "lng": -90.05309493333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Aurora",
+    "citySlug": "aurora",
+    "count": 9,
+    "lat": 41.750865311111106,
+    "lng": -88.29650534444444
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Rockford",
+    "citySlug": "rockford",
+    "count": 9,
+    "lat": 42.28603172222222,
+    "lng": -89.08154278888888
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Lincoln County",
+    "citySlug": "lincoln-county",
+    "count": 9,
+    "lat": 39.04941747777779,
+    "lng": -90.75800699999999
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Monroe County",
+    "citySlug": "monroe-county",
+    "count": 9,
+    "lat": 39.09520058888889,
+    "lng": -86.47364011111111
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Fishers",
+    "citySlug": "fishers",
+    "count": 9,
+    "lat": 39.9376461,
+    "lng": -85.93186015555555
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Bremer County",
+    "citySlug": "bremer-county",
+    "count": 9,
+    "lat": 42.808135122222225,
+    "lng": -92.26159972222223
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Olathe",
+    "citySlug": "olathe",
+    "count": 9,
+    "lat": 38.88256087777778,
+    "lng": -94.85239996666667
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Clay County",
+    "citySlug": "clay-county",
+    "count": 9,
+    "lat": 36.556369188888894,
+    "lng": -85.40205243333334
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Lexington",
+    "citySlug": "lexington",
+    "count": 9,
+    "lat": 37.98164251111111,
+    "lng": -84.44223947777778
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -550,6 +1650,276 @@
     "lng": -120.27211137500001
   },
   {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Naples",
+    "citySlug": "naples",
+    "count": 8,
+    "lat": 26.149389262499998,
+    "lng": -81.7989091125
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Fort Myers",
+    "citySlug": "fort-myers",
+    "count": 8,
+    "lat": 26.637981075,
+    "lng": -81.8672121875
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Highlands County",
+    "citySlug": "highlands-county",
+    "count": 8,
+    "lat": 27.58203395,
+    "lng": -81.49825606249998
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Chatham County",
+    "citySlug": "chatham-county",
+    "count": 8,
+    "lat": 31.999626287499996,
+    "lng": -81.0617284625
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Rabun County",
+    "citySlug": "rabun-county",
+    "count": 8,
+    "lat": 34.846915775,
+    "lng": -83.47111373749999
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Spartanburg County",
+    "citySlug": "spartanburg-county",
+    "count": 8,
+    "lat": 34.952049062499995,
+    "lng": -82.17327053750002
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Sandpoint",
+    "citySlug": "sandpoint",
+    "count": 8,
+    "lat": 48.273027312500005,
+    "lng": -116.5471070875
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Canyon County",
+    "citySlug": "canyon-county",
+    "count": 8,
+    "lat": 43.610972325,
+    "lng": -116.64043375
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Richland County",
+    "citySlug": "richland-county",
+    "count": 8,
+    "lat": 38.7301870125,
+    "lng": -88.07329028749999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Hamilton County",
+    "citySlug": "hamilton-county",
+    "count": 8,
+    "lat": 38.021126025,
+    "lng": -88.5087380125
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Perry County",
+    "citySlug": "perry-county",
+    "count": 8,
+    "lat": 37.9872693,
+    "lng": -89.35076601250002
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bettendorf",
+    "citySlug": "bettendorf",
+    "count": 8,
+    "lat": 41.52811117500001,
+    "lng": -90.4949375875
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Scott County",
+    "citySlug": "scott-county",
+    "count": 8,
+    "lat": 41.5766764375,
+    "lng": -90.46064452499999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Keokuk",
+    "citySlug": "keokuk",
+    "count": 8,
+    "lat": 40.399912162499994,
+    "lng": -91.3839511875
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Clear Lake",
+    "citySlug": "clear-lake",
+    "count": 8,
+    "lat": 41.742569525,
+    "lng": -84.848634525
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Wabash County",
+    "citySlug": "wabash-county",
+    "count": 8,
+    "lat": 40.69728395,
+    "lng": -85.86836427499999
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Newton County",
+    "citySlug": "newton-county",
+    "count": 8,
+    "lat": 41.1347504625,
+    "lng": -87.3911092375
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Palo Alto County",
+    "citySlug": "palo-alto-county",
+    "count": 8,
+    "lat": 43.179407250000004,
+    "lng": -94.90523887500001
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Cass County",
+    "citySlug": "cass-county",
+    "count": 8,
+    "lat": 41.0111110875,
+    "lng": -95.9918102125
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Douglas County",
+    "citySlug": "douglas-county",
+    "count": 8,
+    "lat": 41.352081475000006,
+    "lng": -96.2252354375
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Johnson County",
+    "citySlug": "johnson-county",
+    "count": 8,
+    "lat": 41.793402237500004,
+    "lng": -91.55252927500001
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Kansas City",
+    "citySlug": "kansas-city",
+    "count": 8,
+    "lat": 39.16282886249999,
+    "lng": -94.73942203750002
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Miami County",
+    "citySlug": "miami-county",
+    "count": 8,
+    "lat": 38.6189599125,
+    "lng": -94.91782681250001
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Wayne County",
+    "citySlug": "wayne-county",
+    "count": 8,
+    "lat": 37.2226213875,
+    "lng": -84.3385015375
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Gulfport",
+    "citySlug": "gulfport",
+    "count": 8,
+    "lat": 30.369668175,
+    "lng": -89.07855125
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Calcasieu Parish",
+    "citySlug": "calcasieu-parish",
+    "count": 8,
+    "lat": 30.2182208625,
+    "lng": -93.2903619625
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Lincoln Parish",
+    "citySlug": "lincoln-parish",
+    "count": 8,
+    "lat": 32.5987784375,
+    "lng": -92.66265849999999
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -578,6 +1948,226 @@
     "count": 7,
     "lat": 34.18067595714285,
     "lng": -119.22609937142856
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Lake Alfred",
+    "citySlug": "lake-alfred",
+    "count": 7,
+    "lat": 28.093826371428573,
+    "lng": -81.73054062857143
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Saluda County",
+    "citySlug": "saluda-county",
+    "count": 7,
+    "lat": 34.04832414285715,
+    "lng": -81.57598698571428
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Hart County",
+    "citySlug": "hart-county",
+    "count": 7,
+    "lat": 34.42246704285714,
+    "lng": -82.92519277142857
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Greenwood County",
+    "citySlug": "greenwood-county",
+    "count": 7,
+    "lat": 34.259549771428574,
+    "lng": -82.03376687142858
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Lincoln County",
+    "citySlug": "lincoln-county",
+    "count": 7,
+    "lat": 46.087713,
+    "lng": -113.4450136857143
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Union County",
+    "citySlug": "union-county",
+    "count": 7,
+    "lat": 37.55395741428572,
+    "lng": -88.62582237142858
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Ottawa",
+    "citySlug": "ottawa",
+    "count": 7,
+    "lat": 41.34317775714286,
+    "lng": -88.81208900000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Shelby County",
+    "citySlug": "shelby-county",
+    "count": 7,
+    "lat": 39.432753257142856,
+    "lng": -88.73822957142856
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Dubois County",
+    "citySlug": "dubois-county",
+    "count": 7,
+    "lat": 38.3654042,
+    "lng": -86.79976564285714
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Shelby County",
+    "citySlug": "shelby-county",
+    "count": 7,
+    "lat": 39.19175284285715,
+    "lng": -85.73058434285714
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Indianapolis",
+    "citySlug": "indianapolis",
+    "count": 7,
+    "lat": 39.830278742857146,
+    "lng": -86.180247
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Union County",
+    "citySlug": "union-county",
+    "count": 7,
+    "lat": 39.581338800000005,
+    "lng": -84.98743285714285
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Carmel",
+    "citySlug": "carmel",
+    "count": 7,
+    "lat": 39.95939828571429,
+    "lng": -86.12447105714286
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Des Moines",
+    "citySlug": "des-moines",
+    "count": 7,
+    "lat": 41.58933428571429,
+    "lng": -93.62840837142858
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Papillion",
+    "citySlug": "papillion",
+    "count": 7,
+    "lat": 41.15414557142857,
+    "lng": -96.0820330142857
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Linn County",
+    "citySlug": "linn-county",
+    "count": 7,
+    "lat": 42.06667622857143,
+    "lng": -91.67007654285716
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Linn Valley",
+    "citySlug": "linn-valley",
+    "count": 7,
+    "lat": 38.38045724285714,
+    "lng": -94.7151566
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Jefferson County",
+    "citySlug": "jefferson-county",
+    "count": 7,
+    "lat": 39.14212192857143,
+    "lng": -95.41189827142857
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Crawford County",
+    "citySlug": "crawford-county",
+    "count": 7,
+    "lat": 37.6245323,
+    "lng": -94.81698295714286
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Scioto County",
+    "citySlug": "scioto-county",
+    "count": 7,
+    "lat": 38.72404702857143,
+    "lng": -82.99790735714285
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Saint Bernard Parish",
+    "citySlug": "saint-bernard-parish",
+    "count": 7,
+    "lat": 29.942639614285717,
+    "lng": -89.93969635714284
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Campobello Parish",
+    "citySlug": "campobello-parish",
+    "count": 7,
+    "lat": 44.92963841428571,
+    "lng": -66.93114857142858
   },
   {
     "state": "AL",
@@ -750,6 +2340,336 @@
     "lng": -122.79693171666668
   },
   {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Glacier County",
+    "citySlug": "glacier-county",
+    "count": 6,
+    "lat": 48.79971406666667,
+    "lng": -113.68181120000001
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Boise",
+    "citySlug": "boise",
+    "count": 6,
+    "lat": 43.60696528333333,
+    "lng": -116.1986402
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Asotin County",
+    "citySlug": "asotin-county",
+    "count": 6,
+    "lat": 46.416827399999995,
+    "lng": -117.14134333333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Johnson County",
+    "citySlug": "johnson-county",
+    "count": 6,
+    "lat": 37.546038,
+    "lng": -88.88276321666666
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Wauconda",
+    "citySlug": "wauconda",
+    "count": 6,
+    "lat": 42.2642504,
+    "lng": -88.13626691666667
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Crystal Lake",
+    "citySlug": "crystal-lake",
+    "count": 6,
+    "lat": 42.220632333333334,
+    "lng": -88.32247954999998
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Schaumburg",
+    "citySlug": "schaumburg",
+    "count": 6,
+    "lat": 42.028871450000004,
+    "lng": -88.08050105
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Ogle County",
+    "citySlug": "ogle-county",
+    "count": 6,
+    "lat": 42.05796508333333,
+    "lng": -89.28805173333335
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Glenview",
+    "citySlug": "glenview",
+    "count": 6,
+    "lat": 42.091026316666664,
+    "lng": -87.82240138333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Third Lake",
+    "citySlug": "third-lake",
+    "count": 6,
+    "lat": 42.369740050000004,
+    "lng": -88.01110738333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Kendall County",
+    "citySlug": "kendall-county",
+    "count": 6,
+    "lat": 41.66247625,
+    "lng": -88.41719453333333
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Kane County",
+    "citySlug": "kane-county",
+    "count": 6,
+    "lat": 42.03353108333333,
+    "lng": -88.39920044999998
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Saint Louis County",
+    "citySlug": "saint-louis-county",
+    "count": 6,
+    "lat": 38.53877521666667,
+    "lng": -90.27305311666667
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Grundy County",
+    "citySlug": "grundy-county",
+    "count": 6,
+    "lat": 41.34671838333333,
+    "lng": -88.31009678333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Moultrie County",
+    "citySlug": "moultrie-county",
+    "count": 6,
+    "lat": 39.534950083333335,
+    "lng": -88.64644974999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Channahon",
+    "citySlug": "channahon",
+    "count": 6,
+    "lat": 41.40142443333334,
+    "lng": -88.27001001666667
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Martin County",
+    "citySlug": "martin-county",
+    "count": 6,
+    "lat": 38.82926451666667,
+    "lng": -86.85224008333334
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Meade County",
+    "citySlug": "meade-county",
+    "count": 6,
+    "lat": 37.99252943333333,
+    "lng": -86.11638871666666
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Marshall County",
+    "citySlug": "marshall-county",
+    "count": 6,
+    "lat": 41.258689366666665,
+    "lng": -86.35791981666667
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Fort Wayne",
+    "citySlug": "fort-wayne",
+    "count": 6,
+    "lat": 41.08453255,
+    "lng": -85.14086278333333
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Porter County",
+    "citySlug": "porter-county",
+    "count": 6,
+    "lat": 41.456897133333335,
+    "lng": -87.13603463333334
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "La Porte",
+    "citySlug": "la-porte",
+    "count": 6,
+    "lat": 41.616170833333335,
+    "lng": -86.74607206666667
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Ventura",
+    "citySlug": "ventura",
+    "count": 6,
+    "lat": 43.12415671666667,
+    "lng": -93.46284089999999
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Clay County",
+    "citySlug": "clay-county",
+    "count": 6,
+    "lat": 43.175939449999994,
+    "lng": -94.92784561666667
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Union County",
+    "citySlug": "union-county",
+    "count": 6,
+    "lat": 41.055016083333335,
+    "lng": -94.2525817
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Clarksville",
+    "citySlug": "clarksville",
+    "count": 6,
+    "lat": 36.520959016666666,
+    "lng": -87.37889581666667
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Bay St. Louis",
+    "citySlug": "bay-st-louis",
+    "count": 6,
+    "lat": 30.313333150000002,
+    "lng": -89.325429
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Lake Charles",
+    "citySlug": "lake-charles",
+    "count": 6,
+    "lat": 30.223862316666665,
+    "lng": -93.22663518333333
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Saint George",
+    "citySlug": "saint-george",
+    "count": 6,
+    "lat": 30.351244516666668,
+    "lng": -90.98586968333335
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Orange County",
+    "citySlug": "orange-county",
+    "count": 6,
+    "lat": 30.041928416666668,
+    "lng": -93.96468448333333
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Rapides Parish",
+    "citySlug": "rapides-parish",
+    "count": 6,
+    "lat": 31.236307766666666,
+    "lng": -92.52316471666667
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "West Baton Rouge Parish",
+    "citySlug": "west-baton-rouge-parish",
+    "count": 6,
+    "lat": 30.431487533333335,
+    "lng": -91.20559710000002
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "South Portland",
+    "citySlug": "south-portland",
+    "count": 6,
+    "lat": 43.65174688333334,
+    "lng": -70.23795193333332
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -918,6 +2838,576 @@
     "count": 5,
     "lat": 39.456649219999996,
     "lng": -75.44917114
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Nassau County",
+    "citySlug": "nassau-county",
+    "count": 5,
+    "lat": 30.571717139999997,
+    "lng": -81.58372744
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Sanibel",
+    "citySlug": "sanibel",
+    "count": 5,
+    "lat": 26.4561398,
+    "lng": -82.05100642
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Winder",
+    "citySlug": "winder",
+    "count": 5,
+    "lat": 33.97169154000001,
+    "lng": -83.72918856
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Columbia",
+    "citySlug": "columbia",
+    "count": 5,
+    "lat": 34.03105542,
+    "lng": -81.01423474
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Elbert County",
+    "citySlug": "elbert-county",
+    "count": 5,
+    "lat": 34.13283336,
+    "lng": -82.70974928000001
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Bonneville County",
+    "citySlug": "bonneville-county",
+    "count": 5,
+    "lat": 43.451948040000005,
+    "lng": -111.61318088
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Benewah County",
+    "citySlug": "benewah-county",
+    "count": 5,
+    "lat": 47.36572644,
+    "lng": -116.76031486000002
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Whitefish",
+    "citySlug": "whitefish",
+    "count": 5,
+    "lat": 48.42129162,
+    "lng": -114.35486252000001
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Twin Falls County",
+    "citySlug": "twin-falls-county",
+    "count": 5,
+    "lat": 42.63009398,
+    "lng": -114.55868436
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Henderson County",
+    "citySlug": "henderson-county",
+    "count": 5,
+    "lat": 40.292226680000006,
+    "lng": -90.33953611999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Hardin County",
+    "citySlug": "hardin-county",
+    "count": 5,
+    "lat": 37.483339380000004,
+    "lng": -88.30013741999998
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Livingston County",
+    "citySlug": "livingston-county",
+    "count": 5,
+    "lat": 37.8465009,
+    "lng": -88.2392923
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "McCracken County",
+    "citySlug": "mccracken-county",
+    "count": 5,
+    "lat": 37.08361916,
+    "lng": -88.60018926000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Gallatin County",
+    "citySlug": "gallatin-county",
+    "count": 5,
+    "lat": 37.80726104,
+    "lng": -88.25645858
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Ballard County",
+    "citySlug": "ballard-county",
+    "count": 5,
+    "lat": 37.182809840000004,
+    "lng": -89.06541680000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Winnetka",
+    "citySlug": "winnetka",
+    "count": 5,
+    "lat": 42.10946798,
+    "lng": -87.72486306000002
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Elgin",
+    "citySlug": "elgin",
+    "count": 5,
+    "lat": 42.05035132,
+    "lng": -88.29138922
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Sabula",
+    "citySlug": "sabula",
+    "count": 5,
+    "lat": 42.0628602,
+    "lng": -90.17262556
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "DeKalb County",
+    "citySlug": "dekalb-county",
+    "count": 5,
+    "lat": 41.8681887,
+    "lng": -88.79589056
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Hammond",
+    "citySlug": "hammond",
+    "count": 5,
+    "lat": 41.68667606,
+    "lng": -87.51076076
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bloomington",
+    "citySlug": "bloomington",
+    "count": 5,
+    "lat": 40.48545101999999,
+    "lng": -88.97593766000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Washington",
+    "citySlug": "washington",
+    "count": 5,
+    "lat": 39.41766908,
+    "lng": -90.3886687
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Sangamon County",
+    "citySlug": "sangamon-county",
+    "count": 5,
+    "lat": 39.738742939999995,
+    "lng": -89.6498031
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Decatur",
+    "citySlug": "decatur",
+    "count": 5,
+    "lat": 39.81754746,
+    "lng": -88.91919381999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "DeWitt County",
+    "citySlug": "dewitt-county",
+    "count": 5,
+    "lat": 40.161006179999994,
+    "lng": -88.83919992000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Dubuque",
+    "citySlug": "dubuque",
+    "count": 5,
+    "lat": 42.49206571999999,
+    "lng": -90.68177790000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Jersey County",
+    "citySlug": "jersey-county",
+    "count": 5,
+    "lat": 39.01118718,
+    "lng": -90.42309508
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "East St. Louis",
+    "citySlug": "east-st-louis",
+    "count": 5,
+    "lat": 38.623352059999995,
+    "lng": -90.17809019999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Creve Coeur",
+    "citySlug": "creve-coeur",
+    "count": 5,
+    "lat": 40.63420246,
+    "lng": -89.62166734
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Alton",
+    "citySlug": "alton",
+    "count": 5,
+    "lat": 38.88384834,
+    "lng": -90.1756747
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Saint Joseph County",
+    "citySlug": "saint-joseph-county",
+    "count": 5,
+    "lat": 41.55835528,
+    "lng": -86.38476086
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Gary",
+    "citySlug": "gary",
+    "count": 5,
+    "lat": 41.5829032,
+    "lng": -87.35504322
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Goshen",
+    "citySlug": "goshen",
+    "count": 5,
+    "lat": 41.5709657,
+    "lng": -85.8251984
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Decatur County",
+    "citySlug": "decatur-county",
+    "count": 5,
+    "lat": 39.22711434,
+    "lng": -85.47371233999999
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Webster County",
+    "citySlug": "webster-county",
+    "count": 5,
+    "lat": 42.33054847999999,
+    "lng": -93.99528456
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Franklin County",
+    "citySlug": "franklin-county",
+    "count": 5,
+    "lat": 42.73836718,
+    "lng": -93.35153160000002
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Cedar Falls",
+    "citySlug": "cedar-falls",
+    "count": 5,
+    "lat": 42.52086894,
+    "lng": -92.44740928000002
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Story County",
+    "citySlug": "story-county",
+    "count": 5,
+    "lat": 42.046786239999996,
+    "lng": -93.47611668
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Sarpy County",
+    "citySlug": "sarpy-county",
+    "count": 5,
+    "lat": 41.13199978,
+    "lng": -96.03580672000001
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Overland Park",
+    "citySlug": "overland-park",
+    "count": 5,
+    "lat": 38.9071509,
+    "lng": -94.67877962
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Pottawatomie County",
+    "citySlug": "pottawatomie-county",
+    "count": 5,
+    "lat": 39.29095066,
+    "lng": -96.50107396
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Platte County",
+    "citySlug": "platte-county",
+    "count": 5,
+    "lat": 39.28591612,
+    "lng": -94.76181876000001
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Rowan County",
+    "citySlug": "rowan-county",
+    "count": 5,
+    "lat": 38.09364052,
+    "lng": -83.48147678000001
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Brown County",
+    "citySlug": "brown-county",
+    "count": 5,
+    "lat": 38.76916643999999,
+    "lng": -83.82260974
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Ripley",
+    "citySlug": "ripley",
+    "count": 5,
+    "lat": 38.72731158,
+    "lng": -83.83586255999998
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Villa Hills",
+    "citySlug": "villa-hills",
+    "count": 5,
+    "lat": 39.06992562,
+    "lng": -84.58589207999998
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Taylor County",
+    "citySlug": "taylor-county",
+    "count": 5,
+    "lat": 37.258098079999996,
+    "lng": -85.33352762
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Pulaski County",
+    "citySlug": "pulaski-county",
+    "count": 5,
+    "lat": 37.04673912,
+    "lng": -84.67120692
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Ouachita Parish",
+    "citySlug": "ouachita-parish",
+    "count": 5,
+    "lat": 32.58200008,
+    "lng": -92.13171304
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "St. James Parish",
+    "citySlug": "st-james-parish",
+    "count": 5,
+    "lat": 30.0718151,
+    "lng": -90.82951918
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Bossier Parish",
+    "citySlug": "bossier-parish",
+    "count": 5,
+    "lat": 32.51134929999999,
+    "lng": -93.57937752000001
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Hancock County",
+    "citySlug": "hancock-county",
+    "count": 5,
+    "lat": 30.320958179999998,
+    "lng": -89.51901484
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Terrebonne Parish",
+    "citySlug": "terrebonne-parish",
+    "count": 5,
+    "lat": 29.300144919999997,
+    "lng": -90.65284086
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Forrest County",
+    "citySlug": "forrest-county",
+    "count": 5,
+    "lat": 31.23453526,
+    "lng": -89.31480956
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Morgan City",
+    "citySlug": "morgan-city",
+    "count": 5,
+    "lat": 29.708962839999998,
+    "lng": -91.19156838
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Westwego",
+    "citySlug": "westwego",
+    "count": 5,
+    "lat": 29.90897954,
+    "lng": -90.1473933
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Portland",
+    "citySlug": "portland",
+    "count": 5,
+    "lat": 43.653686519999994,
+    "lng": -70.24131908
   },
   {
     "state": "AL",
@@ -1218,6 +3708,736 @@
     "count": 4,
     "lat": 38.560299300000004,
     "lng": -75.76740330000001
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Clay County",
+    "citySlug": "clay-county",
+    "count": 4,
+    "lat": 30.142415375000002,
+    "lng": -81.725429475
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Key Colony Beach",
+    "citySlug": "key-colony-beach",
+    "count": 4,
+    "lat": 24.72143375,
+    "lng": -81.02111275000001
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Islamorada",
+    "citySlug": "islamorada",
+    "count": 4,
+    "lat": 24.945952575,
+    "lng": -80.60154460000001
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Lake Wales",
+    "citySlug": "lake-wales",
+    "count": 4,
+    "lat": 27.907897225,
+    "lng": -81.5885008
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Hillsborough County",
+    "citySlug": "hillsborough-county",
+    "count": 4,
+    "lat": 27.885293675,
+    "lng": -82.14637265
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Winter Haven",
+    "citySlug": "winter-haven",
+    "count": 4,
+    "lat": 28.033474450000003,
+    "lng": -81.74186965
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Towns County",
+    "citySlug": "towns-county",
+    "count": 4,
+    "lat": 34.96596585,
+    "lng": -83.797813875
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Gainesville",
+    "citySlug": "gainesville",
+    "count": 4,
+    "lat": 34.31167595,
+    "lng": -83.871852025
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "McCall",
+    "citySlug": "mccall",
+    "count": 4,
+    "lat": 44.913421125,
+    "lng": -116.1037047
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Boise County",
+    "citySlug": "boise-county",
+    "count": 4,
+    "lat": 43.601545675,
+    "lng": -115.98305145
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Caribou County",
+    "citySlug": "caribou-county",
+    "count": 4,
+    "lat": 42.73995345,
+    "lng": -111.485262
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Hamilton",
+    "citySlug": "hamilton",
+    "count": 4,
+    "lat": 40.398853325,
+    "lng": -91.37228775
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Evansville",
+    "citySlug": "evansville",
+    "count": 4,
+    "lat": 37.973822999999996,
+    "lng": -87.575829325
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Lyon County",
+    "citySlug": "lyon-county",
+    "count": 4,
+    "lat": 37.007281075,
+    "lng": -88.0182948
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Mount Vernon",
+    "citySlug": "mount-vernon",
+    "count": 4,
+    "lat": 39.123335275,
+    "lng": -89.29769565000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Macoupin County",
+    "citySlug": "macoupin-county",
+    "count": 4,
+    "lat": 39.161317575,
+    "lng": -89.88799797499999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Loves Park",
+    "citySlug": "loves-park",
+    "count": 4,
+    "lat": 42.347261575000005,
+    "lng": -88.97814505
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Cary",
+    "citySlug": "cary",
+    "count": 4,
+    "lat": 42.203869025,
+    "lng": -88.266820125
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "St. Charles",
+    "citySlug": "st-charles",
+    "count": 4,
+    "lat": 41.91738945,
+    "lng": -88.304536375
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Winthrop Harbor",
+    "citySlug": "winthrop-harbor",
+    "count": 4,
+    "lat": 42.4859724,
+    "lng": -87.8031033
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Naperville",
+    "citySlug": "naperville",
+    "count": 4,
+    "lat": 41.71917095,
+    "lng": -88.189875325
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Highland Park",
+    "citySlug": "highland-park",
+    "count": 4,
+    "lat": 42.17876305,
+    "lng": -87.79719857500001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Joliet",
+    "citySlug": "joliet",
+    "count": 4,
+    "lat": 41.544066550000004,
+    "lng": -88.147713375
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Romeoville",
+    "citySlug": "romeoville",
+    "count": 4,
+    "lat": 41.633513824999994,
+    "lng": -88.12604350000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Davenport",
+    "citySlug": "davenport",
+    "count": 4,
+    "lat": 41.512278325,
+    "lng": -90.58384964999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Lake Saint Louis",
+    "citySlug": "lake-saint-louis",
+    "count": 4,
+    "lat": 38.79806175,
+    "lng": -90.79094107499999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Adams County",
+    "citySlug": "adams-county",
+    "count": 4,
+    "lat": 39.898327875,
+    "lng": -91.305145
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Knox County",
+    "citySlug": "knox-county",
+    "count": 4,
+    "lat": 40.9496606,
+    "lng": -90.133982175
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "East Dubuque",
+    "citySlug": "east-dubuque",
+    "count": 4,
+    "lat": 42.485351725,
+    "lng": -90.645647425
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bellevue",
+    "citySlug": "bellevue",
+    "count": 4,
+    "lat": 42.265695175,
+    "lng": -90.427648825
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Muscatine",
+    "citySlug": "muscatine",
+    "count": 4,
+    "lat": 41.41878395,
+    "lng": -91.0453692
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Clarksville",
+    "citySlug": "clarksville",
+    "count": 4,
+    "lat": 39.37260585,
+    "lng": -90.904639975
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Charleston",
+    "citySlug": "charleston",
+    "count": 4,
+    "lat": 39.462705775,
+    "lng": -88.146105275
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Madison",
+    "citySlug": "madison",
+    "count": 4,
+    "lat": 38.7376399,
+    "lng": -85.402091975
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Clark County",
+    "citySlug": "clark-county",
+    "count": 4,
+    "lat": 38.436706799999996,
+    "lng": -85.89404295
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Michigan City",
+    "citySlug": "michigan-city",
+    "count": 4,
+    "lat": 41.724429175,
+    "lng": -86.8959124
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Elkhart County",
+    "citySlug": "elkhart-county",
+    "count": 4,
+    "lat": 41.687964375,
+    "lng": -85.87498775
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Terre Haute",
+    "citySlug": "terre-haute",
+    "count": 4,
+    "lat": 39.465513325,
+    "lng": -87.37658785
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Owen County",
+    "citySlug": "owen-county",
+    "count": 4,
+    "lat": 39.43879325,
+    "lng": -86.847141075
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Kosciusko County",
+    "citySlug": "kosciusko-county",
+    "count": 4,
+    "lat": 41.367539625000006,
+    "lng": -85.6930457
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Miami County",
+    "citySlug": "miami-county",
+    "count": 4,
+    "lat": 40.8124511,
+    "lng": -86.05452715
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Warsaw",
+    "citySlug": "warsaw",
+    "count": 4,
+    "lat": 41.241874225000004,
+    "lng": -85.8443965
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Sullivan County",
+    "citySlug": "sullivan-county",
+    "count": 4,
+    "lat": 39.176969275,
+    "lng": -87.2455028
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Town of Jamestown",
+    "citySlug": "town-of-jamestown",
+    "count": 4,
+    "lat": 42.543219625,
+    "lng": -90.6365497
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Ankeny",
+    "citySlug": "ankeny",
+    "count": 4,
+    "lat": 41.726493975000004,
+    "lng": -93.61346664999999
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Appanoose County",
+    "citySlug": "appanoose-county",
+    "count": 4,
+    "lat": 40.786112375,
+    "lng": -92.89863964999999
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Johnston",
+    "citySlug": "johnston",
+    "count": 4,
+    "lat": 41.672386025,
+    "lng": -93.726355325
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Council Bluffs",
+    "citySlug": "council-bluffs",
+    "count": 4,
+    "lat": 41.2122274,
+    "lng": -95.8569848
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Ida County",
+    "citySlug": "ida-county",
+    "count": 4,
+    "lat": 42.345833999999996,
+    "lng": -95.53550415000001
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Cedar Rapids",
+    "citySlug": "cedar-rapids",
+    "count": 4,
+    "lat": 41.97263087499999,
+    "lng": -91.6532257
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Lincoln",
+    "citySlug": "lincoln",
+    "count": 4,
+    "lat": 40.819324300000005,
+    "lng": -96.583028275
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Lawrence",
+    "citySlug": "lawrence",
+    "count": 4,
+    "lat": 38.957272675,
+    "lng": -95.260389575
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Johnson County",
+    "citySlug": "johnson-county",
+    "count": 4,
+    "lat": 38.898195775,
+    "lng": -94.90505725
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Kanwaka Township",
+    "citySlug": "kanwaka-township",
+    "count": 4,
+    "lat": 38.968219024999996,
+    "lng": -95.36518124999999
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Montgomery County",
+    "citySlug": "montgomery-county",
+    "count": 4,
+    "lat": 37.25730585,
+    "lng": -95.73573955
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Saint Joseph",
+    "citySlug": "saint-joseph",
+    "count": 4,
+    "lat": 39.7780588,
+    "lng": -94.830826175
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Lyon County",
+    "citySlug": "lyon-county",
+    "count": 4,
+    "lat": 36.930385775000005,
+    "lng": -88.100720025
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Boone County",
+    "citySlug": "boone-county",
+    "count": 4,
+    "lat": 39.065711425,
+    "lng": -84.737631775
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Barren County",
+    "citySlug": "barren-county",
+    "count": 4,
+    "lat": 36.960734425,
+    "lng": -86.08524657499999
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Harrison County",
+    "citySlug": "harrison-county",
+    "count": 4,
+    "lat": 30.465680225,
+    "lng": -89.169896225
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Pointe Coupee Parish",
+    "citySlug": "pointe-coupee-parish",
+    "count": 4,
+    "lat": 30.721288175,
+    "lng": -91.588807525
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Sabine Parish",
+    "citySlug": "sabine-parish",
+    "count": 4,
+    "lat": 31.536066374999997,
+    "lng": -93.65582592499999
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Monroe",
+    "citySlug": "monroe",
+    "count": 4,
+    "lat": 32.528939975,
+    "lng": -92.0926517
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "St. John the Baptist Parish",
+    "citySlug": "st-john-the-baptist-parish",
+    "count": 4,
+    "lat": 30.05829425,
+    "lng": -90.601825175
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "New Iberia",
+    "citySlug": "new-iberia",
+    "count": 4,
+    "lat": 30.004849125000003,
+    "lng": -91.812593075
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Madison County",
+    "citySlug": "madison-county",
+    "count": 4,
+    "lat": 32.488411575,
+    "lng": -90.1090827
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Pass Christian",
+    "citySlug": "pass-christian",
+    "count": 4,
+    "lat": 30.3126271,
+    "lng": -89.24507955
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Gretna",
+    "citySlug": "gretna",
+    "count": 4,
+    "lat": 29.9268879,
+    "lng": -90.060471175
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Kenner",
+    "citySlug": "kenner",
+    "count": 4,
+    "lat": 30.022330949999997,
+    "lng": -90.248265225
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Assumption Parish",
+    "citySlug": "assumption-parish",
+    "count": 4,
+    "lat": 29.9418865,
+    "lng": -91.17106562500001
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Jackson Parish",
+    "citySlug": "jackson-parish",
+    "count": 4,
+    "lat": 32.25370845,
+    "lng": -92.518531375
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Montmagny (MRC)",
+    "citySlug": "montmagny-mrc",
+    "count": 4,
+    "lat": 47.008794475,
+    "lng": -70.54835385
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "West Isles Parish",
+    "citySlug": "west-isles-parish",
+    "count": 4,
+    "lat": 44.96940275,
+    "lng": -66.97001625
   },
   {
     "state": "AL",
@@ -1548,6 +4768,976 @@
     "count": 3,
     "lat": 39.40084903333333,
     "lng": -75.05343526666667
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Pompano Beach",
+    "citySlug": "pompano-beach",
+    "count": 3,
+    "lat": 26.2387892,
+    "lng": -80.0899426
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "count": 3,
+    "lat": 26.099577166666666,
+    "lng": -80.15187406666666
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Alva",
+    "citySlug": "alva",
+    "count": 3,
+    "lat": 26.71637493333333,
+    "lng": -81.61619466666667
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Lakeland",
+    "citySlug": "lakeland",
+    "count": 3,
+    "lat": 28.068030000000004,
+    "lng": -81.95801196666667
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Hardee County",
+    "citySlug": "hardee-county",
+    "count": 3,
+    "lat": 27.559053366666664,
+    "lng": -81.8413433
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Bartow",
+    "citySlug": "bartow",
+    "count": 3,
+    "lat": 27.907937399999998,
+    "lng": -81.83640223333333
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Dawson County",
+    "citySlug": "dawson-county",
+    "count": 3,
+    "lat": 34.44348516666667,
+    "lng": -84.13806436666667
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Fannin County",
+    "citySlug": "fannin-county",
+    "count": 3,
+    "lat": 34.81962266666667,
+    "lng": -84.26236276666667
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Clemson",
+    "citySlug": "clemson",
+    "count": 3,
+    "lat": 34.6865228,
+    "lng": -82.82478296666666
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Greenville",
+    "citySlug": "greenville",
+    "count": 3,
+    "lat": 34.7740465,
+    "lng": -82.3515449
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Greer",
+    "citySlug": "greer",
+    "count": 3,
+    "lat": 34.98993836666667,
+    "lng": -82.28902380000001
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Laurens County",
+    "citySlug": "laurens-county",
+    "count": 3,
+    "lat": 34.40951553333334,
+    "lng": -82.10342536666667
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Newberry County",
+    "citySlug": "newberry-county",
+    "count": 3,
+    "lat": 34.0987079,
+    "lng": -81.43251293333333
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Mulberry",
+    "citySlug": "mulberry",
+    "count": 3,
+    "lat": 34.06729443333334,
+    "lng": -83.8809462
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "White County",
+    "citySlug": "white-county",
+    "count": 3,
+    "lat": 34.63273313333334,
+    "lng": -83.80226766666668
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Athens",
+    "citySlug": "athens",
+    "count": 3,
+    "lat": 33.97177726666666,
+    "lng": -83.37402856666667
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Fairfield County",
+    "citySlug": "fairfield-county",
+    "count": 3,
+    "lat": 34.39532083333334,
+    "lng": -80.8455482
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Power County",
+    "citySlug": "power-county",
+    "count": 3,
+    "lat": 42.753501766666666,
+    "lng": -112.89655366666666
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Adams County",
+    "citySlug": "adams-county",
+    "count": 3,
+    "lat": 45.07151543333333,
+    "lng": -116.79206839999999
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Idaho Falls",
+    "citySlug": "idaho-falls",
+    "count": 3,
+    "lat": 43.49536586666667,
+    "lng": -112.04811293333334
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Valley County",
+    "citySlug": "valley-county",
+    "count": 3,
+    "lat": 44.80903436666667,
+    "lng": -115.92856746666666
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Malheur County",
+    "citySlug": "malheur-county",
+    "count": 3,
+    "lat": 43.7546654,
+    "lng": -117.0470325
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Fremont County",
+    "citySlug": "fremont-county",
+    "count": 3,
+    "lat": 44.55196143333333,
+    "lng": -111.35153046666666
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Idaho County",
+    "citySlug": "idaho-county",
+    "count": 3,
+    "lat": 45.96234126666667,
+    "lng": -115.09360400000001
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Clearwater County",
+    "citySlug": "clearwater-county",
+    "count": 3,
+    "lat": 46.691012433333334,
+    "lng": -116.2153546
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Clarkston",
+    "citySlug": "clarkston",
+    "count": 3,
+    "lat": 46.42480243333333,
+    "lng": -117.04482693333334
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Middleton",
+    "citySlug": "middleton",
+    "count": 3,
+    "lat": 43.712652999999996,
+    "lng": -116.5582486
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Saint Clair County",
+    "citySlug": "saint-clair-county",
+    "count": 3,
+    "lat": 38.50271343333333,
+    "lng": -90.05980543333332
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bond County",
+    "citySlug": "bond-county",
+    "count": 3,
+    "lat": 38.894808133333335,
+    "lng": -89.44680140000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Grand Rivers",
+    "citySlug": "grand-rivers",
+    "count": 3,
+    "lat": 37.00512196666667,
+    "lng": -88.23151323333333
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Pope County",
+    "citySlug": "pope-county",
+    "count": 3,
+    "lat": 37.43323843333334,
+    "lng": -88.6185889
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Hoffman Estates",
+    "citySlug": "hoffman-estates",
+    "count": 3,
+    "lat": 42.05977763333333,
+    "lng": -88.1591452
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Clinton",
+    "citySlug": "clinton",
+    "count": 3,
+    "lat": 41.871532433333336,
+    "lng": -90.17446833333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "North Chicago",
+    "citySlug": "north-chicago",
+    "count": 3,
+    "lat": 42.30758446666667,
+    "lng": -87.82936446666668
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Vernon Hills",
+    "citySlug": "vernon-hills",
+    "count": 3,
+    "lat": 42.246952900000004,
+    "lng": -87.96549253333335
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Mundelein",
+    "citySlug": "mundelein",
+    "count": 3,
+    "lat": 42.27262436666667,
+    "lng": -87.99949613333335
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "McHenry",
+    "citySlug": "mchenry",
+    "count": 3,
+    "lat": 42.34265109999999,
+    "lng": -88.26167226666666
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Wilmette",
+    "citySlug": "wilmette",
+    "count": 3,
+    "lat": 42.07721636666667,
+    "lng": -87.6824534
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Lake Zurich",
+    "citySlug": "lake-zurich",
+    "count": 3,
+    "lat": 42.197438033333334,
+    "lng": -88.10822446666667
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Dolton",
+    "citySlug": "dolton",
+    "count": 3,
+    "lat": 41.64230846666666,
+    "lng": -87.58800373333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Clark County",
+    "citySlug": "clark-county",
+    "count": 3,
+    "lat": 39.37777046666667,
+    "lng": -87.74766136666666
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Warren County",
+    "citySlug": "warren-county",
+    "count": 3,
+    "lat": 38.759659066666664,
+    "lng": -91.27558433333333
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Peoria Heights",
+    "citySlug": "peoria-heights",
+    "count": 3,
+    "lat": 40.74941783333333,
+    "lng": -89.5571534
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Hampton",
+    "citySlug": "hampton",
+    "count": 3,
+    "lat": 41.56577596666667,
+    "lng": -90.39773503333333
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Quincy",
+    "citySlug": "quincy",
+    "count": 3,
+    "lat": 39.9347999,
+    "lng": -91.39387773333333
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Pleasant Valley Township",
+    "citySlug": "pleasant-valley-township",
+    "count": 3,
+    "lat": 41.538410633333335,
+    "lng": -90.45420109999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Des Moines County",
+    "citySlug": "des-moines-county",
+    "count": 3,
+    "lat": 40.879802500000004,
+    "lng": -91.0669006
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Marseilles",
+    "citySlug": "marseilles",
+    "count": 3,
+    "lat": 41.32396713333333,
+    "lng": -88.70512913333334
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Hannibal",
+    "citySlug": "hannibal",
+    "count": 3,
+    "lat": 39.71111356666666,
+    "lng": -91.3535746
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Jeffersonville",
+    "citySlug": "jeffersonville",
+    "count": 3,
+    "lat": 38.3017585,
+    "lng": -85.68995209999999
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Dearborn County",
+    "citySlug": "dearborn-county",
+    "count": 3,
+    "lat": 39.15076306666666,
+    "lng": -84.88706633333334
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Frankfort",
+    "citySlug": "frankfort",
+    "count": 3,
+    "lat": 38.1997694,
+    "lng": -84.8768778
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Carroll County",
+    "citySlug": "carroll-county",
+    "count": 3,
+    "lat": 39.97344603333334,
+    "lng": -86.21796726666668
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Franklin County",
+    "citySlug": "franklin-county",
+    "count": 3,
+    "lat": 39.0978686,
+    "lng": -84.94942640000001
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Jennings County",
+    "citySlug": "jennings-county",
+    "count": 3,
+    "lat": 38.97297656666667,
+    "lng": -85.73713306666667
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "New Buffalo",
+    "citySlug": "new-buffalo",
+    "count": 3,
+    "lat": 41.79704783333333,
+    "lng": -86.74899963333333
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "West Lafayette",
+    "citySlug": "west-lafayette",
+    "count": 3,
+    "lat": 40.44379093333333,
+    "lng": -86.92275816666667
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Hobart",
+    "citySlug": "hobart",
+    "count": 3,
+    "lat": 41.53131196666667,
+    "lng": -87.25790123333333
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Cicero",
+    "citySlug": "cicero",
+    "count": 3,
+    "lat": 40.1319471,
+    "lng": -86.02178876666666
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Greene County",
+    "citySlug": "greene-county",
+    "count": 3,
+    "lat": 39.1681552,
+    "lng": -87.23530383333332
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Dubuque County",
+    "citySlug": "dubuque-county",
+    "count": 3,
+    "lat": 42.5896866,
+    "lng": -90.79024609999999
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Richland Center",
+    "citySlug": "richland-center",
+    "count": 3,
+    "lat": 43.343783900000005,
+    "lng": -90.3897743
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Lyon County",
+    "citySlug": "lyon-county",
+    "count": 3,
+    "lat": 43.384368566666666,
+    "lng": -96.46528226666668
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Ames",
+    "citySlug": "ames",
+    "count": 3,
+    "lat": 42.04464993333333,
+    "lng": -93.60674983333332
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Marshalltown",
+    "citySlug": "marshalltown",
+    "count": 3,
+    "lat": 42.01238706666667,
+    "lng": -92.92124310000001
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Washington County",
+    "citySlug": "washington-county",
+    "count": 3,
+    "lat": 41.538751600000005,
+    "lng": -96.04425099999999
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Wayne County",
+    "citySlug": "wayne-county",
+    "count": 3,
+    "lat": 40.80274286666667,
+    "lng": -93.32853533333332
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Tama County",
+    "citySlug": "tama-county",
+    "count": 3,
+    "lat": 42.219947733333335,
+    "lng": -92.45015599999999
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Neosho County",
+    "citySlug": "neosho-county",
+    "count": 3,
+    "lat": 37.47811303333333,
+    "lng": -95.20822659999999
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Topeka",
+    "citySlug": "topeka",
+    "count": 3,
+    "lat": 39.03291053333333,
+    "lng": -95.7275408
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Parkville",
+    "citySlug": "parkville",
+    "count": 3,
+    "lat": 39.197261033333334,
+    "lng": -94.69911193333333
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Leavenworth County",
+    "citySlug": "leavenworth-county",
+    "count": 3,
+    "lat": 39.19951793333333,
+    "lng": -95.11952919999999
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Woodson County",
+    "citySlug": "woodson-county",
+    "count": 3,
+    "lat": 37.782747066666666,
+    "lng": -95.90720060000001
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Grayson County",
+    "citySlug": "grayson-county",
+    "count": 3,
+    "lat": 37.429917933333336,
+    "lng": -86.2819604
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Huntington",
+    "citySlug": "huntington",
+    "count": 3,
+    "lat": 38.42965903333334,
+    "lng": -82.4040026
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Montgomery County",
+    "citySlug": "montgomery-county",
+    "count": 3,
+    "lat": 37.03486866666666,
+    "lng": -86.11505943333333
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "New Richmond",
+    "citySlug": "new-richmond",
+    "count": 3,
+    "lat": 38.949304000000005,
+    "lng": -84.28268073333334
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Gallipolis",
+    "citySlug": "gallipolis",
+    "count": 3,
+    "lat": 38.807986199999995,
+    "lng": -82.20470346666667
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Pike County",
+    "citySlug": "pike-county",
+    "count": 3,
+    "lat": 38.52053983333334,
+    "lng": -82.85103853333334
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Russell County",
+    "citySlug": "russell-county",
+    "count": 3,
+    "lat": 36.93412293333333,
+    "lng": -85.04355653333334
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Fulton County",
+    "citySlug": "fulton-county",
+    "count": 3,
+    "lat": 36.569372433333335,
+    "lng": -89.20871843333333
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Nelson County",
+    "citySlug": "nelson-county",
+    "count": 3,
+    "lat": 37.68491433333333,
+    "lng": -85.50744396666666
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Clinton County",
+    "citySlug": "clinton-county",
+    "count": 3,
+    "lat": 36.63700956666667,
+    "lng": -85.28202866666668
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "New Roads",
+    "citySlug": "new-roads",
+    "count": 3,
+    "lat": 30.689893466666664,
+    "lng": -91.44101456666665
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "West Feliciana Parish",
+    "citySlug": "west-feliciana-parish",
+    "count": 3,
+    "lat": 30.861011899999998,
+    "lng": -91.4266217
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Baton Rouge",
+    "citySlug": "baton-rouge",
+    "count": 3,
+    "lat": 30.427015233333332,
+    "lng": -91.16995036666667
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Livingston Parish",
+    "citySlug": "livingston-parish",
+    "count": 3,
+    "lat": 30.430251066666667,
+    "lng": -90.82245403333333
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "East Feliciana Parish",
+    "citySlug": "east-feliciana-parish",
+    "count": 3,
+    "lat": 30.759036199999997,
+    "lng": -91.02244276666666
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Vermilion Parish",
+    "citySlug": "vermilion-parish",
+    "count": 3,
+    "lat": 29.723327533333332,
+    "lng": -92.23894996666667
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Ridgeland",
+    "citySlug": "ridgeland",
+    "count": 3,
+    "lat": 32.4237766,
+    "lng": -90.08256193333334
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Iberville Parish",
+    "citySlug": "iberville-parish",
+    "count": 3,
+    "lat": 30.251483833333335,
+    "lng": -91.138784
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Catahoula Parish",
+    "citySlug": "catahoula-parish",
+    "count": 3,
+    "lat": 31.412865333333333,
+    "lng": -91.87377143333333
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Shreveport",
+    "citySlug": "shreveport",
+    "count": 3,
+    "lat": 32.47646236666666,
+    "lng": -93.79465466666666
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "West Monroe",
+    "citySlug": "west-monroe",
+    "count": 3,
+    "lat": 32.5175992,
+    "lng": -92.13814196666668
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Evangeline Parish",
+    "citySlug": "evangeline-parish",
+    "count": 3,
+    "lat": 30.7063553,
+    "lng": -92.32084993333332
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Port Allen",
+    "citySlug": "port-allen",
+    "count": 3,
+    "lat": 30.434918999999997,
+    "lng": -91.2020161
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Dover",
+    "citySlug": "dover",
+    "count": 3,
+    "lat": 43.12133466666668,
+    "lng": -70.83102743333333
   },
   {
     "state": "AL",
@@ -2088,5 +6278,1785 @@
     "count": 2,
     "lat": 39.242325199999996,
     "lng": -75.51586195
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Saint Johns County",
+    "citySlug": "saint-johns-county",
+    "count": 2,
+    "lat": 30.12143315,
+    "lng": -81.36506885
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Duval County",
+    "citySlug": "duval-county",
+    "count": 2,
+    "lat": 30.2727086,
+    "lng": -81.40725365
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Deerfield Beach",
+    "citySlug": "deerfield-beach",
+    "count": 2,
+    "lat": 26.32189745,
+    "lng": -80.09206985
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Boca Raton",
+    "citySlug": "boca-raton",
+    "count": 2,
+    "lat": 26.3579449,
+    "lng": -80.0715366
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Bal Harbour Village",
+    "citySlug": "bal-harbour-village",
+    "count": 2,
+    "lat": 25.893257249999998,
+    "lng": -80.12460275000001
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Melbourne",
+    "citySlug": "melbourne",
+    "count": 2,
+    "lat": 28.13294785,
+    "lng": -80.62846445
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Everglades City",
+    "citySlug": "everglades-city",
+    "count": 2,
+    "lat": 25.8572852,
+    "lng": -81.38863895
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Frostproof",
+    "citySlug": "frostproof",
+    "count": 2,
+    "lat": 27.745478900000002,
+    "lng": -81.53074315
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Pasco County",
+    "citySlug": "pasco-county",
+    "count": 2,
+    "lat": 28.24177735,
+    "lng": -82.19351069999999
+  },
+  {
+    "state": "FL",
+    "stateName": "Florida",
+    "stateSlug": "florida",
+    "city": "Kissimmee",
+    "citySlug": "kissimmee",
+    "count": 2,
+    "lat": 28.27778755,
+    "lng": -81.4403872
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Thunderbolt",
+    "citySlug": "thunderbolt",
+    "count": 2,
+    "lat": 32.0347797,
+    "lng": -81.04055195000001
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "DeKalb County",
+    "citySlug": "dekalb-county",
+    "count": 2,
+    "lat": 33.79002655,
+    "lng": -84.20712125
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Chester County",
+    "citySlug": "chester-county",
+    "count": 2,
+    "lat": 34.703115600000004,
+    "lng": -81.14841215000001
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Lancaster County",
+    "citySlug": "lancaster-county",
+    "count": 2,
+    "lat": 34.7262939,
+    "lng": -80.84440395
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Franklin County",
+    "citySlug": "franklin-county",
+    "count": 2,
+    "lat": 34.509502499999996,
+    "lng": -83.08248384999999
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "McCormick County",
+    "citySlug": "mccormick-county",
+    "count": 2,
+    "lat": 33.842695649999996,
+    "lng": -82.3455942
+  },
+  {
+    "state": "GA",
+    "stateName": "Georgia",
+    "stateSlug": "georgia",
+    "city": "Abbeville County",
+    "citySlug": "abbeville-county",
+    "count": 2,
+    "lat": 34.09960595,
+    "lng": -82.6220577
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Gem County",
+    "citySlug": "gem-county",
+    "count": 2,
+    "lat": 44.333551299999996,
+    "lng": -116.18328725
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Hayden Lake",
+    "citySlug": "hayden-lake",
+    "count": 2,
+    "lat": 47.7615756,
+    "lng": -116.75386470000001
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Harrison",
+    "citySlug": "harrison",
+    "count": 2,
+    "lat": 47.45456575,
+    "lng": -116.7879439
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Great Falls",
+    "citySlug": "great-falls",
+    "count": 2,
+    "lat": 47.5058979,
+    "lng": -111.30594545
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Twin Falls",
+    "citySlug": "twin-falls",
+    "count": 2,
+    "lat": 42.5956042,
+    "lng": -114.39409235
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Bozeman",
+    "citySlug": "bozeman",
+    "count": 2,
+    "lat": 45.6853704,
+    "lng": -111.086506
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Lewis County",
+    "citySlug": "lewis-county",
+    "count": 2,
+    "lat": 46.235489599999994,
+    "lng": -116.62468150000001
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Polson",
+    "citySlug": "polson",
+    "count": 2,
+    "lat": 47.69452705,
+    "lng": -114.1441646
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Eagle",
+    "citySlug": "eagle",
+    "count": 2,
+    "lat": 43.6825338,
+    "lng": -116.3788256
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Broadwater County",
+    "citySlug": "broadwater-county",
+    "count": 2,
+    "lat": 46.47662475,
+    "lng": -111.56734499999999
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Latah County",
+    "citySlug": "latah-county",
+    "count": 2,
+    "lat": 46.78590485,
+    "lng": -116.7568541
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Post Falls",
+    "citySlug": "post-falls",
+    "count": 2,
+    "lat": 47.704854600000004,
+    "lng": -116.95138645
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Cassia County",
+    "citySlug": "cassia-county",
+    "count": 2,
+    "lat": 42.54647945,
+    "lng": -113.80598975000001
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Franklin County",
+    "citySlug": "franklin-county",
+    "count": 2,
+    "lat": 42.2797312,
+    "lng": -111.7377152
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Jerome County",
+    "citySlug": "jerome-county",
+    "count": 2,
+    "lat": 42.5982014,
+    "lng": -114.397397
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Pend Oreille County",
+    "citySlug": "pend-oreille-county",
+    "count": 2,
+    "lat": 48.4348893,
+    "lng": -117.1248515
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Ravalli County",
+    "citySlug": "ravalli-county",
+    "count": 2,
+    "lat": 46.281001599999996,
+    "lng": -113.8490479
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Gallatin County",
+    "citySlug": "gallatin-county",
+    "count": 2,
+    "lat": 44.8331176,
+    "lng": -111.25217655
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Ada County",
+    "citySlug": "ada-county",
+    "count": 2,
+    "lat": 43.2389655,
+    "lng": -116.37626714999999
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Lewiston",
+    "citySlug": "lewiston",
+    "count": 2,
+    "lat": 46.41451885,
+    "lng": -117.0342647
+  },
+  {
+    "state": "ID",
+    "stateName": "Idaho",
+    "stateSlug": "idaho",
+    "city": "Lemhi County",
+    "citySlug": "lemhi-county",
+    "count": 2,
+    "lat": 45.01815165,
+    "lng": -113.9783122
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Posey County",
+    "citySlug": "posey-county",
+    "count": 2,
+    "lat": 37.79481215,
+    "lng": -87.99200185000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Highland",
+    "citySlug": "highland",
+    "count": 2,
+    "lat": 38.7716276,
+    "lng": -89.69556695
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Kuttawa",
+    "citySlug": "kuttawa",
+    "count": 2,
+    "lat": 37.060488199999995,
+    "lng": -88.10791845
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Carbondale",
+    "citySlug": "carbondale",
+    "count": 2,
+    "lat": 37.709606300000004,
+    "lng": -89.22268455
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Keyesport",
+    "citySlug": "keyesport",
+    "count": 2,
+    "lat": 38.73751385,
+    "lng": -89.27362545
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Maryville",
+    "citySlug": "maryville",
+    "count": 2,
+    "lat": 38.7282776,
+    "lng": -89.94919440000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Fayette County",
+    "citySlug": "fayette-county",
+    "count": 2,
+    "lat": 39.093165549999995,
+    "lng": -88.99701429999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Cape Girardeau",
+    "citySlug": "cape-girardeau",
+    "count": 2,
+    "lat": 37.3423653,
+    "lng": -89.5497325
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Vanderburgh County",
+    "citySlug": "vanderburgh-county",
+    "count": 2,
+    "lat": 37.9652452,
+    "lng": -87.624942
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Gibson County",
+    "citySlug": "gibson-county",
+    "count": 2,
+    "lat": 38.384852699999996,
+    "lng": -87.57771095000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Marion",
+    "citySlug": "marion",
+    "count": 2,
+    "lat": 37.74095,
+    "lng": -88.95470755
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "De Soto",
+    "citySlug": "de-soto",
+    "count": 2,
+    "lat": 37.8149685,
+    "lng": -89.21827945000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "McLeansboro",
+    "citySlug": "mcleansboro",
+    "count": 2,
+    "lat": 38.08613545,
+    "lng": -88.55751395
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Madison County",
+    "citySlug": "madison-county",
+    "count": 2,
+    "lat": 38.87583345,
+    "lng": -89.90644714999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Earlington",
+    "citySlug": "earlington",
+    "count": 2,
+    "lat": 37.269828000000004,
+    "lng": -87.52245575
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Glencoe",
+    "citySlug": "glencoe",
+    "count": 2,
+    "lat": 42.1425885,
+    "lng": -87.75210945
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Algonquin",
+    "citySlug": "algonquin",
+    "count": 2,
+    "lat": 42.1791949,
+    "lng": -88.2853291
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Geneva",
+    "citySlug": "geneva",
+    "count": 2,
+    "lat": 41.883270800000005,
+    "lng": -88.33063105
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bolingbrook",
+    "citySlug": "bolingbrook",
+    "count": 2,
+    "lat": 41.708298850000006,
+    "lng": -88.0903603
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Wheaton",
+    "citySlug": "wheaton",
+    "count": 2,
+    "lat": 41.8796863,
+    "lng": -88.1123519
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Round Lake Beach",
+    "citySlug": "round-lake-beach",
+    "count": 2,
+    "lat": 42.385337050000004,
+    "lng": -88.0674903
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Grayslake",
+    "citySlug": "grayslake",
+    "count": 2,
+    "lat": 42.345219349999994,
+    "lng": -88.0525787
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Winnebago County",
+    "citySlug": "winnebago-county",
+    "count": 2,
+    "lat": 42.4132692,
+    "lng": -89.291162
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bloomingdale",
+    "citySlug": "bloomingdale",
+    "count": 2,
+    "lat": 41.95899705,
+    "lng": -88.08293760000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Buffalo Grove",
+    "citySlug": "buffalo-grove",
+    "count": 2,
+    "lat": 42.172935800000005,
+    "lng": -87.9799879
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Pingree Grove",
+    "citySlug": "pingree-grove",
+    "count": 2,
+    "lat": 42.0910347,
+    "lng": -88.43061574999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Lake in the Hills",
+    "citySlug": "lake-in-the-hills",
+    "count": 2,
+    "lat": 42.1868187,
+    "lng": -88.31802875
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Huntley",
+    "citySlug": "huntley",
+    "count": 2,
+    "lat": 42.17102865,
+    "lng": -88.44013465
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Frankfort",
+    "citySlug": "frankfort",
+    "count": 2,
+    "lat": 41.4881719,
+    "lng": -87.86667245
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Champaign County",
+    "citySlug": "champaign-county",
+    "count": 2,
+    "lat": 40.21981375,
+    "lng": -87.9705905
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Vermilion County",
+    "citySlug": "vermilion-county",
+    "count": 2,
+    "lat": 40.129044300000004,
+    "lng": -87.70091385
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Kankakee County",
+    "citySlug": "kankakee-county",
+    "count": 2,
+    "lat": 41.1459324,
+    "lng": -87.99340555
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Tazewell County",
+    "citySlug": "tazewell-county",
+    "count": 2,
+    "lat": 40.6923783,
+    "lng": -89.4203792
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Morgan County",
+    "citySlug": "morgan-county",
+    "count": 2,
+    "lat": 39.7062803,
+    "lng": -90.2991037
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Godfrey",
+    "citySlug": "godfrey",
+    "count": 2,
+    "lat": 38.941228,
+    "lng": -90.23842585
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Saint Peters",
+    "citySlug": "saint-peters",
+    "count": 2,
+    "lat": 38.8239971,
+    "lng": -90.56776335
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "West Alton",
+    "citySlug": "west-alton",
+    "count": 2,
+    "lat": 38.8823845,
+    "lng": -90.19868555
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Shelbyville",
+    "citySlug": "shelbyville",
+    "count": 2,
+    "lat": 39.41704525,
+    "lng": -88.77080570000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Marshall County",
+    "citySlug": "marshall-county",
+    "count": 2,
+    "lat": 41.0689293,
+    "lng": -89.3825555
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Cass County",
+    "citySlug": "cass-county",
+    "count": 2,
+    "lat": 39.96218345,
+    "lng": -90.29944535
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Pekin",
+    "citySlug": "pekin",
+    "count": 2,
+    "lat": 40.56896815,
+    "lng": -89.64186655
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Eureka",
+    "citySlug": "eureka",
+    "count": 2,
+    "lat": 40.70465635,
+    "lng": -89.2838935
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Iron County",
+    "citySlug": "iron-county",
+    "count": 2,
+    "lat": 37.731372300000004,
+    "lng": -90.91251345
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Bureau County",
+    "citySlug": "bureau-county",
+    "count": 2,
+    "lat": 41.3901721,
+    "lng": -89.70346380000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Urbana",
+    "citySlug": "urbana",
+    "count": 2,
+    "lat": 40.1173669,
+    "lng": -88.1901587
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Fulton County",
+    "citySlug": "fulton-county",
+    "count": 2,
+    "lat": 40.647681750000004,
+    "lng": -90.11265865
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Columbia",
+    "citySlug": "columbia",
+    "count": 2,
+    "lat": 38.45038795,
+    "lng": -90.21437195
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Dubuque County",
+    "citySlug": "dubuque-county",
+    "count": 2,
+    "lat": 42.4431753,
+    "lng": -90.68149629999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Shannon County",
+    "citySlug": "shannon-county",
+    "count": 2,
+    "lat": 37.3558227,
+    "lng": -91.3486694
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Champaign",
+    "citySlug": "champaign",
+    "count": 2,
+    "lat": 40.09982785,
+    "lng": -88.31053800000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Braidwood",
+    "citySlug": "braidwood",
+    "count": 2,
+    "lat": 41.257063849999994,
+    "lng": -88.227621
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Plainfield",
+    "citySlug": "plainfield",
+    "count": 2,
+    "lat": 41.639055150000004,
+    "lng": -88.16645045
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Le Claire",
+    "citySlug": "le-claire",
+    "count": 2,
+    "lat": 41.5812447,
+    "lng": -90.38457755
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Mercer County",
+    "citySlug": "mercer-county",
+    "count": 2,
+    "lat": 41.19200395,
+    "lng": -91.05696535
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Montgomery County",
+    "citySlug": "montgomery-county",
+    "count": 2,
+    "lat": 38.7118651,
+    "lng": -91.42407234999999
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Ralls County",
+    "citySlug": "ralls-county",
+    "count": 2,
+    "lat": 39.63908375,
+    "lng": -91.25293225
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Marion County",
+    "citySlug": "marion-county",
+    "count": 2,
+    "lat": 39.7325592,
+    "lng": -91.37504985000001
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Saint Francois County",
+    "citySlug": "saint-francois-county",
+    "count": 2,
+    "lat": 37.7340982,
+    "lng": -90.53552495
+  },
+  {
+    "state": "IL",
+    "stateName": "Illinois",
+    "stateSlug": "illinois",
+    "city": "Fenton",
+    "citySlug": "fenton",
+    "count": 2,
+    "lat": 38.5090986,
+    "lng": -90.42815195
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Spencer County",
+    "citySlug": "spencer-county",
+    "count": 2,
+    "lat": 38.1079303,
+    "lng": -86.93279045
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Oldham County",
+    "citySlug": "oldham-county",
+    "count": 2,
+    "lat": 38.39802685,
+    "lng": -85.4024395
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Oak Park",
+    "citySlug": "oak-park",
+    "count": 2,
+    "lat": 38.30768155,
+    "lng": -85.6729684
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Orange County",
+    "citySlug": "orange-county",
+    "count": 2,
+    "lat": 38.39981035,
+    "lng": -86.6285571
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Gallatin County",
+    "citySlug": "gallatin-county",
+    "count": 2,
+    "lat": 38.760161049999994,
+    "lng": -85.01526875
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Pike County",
+    "citySlug": "pike-county",
+    "count": 2,
+    "lat": 38.3152137,
+    "lng": -87.1975033
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "South Bend",
+    "citySlug": "south-bend",
+    "count": 2,
+    "lat": 41.68745145,
+    "lng": -86.2484523
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "St. John",
+    "citySlug": "st-john",
+    "count": 2,
+    "lat": 41.4555534,
+    "lng": -87.4604285
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "White County",
+    "citySlug": "white-county",
+    "count": 2,
+    "lat": 40.740816,
+    "lng": -86.76819865
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Portage",
+    "citySlug": "portage",
+    "count": 2,
+    "lat": 41.612798,
+    "lng": -87.19286199999999
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "East Chicago",
+    "citySlug": "east-chicago",
+    "count": 2,
+    "lat": 41.65411865,
+    "lng": -87.43698280000001
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Wayne County",
+    "citySlug": "wayne-county",
+    "count": 2,
+    "lat": 39.8599871,
+    "lng": -84.87269545
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Winona Lake",
+    "citySlug": "winona-lake",
+    "count": 2,
+    "lat": 41.22529275,
+    "lng": -85.82241465
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Syracuse",
+    "citySlug": "syracuse",
+    "count": 2,
+    "lat": 41.4187649,
+    "lng": -85.7459588
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Huntertown",
+    "citySlug": "huntertown",
+    "count": 2,
+    "lat": 41.23168995,
+    "lng": -85.1370857
+  },
+  {
+    "state": "IN",
+    "stateName": "Indiana",
+    "stateSlug": "indiana",
+    "city": "Pulaski County",
+    "citySlug": "pulaski-county",
+    "count": 2,
+    "lat": 41.0695262,
+    "lng": -86.5969138
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Jasper County",
+    "citySlug": "jasper-county",
+    "count": 2,
+    "lat": 41.7416745,
+    "lng": -92.8741603
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Marquette",
+    "citySlug": "marquette",
+    "count": 2,
+    "lat": 43.042072250000004,
+    "lng": -91.1770469
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Waterloo",
+    "citySlug": "waterloo",
+    "count": 2,
+    "lat": 42.53304885,
+    "lng": -92.41241199999999
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Clayton County",
+    "citySlug": "clayton-county",
+    "count": 2,
+    "lat": 42.661664599999995,
+    "lng": -91.25081005
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Guttenberg",
+    "citySlug": "guttenberg",
+    "count": 2,
+    "lat": 42.7773384,
+    "lng": -91.0944589
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Clear Lake",
+    "citySlug": "clear-lake",
+    "count": 2,
+    "lat": 43.13703945,
+    "lng": -93.38778465
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Fayette County",
+    "citySlug": "fayette-county",
+    "count": 2,
+    "lat": 42.89757605,
+    "lng": -91.76791905
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Polk City",
+    "citySlug": "polk-city",
+    "count": 2,
+    "lat": 41.7546417,
+    "lng": -93.68485615
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Hamilton County",
+    "citySlug": "hamilton-county",
+    "count": 2,
+    "lat": 42.3544222,
+    "lng": -93.7188065
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Sioux City",
+    "citySlug": "sioux-city",
+    "count": 2,
+    "lat": 42.494711699999996,
+    "lng": -96.3321933
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Dallas County",
+    "citySlug": "dallas-county",
+    "count": 2,
+    "lat": 41.61409945,
+    "lng": -93.99892045
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Wapello County",
+    "citySlug": "wapello-county",
+    "count": 2,
+    "lat": 41.086116950000005,
+    "lng": -92.4933189
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Saunders County",
+    "citySlug": "saunders-county",
+    "count": 2,
+    "lat": 41.23168585,
+    "lng": -96.46728095
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Audubon County",
+    "citySlug": "audubon-county",
+    "count": 2,
+    "lat": 41.53485525,
+    "lng": -94.804591
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Urbandale",
+    "citySlug": "urbandale",
+    "count": 2,
+    "lat": 41.63155045,
+    "lng": -93.73462495
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Iowa City",
+    "citySlug": "iowa-city",
+    "count": 2,
+    "lat": 41.67464445,
+    "lng": -91.54820495000001
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Monona County",
+    "citySlug": "monona-county",
+    "count": 2,
+    "lat": 42.047072650000004,
+    "lng": -96.16354065
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Mills County",
+    "citySlug": "mills-county",
+    "count": 2,
+    "lat": 41.02440875,
+    "lng": -95.65612265
+  },
+  {
+    "state": "IA",
+    "stateName": "Iowa",
+    "stateSlug": "iowa",
+    "city": "Clark County",
+    "citySlug": "clark-county",
+    "count": 2,
+    "lat": 40.492130149999994,
+    "lng": -91.70770175
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Lenexa",
+    "citySlug": "lenexa",
+    "count": 2,
+    "lat": 38.9807751,
+    "lng": -94.76813715
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Paola",
+    "citySlug": "paola",
+    "count": 2,
+    "lat": 38.590289350000006,
+    "lng": -94.84569875
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Riley County",
+    "citySlug": "riley-county",
+    "count": 2,
+    "lat": 39.25236175,
+    "lng": -96.57417104999999
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Osawatomie",
+    "citySlug": "osawatomie",
+    "count": 2,
+    "lat": 38.5277425,
+    "lng": -94.99402785
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Wilson County",
+    "citySlug": "wilson-county",
+    "count": 2,
+    "lat": 37.697493,
+    "lng": -95.67270525
+  },
+  {
+    "state": "KS",
+    "stateName": "Kansas",
+    "stateSlug": "kansas",
+    "city": "Nemaha County",
+    "citySlug": "nemaha-county",
+    "count": 2,
+    "lat": 39.70341185,
+    "lng": -95.9215886
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Prestonsburg",
+    "citySlug": "prestonsburg",
+    "count": 2,
+    "lat": 37.696463800000004,
+    "lng": -82.72596304999999
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Johnson County",
+    "citySlug": "johnson-county",
+    "count": 2,
+    "lat": 37.8417711,
+    "lng": -82.88029159999999
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Maysville",
+    "citySlug": "maysville",
+    "count": 2,
+    "lat": 38.6484267,
+    "lng": -83.76261835
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Knott County",
+    "citySlug": "knott-county",
+    "count": 2,
+    "lat": 37.2273584,
+    "lng": -82.99812455
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Carter County",
+    "citySlug": "carter-county",
+    "count": 2,
+    "lat": 38.308741350000005,
+    "lng": -83.05553334999999
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Clark County",
+    "citySlug": "clark-county",
+    "count": 2,
+    "lat": 37.8702159,
+    "lng": -84.15929725000001
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Gallia County",
+    "citySlug": "gallia-county",
+    "count": 2,
+    "lat": 38.73465425,
+    "lng": -82.2983539
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Chesapeake",
+    "citySlug": "chesapeake",
+    "count": 2,
+    "lat": 38.4275072,
+    "lng": -82.4482297
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Nicholas County",
+    "citySlug": "nicholas-county",
+    "count": 2,
+    "lat": 38.34456025,
+    "lng": -84.03210849999999
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Laurel County",
+    "citySlug": "laurel-county",
+    "count": 2,
+    "lat": 36.978559399999995,
+    "lng": -84.257723
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Ballard County",
+    "citySlug": "ballard-county",
+    "count": 2,
+    "lat": 36.9572926,
+    "lng": -89.0955161
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Garrard County",
+    "citySlug": "garrard-county",
+    "count": 2,
+    "lat": 37.7199345,
+    "lng": -84.69230105
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Fort Thomas",
+    "citySlug": "fort-thomas",
+    "count": 2,
+    "lat": 39.07462155,
+    "lng": -84.44455805000001
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Madison County",
+    "citySlug": "madison-county",
+    "count": 2,
+    "lat": 37.7676177,
+    "lng": -84.3525341
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Graves County",
+    "citySlug": "graves-county",
+    "count": 2,
+    "lat": 36.800504399999994,
+    "lng": -88.70196545
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Ohio County",
+    "citySlug": "ohio-county",
+    "count": 2,
+    "lat": 37.519613,
+    "lng": -86.88373229999999
+  },
+  {
+    "state": "KY",
+    "stateName": "Kentucky",
+    "stateSlug": "kentucky",
+    "city": "Burnside",
+    "citySlug": "burnside",
+    "count": 2,
+    "lat": 36.986492999999996,
+    "lng": -84.60529005000001
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Saint Martin Parish",
+    "citySlug": "saint-martin-parish",
+    "count": 2,
+    "lat": 30.3708284,
+    "lng": -91.71869045
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Concordia Parish",
+    "citySlug": "concordia-parish",
+    "count": 2,
+    "lat": 31.3010042,
+    "lng": -91.5679753
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Long Beach",
+    "citySlug": "long-beach",
+    "count": 2,
+    "lat": 30.344217899999997,
+    "lng": -89.14255765
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Natchitoches",
+    "citySlug": "natchitoches",
+    "count": 2,
+    "lat": 31.75082055,
+    "lng": -93.0861479
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Plaquemine",
+    "citySlug": "plaquemine",
+    "count": 2,
+    "lat": 30.29244335,
+    "lng": -91.23647735
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Richland Parish",
+    "citySlug": "richland-parish",
+    "count": 2,
+    "lat": 32.509225900000004,
+    "lng": -91.49298329999999
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Port Vincent",
+    "citySlug": "port-vincent",
+    "count": 2,
+    "lat": 30.3301217,
+    "lng": -90.84875865000001
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Caddo Parish",
+    "citySlug": "caddo-parish",
+    "count": 2,
+    "lat": 32.3156144,
+    "lng": -93.6116169
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Vienna",
+    "citySlug": "vienna",
+    "count": 2,
+    "lat": 32.6124173,
+    "lng": -92.64206325
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Jackson",
+    "citySlug": "jackson",
+    "count": 2,
+    "lat": 32.32541125,
+    "lng": -90.19645700000001
+  },
+  {
+    "state": "LA",
+    "stateName": "Louisiana",
+    "stateSlug": "louisiana",
+    "city": "Ascension Parish",
+    "citySlug": "ascension-parish",
+    "count": 2,
+    "lat": 30.16698895,
+    "lng": -90.92625204999999
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Freeport",
+    "citySlug": "freeport",
+    "count": 2,
+    "lat": 43.813939649999995,
+    "lng": -70.1061738
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Piopolis",
+    "citySlug": "piopolis",
+    "count": 2,
+    "lat": 45.472704449999995,
+    "lng": -70.8949407
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Frontenac",
+    "citySlug": "frontenac",
+    "count": 2,
+    "lat": 45.5113926,
+    "lng": -70.84914895
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Saint-François-de-l'Île-d'Orléans",
+    "citySlug": "saint-fran-ois-de-l-le-d-orl-ans",
+    "count": 2,
+    "lat": 47.00923895,
+    "lng": -70.8339136
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Beaupré",
+    "citySlug": "beaupr",
+    "count": 2,
+    "lat": 47.0404945,
+    "lng": -70.87839185
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Saint-Antoine-de-l'Isle-aux-Grues",
+    "citySlug": "saint-antoine-de-l-isle-aux-grues",
+    "count": 2,
+    "lat": 47.0377403,
+    "lng": -70.6020196
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "L'Isle-aux-Coudres",
+    "citySlug": "l-isle-aux-coudres",
+    "count": 2,
+    "lat": 47.394346049999996,
+    "lng": -70.3980316
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Mount Desert",
+    "citySlug": "mount-desert",
+    "count": 2,
+    "lat": 44.35030225,
+    "lng": -68.3217692
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Newcastle",
+    "citySlug": "newcastle",
+    "count": 2,
+    "lat": 44.02631285,
+    "lng": -69.5487753
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Winter Harbor",
+    "citySlug": "winter-harbor",
+    "count": 2,
+    "lat": 44.39040425,
+    "lng": -68.0839472
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Ambejejus Lake",
+    "citySlug": "ambejejus-lake",
+    "count": 2,
+    "lat": 45.7293236,
+    "lng": -68.8375917
+  },
+  {
+    "state": "ME",
+    "stateName": "Maine",
+    "stateSlug": "maine",
+    "city": "Falmouth",
+    "citySlug": "falmouth",
+    "count": 2,
+    "lat": 43.7189623,
+    "lng": -70.2104719
   }
 ]
