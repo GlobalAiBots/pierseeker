@@ -4,6 +4,7 @@ import { useState, useMemo } from "react";
 
 import { unified, isGenericName } from "@/data/all-piers";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import PierList from "@/components/PierList";
 
 export default function CaliforniaPage() {
@@ -68,7 +69,8 @@ export default function CaliforniaPage() {
           ))}
         </div>
       </section>
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-california"} />
+      <CletusAd /></div>
     </div>
   );
 }
