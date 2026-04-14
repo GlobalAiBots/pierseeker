@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useState, useMemo } from "react";
 
 import { unified, isGenericName } from "@/data/all-piers";
@@ -39,15 +41,30 @@ export default function ArkansasPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{stPiers.length}+ fishing piers across Arkansas. Saltwater, freshwater, and river access. {namedCount} named piers with details.</p>
       </section>
 
+      {/* State intro + tips */}
+      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
+        <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Pier Fishing in Arkansas</h2>
+          <p className="text-gray-600 leading-relaxed text-sm">Arkansas offers {stPiers.length.toLocaleString()}+ fishing piers, docks, and jetties across the state. From Beaver Lake, Bull Shoals, and the White River, there&apos;s no shortage of places to cast a line. Popular catches include bass, crappie, and catfish.</p>
+        </div>
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+          <h3 className="font-[Cabin] font-bold text-ocean mb-3">Tips for Pier Fishing in Arkansas</h3>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Check Arkansas&apos;s fishing license requirements &mdash; most states require one even for pier fishing.</li>
+            <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Best times to fish from piers are early morning, late afternoon, and around tidal changes.</li>
+            <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Bring a variety of bait &mdash; shrimp, cut bait, and artificial lures all work from piers.</li>
+            <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Always check weather and water conditions before heading to any pier.</li>
+            <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Read our <Link href="/blog/pier-fishing-tips-for-beginners" className="text-ocean hover:underline">pier fishing tips guide</Link> for more advice.</li>
+          </ul>
+        </div>
+      </section>
+
       {cityMap.length > 0 && (
         <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
             {cityMap.slice(0, 16).map(([city, count]) => (
-              <button key={city} onClick={() => { setSelectedCity(city === selectedCity ? null : city); document.getElementById("pier-list")?.scrollIntoView({ behavior: "smooth" }); }} className={"text-left bg-white border rounded-lg p-3 hover:border-ocean hover:bg-[#E8F4F8] transition cursor-pointer " + (selectedCity === city ? "border-ocean bg-[#E8F4F8] ring-2 ring-ocean" : "border-gray-200")}>
-                <p className="font-bold text-charcoal text-sm">{city}</p>
-                <p className="text-gray-400 text-xs">{count} pier{count !== 1 ? "s" : ""}</p>
-              </button>
+              <Link key={city} href={`/cities/${city.toLowerCase().replace(/\s+/g, "-")}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-ocean hover:shadow-sm transition"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} pier{count !== 1 ? "s" : ""}</p></Link>
             ))}
           </div>
         </section>
@@ -59,8 +76,11 @@ export default function ArkansasPage() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Arkansas Pier Fishing FAQ</h2>
         <div className="space-y-2">
           {[
-            { q: "How many fishing piers are in Arkansas?", a: `PierSeeker lists ${stPiers.length}+ fishing piers across Arkansas.` },
-            { q: "Is PierSeeker free?", a: "Yes, completely free. No login, no account, no fees." },
+            { q: "How many fishing piers are in Arkansas?", a: `PierSeeker lists ${stPiers.length}+ fishing piers, docks, and jetties across Arkansas.` },
+            { q: "Do I need a fishing license in Arkansas?", a: "Most states require a fishing license even when fishing from a public pier. Check Arkansas's fish and wildlife department for current requirements." },
+            { q: "What fish can I catch from piers in Arkansas?", a: "Popular catches from Arkansas piers include bass, crappie, and catfish. Species vary by location and season." },
+            { q: "Are fishing piers in Arkansas free?", a: "Many fishing piers in Arkansas are free to access. Some popular piers may charge a small fee during peak season." },
+            { q: "Is PierSeeker free?", a: "Yes, completely free. No login, no account, no fees. Just find your pier and go fish." },
           ].map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-ocean transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>

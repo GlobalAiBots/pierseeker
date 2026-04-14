@@ -190,7 +190,9 @@
       "Bash(export TEMP=D:/tmp)",
       "Bash(export TMP=D:/tmp)",
       "Bash(grep -n \"SUPABASE_URL\\\\|supabaseUrl\" .env* src/lib/supabase*)",
-      "Bash(grep \"SUPABASE_URL\" .env*)"
+      "Bash(grep \"SUPABASE_URL\" .env*)",
+      "Bash(grep -rn \"d'Alene\\\\|O'Brien\\\\|it's\\\\|don't\\\\|can't\\\\|won't\\\\|that's\" src/app/*/page.tsx)",
+      "Bash(grep -v \"\\\\\\\\\\\\\\\\'\")"
     ]
   }
 }
