@@ -4,6 +4,7 @@ import { use, useState, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-piers";
 import cityPages from "@/data/city-pages.json";
+import FeaturedArticle from "@/components/FeaturedArticle";
 
 interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
 const allCityPages = cityPages as CityPage[];
@@ -71,6 +72,46 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
             <span className="text-sm font-semibold text-coral mt-2 inline-block">View Details &rarr;</span>
           </Link>
         ))}
+      </div>
+
+      {/* Intro */}
+      <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Fishing Piers in {cityInfo.city}, {cityInfo.stateName}</h2>
+        <p className="text-gray-600 leading-relaxed text-sm">{cityInfo.city}, {cityInfo.stateName} has {piers.length} fishing pier{piers.length !== 1 ? "s" : ""} listed on PierSeeker. Browse all piers above with maps, amenities, and directions to plan your next fishing trip.</p>
+      </div>
+
+      {/* Tips */}
+      <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+        <h3 className="font-[Cabin] font-bold text-ocean mb-3">Tips for Pier Fishing in {cityInfo.city}</h3>
+        <ul className="space-y-2 text-sm text-gray-700">
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Check that your fishing license is current before heading out.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Early morning and late afternoon are usually the best times to fish from piers.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Bring a variety of bait &mdash; live shrimp, cut bait, and artificial lures each work for different species.</li>
+        </ul>
+      </div>
+
+      {/* Visible FAQ */}
+      <div className="mb-8">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
+        <div className="space-y-2">
+          {[
+            { q: `How many fishing piers are in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `There are ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName} listed on PierSeeker with maps and directions.` },
+            { q: `Are fishing piers in ${cityInfo.city} free?`, a: `Most public fishing piers in ${cityInfo.city} are free to access. Some may charge a small fee or require a fishing license.` },
+            { q: `What fish can I catch from piers in ${cityInfo.city}?`, a: `Species vary by season and location. Check individual pier listings on PierSeeker for local catch reports and tips.` },
+          ].map((f, i) => (
+            <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
+              <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-ocean transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
+              <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
+            </details>
+          ))}
+        </div>
+      </div>
+
+      <FeaturedArticle listingSlug={`city-${slug}`} />
+
+      {/* Back to state */}
+      <div className="text-center py-4">
+        <Link href={`/${cityInfo.stateSlug}`} className="text-ocean hover:underline font-semibold text-sm">Browse all {cityInfo.stateName} fishing piers &rarr;</Link>
       </div>
 
       {nearbyCities.length > 0 && (
