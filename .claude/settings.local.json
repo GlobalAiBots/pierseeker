@@ -195,7 +195,18 @@
       "Bash(grep -v \"\\\\\\\\\\\\\\\\'\")",
       "Bash(grep \"import.*alaska-lakes\\\\|import.*hawaii-lakes\\\\|import.*nebraska-lakes\\\\|import.*wisconsin-lakes\\\\|import.*vermont-lakes\\\\|import.*north-dakota-lakes\" src/data/*.ts)",
       "Bash(rm -rf D:/pierseeker/.next)",
-      "Bash(NODE_OPTIONS='--max-old-space-size=4096' npx next build)"
+      "Bash(NODE_OPTIONS='--max-old-space-size=4096' npx next build)",
+      "Bash(sed -i 's/{marinas.length > 0 && <MarinaMap/{marinas.length > 0 \\\\&\\\\& <div className=\"mb-8\"><MarinaMap/g; s/height=\"350px\" \\\\/>/height=\"350px\" \\\\/><\\\\/div>/g' D:/marinaseeker/src/app/cities/\\\\[slug\\\\]/page.tsx)",
+      "Bash(sed -i 's/{shops.length > 0 && <ShopMap/{shops.length > 0 \\\\&\\\\& <div className=\"mb-8\"><ShopMap/g; s/height=\"350px\" \\\\/>/height=\"350px\" \\\\/><\\\\/div>/g' D:/mechanicseeker/src/app/cities/\\\\[slug\\\\]/page.tsx)",
+      "Bash(grep -c \"/s+/g\" src/app/*/page.tsx)",
+      "Bash(grep -rl \"/s+/g\" D:/barkseeker/src/app/*/page.tsx)",
+      "Bash(grep -rl \"/s+/g\" D:/pierseeker/src/app/*/page.tsx)",
+      "Bash(grep -v \"\\\\\\\\\\\\\\\\s\")",
+      "Bash(grep -rn \"replace\\(/\\\\\\\\\\\\\\\\s+/g\\\\|replace\\(/ /g\\\\|toLowerCase\\(\\).replace\" src/app/ramps/\\\\[id\\\\]/page.tsx)",
+      "Bash(/cities/' + slug + '-\\\\${city.toLowerCase')",
+      "Bash(grep -rn \"replace\\(/\\\\\\\\\\\\\\\\s+/g\" D:/rampseeker/src/app/*/page.tsx)",
+      "Bash(grep -rn \"replace\\(/\\\\\\\\\\\\\\\\s+/g\" D:/pierseeker/src/app/*/page.tsx)",
+      "Bash(grep -rn \"replace\\(/\\\\\\\\\\\\\\\\s+/g\" D:/barkseeker/src/app/*/page.tsx)"
     ]
   }
 }
