@@ -4,7 +4,10 @@ import dynamic from "next/dynamic";
 import { unified, getUnifiedPierById } from "@/data/all-piers";
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
+import cityPagesData from "@/data/city-pages.json";
 import type { Metadata } from "next";
+
+const allCities = (cityPagesData as { state: string; stateSlug: string; city: string; citySlug: string; count: number }[]);
 
 const PierMap = dynamic(() => import("@/components/PierMap"), {
   ssr: false,
@@ -208,16 +211,15 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
 
       {/* Nearby Cities */}
       {pier.city && (() => {
-        const otherCities = unified.filter(p => p.state === pier.state && p.city && p.city !== pier.city);
-        const uniqueCities = Array.from(new Set(otherCities.map(p => p.city))).slice(0, 6);
-        if (uniqueCities.length === 0) return null;
+        const nearbyCities = allCities.filter(c => c.state === pier.state && c.city !== pier.city).slice(0, 6);
+        if (nearbyCities.length === 0) return null;
         return (
           <div className="mt-8">
             <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Nearby Cities with Fishing Piers</h3>
             <div className="flex flex-wrap gap-2">
-              {uniqueCities.map(city => (
-                <Link key={city} href={`/cities/${stSlug}-${city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">
-                  {city}, {pier.state}
+              {nearbyCities.map(c => (
+                <Link key={c.citySlug} href={`/cities/${c.stateSlug}-${c.citySlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">
+                  {c.city}, {pier.state}
                 </Link>
               ))}
             </div>
@@ -229,9 +231,15 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
       <div className="mt-8 bg-gray-50 border border-gray-200 rounded-xl p-5">
         <h3 className="font-[Cabin] font-bold text-charcoal mb-3 text-sm">People Also Search For</h3>
         <div className="flex flex-wrap gap-2">
-          {pier.city && <Link href={`/cities/${stSlug}-${pier.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Fishing piers near {pier.city}</Link>}
+          {(() => {
+            const cityPage = allCities.find(c => c.state === pier.state && c.city === pier.city);
+            if (!cityPage) return null;
+            return <>
+              <Link href={`/cities/${cityPage.stateSlug}-${cityPage.citySlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Fishing piers near {pier.city}</Link>
+              <Link href={`/cities/${cityPage.stateSlug}-${cityPage.citySlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Free fishing piers near {pier.city}</Link>
+            </>;
+          })()}
           <Link href={`/${stSlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Fishing piers in {stName}</Link>
-          {pier.city && <Link href={`/cities/${stSlug}-${pier.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Free fishing piers near {pier.city}</Link>}
           <Link href="/blog/pier-fishing-tips-for-beginners" className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Pier fishing tips</Link>
         </div>
       </div>
