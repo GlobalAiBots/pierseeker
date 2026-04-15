@@ -11,6 +11,22 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "best-pier-fishing-by-season",
+    title: "Best Pier Fishing by Season: What to Catch and When",
+    date: "April 15, 2026", readTime: "7 min read", category: "Seasonal",
+    description: "Spring flounder, summer snapper, fall redfish, winter whiting — what to target from the pier every season.",
+    gradient: "linear-gradient(135deg, #0A3D62 0%, #2D6A4F 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">🗓️</text></svg>',
+  },
+  {
+    slug: "night-pier-fishing-tips",
+    title: "Night Pier Fishing: Tips for Catching More After Dark",
+    date: "April 15, 2026", readTime: "5 min read", category: "Tips",
+    description: "Why pier lights attract fish, best night species, essential gear, and safety tips for after-dark fishing.",
+    gradient: "linear-gradient(135deg, #0F172A 0%, #1E3A5F 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">🌙</text></svg>',
+  },
+  {
     slug: "pier-fishing-tips-for-beginners",
     title: "Pier Fishing Tips for Beginners: Everything You Need to Know",
     date: "April 11, 2026", readTime: "7 min read", category: "Beginner Guide",
