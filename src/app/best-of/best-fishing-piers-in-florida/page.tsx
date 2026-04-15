@@ -45,7 +45,7 @@ export default function BestFishingPiersFlorida() {
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-ocean transition">Home</Link><span>/</span>
-        <Link href="/best-of" className="hover:text-ocean transition">Best Of</Link><span>/</span>
+        <Link href="/blog" className="hover:text-ocean transition">Best Of</Link><span>/</span>
         <span className="text-charcoal font-medium">Best Fishing Piers in Florida</span>
       </nav>
 
