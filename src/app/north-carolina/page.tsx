@@ -1,5 +1,8 @@
 "use client";
 
+import dynamic from "next/dynamic";
+const PierMap = dynamic(() => import("@/components/PierMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 350 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
+
 import Link from "next/link";
 
 import { useState, useMemo } from "react";
@@ -40,6 +43,13 @@ export default function NorthCarolinaPage() {
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Fishing Pier in North Carolina</h1>
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{stPiers.length}+ fishing piers across North Carolina. Saltwater, freshwater, and river access. {namedCount} named piers with details.</p>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = stPiers.map(p => ({ id: p.id, name: p.name, latitude: p.latitude, longitude: p.longitude, city: p.city }));
+        const center: [number, number] = stPiers.length > 0 ? [stPiers.reduce((s, p) => s + p.latitude, 0) / stPiers.length, stPiers.reduce((s, p) => s + p.longitude, 0) / stPiers.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><PierMap piers={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {/* State intro + tips */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
