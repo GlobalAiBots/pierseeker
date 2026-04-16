@@ -28,6 +28,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://pierseeker.com" },
   other: {
     "google-adsense-account": "ca-pub-4822220549367368",
+    "impact-site-verification": "c9c20c0c-5fef-4a14-b725-f8e51d039230",
   },
 };
 
