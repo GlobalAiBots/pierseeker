@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const displayTitle = isGeneric ? `Fishing Pier in ${loc}` : pier.name;
   return {
     title: `${displayTitle} — Fishing Pier | PierSeeker`,
-    description: `${displayTitle} fishing pier${pier.city ? ` in ${pier.city}` : ""}, ${stN}. GPS coordinates, amenities, and directions.`,
+    description: `${displayTitle} fishing pier${pier.city ? ` in ${pier.city}` : ""}, ${stN}. GPS coordinates, amenities, species tips, and directions. Find fishing piers near you on PierSeeker.`,
     openGraph: { title: `${displayTitle} — PierSeeker`, url: `https://pierseeker.com/piers/${pier.id}` },
     twitter: { card: "summary", title: `${displayTitle} | PierSeeker` },
     alternates: { canonical: `https://pierseeker.com/piers/${pier.id}` },
