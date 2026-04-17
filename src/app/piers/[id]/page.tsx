@@ -86,9 +86,11 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "Place", name: pier.name,
+        "@context": "https://schema.org", "@type": "CivicStructure", name: pier.name,
         geo: { "@type": "GeoCoordinates", latitude: pier.latitude, longitude: pier.longitude },
-        address: { "@type": "PostalAddress", addressRegion: stName },
+        address: { "@type": "PostalAddress", addressLocality: pier.city, addressRegion: stName, addressCountry: "US" },
+        publicAccess: true,
+        url: `https://pierseeker.com/piers/${pier.id}`,
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
