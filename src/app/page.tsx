@@ -105,10 +105,39 @@ export default function Home() {
           </div>
 
           <div className="flex flex-wrap justify-center gap-8 md:gap-16 text-center mt-12">
-            {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: String(stateList.length), label: "States" },{ value: "Free", label: "& Updated" },{ value: "GPS", label: "Verified" }].map((s) => (
-              <div key={s.label}><p className="font-[Cabin] text-2xl font-bold text-white">{s.value}</p><p className="text-white/60 text-xs mt-0.5">{s.label}</p></div>
+            {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: "29,500+", label: "Boat Ramps" },{ value: "3,400+", label: "Marinas" },{ value: "48", label: "States" }].map((s) => (
+              <div key={s.label}><p className="font-[Cabin] text-3xl md:text-4xl font-bold text-white">{s.value}</p><p className="text-white/50 text-xs uppercase tracking-wider mt-1">{s.label}</p></div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* YOUR COMPLETE FISHING HUB */}
+      <section className="max-w-5xl mx-auto px-4 py-12">
+        <h2 className="font-[Cabin] text-[28px] md:text-[36px] font-extrabold text-charcoal text-center mb-3">Your Complete Fishing Hub</h2>
+        <p className="text-gray-500 text-center mb-10 max-w-lg mx-auto">Find the perfect spot &mdash; piers, boat ramps, and marinas across America.</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+          <Link href="#browse-states" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #EFF6FF, #BFDBFE)', border: '2px solid rgba(10,61,98,0.2)' }}>
+            <span className="text-5xl block mb-3">&#127907;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Fishing Piers</h3>
+            <p className="font-extrabold text-[28px] text-ocean leading-none mb-2">{unified.length.toLocaleString()}</p>
+            <p className="text-gray-500 text-xs mb-4">Public piers, jetties, and shore fishing spots.</p>
+            <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #1B6CA8, #0A3D62)', boxShadow: '0 4px 12px rgba(10,61,98,0.25)' }}>Find a Pier &rarr;</span>
+          </Link>
+          <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #F0FFF4, #C6F6D5)', border: '2px solid rgba(45,106,79,0.2)' }}>
+            <span className="text-5xl block mb-3">&#9981;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Boat Ramps</h3>
+            <p className="font-extrabold text-[28px] text-forest leading-none mb-2">29,500+</p>
+            <p className="text-gray-500 text-xs mb-4">Public launch sites with GPS and directions.</p>
+            <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #40916C, #2D6A4F)', boxShadow: '0 4px 12px rgba(45,106,79,0.25)' }}>Find a Ramp &rarr;</span>
+          </a>
+          <a href="https://marinaseeker.com" target="_blank" rel="noopener noreferrer" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #FFF7ED, #FDE68A)', border: '2px solid rgba(231,111,81,0.2)' }}>
+            <span className="text-5xl block mb-3">&#9875;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Marinas</h3>
+            <p className="font-extrabold text-[28px] text-coral leading-none mb-2">3,489</p>
+            <p className="text-gray-500 text-xs mb-4">Slips, fuel, repair, and docking.</p>
+            <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #FF8585, #FF6B6B)', boxShadow: '0 4px 12px rgba(255,107,107,0.25)' }}>Find a Marina &rarr;</span>
+          </a>
         </div>
       </section>
 
@@ -141,6 +170,65 @@ export default function Home() {
               <p className="text-gray-500 text-xs leading-relaxed">{f.desc}</p>
             </div>
           ))}
+        </div>
+      </section>
+
+      {/* GEAR UP FOR PIER FISHING */}
+      <section className="max-w-5xl mx-auto px-4 py-6">
+        <div className="rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #0A3D62 0%, #1B6CA8 60%, #2D6A4F 100%)" }}>
+          <div className="px-6 py-8 md:py-10 flex flex-col md:flex-row items-start md:items-center gap-6">
+            <div className="flex-1">
+              <h3 className="font-[Cabin] text-xl md:text-2xl font-bold text-white mb-2">Gear Up for Pier Fishing &#127907;</h3>
+              <p className="text-white/80 text-sm max-w-md">Top-rated pier fishing gear — rods, tackle, nets, and more.</p>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              {[
+                { href: "https://www.amazon.com/dp/B08C2G9KZP?tag=babymydog03-20", label: "Rod & Reel" },
+                { href: "https://www.amazon.com/dp/B01A5LCBE4?tag=babymydog03-20", label: "Tackle Box" },
+                { href: "https://www.amazon.com/dp/B0019KBZGC?tag=babymydog03-20", label: "Drop Net" },
+                { href: "https://www.amazon.com/dp/B005KSQFLE?tag=babymydog03-20", label: "Bait Bucket" },
+              ].map((p) => (
+                <a key={p.label} href={p.href} target="_blank" rel="noopener noreferrer nofollow sponsored" className="bg-white/15 hover:bg-white/25 text-white font-bold text-xs px-4 py-2 rounded-lg transition">{p.label}</a>
+              ))}
+              <a href="https://www.amazon.com/dp/B001GXFFPU?tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="bg-white text-[#0A3D62] font-bold text-xs px-4 py-2 rounded-lg hover:shadow-lg transition">Fishing Cooler &rarr;</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* WHAT'S BITING THIS MONTH */}
+      <section className="max-w-5xl mx-auto px-4 py-10">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">What&apos;s Biting This Month</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          {(() => {
+            const m = new Date().getMonth();
+            const species: { name: string; season: string; bait: string; states: string; link: string }[] =
+              m >= 2 && m <= 4 ? [
+                { name: "Flounder", season: "Spring run", bait: "Live minnows, mud minnows", states: "NC, SC, VA", link: "/north-carolina" },
+                { name: "Redfish", season: "Active in shallows", bait: "Cut mullet, shrimp", states: "TX, LA, FL", link: "/florida" },
+                { name: "Striped Bass", season: "Spring migration", bait: "Bloodworms, bunker", states: "NJ, NY, MA", link: "/new-jersey" },
+              ] : m >= 5 && m <= 7 ? [
+                { name: "Spanish Mackerel", season: "Peak summer", bait: "Gotcha plugs, spoons", states: "FL, NC, SC", link: "/florida" },
+                { name: "Bluefish", season: "Summer blitz", bait: "Cut bait, metal lures", states: "NJ, NY, NC", link: "/new-york" },
+                { name: "Snook", season: "Summer spawn", bait: "Live pilchard, shrimp", states: "FL", link: "/florida" },
+              ] : m >= 8 && m <= 10 ? [
+                { name: "Redfish", season: "Bull reds running", bait: "Cut mullet, crab", states: "FL, LA, TX", link: "/texas" },
+                { name: "Sheepshead", season: "Fall bite", bait: "Fiddler crabs, barnacles", states: "FL, GA, SC", link: "/georgia" },
+                { name: "Flounder", season: "Fall migration", bait: "Live finger mullet", states: "NC, VA, NJ", link: "/virginia" },
+              ] : [
+                { name: "Sheepshead", season: "Winter staple", bait: "Fiddler crabs, oysters", states: "FL, TX, LA", link: "/florida" },
+                { name: "Black Drum", season: "Cold water bite", bait: "Shrimp, clam", states: "TX, LA, FL", link: "/texas" },
+                { name: "Whiting", season: "Year-round", bait: "Shrimp, sand fleas", states: "FL, GA, SC", link: "/south-carolina" },
+              ];
+            return species.map((sp) => (
+              <Link key={sp.name} href={sp.link} className="group bg-white rounded-xl p-5 border border-gray-200 hover:border-ocean hover:shadow-md hover:-translate-y-0.5 transition-all">
+                <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-ocean transition">{sp.name}</h3>
+                <p className="text-coral text-xs font-bold mt-1">{sp.season}</p>
+                <p className="text-gray-500 text-xs mt-2"><strong className="text-charcoal">Best bait:</strong> {sp.bait}</p>
+                <p className="text-gray-400 text-xs mt-1">{sp.states}</p>
+              </Link>
+            ));
+          })()}
         </div>
       </section>
 

@@ -11,6 +11,38 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "pier-fishing-complete-guide",
+    title: "Pier Fishing for Beginners: Everything You Need to Know",
+    date: "April 16, 2026", readTime: "9 min read", category: "Guide",
+    description: "The complete beginner guide to pier fishing — gear, species, technique, etiquette, and safety tips for your first trip.",
+    gradient: "linear-gradient(135deg, #0A3D62 0%, #1B6CA8 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">📖</text></svg>',
+  },
+  {
+    slug: "best-bait-pier-fishing",
+    title: "Best Bait for Pier Fishing by Species",
+    date: "April 16, 2026", readTime: "8 min read", category: "Tackle",
+    description: "Live bait, cut bait, and artificial options for every major pier fishing species — redfish, flounder, striped bass, and more.",
+    gradient: "linear-gradient(135deg, #2D6A4F 0%, #40916C 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">🪱</text></svg>',
+  },
+  {
+    slug: "top-fishing-piers-florida",
+    title: "Top 10 Fishing Piers in Florida (2026)",
+    date: "April 16, 2026", readTime: "9 min read", category: "Destinations",
+    description: "The definitive top 10 fishing piers in Florida for 2026, from Juno Beach to Skyway Pier and beyond.",
+    gradient: "linear-gradient(135deg, #1E3A5F 0%, #0D9488 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">🌴</text></svg>',
+  },
+  {
+    slug: "pier-vs-surf-fishing",
+    title: "Pier Fishing vs Surf Fishing: Which is Better?",
+    date: "April 16, 2026", readTime: "8 min read", category: "Guide",
+    description: "Compare pier fishing and surf fishing across access, cost, species, gear, and convenience to find your style.",
+    gradient: "linear-gradient(135deg, #E85555 0%, #FF6B6B 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">⚖️</text></svg>',
+  },
+  {
     slug: "best-pier-fishing-by-season",
     title: "Best Pier Fishing by Season: What to Catch and When",
     date: "April 15, 2026", readTime: "7 min read", category: "Seasonal",
