@@ -11,6 +11,22 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "pier-fishing-with-kids",
+    title: "Pier Fishing with Kids: A Family Guide for First-Timers",
+    date: "April 17, 2026", readTime: "8 min read", category: "Family",
+    description: "Everything you need to know about taking kids pier fishing — gear, bait, easy species to catch, safety tips, and how to make it a fun family tradition.",
+    gradient: "linear-gradient(135deg, #F59E0B 0%, #FF6B6B 100%)",
+    icon: '<svg viewBox="0 0 80 64" fill="none"><text x="20" y="45" font-size="40">&#x1F9D2;</text></svg>',
+  },
+  {
+    slug: "mcdonalds-straw-spanish-mackerel",
+    title: "The McDonald's Straw Trick: How to Catch Spanish Mackerel from Any Pier",
+    date: "April 17, 2026", readTime: "7 min read", category: "Hacks",
+    description: "The legendary DIY pier fishing hack — cut McDonald's straws on sabiki hooks to catch Spanish mackerel. Step-by-step guide with gear, technique, and best piers.",
+    gradient: "linear-gradient(135deg, #DA291C 0%, #FFC72C 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><text x="20" y="42" font-size="36">🥤</text></svg>`,
+  },
+  {
     slug: "pier-fishing-complete-guide",
     title: "Pier Fishing for Beginners: Everything You Need to Know",
     date: "April 16, 2026", readTime: "9 min read", category: "Guide",
