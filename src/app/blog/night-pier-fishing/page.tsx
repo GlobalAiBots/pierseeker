@@ -30,7 +30,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Night Pier Fishing: Tips for Catching More After Dark</h1>
       <p className="text-gray-400 text-sm mb-8">March 25, 2026 &middot; 5 min read</p>
 
-      <img src="/images/blog/night-fishing.jpg" alt="Night fishing on a pier" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/night-fishing.jpg" alt="Night pier fishing under lights — tips for catching more fish after dark" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>

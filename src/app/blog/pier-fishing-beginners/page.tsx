@@ -30,7 +30,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Pier Fishing for Beginners: Everything You Need to Know</h1>
       <p className="text-gray-400 text-sm mb-8">April 3, 2026 &middot; 7 min read</p>
 
-      <img src="/images/blog/beginner-fishing.jpg" alt="Beginner fishing from a pier" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/beginner-fishing.jpg" alt="Beginner angler fishing from a pier — complete pier fishing guide for first-timers" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>

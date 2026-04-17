@@ -30,7 +30,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">What to Bring Pier Fishing: The Complete Gear Checklist</h1>
       <p className="text-gray-400 text-sm mb-8">April 1, 2026 &middot; 5 min read</p>
 
-      <img src="/images/blog/fishing-gear.jpg" alt="Pier fishing gear and tackle" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/fishing-gear.jpg" alt="Essential pier fishing gear and tackle — complete packing checklist for saltwater pier fishing" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
