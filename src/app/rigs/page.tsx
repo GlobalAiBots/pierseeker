@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import GearRecommendation from "@/components/GearRecommendation";
 
 export const metadata: Metadata = {
   title: "5 Essential Pier Fishing Rigs Every Angler Should Know | PierSeeker",
@@ -135,6 +136,10 @@ export default function RigsPage() {
         <p>
           Shop <a href="https://www.amazon.com/s?k=fish+finder+rig+shark+pier+fishing&tag=babymydog03-20" target="_blank" rel="noopener noreferrer" className="text-ocean font-semibold hover:underline">fish finder rigs on Amazon</a>.
         </p>
+
+        <div className="not-prose">
+          <GearRecommendation section="tackle" />
+        </div>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-4">Choosing the Right Rig</h2>
         <p>

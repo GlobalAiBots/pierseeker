@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -100,6 +101,8 @@ export default function PostPage() {
           Ready to find a pier near you? Browse piers in <Link href="/florida" className="text-water font-semibold hover:underline">Florida</Link>, <Link href="/michigan" className="text-water font-semibold hover:underline">Michigan</Link>, <Link href="/california" className="text-water font-semibold hover:underline">California</Link>, or use our <Link href="/map" className="text-water font-semibold hover:underline">interactive pier map</Link> to search all 50 states. Every pier listing on PierSeeker includes free GPS coordinates so you can navigate directly to the spot.
         </p>
       </div>
+
+      <GearRecommendation section="essentials" />
 
       <BlogCletusCallout />
     </article>

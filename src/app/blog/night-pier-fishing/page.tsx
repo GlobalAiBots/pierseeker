@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -105,6 +106,8 @@ export default function PostPage() {
           Browse piers across all 50 states on <Link href="/" className="text-water font-semibold hover:underline">PierSeeker</Link> to find piers near you. Popular night fishing destinations include piers in <Link href="/florida" className="text-water font-semibold hover:underline">Florida</Link>, where snook and tarpon feed under the lights year-round, and <Link href="/california" className="text-water font-semibold hover:underline">California</Link>, where halibut and bass prowl lighted structures along the coast. Use the <Link href="/map" className="text-water font-semibold hover:underline">pier map</Link> to zoom in on your area and find your next nighttime fishing spot.
         </p>
       </div>
+
+      <GearRecommendation section="comfort" />
 
       <BlogCletusCallout />
     </article>

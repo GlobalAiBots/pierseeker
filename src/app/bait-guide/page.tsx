@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import GearRecommendation from "@/components/GearRecommendation";
 
 export const metadata: Metadata = {
   title: "Best Bait for Pier Fishing by Region: Complete Guide | PierSeeker",
@@ -110,6 +111,10 @@ export default function BaitGuidePage() {
         <p>
           A <a href="https://www.amazon.com/s?k=insulated+bait+bucket+minnow&tag=babymydog03-20" target="_blank" rel="noopener noreferrer" className="text-ocean font-semibold hover:underline">insulated minnow bucket</a> keeps bait alive longer during hot summer sessions. Stock up on <a href="https://www.amazon.com/s?k=spawn+sac+steelhead+fishing&tag=babymydog03-20" target="_blank" rel="noopener noreferrer" className="text-ocean font-semibold hover:underline">pre-tied spawn sacs</a> for steelhead season so you always have bait ready.
         </p>
+
+        <div className="not-prose">
+          <GearRecommendation section="essentials" />
+        </div>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-4">Matching Bait to Rigs</h2>
         <p>

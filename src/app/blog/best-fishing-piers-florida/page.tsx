@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -101,6 +102,8 @@ export default function PostPage() {
           Browse all <Link href="/florida" className="text-water font-semibold hover:underline">Florida fishing piers on PierSeeker</Link> to get free GPS coordinates, directions, and details for every public pier in the state. You can also explore our <Link href="/map" className="text-water font-semibold hover:underline">interactive pier map</Link> to find piers near you, or check out other top fishing states like <Link href="/california" className="text-water font-semibold hover:underline">California</Link>.
         </p>
       </div>
+
+      <GearRecommendation section="tackle" />
 
       <BlogCletusCallout />
     </article>

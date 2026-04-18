@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -92,6 +93,8 @@ export default function PostPage() {
           Now that your gear is ready, it is time to pick a pier. Browse piers by state on PierSeeker to find the closest public pier to you. Check out popular destinations like <Link href="/florida" className="text-water font-semibold hover:underline">Florida</Link>, <Link href="/michigan" className="text-water font-semibold hover:underline">Michigan</Link>, and <Link href="/california" className="text-water font-semibold hover:underline">California</Link>, or use the <Link href="/map" className="text-water font-semibold hover:underline">pier map</Link> to explore all states. Every listing includes free GPS coordinates so you can navigate straight to the water.
         </p>
       </div>
+
+      <GearRecommendation section="comfort" />
 
       <BlogCletusCallout />
     </article>

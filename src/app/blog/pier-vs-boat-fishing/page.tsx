@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -130,6 +131,8 @@ export default function PostPage() {
           </details>
         </div>
       </section>
+
+      <GearRecommendation section="tackle" />
 
       <BlogCletusCallout />
     </article>

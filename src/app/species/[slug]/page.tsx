@@ -2,6 +2,7 @@ import Link from "next/link";
 import { species, getSpeciesBySlug } from "@/data/species";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import GearRecommendation from "@/components/GearRecommendation";
 
 const stateNames: Record<string, { name: string; slug: string }> = {
   FL: { name: "Florida", slug: "florida" },
@@ -187,6 +188,11 @@ export default async function SpeciesPage({ params }: { params: Promise<{ slug: 
             Rod &amp; Reel Combos
           </a>
         </p>
+
+        {/* Recommended Tackle */}
+        <div className="not-prose">
+          <GearRecommendation section="tackle" heading={`Terminal Tackle for ${fish.name}`} />
+        </div>
 
         {/* Pro Tips */}
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-4">Pro Tips for Catching {fish.name} from a Pier</h2>

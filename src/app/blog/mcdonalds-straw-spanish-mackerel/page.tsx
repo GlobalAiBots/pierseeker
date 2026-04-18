@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -156,6 +157,8 @@ export default function PostPage() {
           Next time you&apos;re at the drive-thru, grab a handful of extra straws. Your fishing buddies will laugh at you &mdash; right up until you start pulling in mackerel while they&apos;re still rigging up their $15 lures. The best things in pier fishing are free.
         </p>
       </div>
+
+      <GearRecommendation section="essentials" />
 
       <BlogCletusCallout />
     </article>

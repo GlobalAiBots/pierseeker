@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -98,6 +99,8 @@ export default function PostPage() {
           Pier fishing does not have to cost a thing beyond your basic gear and bait. With thousands of free public piers across the country, there is almost certainly one close to where you live or vacation. Browse piers across all 50 states on PierSeeker by visiting our <Link href="/" className="text-water font-semibold hover:underline">state directory</Link>, or jump straight to popular pier fishing destinations like <Link href="/florida" className="text-water font-semibold hover:underline">Florida</Link> and <Link href="/michigan" className="text-water font-semibold hover:underline">Michigan</Link>. Use the <Link href="/map" className="text-water font-semibold hover:underline">interactive pier map</Link> to find the closest free pier to your current location.
         </p>
       </div>
+
+      <GearRecommendation section="comfort" />
 
       <BlogCletusCallout />
     </article>
