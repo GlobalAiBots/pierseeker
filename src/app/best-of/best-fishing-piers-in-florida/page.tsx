@@ -18,7 +18,7 @@ export default function BestFishingPiersFlorida() {
         "itemListElement": [
           { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
           { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in Florida" },
+          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in Florida", item: "https://pierseeker.com/best-of/best-fishing-piers-in-florida" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

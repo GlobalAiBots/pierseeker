@@ -18,7 +18,7 @@ export default function BestPierFishingGulfCoast() {
         "itemListElement": [
           { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
           { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Pier Fishing Spots on the Gulf Coast" },
+          { "@type": "ListItem", position: 3, name: "Best Pier Fishing Spots on the Gulf Coast", item: "https://pierseeker.com/best-of/best-pier-fishing-spots-on-gulf-coast" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
