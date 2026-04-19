@@ -89,12 +89,12 @@ export default function PostPage() {
 
         <h3 className="font-[Cabin] text-lg font-bold text-charcoal mt-6 mb-3">Bluefish</h3>
         <p>
-          <Link href="/species/bluefish" className="text-ocean font-semibold hover:underline">Bluefish</Link> eat almost anything, but cut bunker and mullet are the most effective baits for bottom fishing. When bluefish are blitzing on the surface, metal jigs and spoons retrieved at high speed are the way to go. Always use a wire leader because bluefish teeth will slice through anything else.
+          <Link href="/species/bluefish" className="text-ocean font-semibold hover:underline">Bluefish</Link> eat almost anything, but cut bunker and mullet are the most effective baits for bottom fishing. When bluefish are blitzing on the surface, metal jigs and spoons retrieved at high speed are the way to go. Always use a wire leader (<a href="https://www.amazon.com/s?k=wire+leader+saltwater+fishing&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>) because bluefish teeth will slice through anything else.
         </p>
 
         <h3 className="font-[Cabin] text-lg font-bold text-charcoal mt-6 mb-3">Spanish Mackerel</h3>
         <p>
-          Small silver spoons and Got-Cha plugs retrieved as fast as possible are the standard <Link href="/species/spanish-mackerel" className="text-ocean font-semibold hover:underline">Spanish mackerel</Link> approach from a pier. Live pilchards and glass minnows on a live-line rig are devastating when available. Use a sabiki rig to catch your own baitfish from the pier, then live-line them out to cruising mackerel.
+          Small silver spoons and Got-Cha plugs (<a href="https://www.amazon.com/s?k=gotcha+plug+spanish+mackerel&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>) retrieved as fast as possible are the standard <Link href="/species/spanish-mackerel" className="text-ocean font-semibold hover:underline">Spanish mackerel</Link> approach from a pier. Live pilchards and glass minnows on a live-line rig are devastating when available. Use a sabiki rig (<a href="https://www.amazon.com/s?k=sabiki+rig+gold+hooks&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>) to catch your own baitfish from the pier, then live-line them out to cruising mackerel.
         </p>
 
         <h3 className="font-[Cabin] text-lg font-bold text-charcoal mt-6 mb-3">Snook</h3>
@@ -109,7 +109,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-4">Tips for Getting the Most from Your Bait</h2>
         <p>
-          Keep live bait in an aerated bucket or mesh bag in the water. Change cut bait every 20 to 30 minutes because fresh bait produces more scent than bait that has been soaking. Buy your bait at the pier if possible, because local bait shops know what the fish are eating right now. If the pier shop is out of shrimp, a sabiki rig lets you catch your own small baitfish in minutes. Finally, do not be afraid to experiment — if what you are using is not working, switch to something different. Sometimes a simple change in bait is all it takes to turn a slow day into a great one.
+          Keep live bait in an aerated bait bucket (<a href="https://www.amazon.com/s?k=aerated+live+bait+bucket&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>) or mesh bag in the water. Change cut bait every 20 to 30 minutes because fresh bait produces more scent than bait that has been soaking. Buy your bait at the pier if possible, because local bait shops know what the fish are eating right now. If the pier shop is out of shrimp, a sabiki rig lets you catch your own small baitfish in minutes. Finally, do not be afraid to experiment — if what you are using is not working, switch to something different. Sometimes a simple change in bait is all it takes to turn a slow day into a great one.
         </p>
         <p>
           Shop pier fishing bait and tackle on{" "}

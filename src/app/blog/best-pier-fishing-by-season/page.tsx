@@ -57,7 +57,7 @@ export default function PostPage() {
 
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mt-8 mb-3">Speckled Trout</h3>
         <p>
-          The spring trout run brings speckled seatrout within easy casting range of piers throughout the Gulf Coast and lower Atlantic. As water temperatures push into the mid-60s, trout move from deeper channels onto shallow grass flats and around structure like piers and jetties. Live shrimp fished under a popping cork is the classic approach &mdash; pop the cork every 30 seconds to create noise that attracts trout from a distance. Soft plastic jigs on quarter-ounce heads in chartreuse, white, or root beer colors are the best artificial alternative. Spring trout tend to run larger than their summer counterparts because the bigger fish move inshore first.
+          The spring trout run brings speckled seatrout within easy casting range of piers throughout the Gulf Coast and lower Atlantic. As water temperatures push into the mid-60s, trout move from deeper channels onto shallow grass flats and around structure like piers and jetties. Live shrimp fished under a popping cork (<a href="https://www.amazon.com/s?k=popping+cork+trout+fishing&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>) is the classic approach &mdash; pop the cork every 30 seconds to create noise that attracts trout from a distance. Soft plastic jigs on quarter-ounce heads in chartreuse, white, or root beer colors are the best artificial alternative. Spring trout tend to run larger than their summer counterparts because the bigger fish move inshore first.
         </p>
 
         <p>
@@ -76,7 +76,7 @@ export default function PostPage() {
 
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mt-8 mb-3">Spanish Mackerel</h3>
         <p>
-          Spanish mackerel are a summer staple on piers from <Link href="/texas" className="text-ocean font-semibold hover:underline">Texas</Link> to the Carolinas. They&apos;re fast, aggressive, and visible &mdash; you can often see schools of mackerel chasing baitfish on the surface from your position on the pier. A one-ounce Gotcha plug or a silver spoon cast beyond the school and retrieved at high speed is the classic technique. Use a long wire leader to prevent bite-offs. Mackerel hit hard and fight well above their weight, making them one of the most entertaining species you can catch from a pier.
+          Spanish mackerel are a summer staple on piers from <Link href="/texas" className="text-ocean font-semibold hover:underline">Texas</Link> to the Carolinas. They&apos;re fast, aggressive, and visible &mdash; you can often see schools of mackerel chasing baitfish on the surface from your position on the pier. A one-ounce Gotcha plug (<a href="https://www.amazon.com/s?k=gotcha+plug+spanish+mackerel&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>) or a silver spoon cast beyond the school and retrieved at high speed is the classic technique. Use a long wire leader to prevent bite-offs. Mackerel hit hard and fight well above their weight, making them one of the most entertaining species you can catch from a pier.
         </p>
 
         <p>
@@ -114,7 +114,7 @@ export default function PostPage() {
 
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mt-8 mb-3">Whiting (Gulf Kingfish)</h3>
         <p>
-          Whiting are one of the most reliable winter pier species along the Gulf and South Atlantic coasts. They feed on the bottom in sandy areas adjacent to piers and bite readily on fresh shrimp, sand fleas, and Fishbites artificial bait. A simple two-hook bottom rig with size 2 hooks and a 2-ounce pyramid sinker is all you need. Whiting are not large &mdash; most run 10 to 14 inches &mdash; but they bite all day, travel in schools, and have excellent white meat that rivals any fish in the ocean.
+          Whiting are one of the most reliable winter pier species along the Gulf and South Atlantic coasts. They feed on the bottom in sandy areas adjacent to piers and bite readily on fresh shrimp, sand fleas, and Fishbites artificial bait. A simple two-hook bottom rig (<a href="https://www.amazon.com/s?k=two+hook+bottom+rig+saltwater&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>) with size 2 hooks and a 2-ounce pyramid sinker is all you need. Whiting are not large &mdash; most run 10 to 14 inches &mdash; but they bite all day, travel in schools, and have excellent white meat that rivals any fish in the ocean.
         </p>
 
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mt-8 mb-3">Cod (Northern Piers)</h3>

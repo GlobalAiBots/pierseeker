@@ -183,6 +183,24 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
         </div>
       </div>
 
+      {/* Trip Essentials Strip */}
+      <div className="mb-8 bg-cream border border-gray-200 rounded-xl p-5">
+        <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Hitting the pier? Grab these:</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          {[
+            { name: "Sabiki Rig 6-Pack", hook: "Catch your own bait in minutes", q: "sabiki rig saltwater" },
+            { name: "Pier Drop Net", hook: "Don't lose your catch at the rail", q: "pier fishing drop net long handle" },
+            { name: "UV Fishing Shirt", hook: "All-day sun protection", q: "upf 50 fishing shirt men" },
+          ].map((p) => (
+            <a key={p.name} href={`https://www.amazon.com/s?k=${encodeURIComponent(p.q)}&tag=babymydog03-20`} target="_blank" rel="noopener noreferrer nofollow sponsored" className="block bg-white border border-gray-200 rounded-lg px-4 py-3 hover:border-coral hover:shadow-sm transition">
+              <p className="font-bold text-charcoal text-sm">{p.name}</p>
+              <p className="text-gray-500 text-xs mt-0.5">{p.hook}</p>
+              <p className="text-coral text-xs font-semibold mt-1">&#9733; Our Pick &mdash; Shop on Amazon</p>
+            </a>
+          ))}
+        </div>
+      </div>
+
       <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">FAQ</h2>
       <div className="space-y-2 mb-10">
         {faqs.map((f, i) => (

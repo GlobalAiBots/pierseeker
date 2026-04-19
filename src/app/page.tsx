@@ -9,6 +9,7 @@ import EmailCapture from "@/components/EmailCapture";
 import NearMeButton from "@/components/NearMeButton";
 import { blogPosts } from "@/data/blog-posts";
 import GearRecommendation from "@/components/GearRecommendation";
+import SeasonalPicks from "@/components/SeasonalPicks";
 
 const stateList: { name: string; slug: string; code: string }[] = [
   { name: "Alabama", slug: "alabama", code: "AL" },{ name: "Arizona", slug: "arizona", code: "AZ" },
@@ -172,6 +173,11 @@ export default function Home() {
             </div>
           ))}
         </div>
+      </section>
+
+      {/* SEASONAL PICKS (rotates by month) */}
+      <section className="max-w-5xl mx-auto px-4 py-2">
+        <SeasonalPicks />
       </section>
 
       {/* ESSENTIAL GEAR SECTIONS */}

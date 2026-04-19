@@ -46,7 +46,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Cost: Pier Fishing Wins Hands Down</h2>
         <p>
-          The cost difference between pier fishing and boat fishing is enormous. Most public piers are <strong className="text-charcoal">completely free</strong> to fish from, and even privately operated piers rarely charge more than $10 to $15 for a full day. Your total investment for a pier fishing trip is a rod, some bait, and maybe a couple of dollars in parking. You can get started for under $50 in gear.
+          The cost difference between pier fishing and boat fishing is enormous. Most public piers are <strong className="text-charcoal">completely free</strong> to fish from, and even privately operated piers rarely charge more than $10 to $15 for a full day. Your total investment for a pier fishing trip is a rod and reel combo (<a href="https://www.amazon.com/s?k=pier+fishing+rod+reel+combo&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>), some bait, and maybe a couple of dollars in parking. You can get started for under $50 in gear.
         </p>
         <p>
           Boat fishing is a different financial universe. Buying even a modest used fishing boat costs thousands of dollars, and that is before you factor in the trailer, insurance, registration, fuel, maintenance, slip fees, and electronics. The old joke that a boat is a hole in the water you throw money into exists for a reason. Even renting a boat or booking a charter runs $200 to $500 or more for a single trip. For anglers who want to fish regularly without a major financial commitment, pier fishing is the clear winner. Learn more about finding <Link href="/blog/free-fishing-piers" className="text-ocean font-semibold hover:underline">free fishing piers</Link> near you.
@@ -91,7 +91,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Equipment Differences</h2>
         <p>
-          Pier fishing gear is simple and affordable. A single spinning rod, a tackle box, some bait, and a bucket cover 90 percent of pier fishing situations. The total investment to get fully equipped is well under $100. Boat fishing requires everything you need for pier fishing plus the boat, motor, trailer, safety equipment, electronics, anchor system, and specialized tackle for offshore applications. The gear list alone can be overwhelming for newcomers.
+          Pier fishing gear is simple and affordable. A single spinning rod (<a href="https://www.amazon.com/s?k=spinning+rod+reel+combo+saltwater&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-ocean hover:underline font-semibold">Our Pick on Amazon</a>), a tackle box, some bait, and a bucket cover 90 percent of pier fishing situations. The total investment to get fully equipped is well under $100. Boat fishing requires everything you need for pier fishing plus the boat, motor, trailer, safety equipment, electronics, anchor system, and specialized tackle for offshore applications. The gear list alone can be overwhelming for newcomers.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">The Verdict</h2>
