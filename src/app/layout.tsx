@@ -98,7 +98,7 @@ function Footer() {
         <div className="mt-8 pt-6 border-t border-white/10 flex flex-wrap justify-between items-center text-xs text-white/30 gap-4">
           <span>Veteran Owned &amp; Operated &#127482;&#127480; &middot; &copy; {new Date().getFullYear()} PierSeeker. All rights reserved.</span>
           <div className="flex gap-3">
-            <a href="mailto:hello@pierseeker.com?subject=Advertising%20Inquiry" className="text-white/40 hover:text-white transition">Advertise With Us</a>
+            <Link href="/advertise" className="text-white/40 hover:text-white transition">Advertise With Us</Link>
             <span>&middot;</span>
             <span>A <a href="https://globalaibots.com" target="_blank" className="text-ocean/70 hover:text-ocean transition">Global AI Bots</a> project.</span>
           </div>
