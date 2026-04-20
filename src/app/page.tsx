@@ -107,7 +107,7 @@ export default function Home() {
           </div>
 
           <div className="flex flex-wrap justify-center gap-8 md:gap-16 text-center mt-12">
-            {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: "29,500+", label: "Boat Ramps" },{ value: "3,400+", label: "Marinas" },{ value: "48", label: "States" }].map((s) => (
+            {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: "27,700+", label: "Boat Ramps" },{ value: "9,000+", label: "Marinas" },{ value: "48", label: "States" }].map((s) => (
               <div key={s.label}><p className="font-[Cabin] text-3xl md:text-4xl font-bold text-white">{s.value}</p><p className="text-white/50 text-xs uppercase tracking-wider mt-1">{s.label}</p></div>
             ))}
           </div>
@@ -129,14 +129,14 @@ export default function Home() {
           <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #F0FFF4, #C6F6D5)', border: '2px solid rgba(45,106,79,0.2)' }}>
             <span className="text-5xl block mb-3">&#9981;</span>
             <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Boat Ramps</h3>
-            <p className="font-extrabold text-[28px] text-forest leading-none mb-2">29,500+</p>
+            <p className="font-extrabold text-[28px] text-forest leading-none mb-2">27,700+</p>
             <p className="text-gray-500 text-xs mb-4">Public launch sites with GPS and directions.</p>
             <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #40916C, #2D6A4F)', boxShadow: '0 4px 12px rgba(45,106,79,0.25)' }}>Find a Ramp &rarr;</span>
           </a>
           <a href="https://marinaseeker.com" target="_blank" rel="noopener noreferrer" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #FFF7ED, #FDE68A)', border: '2px solid rgba(231,111,81,0.2)' }}>
             <span className="text-5xl block mb-3">&#9875;</span>
             <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Marinas</h3>
-            <p className="font-extrabold text-[28px] text-coral leading-none mb-2">3,489</p>
+            <p className="font-extrabold text-[28px] text-coral leading-none mb-2">9,000+</p>
             <p className="text-gray-500 text-xs mb-4">Slips, fuel, repair, and docking.</p>
             <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #FF8585, #FF6B6B)', boxShadow: '0 4px 12px rgba(255,107,107,0.25)' }}>Find a Marina &rarr;</span>
           </a>
