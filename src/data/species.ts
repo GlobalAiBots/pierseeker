@@ -295,6 +295,251 @@ export const species: Species[] = [
       },
     ],
   },
+  {
+    slug: "tarpon",
+    name: "Tarpon",
+    scientificName: "Megalops atlanticus",
+    description:
+      "Tarpon, known to anglers as the silver king, are among the most legendary game fish in all of saltwater fishing and represent the ultimate trophy challenge for pier anglers willing to invest in heavy tackle. Reaching weights of 100 to 250 pounds with adult fish commonly exceeding six feet in length, tarpon are prized not for their table qualities but for the spectacular aerial battles they put up when hooked. A hooked tarpon will launch its massive silver body completely clear of the water, shaking its head violently and crashing back down in explosions of spray that anglers never forget. Pier fishing for tarpon is less common than boat-based tarpon fishing, but dedicated anglers successfully target them from specific piers that sit near deep water and natural migration corridors. Places like Big Pine Key, Boca Grande, and several piers throughout the Florida Keys see rolling tarpon within casting range during the late spring and summer migration. Tarpon feed on live crabs, pinfish, mullet, and other baitfish, and patient anglers who soak a well-presented bait during the right tide have a real chance at hookups. The bony mouth of a tarpon makes solid hooksets difficult, and the combination of size, strength, and acrobatic jumps means many hooked fish are lost. Tarpon are strictly catch-and-release in Florida except for record attempts requiring a special tag. Handling is heavily regulated to protect spawning populations, and the experience of simply watching one of these ancient fish thrash alongside a pier is reward enough for most anglers.",
+    bestStates: ["FL", "LA", "AL", "TX"],
+    bestSeason: "Late Spring through Summer",
+    peakMonths: "May-July",
+    bestBait: ["Live pinfish", "Live crabs", "Dead mullet", "Live mullet", "Pilchards"],
+    bestTackle: "30-50 lb class rod, 80+ lb braid, 100 lb fluorocarbon leader, circle hooks 8/0-10/0. A fighting belt helps for long fights.",
+    averageSize: "60-120 lbs",
+    recordSize: "286 lbs 9 oz (Guinea-Bissau, West Africa, 2003 IGFA)",
+    tips: [
+      "Watch for rolling tarpon on the surface near the pier at dawn and dusk — they gulp air and give away their position before you ever see a fish under water.",
+      "Use circle hooks in 8/0 to 10/0 sizes and let the fish load up the rod before applying pressure — setting too early pulls the hook from their bony mouth.",
+      "Bow to the king when a tarpon jumps by lowering your rod tip and giving slack to prevent the leader from snapping on the thrash.",
+      "Fish the outgoing tide at inlets and passes where tarpon stage to ambush crabs and baitfish being flushed out of the estuary.",
+      "Bring a tag kit and camera rather than a cooler — tarpon must be released in Florida and even the photo op requires keeping them in the water when possible.",
+    ],
+    faq: [
+      {
+        q: "Can you really catch tarpon from a pier?",
+        a: "Yes, though it is far less common than boat fishing for them. Specific piers located near deep water, passes, and migration corridors — such as those in the Florida Keys, Boca Grande area, and parts of the Gulf coast — see rolling tarpon within casting range during the late spring and summer migration. Success requires patience, the right tide, and heavy enough tackle to have a realistic chance of landing a fish.",
+      },
+      {
+        q: "What tackle do I need for pier tarpon?",
+        a: "Heavy tackle is mandatory. A 30-50 lb class rod paired with a reel spooled with 80 lb or heavier braid, topped with a 100 lb fluorocarbon shock leader and 8/0 to 10/0 circle hooks, is a reasonable starting point. A fighting belt is extremely helpful because landing a big tarpon from a pier can take an hour or more, and the vertical pull puts serious strain on the angler.",
+      },
+      {
+        q: "Are there regulations on tarpon?",
+        a: "Florida treats tarpon as a catch-and-release-only species with very limited exceptions for record attempts that require a purchased tag. The fish cannot be removed from the water for photos if it is over 40 inches, and handling must minimize stress. Similar conservation-minded regulations exist in other Gulf and Atlantic states. Always check current state rules before targeting tarpon.",
+      },
+    ],
+  },
+  {
+    slug: "cobia",
+    name: "Cobia",
+    scientificName: "Rachycentron canadum",
+    description:
+      "Cobia, also known as ling or lemonfish, are powerful, solitary game fish that combine blistering runs with excellent table fare, making them one of the most sought-after species along the Atlantic and Gulf coasts. With their dark brown bodies, white underbellies, and flattened heads, cobia look unlike any other fish you will encounter from a pier, often mistaken at first glance for a shark or remora cruising past. Cobia follow a well-known spring migration route up the Atlantic coast from Florida to Virginia and throughout the Gulf of Mexico, and pier anglers who position themselves along this route during April, May, and June enjoy a rare opportunity to sight-cast to big fish from a stationary platform. These are structure-oriented predators that investigate almost any floating object, which is why they regularly cruise past pier pilings, buoys, and the ends of fishing piers looking for a meal. The classic approach is to scan the water from the top rail of the pier, spot a cobia swimming by, and cast a live eel, pinfish, or a heavy bucktail jig directly in its path. The strike is usually visual and immediate. Cobia fight with strong, deep runs rather than jumps, and they do not give up until they are gaffed or released. Because they are such a prized food fish with firm, white, mild-flavored meat, cobia are heavily regulated with minimum size and bag limits that vary by state. Pier-caught trophies up to 70 pounds are reported every spring.",
+    bestStates: ["FL", "NC", "VA", "AL"],
+    bestSeason: "Spring",
+    peakMonths: "April-June",
+    bestBait: ["Live eels", "Live pinfish", "Jigs (bucktail, 2-4 oz)", "Live blue crab", "Dead shrimp"],
+    bestTackle: "30-50 lb class rod, 50-80 lb braid, 80 lb fluorocarbon leader, 6/0-8/0 circle hooks. Bucktail jigs in white/pink/chartreuse work well when sight-casting.",
+    averageSize: "20-50 lbs",
+    recordSize: "135 lbs 9 oz (Shark Bay, Australia, 1985 IGFA)",
+    tips: [
+      "Station yourself on the top rail or highest point of the pier with polarized sunglasses and scan the water constantly — cobia are often seen before they are caught.",
+      "Keep a rod rigged with a 2-4 oz bucktail jig ready at all times for sight-casting, and a second rod with a live eel or pinfish on a free-line for follow-up shots.",
+      "Lead the fish by several feet and let the jig sink slightly in its path — cobia will rarely chase backwards, but they pounce on anything that appears in front of them.",
+      "Fish the second half of the incoming tide during peak migration weeks in April and May when cobia push into nearshore waters along the beach.",
+      "Always have a large landing net or a pier gaff rigged on a drop line ready before the fight ends — cobia are heavy fish and lifting them up from water to deck is a common failure point.",
+    ],
+    faq: [
+      {
+        q: "When do cobia migrate past piers?",
+        a: "Cobia migrate northward along the Atlantic coast and spread throughout the Gulf of Mexico as water temperatures rise above about 68 degrees. The peak window on the Atlantic side runs from mid-April through early June, starting in Florida and progressing up through Georgia, the Carolinas, and Virginia. Gulf coast migration peaks a bit earlier, often in March and April along the Panhandle and into Alabama.",
+      },
+      {
+        q: "What is the minimum legal size for cobia?",
+        a: "Cobia size and bag limits vary by state and change frequently due to stock assessments. Florida and the federal South Atlantic zone have often used 36 inches fork length as a minimum, while Gulf states and Virginia have their own rules. Bag limits typically range from one to two fish per angler per day. Check current state regulations before keeping any cobia.",
+      },
+      {
+        q: "What is the best lure for sight-casting cobia?",
+        a: "A heavy bucktail jig in the 2 to 4 oz range is the classic cobia sight-casting lure. White, pink, and chartreuse are the most productive colors, often tipped with a soft plastic trailer or a strip of squid for added scent. Jigs give you casting distance and allow you to quickly get the lure in front of a moving fish, which is crucial when the window to cast is only a few seconds long.",
+      },
+    ],
+  },
+  {
+    slug: "pompano",
+    name: "Florida Pompano",
+    scientificName: "Trachinotus carolinus",
+    description:
+      "Florida pompano are small, silver, scrappy fish that punch far above their weight class and rank at the very top of the list for both fighting quality and table fare among surf and pier anglers. Rarely exceeding three pounds, pompano nonetheless pull drag with surprising power, make short strong runs, and fight all the way to the sand or rail. What truly sets pompano apart is their reputation in the kitchen — their firm, sweet, white fillets are regarded by many chefs as the finest eating fish that can be caught from shore. Pompano cruise the surf line and the wash at the ends of piers along the Southeast Atlantic and Gulf coasts, feeding on sand fleas, also known as mole crabs, that they dig out of the sand as waves recede. Pier anglers target them with specialized pompano rigs featuring two or three hooks spaced along a leader, with small brightly colored floats in yellow, pink, or orange positioned just above each hook to mimic the sand fleas pompano naturally feed on. The fall run, typically October through November along the Florida east coast, and the spring run in March and April are the productive windows most anglers plan their trips around. Pompano school up during these migrations, and a single good cast into a passing school can result in a double or triple hookup. Outside those peak windows, pompano can still be caught opportunistically along Gulf beaches and piers from Texas to the Carolinas.",
+    bestStates: ["FL", "AL", "MS", "NC", "SC"],
+    bestSeason: "Fall and Spring",
+    peakMonths: "October-November and March-April",
+    bestBait: ["Sand fleas (mole crabs)", "Fresh shrimp", "Fishbites (sand flea flavor)", "Clams", "Cut squid"],
+    bestTackle: "Light-medium surf rod 9-10 ft, 15-20 lb braid or mono, two- or three-hook pompano rig with size 1-2 circle hooks and colored floats.",
+    averageSize: "1-3 lbs, 10-15 inches",
+    recordSize: "8 lbs 4 oz (Flagler Beach, FL, 1999 IGFA)",
+    tips: [
+      "Use fresh sand fleas whenever possible — they are the single most effective bait and can often be found by digging in the wash during the walk out to the pier.",
+      "Rig a two- or three-hook pompano rig with small yellow, pink, or orange floats above each hook to keep the bait off the bottom and in the sight zone.",
+      "Fish the trough where the waves break along the sides of the pier — pompano cruise this zone sweeping up dislodged sand fleas.",
+      "Keep rods in holders and watch for the unmistakable sharp tap-tap-tap followed by the rod tip loading — pompano hook themselves on circle hooks if you resist setting too hard.",
+      "During the fall and spring runs, check local reports and social media groups daily because schools move up and down the beach quickly and a hot bite can shift piers in a matter of hours.",
+    ],
+    faq: [
+      {
+        q: "What is the best bait for pompano?",
+        a: "Sand fleas, also called mole crabs, are the premier pompano bait because they make up the bulk of a pompano diet in the surf. Fresh sand fleas fished live or frozen work extremely well. Fresh shrimp and Fishbites sand flea flavor strips are excellent backup options when live fleas are unavailable. Combining a small piece of shrimp with a Fishbite on the same hook is a proven tactic.",
+      },
+      {
+        q: "What is a pompano rig?",
+        a: "A pompano rig is a specialized multi-hook bottom rig designed specifically for surf and pier pompano fishing. It features two or three small circle hooks on short dropper loops along a leader, with small brightly colored floats (usually yellow, pink, or orange) positioned just above each hook. The floats keep the baits slightly off the sand and mimic the colorful sand fleas pompano feed on.",
+      },
+      {
+        q: "When do pompano run?",
+        a: "Pompano runs peak along the Florida east coast in October and November during the fall migration and again in March and April during the spring return. Along the Gulf coast, the peak is generally earlier in spring and later into fall due to warmer water temperatures. Schools move with water temperature, so runs shift year to year based on weather patterns.",
+      },
+    ],
+  },
+  {
+    slug: "mangrove-snapper",
+    name: "Mangrove Snapper",
+    scientificName: "Lutjanus griseus",
+    description:
+      "Mangrove snapper, also commonly called gray snapper, are a staple species on South Florida and Gulf Coast piers and offer some of the most consistent light-tackle action available in inshore saltwater fishing. With their reddish-gray bodies, prominent canine teeth, and sharp-eyed stare, mangrove snapper look every bit like the wary, intelligent predators they are. These fish earn their name from their association with mangrove shorelines, but they are equally at home around the pilings, rocks, and artificial reefs that sit under fishing piers throughout their range. Mangroves are notoriously line-shy, which makes them a fun technical challenge even though they are readily available. Where redfish or sheepshead might tolerate heavy fluorocarbon, a mangrove snapper will often refuse a bait presented on line heavier than 20 pounds. Savvy pier anglers downsize their leaders, use small sharp hooks, and fish live shrimp or cut pilchards with as little hardware as possible. When a school of mangroves settles under a lit pier at night, the action can be excellent with fish in the 12 to 16 inch range caught consistently and occasional two to four pound trophies mixed in. Mangrove snapper are aggressive fighters that dive immediately for structure, so the angler must stop them before they break off in the pilings. They are also superb eating, with firm sweet white fillets that grill, fry, or bake beautifully. Florida enforces a 12 inch total length minimum and bag limits to protect this popular fishery.",
+    bestStates: ["FL", "LA", "AL", "TX"],
+    bestSeason: "Summer",
+    peakMonths: "June-September",
+    bestBait: ["Live shrimp", "Cut pilchards", "Live pilchards", "Small jigs", "Squid strips"],
+    bestTackle: "Medium spinning rod, 10-20 lb braid, 15-20 lb fluorocarbon leader (heavier leader spooks them), size 1-1/0 circle hooks. Light tackle and stealth matter — mangroves are wary.",
+    averageSize: "10-16 inches, 1-3 lbs",
+    recordSize: "18 lbs 10 oz (Port Canaveral, FL, 1992 IGFA)",
+    tips: [
+      "Downsize your leader — 15 to 20 lb fluorocarbon is the sweet spot, and going heavier will cost you bites from wary fish.",
+      "Fish live shrimp free-lined with just enough split shot to get the bait down to the pilings and let it drift naturally in the current.",
+      "Use small sharp hooks in the 1 to 1/0 range and bury the hook point in the bait so almost nothing is visible.",
+      "Night fishing under pier lights is especially productive because mangroves stack up in the shadow line waiting for illuminated baitfish.",
+      "When you hook a fish, pull hard and fast in the first two seconds — every mangrove you hook will try to bury itself in the pilings and cut you off.",
+    ],
+    faq: [
+      {
+        q: "Why are mangrove snapper so line-shy?",
+        a: "Mangrove snapper have excellent eyesight and spend their lives in clear inshore water where they constantly evaluate prey. Heavy or visible line tipped off with a small hook looks unnatural and triggers suspicion. Most experienced anglers report a noticeable drop in bites when switching from 20 lb to 30 lb fluorocarbon leader, and the difference between 40 lb and 20 lb can be the difference between a full cooler and a skunking.",
+      },
+      {
+        q: "What is the legal size for mangrove snapper?",
+        a: "In Florida state waters, mangrove snapper must be at least 10 inches total length, with a bag limit that is part of the aggregate snapper bag limit of 10 fish per angler per day. Federal waters have different rules, and other Gulf and Atlantic states set their own size and bag limits. Always check current state and federal regulations before keeping any fish.",
+      },
+      {
+        q: "Do mangrove snapper fight well?",
+        a: "For their size, mangrove snapper are excellent fighters. They hit hard and make an immediate powerful run for structure, which means the angler must apply maximum pressure in the first few seconds to turn the fish away from the pilings. On light tackle with 10 to 15 lb line, even a two pound mangrove snapper will give a spirited battle that many anglers find more fun than catching larger but less aggressive species.",
+      },
+    ],
+  },
+  {
+    slug: "black-drum",
+    name: "Black Drum",
+    scientificName: "Pogonias cromis",
+    description:
+      "Black drum are the larger, broader cousin of the redfish and one of the most reliable bottom-fishing targets for pier anglers along the Southeast and Gulf coasts. Smaller black drum, often called puppy drum, school around pier pilings, jetties, and bridge abutments year-round throughout their range, offering steady light-tackle action on natural baits. The real excitement arrives in the spring when enormous adult black drum, ranging from 40 to over 80 pounds, push into coastal waters for their annual spawning run. These trophy fish stage around passes, inlets, and the deeper ends of piers during March, April, and May, and anglers who target them with heavy bottom rigs baited with whole or half blue crabs have a genuine shot at a fish of a lifetime. Black drum do not run as hard as redfish or cobia, but a big one is simply an immovable weight that requires patient heavy pressure to bring to the pier. The fight is more like a tug-of-war than a race. Black drum use their cobblestone throat plates to crush crabs, clams, and other shellfish, which is why bottom-presented crab and shellfish baits outfish almost everything else. While the smaller puppy drum up to about 15 pounds are excellent eating with firm, sweet, white meat, larger adult fish often carry parasitic spaghetti worms in their flesh and are typically released as breeders rather than kept. Strict slot limits in most states reinforce this catch-and-release ethic for trophy fish.",
+    bestStates: ["FL", "LA", "TX", "VA"],
+    bestSeason: "Spring (trophies), Year-round (smaller)",
+    peakMonths: "March-May for trophies",
+    bestBait: ["Whole blue crab", "Half blue crab", "Clam", "Cut shrimp", "Dead shrimp"],
+    bestTackle: "Medium-heavy bottom rod, 30-50 lb braid, 40-50 lb fluorocarbon leader, 5/0-8/0 circle hooks. Heavy pyramid sinker for surf and inlet current.",
+    averageSize: "5-30 lbs (trophies 40-80 lbs)",
+    recordSize: "113 lbs 1 oz (Lewes, DE, 1975 IGFA)",
+    tips: [
+      "Use half a blue crab with the legs and top shell removed during the spring trophy run — the scent trail from a crushed crab draws in the biggest fish.",
+      "Position a heavy pyramid sinker on a fish-finder rig so the drum can pick up the bait without feeling lead, then load up on the circle hook.",
+      "Fish the deeper ends of the pier during the spring run where adults stage near passes and channels before moving in to spawn.",
+      "Keep the drag moderate — big black drum do not make blistering runs but they will pull steadily, and locked drags lose fish to broken leaders.",
+      "Release any drum over 15 pounds for the table because larger fish commonly host spaghetti worms in the flesh and lose quality as they age.",
+    ],
+    faq: [
+      {
+        q: "What size black drum can I keep?",
+        a: "Regulations vary by state. Florida allows a slot of 14 to 24 inches with one fish per day allowed to exceed the slot, while Texas uses a 14 to 30 inch slot. Louisiana, Virginia, and other states set their own rules. The common theme is that the best eating fish are in the 14 to 24 inch range, and very large adult fish are typically released as important breeding stock.",
+      },
+      {
+        q: "What is the best bait for black drum?",
+        a: "Whole or half blue crab is widely considered the single best bait for trophy black drum during the spring run. Clams, shrimp, and cut bait also produce, especially for smaller fish. The key is that black drum locate food by smell and use their crushing throat plates on hard-shelled prey, so a bait with strong scent and real texture outperforms flashy artificials almost every time.",
+      },
+      {
+        q: "Are there worms in black drum?",
+        a: "Larger black drum, generally those over 15 pounds, commonly carry parasitic spaghetti worms in their flesh. These worms are harmless to humans once the fish is cooked thoroughly, but they are visually unappealing and affect meat quality. Because of this, most experienced anglers release bigger fish and keep only smaller puppy drum up to about 15 pounds for the table.",
+      },
+    ],
+  },
+  {
+    slug: "whiting",
+    name: "Southern Kingfish (Whiting)",
+    scientificName: "Menticirrhus americanus",
+    description:
+      "Whiting, known in various regions as kingfish, sea mullet, Virginia mullet, or Southern kingfish, are one of the most ubiquitous and angler-friendly fish along the entire Atlantic coast. Small members of the drum family, whiting rarely exceed two pounds but make up for their modest size with willingness to bite, ease of catching, and excellent table qualities. For families, kids, and beginning anglers, there is simply no better introduction to pier fishing than a whiting trip on a warm summer morning. These fish cruise the surf line and the wash just off the ends of piers, feeding on sand fleas, shrimp, bloodworms, and small crustaceans that they root out of the sand with their underslung mouths. A simple bottom rig with two small hooks baited with fresh shrimp or Fishbites will produce steady action in season, and the catch rates are high enough that patience is rarely tested. Whiting are available throughout the warm months from Virginia southward and can be caught in meaningful numbers along the entire Southeast and Gulf coasts. They are a schooling species, so when one is caught others are usually nearby and a dialed-in spot often produces fish for hours. Whiting also make outstanding table fare with delicate, mild, flaky white meat that fries exceptionally well and appeals to even picky eaters. A morning limit of whiting is the foundation of many classic Southern pier fish fries, and their availability, reliability, and deliciousness keep them at the top of the pier fishing list.",
+    bestStates: ["FL", "NC", "SC", "VA", "GA"],
+    bestSeason: "Late Spring through Early Fall",
+    peakMonths: "May-September",
+    bestBait: ["Fresh shrimp", "Fishbites (shrimp flavor)", "Cut squid", "Sand fleas", "Bloodworms"],
+    bestTackle: "Light spinning rod, 10-15 lb line, two-hook bottom rig with size 4-2 circle hooks, 1-2 oz pyramid sinker.",
+    averageSize: "10-14 inches, 1-2 lbs",
+    recordSize: "4 lbs 13 oz (Virginia Beach, VA, 2008 IGFA)",
+    tips: [
+      "Use small circle hooks in the size 4 to 2 range with just enough bait to cover the hook — whiting have small mouths and oversized baits reduce hookups.",
+      "Fish the trough right along the sides of the pier, especially at the sand bar break where whiting cruise the wash rooting for sand fleas.",
+      "Combine a small piece of fresh shrimp with a strip of Fishbites on the same hook for a scent profile that both triggers bites and stays on through multiple fish.",
+      "Fish the first two hours of incoming tide during the summer months when whiting move in with the wash and feed most actively.",
+      "Keep a second rod ready with a bigger bait because larger predators like pompano and small redfish often cruise the same zones and will take a whiting bait readily.",
+    ],
+    faq: [
+      {
+        q: "Are whiting a good fish for beginners?",
+        a: "Whiting are one of the absolute best species for beginning pier anglers, especially kids. They bite eagerly on simple baits, require no specialized tackle, and are found within easy casting distance of most piers. Catch rates during peak summer months are high enough that even a first-time angler is likely to hook several fish in a session, which keeps interest high and builds confidence.",
+      },
+      {
+        q: "How do you clean a whiting?",
+        a: "Whiting are typically scaled, gutted, and either pan-dressed whole or filleted. To fillet, lay the fish flat, cut behind the gills down to the spine, then run the knife along the backbone to the tail. Flip and repeat on the other side, then skin the fillets. The meat is thin and cooks quickly, making whiting an excellent choice for a simple pan-fry or fish fry.",
+      },
+      {
+        q: "What is the difference between whiting, kingfish, and sea mullet?",
+        a: "These names are often used interchangeably for the same fish, though technically there are three closely related species — Southern kingfish, Gulf kingfish, and Northern kingfish — each with slightly different ranges and markings. Anglers in North Carolina and Virginia often call them sea mullet, while anglers farther south call them whiting or kingfish. All three species are caught the same way, eat the same baits, and taste essentially identical.",
+      },
+    ],
+  },
+  {
+    slug: "croaker",
+    name: "Atlantic Croaker",
+    scientificName: "Micropogonias undulatus",
+    description:
+      "Atlantic croaker are small, eager, widely distributed bottom fish that deliver some of the most reliable pier action available from New York through Texas, and they earn their name from the distinctive croaking sound they produce using specialized muscles vibrating against their swim bladder. That croak is often audible right through the deck of the pier when a fish hits the boards. Croaker are a fundamental species for beginning and casual pier anglers because they bite willingly on almost any natural bait, school in large numbers on sandy bottoms near structure, and can be caught on the simplest of bottom rigs. Their range from the mid-Atlantic through the Gulf of Mexico means nearly every pier angler on the East and Gulf coasts has an opportunity to catch them in season. Croaker feed on small crustaceans, worms, and bits of dead bait that they root out of the sand with downturned mouths, which is why bloodworms, fresh shrimp, cut squid, and Fishbites rank at the top of the effective bait list. Beyond being a fun target in their own right, croaker are among the most prized cut bait species for larger predator fish — cut croaker is a staple bait for redfish and striped bass anglers up and down the coast because the oily flesh and bold scent call in bigger fish effectively. The meat is mild, white, and reasonably flaky when eaten fresh, though smaller fish are often used for bait while larger croaker are kept for the pan.",
+    bestStates: ["NC", "VA", "MD", "NJ", "FL"],
+    bestSeason: "Late Spring through Early Fall",
+    peakMonths: "May-August",
+    bestBait: ["Bloodworms", "Fresh shrimp", "Cut squid", "Fishbites", "Sand fleas"],
+    bestTackle: "Light spinning rod, 10 lb mono or braid, two-hook bottom rig with size 4-6 circle hooks.",
+    averageSize: "10-14 inches, 1 lb",
+    recordSize: "8 lbs 11 oz (Chesapeake Bay, VA, 2007 IGFA)",
+    tips: [
+      "Use bloodworms or Fishbites bloodworm formula when available — croaker respond to that scent more consistently than to any other bait.",
+      "Fish a simple two-hook bottom rig with size 4 to 6 circle hooks and small pyramid sinkers on a light rod to feel the subtle bite clearly.",
+      "Move along the pier and test different spots because croaker school in specific sandy holes and depressions — one rail can be slow while the next is loaded.",
+      "Keep a few larger croaker alive in a bucket or pin one to a big hook for cut bait when a bigger redfish or striped bass moves through.",
+      "Fish the incoming tide in late afternoon during the summer months when croaker feed most aggressively in the wash along the pier sides.",
+    ],
+    faq: [
+      {
+        q: "Why do croaker croak?",
+        a: "Atlantic croaker produce their characteristic croaking sound using specialized muscles that vibrate against the swim bladder, which acts as a resonating chamber. Both males and females croak, but males call more frequently during the spawning season when the sound is used as a mating signal. The noise is loud enough to be heard through the pier deck when a fish is landed, and it is the feature that gives croaker their common name.",
+      },
+      {
+        q: "What is the best bait for croaker?",
+        a: "Bloodworms are the classic croaker bait and consistently outperform other offerings, though they can be expensive. Fishbites bloodworm-flavored strips are an excellent synthetic alternative that lasts longer on the hook. Fresh shrimp and cut squid also produce well. The key is using baits with strong scent that appeal to a fish that feeds primarily by smell and taste on the bottom.",
+      },
+      {
+        q: "How do you tell a croaker apart from a whiting?",
+        a: "Croaker have shorter, stockier bodies with wavy dark bars along the sides and small dark spots, while whiting have a more elongated silver body with no prominent spots or bars. Croaker also have small barbels under the chin for rooting in the sand, whereas whiting have a single short chin barbel. The easiest tell is the sound — a croaker will literally croak when handled, while a whiting is silent.",
+      },
+    ],
+  },
 ];
 
 export function getSpeciesBySlug(slug: string): Species | undefined {
