@@ -263,6 +263,14 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
           <Link href="/blog/pier-fishing-tips-for-beginners" className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-ocean hover:border-ocean transition">Pier fishing tips</Link>
         </div>
       </div>
+
+      <section className="mt-8 bg-[#EFF6FF] rounded-xl p-6 border border-[#BFDBFE]">
+        <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-2">Manage or operate this pier?</h3>
+        <p className="text-gray-600 text-sm mb-4">Claim your free listing to update hours, fees, amenities, and contact info for {pier.name}.</p>
+        <Link href={`/claim?pier=${encodeURIComponent(pier.id)}&name=${encodeURIComponent(pier.name)}`} className="inline-block bg-ocean hover:bg-ocean-light text-white font-bold px-6 py-3 rounded-lg transition text-sm">
+          Claim This Pier &mdash; It&apos;s Free
+        </Link>
+      </section>
     </div>
   );
 }
