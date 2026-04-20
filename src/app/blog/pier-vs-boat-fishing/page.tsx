@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing vs Boat Fishing: Pros, Cons & Which Is Right for You | PierSeeker",
   description: "Pier fishing vs boat fishing — compare cost, accessibility, species access, safety, and gear. Find out which style of fishing is the best fit for your experience and budget.",
-  openGraph: { title: "Pier Fishing vs Boat Fishing: Pros, Cons & Which Is Right for You", url: "https://pierseeker.com/blog/pier-vs-boat-fishing", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing vs Boat Fishing: Pros, Cons & Which Is Right for You", url: "https://www.pierseeker.com/blog/pier-vs-boat-fishing", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing vs Boat Fishing: Pros, Cons & Which Is Right for You | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/pier-vs-boat-fishing" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/pier-vs-boat-fishing" },
 };
 
 export default function PostPage() {
@@ -19,14 +19,14 @@ export default function PostPage() {
         headline: "Pier Fishing vs Boat Fishing: Pros, Cons & Which Is Right for You",
         datePublished: "2026-04-11",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pierseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://pierseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Pier vs Boat Fishing", "item": "https://pierseeker.com/blog/pier-vs-boat-fishing" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.pierseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.pierseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Pier vs Boat Fishing", "item": "https://www.pierseeker.com/blog/pier-vs-boat-fishing" },
         ],
       }) }} />
 

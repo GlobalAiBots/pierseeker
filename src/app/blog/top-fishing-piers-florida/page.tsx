@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Top 10 Fishing Piers in Florida (2026) | PierSeeker",
   description: "The top 10 fishing piers in Florida for 2026. From Juno Beach to Skyway Pier, find the best saltwater piers for tarpon, snook, redfish, mackerel, and more.",
-  openGraph: { title: "Top 10 Fishing Piers in Florida (2026)", url: "https://pierseeker.com/blog/top-fishing-piers-florida", siteName: "PierSeeker" },
+  openGraph: { title: "Top 10 Fishing Piers in Florida (2026)", url: "https://www.pierseeker.com/blog/top-fishing-piers-florida", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Top 10 Fishing Piers in Florida (2026) | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/top-fishing-piers-florida" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/top-fishing-piers-florida" },
 };
 
 export default function PostPage() {
@@ -20,14 +20,14 @@ export default function PostPage() {
           headline: "Top 10 Fishing Piers in Florida (2026)",
           datePublished: "2026-04-16",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "Top 10 Fishing Piers in Florida", item: "https://pierseeker.com/blog/top-fishing-piers-florida" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "Top 10 Fishing Piers in Florida", item: "https://www.pierseeker.com/blog/top-fishing-piers-florida" },
           ],
         },
         {

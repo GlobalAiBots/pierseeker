@@ -65,9 +65,9 @@ export default function Home() {
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "WebSite", name: "PierSeeker", url: "https://pierseeker.com",
+        "@context": "https://schema.org", "@type": "WebSite", name: "PierSeeker", url: "https://www.pierseeker.com",
         description: `Find fishing piers across the United States. ${unified.length.toLocaleString()}+ piers with GPS coordinates, amenities, and tips.`,
-        potentialAction: { "@type": "SearchAction", target: "https://pierseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
+        potentialAction: { "@type": "SearchAction", target: "https://www.pierseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
 
       {/* HERO */}

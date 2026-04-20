@@ -4,9 +4,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Fishing Piers in Florida — Top 10 | PierSeeker",
   description: "Discover the 10 best fishing piers in Florida, from Manasota Lemon Bay to Island Charters. Find GPS coordinates, directions, and tips for each pier on PierSeeker.",
-  openGraph: { title: "Best Fishing Piers in Florida — Top 10", url: "https://pierseeker.com/best-of/best-fishing-piers-in-florida", siteName: "PierSeeker" },
+  openGraph: { title: "Best Fishing Piers in Florida — Top 10", url: "https://www.pierseeker.com/best-of/best-fishing-piers-in-florida", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Fishing Piers in Florida — Top 10 | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/best-of/best-fishing-piers-in-florida" },
+  alternates: { canonical: "https://www.pierseeker.com/best-of/best-fishing-piers-in-florida" },
 };
 
 export default function BestFishingPiersFlorida() {
@@ -16,9 +16,9 @@ export default function BestFishingPiersFlorida() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in Florida", item: "https://pierseeker.com/best-of/best-fishing-piers-in-florida" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.pierseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in Florida", item: "https://www.pierseeker.com/best-of/best-fishing-piers-in-florida" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Night Pier Fishing: Tips for Catching More After Dark | PierSeeker",
   description: "Learn how to catch more fish at night from lighted piers. Discover the best species, gear modifications, safety tips, and techniques for night pier fishing.",
-  openGraph: { title: "Night Pier Fishing: Tips for Catching More After Dark", url: "https://pierseeker.com/blog/night-pier-fishing", siteName: "PierSeeker" },
+  openGraph: { title: "Night Pier Fishing: Tips for Catching More After Dark", url: "https://www.pierseeker.com/blog/night-pier-fishing", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Night Pier Fishing: Tips for Catching More After Dark | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/night-pier-fishing" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/night-pier-fishing" },
 };
 
 export default function PostPage() {
@@ -19,7 +19,7 @@ export default function PostPage() {
         headline: "Night Pier Fishing: Tips for Catching More After Dark",
         datePublished: "2026-03-25",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

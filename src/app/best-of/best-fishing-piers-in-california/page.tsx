@@ -4,9 +4,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Fishing Piers in California — Top 10 | PierSeeker",
   description: "Find the 10 best fishing piers in California, from Imperial Beach Pier to San Francisco Bay docks. Free GPS coords and tips on PierSeeker.",
-  openGraph: { title: "Best Fishing Piers in California — Top 10", url: "https://pierseeker.com/best-of/best-fishing-piers-in-california", siteName: "PierSeeker" },
+  openGraph: { title: "Best Fishing Piers in California — Top 10", url: "https://www.pierseeker.com/best-of/best-fishing-piers-in-california", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Fishing Piers in California — Top 10 | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/best-of/best-fishing-piers-in-california" },
+  alternates: { canonical: "https://www.pierseeker.com/best-of/best-fishing-piers-in-california" },
 };
 
 export default function BestFishingPiersCalifornia() {
@@ -16,9 +16,9 @@ export default function BestFishingPiersCalifornia() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in California", item: "https://pierseeker.com/best-of/best-fishing-piers-in-california" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.pierseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in California", item: "https://www.pierseeker.com/best-of/best-fishing-piers-in-california" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

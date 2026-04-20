@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: "Pier Fishing at Night: Complete Guide to After-Dark Catches | PierSeeker",
   description: "Night pier fishing catches bigger fish — snook, tarpon, redfish, sheepshead. Complete guide to lighting, safety, gear, bait, and the best species to target after dark.",
   keywords: "pier fishing at night, night fishing pier, snook pier fishing, tarpon at night, night fishing gear, LED fishing headlamp, glow stick tip lights",
-  openGraph: { title: "Pier Fishing at Night: Complete Guide to After-Dark Catches", url: "https://pierseeker.com/blog/pier-fishing-at-night", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing at Night: Complete Guide to After-Dark Catches", url: "https://www.pierseeker.com/blog/pier-fishing-at-night", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing at Night: Complete Guide to After-Dark Catches | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/pier-fishing-at-night" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/pier-fishing-at-night" },
 };
 
 export default function PostPage() {
@@ -21,14 +21,14 @@ export default function PostPage() {
           headline: "Pier Fishing at Night: Complete Guide to After-Dark Catches",
           datePublished: "2026-04-19",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "Pier Fishing at Night", item: "https://pierseeker.com/blog/pier-fishing-at-night" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "Pier Fishing at Night", item: "https://www.pierseeker.com/blog/pier-fishing-at-night" },
           ],
         },
         {

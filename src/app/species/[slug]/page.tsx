@@ -43,9 +43,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Where to Catch ${fish.name} from a Pier | PierSeeker`,
     description: `Complete pier fishing guide for ${fish.name} (${fish.scientificName}). Best bait, tackle, seasons, and top pier locations for catching ${fish.name.toLowerCase()}.`,
-    openGraph: { title: `Where to Catch ${fish.name} from a Pier`, url: `https://pierseeker.com/species/${slug}`, siteName: "PierSeeker" },
+    openGraph: { title: `Where to Catch ${fish.name} from a Pier`, url: `https://www.pierseeker.com/species/${slug}`, siteName: "PierSeeker" },
     twitter: { card: "summary", title: `Where to Catch ${fish.name} from a Pier | PierSeeker` },
-    alternates: { canonical: `https://pierseeker.com/species/${slug}` },
+    alternates: { canonical: `https://www.pierseeker.com/species/${slug}` },
   };
 }
 
@@ -62,16 +62,16 @@ export default async function SpeciesPage({ params }: { params: Promise<{ slug: 
     headline: `Pier Fishing for ${fish.name}: Complete Guide`,
     datePublished: "2026-04-16",
     author: { "@type": "Organization", name: "PierSeeker" },
-    publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+    publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
   };
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Species", item: "https://pierseeker.com/species" },
-      { "@type": "ListItem", position: 3, name: fish.name, item: `https://pierseeker.com/species/${slug}` },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Species", item: "https://www.pierseeker.com/species" },
+      { "@type": "ListItem", position: 3, name: fish.name, item: `https://www.pierseeker.com/species/${slug}` },
     ],
   };
 

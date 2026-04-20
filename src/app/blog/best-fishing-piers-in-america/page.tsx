@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Fishing Piers in America: Top 25 | PierSeeker",
   description: "The 25 best fishing piers in America ranked by region. Discover top piers in Florida, Texas, California, the Carolinas, and more — with species, features, and what makes each one great.",
-  openGraph: { title: "Best Fishing Piers in America: Top 25", url: "https://pierseeker.com/blog/best-fishing-piers-in-america", siteName: "PierSeeker" },
+  openGraph: { title: "Best Fishing Piers in America: Top 25", url: "https://www.pierseeker.com/blog/best-fishing-piers-in-america", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Fishing Piers in America: Top 25 | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/best-fishing-piers-in-america" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/best-fishing-piers-in-america" },
 };
 
 export default function PostPage() {
@@ -19,14 +19,14 @@ export default function PostPage() {
         headline: "Best Fishing Piers in America: Top 25",
         datePublished: "2026-04-11",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pierseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://pierseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Best Fishing Piers in America", "item": "https://pierseeker.com/blog/best-fishing-piers-in-america" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.pierseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.pierseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Best Fishing Piers in America", "item": "https://www.pierseeker.com/blog/best-fishing-piers-in-america" },
         ],
       }) }} />
 

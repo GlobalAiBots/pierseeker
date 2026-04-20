@@ -14,8 +14,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: cmp.metaTitle,
     description: cmp.metaDescription,
-    alternates: { canonical: `https://pierseeker.com/compare/${cmp.slug}` },
-    openGraph: { title: cmp.metaTitle, description: cmp.metaDescription, url: `https://pierseeker.com/compare/${cmp.slug}`, siteName: "PierSeeker", type: "article" },
+    alternates: { canonical: `https://www.pierseeker.com/compare/${cmp.slug}` },
+    openGraph: { title: cmp.metaTitle, description: cmp.metaDescription, url: `https://www.pierseeker.com/compare/${cmp.slug}`, siteName: "PierSeeker", type: "article" },
   };
 }
 
@@ -105,9 +105,9 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Compare", item: "https://pierseeker.com/compare" },
-      { "@type": "ListItem", position: 3, name: cmp.title, item: `https://pierseeker.com/compare/${cmp.slug}` },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Compare", item: "https://www.pierseeker.com/compare" },
+      { "@type": "ListItem", position: 3, name: cmp.title, item: `https://www.pierseeker.com/compare/${cmp.slug}` },
     ],
   };
 
@@ -128,7 +128,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
     description: cmp.metaDescription,
     datePublished: "2026-04-19",
     author: { "@type": "Organization", name: "PierSeeker" },
-    publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+    publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
   };
 
   return (

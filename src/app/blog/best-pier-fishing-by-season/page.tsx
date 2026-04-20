@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: "Best Pier Fishing by Season: What to Catch and When | PierSeeker",
   description: "A seasonal guide to pier fishing — the best species to target in spring, summer, fall, and winter, plus bait recommendations and regional tips for every season.",
   keywords: "pier fishing by season, best time to pier fish, seasonal pier fishing, what to catch from a pier",
-  openGraph: { title: "Best Pier Fishing by Season: What to Catch and When", url: "https://pierseeker.com/blog/best-pier-fishing-by-season", siteName: "PierSeeker" },
+  openGraph: { title: "Best Pier Fishing by Season: What to Catch and When", url: "https://www.pierseeker.com/blog/best-pier-fishing-by-season", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Pier Fishing by Season: What to Catch and When | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/best-pier-fishing-by-season" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/best-pier-fishing-by-season" },
 };
 
 export default function PostPage() {
@@ -20,14 +20,14 @@ export default function PostPage() {
         headline: "Best Pier Fishing by Season: What to Catch and When",
         datePublished: "2026-04-15",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pierseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://pierseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Best Pier Fishing by Season", "item": "https://pierseeker.com/blog/best-pier-fishing-by-season" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.pierseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.pierseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Best Pier Fishing by Season", "item": "https://www.pierseeker.com/blog/best-pier-fishing-by-season" },
         ],
       }) }} />
 

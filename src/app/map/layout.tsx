@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "US Fishing Pier Map — PierSeeker",
     description: "30,000+ fishing piers across 44 states. Find your pier.",
-    url: "https://pierseeker.com/map",
+    url: "https://www.pierseeker.com/map",
     siteName: "PierSeeker",
   },
   twitter: { card: "summary", title: "US Fishing Pier Map | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/map" },
+  alternates: { canonical: "https://www.pierseeker.com/map" },
 };
 
 export default function MapLayout({ children }: { children: React.ReactNode }) {

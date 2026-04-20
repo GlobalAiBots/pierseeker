@@ -6,10 +6,10 @@ export const metadata: Metadata = {
   openGraph: {
     title: "About PierSeeker",
     description: "The most complete fishing pier directory in America. Find piers, jetties, and waterfront access in every state.",
-    url: "https://pierseeker.com/about",
+    url: "https://www.pierseeker.com/about",
   },
   twitter: { card: "summary", title: "About PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/about" },
+  alternates: { canonical: "https://www.pierseeker.com/about" },
 };
 
 export default function AboutPage() {

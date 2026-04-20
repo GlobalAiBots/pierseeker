@@ -15,17 +15,17 @@ export const metadata: Metadata = {
   openGraph: {
     title: "PierSeeker | Every Fishing Pier in America",
     description: "34,900+ fishing piers across the US. GPS coordinates, amenities, local tips.",
-    url: "https://pierseeker.com",
+    url: "https://www.pierseeker.com",
     siteName: "PierSeeker",
     type: "website",
-    images: [{ url: "https://pierseeker.com/og-image.png", width: 1200, height: 630, alt: "PierSeeker — Every Fishing Pier in America" }],
+    images: [{ url: "https://www.pierseeker.com/og-image.png", width: 1200, height: 630, alt: "PierSeeker — Every Fishing Pier in America" }],
   },
   twitter: {
     card: "summary",
     title: "PierSeeker | Every Fishing Pier in America",
     description: "34,900+ fishing piers across 44 states. GPS coordinates, amenities, local tips.",
   },
-  alternates: { canonical: "https://pierseeker.com" },
+  alternates: { canonical: "https://www.pierseeker.com" },
   other: {
     "google-adsense-account": "ca-pub-4822220549367368",
     "impact-site-verification": "7cd6220c-1e3a-4dd9-b00b-65e83795c21b",
@@ -83,7 +83,7 @@ function Footer() {
             <p className="font-bold text-white/70 mb-2">From Global AI Bots</p>
             <div className="flex flex-col gap-1">
               <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">RampSeeker</a>
-              <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">PierSeeker</a>
+              <a href="https://www.pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">PierSeeker</a>
               <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BarkSeeker</a>
               <a href="https://marinaseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">MarinaSeeker</a>
               <a href="https://mechanicseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">MechanicSeeker</a>

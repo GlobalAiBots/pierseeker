@@ -36,9 +36,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   return {
     title: `${displayTitle} — Fishing Pier | PierSeeker`,
     description: `${displayTitle} fishing pier${pier.city ? ` in ${pier.city}` : ""}, ${stN}. GPS coordinates, amenities, species tips, and directions. Find fishing piers near you on PierSeeker.`,
-    openGraph: { title: `${displayTitle} — PierSeeker`, url: `https://pierseeker.com/piers/${pier.id}` },
+    openGraph: { title: `${displayTitle} — PierSeeker`, url: `https://www.pierseeker.com/piers/${pier.id}` },
     twitter: { card: "summary", title: `${displayTitle} | PierSeeker` },
-    alternates: { canonical: `https://pierseeker.com/piers/${pier.id}` },
+    alternates: { canonical: `https://www.pierseeker.com/piers/${pier.id}` },
   };
 }
 
@@ -90,14 +90,14 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
         geo: { "@type": "GeoCoordinates", latitude: pier.latitude, longitude: pier.longitude },
         address: { "@type": "PostalAddress", addressLocality: pier.city, addressRegion: stName, addressCountry: "US" },
         publicAccess: true,
-        url: `https://pierseeker.com/piers/${pier.id}`,
+        url: `https://www.pierseeker.com/piers/${pier.id}`,
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: stName, item: `https://pierseeker.com/${stSlug}` },
-          { "@type": "ListItem", position: 3, name: pier.name, item: `https://pierseeker.com/piers/${pier.id}` },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: stName, item: `https://www.pierseeker.com/${stSlug}` },
+          { "@type": "ListItem", position: 3, name: pier.name, item: `https://www.pierseeker.com/piers/${pier.id}` },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />

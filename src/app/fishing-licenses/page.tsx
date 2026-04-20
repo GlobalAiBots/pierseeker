@@ -5,8 +5,8 @@ export const metadata: Metadata = {
   title: "Do You Need a Fishing License for Pier Fishing? State-by-State Guide | PierSeeker",
   description: "Find out if you need a fishing license to fish from a pier in your state. Complete guide with costs, pier exemptions, and links to buy licenses online for all 50 states.",
   keywords: "fishing license pier fishing, do I need a fishing license for pier fishing, pier fishing license, free pier fishing, pier fishing exemption",
-  openGraph: { title: "Fishing License Requirements for Pier Fishing — Every State", url: "https://pierseeker.com/fishing-licenses", siteName: "PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/fishing-licenses" },
+  openGraph: { title: "Fishing License Requirements for Pier Fishing — Every State", url: "https://www.pierseeker.com/fishing-licenses", siteName: "PierSeeker" },
+  alternates: { canonical: "https://www.pierseeker.com/fishing-licenses" },
 };
 
 const states: { name: string; slug: string; pierExempt: boolean; exemptNote: string; residentCost: string; nonResidentCost: string; buyUrl: string }[] = [
@@ -69,8 +69,8 @@ export default function FishingLicensesPage() {
     <div className="max-w-5xl mx-auto px-4 py-12">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify([
         { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Fishing Licenses", item: "https://pierseeker.com/fishing-licenses" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Fishing Licenses", item: "https://www.pierseeker.com/fishing-licenses" },
         ]},
         { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [
           { "@type": "Question", name: "Do I need a fishing license to fish from a pier?", acceptedAnswer: { "@type": "Answer", text: `It depends on the state. ${exemptStates.length} states exempt pier fishing from license requirements, including Florida, California, Hawaii, and North Carolina. In most other states, you need a standard fishing license even when fishing from a pier.` } },

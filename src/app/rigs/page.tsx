@@ -5,9 +5,9 @@ import GearRecommendation from "@/components/GearRecommendation";
 export const metadata: Metadata = {
   title: "5 Essential Pier Fishing Rigs Every Angler Should Know | PierSeeker",
   description: "Learn the 5 most effective pier fishing rigs — bottom rig, Carolina rig, float rig, sabiki rig, and fish finder rig. Setup instructions, target species, and gear links.",
-  openGraph: { title: "5 Essential Pier Fishing Rigs Every Angler Should Know", url: "https://pierseeker.com/rigs", siteName: "PierSeeker" },
+  openGraph: { title: "5 Essential Pier Fishing Rigs Every Angler Should Know", url: "https://www.pierseeker.com/rigs", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "5 Essential Pier Fishing Rigs Every Angler Should Know | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/rigs" },
+  alternates: { canonical: "https://www.pierseeker.com/rigs" },
 };
 
 export default function RigsPage() {
@@ -17,8 +17,8 @@ export default function RigsPage() {
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Pier Fishing Rigs", item: "https://pierseeker.com/rigs" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Pier Fishing Rigs", item: "https://www.pierseeker.com/rigs" },
           ],
         },
         {

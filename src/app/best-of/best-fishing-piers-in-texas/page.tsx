@@ -4,9 +4,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Fishing Piers in Texas — Top 10 | PierSeeker",
   description: "Explore the 10 best fishing piers in Texas, from Bob Hall Pier in Corpus Christi to Galveston classics. GPS coords, tips, and directions on PierSeeker.",
-  openGraph: { title: "Best Fishing Piers in Texas — Top 10", url: "https://pierseeker.com/best-of/best-fishing-piers-in-texas", siteName: "PierSeeker" },
+  openGraph: { title: "Best Fishing Piers in Texas — Top 10", url: "https://www.pierseeker.com/best-of/best-fishing-piers-in-texas", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Fishing Piers in Texas — Top 10 | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/best-of/best-fishing-piers-in-texas" },
+  alternates: { canonical: "https://www.pierseeker.com/best-of/best-fishing-piers-in-texas" },
 };
 
 export default function BestFishingPiersTexas() {
@@ -16,9 +16,9 @@ export default function BestFishingPiersTexas() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in Texas", item: "https://pierseeker.com/best-of/best-fishing-piers-in-texas" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.pierseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in Texas", item: "https://www.pierseeker.com/best-of/best-fishing-piers-in-texas" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

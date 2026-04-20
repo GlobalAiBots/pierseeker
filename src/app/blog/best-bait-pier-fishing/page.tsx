@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Bait for Pier Fishing by Species | PierSeeker",
   description: "Find the best bait for pier fishing by species. Live bait, cut bait, and artificial options for redfish, flounder, striped bass, sheepshead, bluefish, mackerel, snook, and catfish.",
-  openGraph: { title: "Best Bait for Pier Fishing by Species", url: "https://pierseeker.com/blog/best-bait-pier-fishing", siteName: "PierSeeker" },
+  openGraph: { title: "Best Bait for Pier Fishing by Species", url: "https://www.pierseeker.com/blog/best-bait-pier-fishing", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Bait for Pier Fishing by Species | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/best-bait-pier-fishing" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/best-bait-pier-fishing" },
 };
 
 export default function PostPage() {
@@ -20,14 +20,14 @@ export default function PostPage() {
           headline: "Best Bait for Pier Fishing by Species",
           datePublished: "2026-04-16",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "Best Bait for Pier Fishing", item: "https://pierseeker.com/blog/best-bait-pier-fishing" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "Best Bait for Pier Fishing", item: "https://www.pierseeker.com/blog/best-bait-pier-fishing" },
           ],
         },
         {

@@ -4,9 +4,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Pier Fishing in the Outer Banks — Top 5 Piers | PierSeeker",
   description: "The best fishing piers on the Outer Banks — Jennette's, Nags Head, Avon, Outer Banks Fishing Pier, and Kitty Hawk. Species, seasons, and what to bring.",
-  openGraph: { title: "Best Pier Fishing in the Outer Banks — Top 5 Piers", url: "https://pierseeker.com/best-of/best-pier-fishing-outer-banks", siteName: "PierSeeker", type: "article" },
+  openGraph: { title: "Best Pier Fishing in the Outer Banks — Top 5 Piers", url: "https://www.pierseeker.com/best-of/best-pier-fishing-outer-banks", siteName: "PierSeeker", type: "article" },
   twitter: { card: "summary", title: "Best Pier Fishing in the Outer Banks — Top 5 | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/best-of/best-pier-fishing-outer-banks" },
+  alternates: { canonical: "https://www.pierseeker.com/best-of/best-pier-fishing-outer-banks" },
 };
 
 export default function BestPierFishingOuterBanks() {
@@ -16,9 +16,9 @@ export default function BestPierFishingOuterBanks() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Pier Fishing in the Outer Banks", item: "https://pierseeker.com/best-of/best-pier-fishing-outer-banks" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.pierseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Pier Fishing in the Outer Banks", item: "https://www.pierseeker.com/best-of/best-pier-fishing-outer-banks" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

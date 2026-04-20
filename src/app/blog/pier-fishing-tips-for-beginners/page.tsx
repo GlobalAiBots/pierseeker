@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing Tips for Beginners: Everything You Need to Know | PierSeeker",
   description: "Essential pier fishing tips for beginners — gear, bait, casting techniques, best species by region, tides, and license requirements. Start catching fish from piers today.",
-  openGraph: { title: "Pier Fishing Tips for Beginners: Everything You Need to Know", url: "https://pierseeker.com/blog/pier-fishing-tips-for-beginners", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing Tips for Beginners: Everything You Need to Know", url: "https://www.pierseeker.com/blog/pier-fishing-tips-for-beginners", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing Tips for Beginners: Everything You Need to Know | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/pier-fishing-tips-for-beginners" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/pier-fishing-tips-for-beginners" },
 };
 
 export default function PostPage() {
@@ -19,14 +19,14 @@ export default function PostPage() {
         headline: "Pier Fishing Tips for Beginners: Everything You Need to Know",
         datePublished: "2026-04-11",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pierseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://pierseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Pier Fishing Tips for Beginners", "item": "https://pierseeker.com/blog/pier-fishing-tips-for-beginners" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.pierseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.pierseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Pier Fishing Tips for Beginners", "item": "https://www.pierseeker.com/blog/pier-fishing-tips-for-beginners" },
         ],
       }) }} />
 

@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Privacy Policy — PierSeeker",
   description: "PierSeeker privacy policy. How we collect, use, and protect your information, including our use of Google AdSense and cookies.",
-  openGraph: { title: "Privacy Policy — PierSeeker", url: "https://pierseeker.com/privacy", siteName: "PierSeeker" },
+  openGraph: { title: "Privacy Policy — PierSeeker", url: "https://www.pierseeker.com/privacy", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Privacy Policy — PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/privacy" },
+  alternates: { canonical: "https://www.pierseeker.com/privacy" },
 };
 
 export default function PrivacyPage() {

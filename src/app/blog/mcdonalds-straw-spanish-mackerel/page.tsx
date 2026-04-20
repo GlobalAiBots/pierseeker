@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: "The McDonald's Straw Trick for Spanish Mackerel | PierSeeker",
   description: "Learn the McDonald's straw trick — a legendary DIY pier fishing hack that catches Spanish mackerel using cut straws on sabiki hooks. Step-by-step guide with gear, technique, and best piers.",
   keywords: "spanish mackerel pier fishing, straw lure fishing, DIY pier fishing lures, spanish mackerel bait, mcdonalds straw fishing, sabiki rig mackerel",
-  openGraph: { title: "The McDonald's Straw Trick for Spanish Mackerel", url: "https://pierseeker.com/blog/mcdonalds-straw-spanish-mackerel", siteName: "PierSeeker" },
+  openGraph: { title: "The McDonald's Straw Trick for Spanish Mackerel", url: "https://www.pierseeker.com/blog/mcdonalds-straw-spanish-mackerel", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "The McDonald's Straw Trick for Spanish Mackerel | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/mcdonalds-straw-spanish-mackerel" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/mcdonalds-straw-spanish-mackerel" },
 };
 
 export default function PostPage() {
@@ -21,14 +21,14 @@ export default function PostPage() {
           headline: "The McDonald's Straw Trick: How to Catch Spanish Mackerel from Any Pier",
           datePublished: "2026-04-17",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "McDonald's Straw Trick", item: "https://pierseeker.com/blog/mcdonalds-straw-spanish-mackerel" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "McDonald's Straw Trick", item: "https://www.pierseeker.com/blog/mcdonalds-straw-spanish-mackerel" },
           ],
         },
         {

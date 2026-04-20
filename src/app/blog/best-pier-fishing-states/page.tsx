@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: "10 Best States for Pier Fishing (Ranked) | PierSeeker",
   description: "The 10 best US states for pier fishing, ranked by pier density, species variety, and angler-friendliness. Florida, California, North Carolina, Texas, and 6 more.",
   keywords: "best pier fishing states, pier fishing USA, Florida pier fishing, California pier fishing, North Carolina pier fishing, Texas pier fishing, public fishing piers",
-  openGraph: { title: "10 Best States for Pier Fishing (Ranked)", url: "https://pierseeker.com/blog/best-pier-fishing-states", siteName: "PierSeeker" },
+  openGraph: { title: "10 Best States for Pier Fishing (Ranked)", url: "https://www.pierseeker.com/blog/best-pier-fishing-states", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "10 Best States for Pier Fishing (Ranked) | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/best-pier-fishing-states" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/best-pier-fishing-states" },
 };
 
 export default function PostPage() {
@@ -21,14 +21,14 @@ export default function PostPage() {
           headline: "10 Best States for Pier Fishing (Ranked)",
           datePublished: "2026-04-19",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "Best States for Pier Fishing", item: "https://pierseeker.com/blog/best-pier-fishing-states" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "Best States for Pier Fishing", item: "https://www.pierseeker.com/blog/best-pier-fishing-states" },
           ],
         },
         {

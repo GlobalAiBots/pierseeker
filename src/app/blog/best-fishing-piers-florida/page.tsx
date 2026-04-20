@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Fishing Piers in Florida: Saltwater Spots You Need to Visit | PierSeeker",
   description: "Discover the top fishing piers in Florida for saltwater angling. From Skyway Pier to Navarre Beach, find the best spots for tarpon, snook, kingfish, and more.",
-  openGraph: { title: "Best Fishing Piers in Florida: Saltwater Spots You Need to Visit", url: "https://pierseeker.com/blog/best-fishing-piers-florida", siteName: "PierSeeker" },
+  openGraph: { title: "Best Fishing Piers in Florida: Saltwater Spots You Need to Visit", url: "https://www.pierseeker.com/blog/best-fishing-piers-florida", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Fishing Piers in Florida: Saltwater Spots You Need to Visit | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/best-fishing-piers-florida" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/best-fishing-piers-florida" },
 };
 
 export default function PostPage() {
@@ -19,7 +19,7 @@ export default function PostPage() {
         headline: "Best Fishing Piers in Florida: Saltwater Spots You Need to Visit",
         datePublished: "2026-04-05",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: "Night Pier Fishing: Tips for Catching More After Dark | PierSeeker",
   description: "How to catch more fish from piers at night. Best species, essential gear, bait strategies, safety tips, and why pier lights attract the biggest fish after dark.",
   keywords: "night pier fishing, pier fishing at night, night fishing tips, fishing after dark",
-  openGraph: { title: "Night Pier Fishing: Tips for Catching More After Dark", url: "https://pierseeker.com/blog/night-pier-fishing-tips", siteName: "PierSeeker" },
+  openGraph: { title: "Night Pier Fishing: Tips for Catching More After Dark", url: "https://www.pierseeker.com/blog/night-pier-fishing-tips", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Night Pier Fishing: Tips for Catching More After Dark | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/night-pier-fishing-tips" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/night-pier-fishing-tips" },
 };
 
 export default function PostPage() {
@@ -20,14 +20,14 @@ export default function PostPage() {
         headline: "Night Pier Fishing: Tips for Catching More After Dark",
         datePublished: "2026-04-15",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://pierseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://pierseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Night Pier Fishing Tips", "item": "https://pierseeker.com/blog/night-pier-fishing-tips" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.pierseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.pierseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Night Pier Fishing Tips", "item": "https://www.pierseeker.com/blog/night-pier-fishing-tips" },
         ],
       }) }} />
 

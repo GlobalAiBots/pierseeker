@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Free Fishing Piers: How to Find Public Piers That Don&apos;t Charge | PierSeeker",
   description: "Find free public fishing piers near you. Learn which piers are free, how to avoid fees, and when states offer free fishing days with no license required.",
-  openGraph: { title: "Free Fishing Piers: How to Find Public Piers That Don&apos;t Charge", url: "https://pierseeker.com/blog/free-fishing-piers", siteName: "PierSeeker" },
+  openGraph: { title: "Free Fishing Piers: How to Find Public Piers That Don&apos;t Charge", url: "https://www.pierseeker.com/blog/free-fishing-piers", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Free Fishing Piers: How to Find Public Piers That Don&apos;t Charge | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/free-fishing-piers" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/free-fishing-piers" },
 };
 
 export default function PostPage() {
@@ -19,7 +19,7 @@ export default function PostPage() {
         headline: "Free Fishing Piers: How to Find Public Piers That Don&apos;t Charge",
         datePublished: "2026-03-28",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

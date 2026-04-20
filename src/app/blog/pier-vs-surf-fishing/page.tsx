@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing vs Surf Fishing: Which is Better? | PierSeeker",
   description: "Pier fishing vs surf fishing — compare access, cost, species, gear requirements, and convenience to decide which style is right for you.",
-  openGraph: { title: "Pier Fishing vs Surf Fishing: Which is Better?", url: "https://pierseeker.com/blog/pier-vs-surf-fishing", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing vs Surf Fishing: Which is Better?", url: "https://www.pierseeker.com/blog/pier-vs-surf-fishing", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing vs Surf Fishing: Which is Better? | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/pier-vs-surf-fishing" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/pier-vs-surf-fishing" },
 };
 
 export default function PostPage() {
@@ -20,14 +20,14 @@ export default function PostPage() {
           headline: "Pier Fishing vs Surf Fishing: Which is Better?",
           datePublished: "2026-04-16",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "Pier vs Surf Fishing", item: "https://pierseeker.com/blog/pier-vs-surf-fishing" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "Pier vs Surf Fishing", item: "https://www.pierseeker.com/blog/pier-vs-surf-fishing" },
           ],
         },
         {

@@ -5,11 +5,11 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing Comparisons — Spinning vs Baitcasting, Mono vs Braid & More | PierSeeker",
   description: "Honest head-to-head comparisons for pier anglers. Spinning vs baitcasting reels, mono vs braided line, live bait vs artificial, pier vs surf fishing, saltwater vs freshwater.",
-  alternates: { canonical: "https://pierseeker.com/compare" },
+  alternates: { canonical: "https://www.pierseeker.com/compare" },
   openGraph: {
     title: "Pier Fishing Comparisons",
     description: "Side-by-side comparisons to help you pick the right pier-fishing gear and tactics.",
-    url: "https://pierseeker.com/compare",
+    url: "https://www.pierseeker.com/compare",
     siteName: "PierSeeker",
   },
 };
@@ -19,8 +19,8 @@ export default function CompareIndexPage() {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Compare", item: "https://pierseeker.com/compare" },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Compare", item: "https://www.pierseeker.com/compare" },
     ],
   };
 

@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: "How to Catch Sheepshead from a Pier: The Complete Guide | PierSeeker",
   description: "Sheepshead are picky biters with human-like teeth. The complete guide to bait (fiddler crabs, barnacles, shrimp), technique, tackle, and when/where to find them.",
   keywords: "sheepshead pier fishing, how to catch sheepshead, sheepshead bait, fiddler crab sheepshead, sheepshead season, sheepshead tackle, pier fishing sheepshead",
-  openGraph: { title: "How to Catch Sheepshead from a Pier: The Complete Guide", url: "https://pierseeker.com/blog/how-to-catch-sheepshead", siteName: "PierSeeker" },
+  openGraph: { title: "How to Catch Sheepshead from a Pier: The Complete Guide", url: "https://www.pierseeker.com/blog/how-to-catch-sheepshead", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "How to Catch Sheepshead from a Pier: The Complete Guide | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/how-to-catch-sheepshead" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/how-to-catch-sheepshead" },
 };
 
 export default function PostPage() {
@@ -21,14 +21,14 @@ export default function PostPage() {
           headline: "How to Catch Sheepshead from a Pier: The Complete Guide",
           datePublished: "2026-04-19",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "How to Catch Sheepshead", item: "https://pierseeker.com/blog/how-to-catch-sheepshead" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "How to Catch Sheepshead", item: "https://www.pierseeker.com/blog/how-to-catch-sheepshead" },
           ],
         },
         {

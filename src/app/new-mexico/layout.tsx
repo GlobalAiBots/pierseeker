@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Every Fishing Pier in New Mexico — 48+ Piers | PierSeeker",
   description: "The most complete fishing pier directory for New Mexico. 48+ piers, docks, and jetties with GPS coordinates and amenities.",
-  openGraph: { title: "New Mexico Fishing Piers — PierSeeker", url: "https://pierseeker.com/new-mexico", siteName: "PierSeeker" },
+  openGraph: { title: "New Mexico Fishing Piers — PierSeeker", url: "https://www.pierseeker.com/new-mexico", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "New Mexico Fishing Piers | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/new-mexico" },
+  alternates: { canonical: "https://www.pierseeker.com/new-mexico" },
 };
 
 export default function NewMexicoLayout({ children }: { children: React.ReactNode }) {

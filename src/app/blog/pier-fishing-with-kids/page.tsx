@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing with Kids: A Family Guide for First-Timers | PierSeeker",
   description: "Everything you need to know about taking kids pier fishing — gear, bait, easy species to catch, safety tips, and how to make it a fun family tradition.",
-  openGraph: { title: "Pier Fishing with Kids: A Family Guide for First-Timers", url: "https://pierseeker.com/blog/pier-fishing-with-kids", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing with Kids: A Family Guide for First-Timers", url: "https://www.pierseeker.com/blog/pier-fishing-with-kids", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing with Kids: A Family Guide for First-Timers | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/pier-fishing-with-kids" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/pier-fishing-with-kids" },
 };
 
 export default function PostPage() {
@@ -20,14 +20,14 @@ export default function PostPage() {
           headline: "Pier Fishing with Kids: A Family Guide for First-Timers",
           datePublished: "2026-04-17",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "Pier Fishing with Kids", item: "https://pierseeker.com/blog/pier-fishing-with-kids" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "Pier Fishing with Kids", item: "https://www.pierseeker.com/blog/pier-fishing-with-kids" },
           ],
         },
         {

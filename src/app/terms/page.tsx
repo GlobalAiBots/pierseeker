@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Terms of Service — PierSeeker",
   description: "PierSeeker terms of service. Rules and guidelines for using our Oklahoma fishing pier directory.",
-  openGraph: { title: "Terms of Service — PierSeeker", url: "https://pierseeker.com/terms", siteName: "PierSeeker" },
+  openGraph: { title: "Terms of Service — PierSeeker", url: "https://www.pierseeker.com/terms", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Terms of Service — PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/terms" },
+  alternates: { canonical: "https://www.pierseeker.com/terms" },
 };
 
 export default function TermsPage() {

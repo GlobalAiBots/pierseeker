@@ -5,9 +5,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing Species Guide | PierSeeker",
   description: "Learn how to catch the most popular pier fishing species in America. Guides for redfish, flounder, striped bass, sheepshead, bluefish, Spanish mackerel, snook, and catfish.",
-  openGraph: { title: "Pier Fishing Species Guide", url: "https://pierseeker.com/species", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing Species Guide", url: "https://www.pierseeker.com/species", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing Species Guide | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/species" },
+  alternates: { canonical: "https://www.pierseeker.com/species" },
 };
 
 const speciesEmoji: Record<string, string> = {
@@ -28,8 +28,8 @@ export default function SpeciesIndexPage() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Species", item: "https://pierseeker.com/species" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Species", item: "https://www.pierseeker.com/species" },
         ],
       }) }} />
 

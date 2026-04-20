@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing for Beginners: Everything You Need to Know | PierSeeker",
   description: "The complete beginner guide to pier fishing. Learn what gear to bring, which species to target, casting techniques, pier etiquette, and safety tips for your first trip.",
-  openGraph: { title: "Pier Fishing for Beginners: Everything You Need to Know", url: "https://pierseeker.com/blog/pier-fishing-complete-guide", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing for Beginners: Everything You Need to Know", url: "https://www.pierseeker.com/blog/pier-fishing-complete-guide", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing for Beginners: Everything You Need to Know | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/pier-fishing-complete-guide" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/pier-fishing-complete-guide" },
 };
 
 export default function PostPage() {
@@ -20,14 +20,14 @@ export default function PostPage() {
           headline: "Pier Fishing for Beginners: Everything You Need to Know",
           datePublished: "2026-04-16",
           author: { "@type": "Organization", name: "PierSeeker" },
-          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+          publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
         },
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Blog", item: "https://pierseeker.com/blog" },
-            { "@type": "ListItem", position: 3, name: "Pier Fishing Complete Guide", item: "https://pierseeker.com/blog/pier-fishing-complete-guide" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.pierseeker.com/blog" },
+            { "@type": "ListItem", position: 3, name: "Pier Fishing Complete Guide", item: "https://www.pierseeker.com/blog/pier-fishing-complete-guide" },
           ],
         },
         {

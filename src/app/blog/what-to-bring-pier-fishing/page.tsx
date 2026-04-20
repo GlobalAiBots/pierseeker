@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "What to Bring Pier Fishing: The Complete Gear Checklist | PierSeeker",
   description: "The ultimate pier fishing gear checklist. Everything you need to pack for saltwater and freshwater pier fishing — rods, tackle, bait, and essential accessories.",
-  openGraph: { title: "What to Bring Pier Fishing: The Complete Gear Checklist", url: "https://pierseeker.com/blog/what-to-bring-pier-fishing", siteName: "PierSeeker" },
+  openGraph: { title: "What to Bring Pier Fishing: The Complete Gear Checklist", url: "https://www.pierseeker.com/blog/what-to-bring-pier-fishing", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "What to Bring Pier Fishing: The Complete Gear Checklist | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/what-to-bring-pier-fishing" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/what-to-bring-pier-fishing" },
 };
 
 export default function PostPage() {
@@ -19,7 +19,7 @@ export default function PostPage() {
         headline: "What to Bring Pier Fishing: The Complete Gear Checklist",
         datePublished: "2026-04-01",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

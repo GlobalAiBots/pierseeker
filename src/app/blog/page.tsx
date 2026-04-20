@@ -5,9 +5,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "PierSeeker Blog — Pier Fishing Tips, Guides & Destinations",
   description: "Pier fishing tips, gear guides, destination reviews, and fishing pier advice for anglers across America.",
-  openGraph: { title: "PierSeeker Blog", url: "https://pierseeker.com/blog", siteName: "PierSeeker" },
+  openGraph: { title: "PierSeeker Blog", url: "https://www.pierseeker.com/blog", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "PierSeeker Blog" },
-  alternates: { canonical: "https://pierseeker.com/blog" },
+  alternates: { canonical: "https://www.pierseeker.com/blog" },
 };
 
 export default function BlogIndex() {

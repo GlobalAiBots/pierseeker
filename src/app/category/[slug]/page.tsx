@@ -16,7 +16,7 @@ export default function CategoryPage({ params }: { params: Promise<{ slug: strin
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" }, { "@type": "ListItem", position: 2, name: category.title, item: `https://pierseeker.com/category/${slug}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" }, { "@type": "ListItem", position: 2, name: category.title, item: `https://www.pierseeker.com/category/${slug}` }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [
         { "@type": "Question", name: `How many ${category.title.toLowerCase()} are in America?`, acceptedAnswer: { "@type": "Answer", text: `PierSeeker lists ${category.totalCount.toLocaleString()} ${category.title.toLowerCase()} across ${category.states.length} states.` } },
         { "@type": "Question", name: `Do I need a fishing license to fish from ${category.title.toLowerCase()}?`, acceptedAnswer: { "@type": "Answer", text: `Most states require a fishing license even when fishing from a pier. Some states offer free fishing days or pier-specific exemptions. Check your state's regulations.` } },

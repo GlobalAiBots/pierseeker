@@ -4,11 +4,11 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Advertise With PierSeeker — Reach Pier Anglers Across America",
   description: "Advertise on PierSeeker. Reach a focused audience of pier anglers actively researching tackle, gear, travel, and fishing destinations. Featured listings, sponsored posts, and banner ads.",
-  alternates: { canonical: "https://pierseeker.com/advertise" },
+  alternates: { canonical: "https://www.pierseeker.com/advertise" },
   openGraph: {
     title: "Advertise With PierSeeker",
     description: "Reach pier anglers actively researching tackle, gear, and destinations.",
-    url: "https://pierseeker.com/advertise",
+    url: "https://www.pierseeker.com/advertise",
     siteName: "PierSeeker",
   },
 };
@@ -18,8 +18,8 @@ export default function AdvertisePage() {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Advertise", item: "https://pierseeker.com/advertise" },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Advertise", item: "https://www.pierseeker.com/advertise" },
     ],
   };
 

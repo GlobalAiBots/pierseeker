@@ -29,7 +29,7 @@ const sitemapPierUrls = [];
 
 // Add core pages to sitemap
 ['', 'map', 'blog', 'about', 'for-businesses', 'privacy', 'terms'].forEach(p => {
-  sitemapMainUrls.push(`https://pierseeker.com/${p}`);
+  sitemapMainUrls.push(`https://www.pierseeker.com/${p}`);
 });
 
 for (const [stateSlug, stateData] of stateEntries) {
@@ -69,9 +69,9 @@ for (const [stateSlug, stateData] of stateEntries) {
 export const metadata: Metadata = {
   title: "Every Fishing Pier in ${stateName} — ${piers.length}+ Piers | PierSeeker",
   description: "The most complete fishing pier directory for ${stateName}. ${piers.length}+ piers, docks, and jetties with GPS coordinates and amenities.",
-  openGraph: { title: "${stateName} Fishing Piers — PierSeeker", url: "https://pierseeker.com/${stateSlug}", siteName: "PierSeeker" },
+  openGraph: { title: "${stateName} Fishing Piers — PierSeeker", url: "https://www.pierseeker.com/${stateSlug}", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "${stateName} Fishing Piers | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/${stateSlug}" },
+  alternates: { canonical: "https://www.pierseeker.com/${stateSlug}" },
 };
 
 export default function ${pascal(stateSlug)}Layout({ children }: { children: React.ReactNode }) {
@@ -157,7 +157,7 @@ export default async function WaterPage({ params }: { params: Promise<{ id: stri
 `);
 
   // Add to sitemap
-  sitemapMainUrls.push(`https://pierseeker.com/${stateSlug}`);
+  sitemapMainUrls.push(`https://www.pierseeker.com/${stateSlug}`);
 
   // Generate pier slugs for sitemap
   const seenSlugs = new Set();
@@ -169,7 +169,7 @@ export default async function WaterPage({ params }: { params: Promise<{ id: stri
     if (seenSlugs.has(slug)) slug = `${slug}-${String(p.id).substring(0, 8)}`;
     if (seenSlugs.has(slug)) continue;
     seenSlugs.add(slug);
-    sitemapPierUrls.push(`https://pierseeker.com/piers/${slug}`);
+    sitemapPierUrls.push(`https://www.pierseeker.com/piers/${slug}`);
     totalPierSlugs++;
   }
 
@@ -200,9 +200,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   return {
     title: \`\${pier.name} — Fishing Pier Details | PierSeeker\`,
     description: \`\${pier.name} fishing pier in \${pier.city || pier.state}. GPS coordinates, amenities, directions.\`,
-    openGraph: { title: \`\${pier.name} — PierSeeker\`, url: \`https://pierseeker.com/piers/\${pier.id}\` },
+    openGraph: { title: \`\${pier.name} — PierSeeker\`, url: \`https://www.pierseeker.com/piers/\${pier.id}\` },
     twitter: { card: "summary", title: \`\${pier.name} | PierSeeker\` },
-    alternates: { canonical: \`https://pierseeker.com/piers/\${pier.id}\` },
+    alternates: { canonical: \`https://www.pierseeker.com/piers/\${pier.id}\` },
   };
 }
 
@@ -258,9 +258,9 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: stName, item: \`https://pierseeker.com/\${stSlug}\` },
-          { "@type": "ListItem", position: 3, name: pier.name, item: \`https://pierseeker.com/piers/\${pier.id}\` },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: stName, item: \`https://www.pierseeker.com/\${stSlug}\` },
+          { "@type": "ListItem", position: 3, name: pier.name, item: \`https://www.pierseeker.com/piers/\${pier.id}\` },
         ],
       }) }} />
 
@@ -328,7 +328,7 @@ console.log('\nPier detail page template created');
 const d = '2026-04-05';
 let mainXml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
 for (const url of sitemapMainUrls) {
-  const prio = url === 'https://pierseeker.com/' ? '1.0' : '0.9';
+  const prio = url === 'https://www.pierseeker.com/' ? '1.0' : '0.9';
   mainXml += `  <url><loc>${url}</loc><lastmod>${d}</lastmod><changefreq>weekly</changefreq><priority>${prio}</priority></url>\n`;
 }
 mainXml += '</urlset>\n';
@@ -344,11 +344,11 @@ fs.writeFileSync(path.join(__dirname, '..', 'public', 'sitemap-piers.xml'), pier
 const indexXml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://pierseeker.com/sitemap-main.xml</loc>
+    <loc>https://www.pierseeker.com/sitemap-main.xml</loc>
     <lastmod>${d}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://pierseeker.com/sitemap-piers.xml</loc>
+    <loc>https://www.pierseeker.com/sitemap-piers.xml</loc>
     <lastmod>${d}</lastmod>
   </sitemap>
 </sitemapindex>

@@ -4,9 +4,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Fishing Piers in North Carolina — Top 10 | PierSeeker",
   description: "Discover the 10 best fishing piers in North Carolina, from Lake Raleigh to coastal Swanquarter. GPS coordinates, tips, and directions on PierSeeker.",
-  openGraph: { title: "Best Fishing Piers in North Carolina — Top 10", url: "https://pierseeker.com/best-of/best-fishing-piers-in-north-carolina", siteName: "PierSeeker" },
+  openGraph: { title: "Best Fishing Piers in North Carolina — Top 10", url: "https://www.pierseeker.com/best-of/best-fishing-piers-in-north-carolina", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Fishing Piers in North Carolina — Top 10 | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/best-of/best-fishing-piers-in-north-carolina" },
+  alternates: { canonical: "https://www.pierseeker.com/best-of/best-fishing-piers-in-north-carolina" },
 };
 
 export default function BestFishingPiersNorthCarolina() {
@@ -16,9 +16,9 @@ export default function BestFishingPiersNorthCarolina() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in North Carolina", item: "https://pierseeker.com/best-of/best-fishing-piers-in-north-carolina" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.pierseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Fishing Piers in North Carolina", item: "https://www.pierseeker.com/best-of/best-fishing-piers-in-north-carolina" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

@@ -6,9 +6,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pier Fishing for Beginners: Everything You Need to Know | PierSeeker",
   description: "New to pier fishing? Learn the gear, techniques, etiquette, and tips you need to start catching fish from public piers. A complete beginner&apos;s guide.",
-  openGraph: { title: "Pier Fishing for Beginners: Everything You Need to Know", url: "https://pierseeker.com/blog/pier-fishing-beginners", siteName: "PierSeeker" },
+  openGraph: { title: "Pier Fishing for Beginners: Everything You Need to Know", url: "https://www.pierseeker.com/blog/pier-fishing-beginners", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Pier Fishing for Beginners: Everything You Need to Know | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/blog/pier-fishing-beginners" },
+  alternates: { canonical: "https://www.pierseeker.com/blog/pier-fishing-beginners" },
 };
 
 export default function PostPage() {
@@ -19,7 +19,7 @@ export default function PostPage() {
         headline: "Pier Fishing for Beginners: Everything You Need to Know",
         datePublished: "2026-04-03",
         author: { "@type": "Organization", name: "PierSeeker" },
-        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
       }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

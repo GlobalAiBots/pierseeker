@@ -5,9 +5,9 @@ import GearRecommendation from "@/components/GearRecommendation";
 export const metadata: Metadata = {
   title: "Best Bait for Pier Fishing by Region: Complete Guide | PierSeeker",
   description: "The best pier fishing bait for every U.S. region — Northeast, Southeast, Gulf Coast, West Coast, and Great Lakes. Squid, shrimp, cut mullet, bloodworms, minnows, and more.",
-  openGraph: { title: "Best Bait for Pier Fishing by Region: Complete Guide", url: "https://pierseeker.com/bait-guide", siteName: "PierSeeker" },
+  openGraph: { title: "Best Bait for Pier Fishing by Region: Complete Guide", url: "https://www.pierseeker.com/bait-guide", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Bait for Pier Fishing by Region: Complete Guide | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/bait-guide" },
+  alternates: { canonical: "https://www.pierseeker.com/bait-guide" },
 };
 
 export default function BaitGuidePage() {
@@ -17,8 +17,8 @@ export default function BaitGuidePage() {
         {
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-            { "@type": "ListItem", position: 2, name: "Bait Guide", item: "https://pierseeker.com/bait-guide" },
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+            { "@type": "ListItem", position: 2, name: "Bait Guide", item: "https://www.pierseeker.com/bait-guide" },
           ],
         },
         {

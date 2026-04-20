@@ -4,9 +4,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Pier Fishing Spots on the Gulf Coast — Top 10 | PierSeeker",
   description: "Explore the 10 best pier fishing spots on the Gulf Coast, spanning Florida and Texas. GPS coordinates, tips, and directions on PierSeeker.",
-  openGraph: { title: "Best Pier Fishing Spots on the Gulf Coast — Top 10", url: "https://pierseeker.com/best-of/best-pier-fishing-spots-on-gulf-coast", siteName: "PierSeeker" },
+  openGraph: { title: "Best Pier Fishing Spots on the Gulf Coast — Top 10", url: "https://www.pierseeker.com/best-of/best-pier-fishing-spots-on-gulf-coast", siteName: "PierSeeker" },
   twitter: { card: "summary", title: "Best Pier Fishing Spots on the Gulf Coast — Top 10 | PierSeeker" },
-  alternates: { canonical: "https://pierseeker.com/best-of/best-pier-fishing-spots-on-gulf-coast" },
+  alternates: { canonical: "https://www.pierseeker.com/best-of/best-pier-fishing-spots-on-gulf-coast" },
 };
 
 export default function BestPierFishingGulfCoast() {
@@ -16,9 +16,9 @@ export default function BestPierFishingGulfCoast() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://pierseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://pierseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Pier Fishing Spots on the Gulf Coast", item: "https://pierseeker.com/best-of/best-pier-fishing-spots-on-gulf-coast" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.pierseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Pier Fishing Spots on the Gulf Coast", item: "https://www.pierseeker.com/best-of/best-pier-fishing-spots-on-gulf-coast" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
