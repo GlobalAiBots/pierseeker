@@ -4,6 +4,7 @@ import dynamic from "next/dynamic";
 import { unified, getUnifiedPierById } from "@/data/all-piers";
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
+import { getRelatedPierBlog } from "@/lib/related-blogs";
 import cityPagesData from "@/data/city-pages.json";
 import type { Metadata } from "next";
 
@@ -180,22 +181,22 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
         );
       })()}
 
-      {/* Related Guides */}
-      <div className="mb-6">
-        <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Related Guides</h3>
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-          {[
-            { href: "/blog/pier-fishing-tips-for-beginners", title: "Pier Fishing Tips", desc: "Everything beginners need to know" },
-            { href: "/blog/pier-vs-boat-fishing", title: "Pier vs Boat Fishing", desc: "Pros, cons, and which is right for you" },
-            { href: "/blog/what-to-bring-pier-fishing", title: "What to Bring", desc: "Complete pier fishing gear checklist" },
-          ].map((g) => (
-            <Link key={g.href} href={g.href} className="group bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <p className="font-bold text-charcoal group-hover:text-ocean transition text-sm">{g.title}</p>
-              <p className="text-gray-400 text-xs mt-1">{g.desc}</p>
+      {/* Related Guide — contextual by pier name + city */}
+      {(() => {
+        const tease = getRelatedPierBlog(pier);
+        return (
+          <section className="mb-6 rounded-lg border border-gray-200 p-6 bg-gray-50">
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">Related Guide</p>
+            <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-2">
+              <Link href={`/blog/${tease.slug}`} className="hover:text-ocean transition">{tease.title}</Link>
+            </h3>
+            <p className="text-gray-600 text-sm leading-relaxed mb-3">{tease.excerpt}</p>
+            <Link href={`/blog/${tease.slug}`} className="inline-block text-ocean hover:text-ocean-light font-semibold text-sm">
+              Read the full guide &rarr;
             </Link>
-          ))}
-        </div>
-      </div>
+          </section>
+        );
+      })()}
 
       {/* Trip Essentials Strip */}
       <div className="mb-8 bg-cream border border-gray-200 rounded-xl p-5">
