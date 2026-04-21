@@ -11,6 +11,14 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "best-time-of-day-for-pier-fishing",
+    title: "Best Time of Day for Pier Fishing: Tidal, Daily & Seasonal Tips (2026)",
+    date: "April 21, 2026", readTime: "8 min read", category: "Tips",
+    description: "Dawn/dusk golden hours, incoming-tide advantage, seasonal shifts (summer mornings vs winter midday), moon phase, and when not to bother fishing.",
+    gradient: "linear-gradient(135deg, #F4D03F 0%, #FF6B6B 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><circle cx="40" cy="30" r="12" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"/><path d="M40 10v4M40 46v4M18 30h4M58 30h4M24 14l3 3M53 43l3 3M56 14l-3 3M27 43l-3 3" stroke="rgba(255,255,255,0.35)" stroke-width="2"/></svg>`,
+  },
+  {
     slug: "pier-fishing-license-requirements-by-state",
     title: "Pier Fishing License Requirements by State (2026 Guide)",
     date: "April 21, 2026", readTime: "10 min read", category: "Regulations",
