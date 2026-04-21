@@ -11,6 +11,14 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "pier-fishing-license-requirements-by-state",
+    title: "Pier Fishing License Requirements by State (2026 Guide)",
+    date: "April 21, 2026", readTime: "10 min read", category: "Regulations",
+    description: "Do you need a fishing license to fish off a pier? State-by-state rules, age exemptions, saltwater vs freshwater licenses, and which piers offer license-free fishing.",
+    gradient: "linear-gradient(135deg, #0A3D62 0%, #2D6A4F 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><rect x="16" y="12" width="48" height="32" rx="3" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><path d="M22 22h36M22 30h24M22 36h20" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/><circle cx="54" cy="36" r="5" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/></svg>`,
+  },
+  {
     slug: "pier-fishing-with-kids",
     title: "Pier Fishing with Kids: A Family Guide for First-Timers",
     date: "April 17, 2026", readTime: "8 min read", category: "Family",
