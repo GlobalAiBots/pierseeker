@@ -25,17 +25,30 @@ export function generateStaticParams() {
   return [];
 }
 
+// 90% of piers are generically named "Pier", "Fishing Pier", etc (OSM-scraped with
+// no site name). Identical H1/title across thousands of pages caused Google to
+// cluster them as duplicates and pick arbitrary canonicals despite correct
+// self-canonical tags. Differentiate with city + GPS so each page has unique
+// identifying content.
+type PierLike = { name: string; city: string; state: string; latitude: number; longitude: number };
+const GENERIC_PIER_NAME = /^(fishing\s*pier|pier|dock|jetty|wharf|boat\s*ramp|boat\s*launch|public\s*pier|fishing\s*dock)$/i;
+function getPierDisplayName(pier: PierLike): string {
+  if (!GENERIC_PIER_NAME.test(pier.name.trim())) return pier.name;
+  const stN = stateNames[pier.state] || pier.state;
+  if (pier.city) return `Fishing Pier in ${pier.city}, ${stN}`;
+  return `Fishing Pier at ${pier.latitude.toFixed(4)}, ${pier.longitude.toFixed(4)}, ${stN}`;
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id } = await params;
   const pier = getUnifiedPierById(id);
   if (!pier) return { title: "Pier Not Found" };
-  const isGeneric = /^(fishing\s*pier|pier|dock|jetty|wharf|boat\s*ramp|boat\s*launch)$/i.test(pier.name.trim());
   const stN = stateNames[pier.state] || pier.state;
-  const loc = pier.city ? `${pier.city}, ${stN}` : stN;
-  const displayTitle = isGeneric ? `Fishing Pier in ${loc}` : pier.name;
+  const displayTitle = getPierDisplayName(pier);
+  const gps = `${pier.latitude.toFixed(4)}, ${pier.longitude.toFixed(4)}`;
   return {
     title: `${displayTitle} — Fishing Pier | PierSeeker`,
-    description: `${displayTitle} fishing pier${pier.city ? ` in ${pier.city}` : ""}, ${stN}. GPS coordinates, amenities, species tips, and directions. Find fishing piers near you on PierSeeker.`,
+    description: `${displayTitle}${pier.city && !displayTitle.includes(pier.city) ? ` near ${pier.city},` : ""} ${stN}. GPS ${gps}. Amenities, species tips, and directions. Find fishing piers near you on PierSeeker.`,
     openGraph: { title: `${displayTitle} — PierSeeker`, url: `https://www.pierseeker.com/piers/${pier.id}` },
     twitter: { card: "summary", title: `${displayTitle} | PierSeeker` },
     alternates: { canonical: `https://www.pierseeker.com/piers/${pier.id}` },
@@ -71,6 +84,7 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
 
   const stSlug = stateSlugs[pier.state] || pier.state.toLowerCase();
   const stName = stateNames[pier.state] || pier.state;
+  const displayName = getPierDisplayName(pier);
 
   // Nearby piers — same state, first 5
   const nearby = unified.filter((p) => p.id !== pier.id && p.state === pier.state).slice(0, 5);
@@ -86,7 +100,7 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "CivicStructure", name: pier.name,
+        "@context": "https://schema.org", "@type": "CivicStructure", name: displayName,
         geo: { "@type": "GeoCoordinates", latitude: pier.latitude, longitude: pier.longitude },
         address: { "@type": "PostalAddress", addressLocality: pier.city, addressRegion: stName, addressCountry: "US" },
         publicAccess: true,
@@ -97,7 +111,7 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Home", item: "https://www.pierseeker.com" },
           { "@type": "ListItem", position: 2, name: stName, item: `https://www.pierseeker.com/${stSlug}` },
-          { "@type": "ListItem", position: 3, name: pier.name, item: `https://www.pierseeker.com/piers/${pier.id}` },
+          { "@type": "ListItem", position: 3, name: displayName, item: `https://www.pierseeker.com/piers/${pier.id}` },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
@@ -105,10 +119,10 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-ocean transition">Home</Link><span>/</span>
         <Link href={`/${stSlug}`} className="hover:text-ocean transition">{stName}</Link><span>/</span>
-        <span className="text-charcoal font-medium">{pier.name}</span>
+        <span className="text-charcoal font-medium">{displayName}</span>
       </nav>
 
-      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">{pier.name}</h1>
+      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">{displayName}</h1>
       <p className="text-gray-500 mb-6">{pier.city ? `${pier.city}, ` : ""}{stName} &middot; GPS: {pier.latitude.toFixed(4)}, {pier.longitude.toFixed(4)}</p>
 
       <PierMap piers={mapPiers} center={[pier.latitude, pier.longitude]} zoom={15} height="400px" className="mb-8" />
@@ -131,20 +145,20 @@ export default async function PierPage({ params }: { params: Promise<{ id: strin
 
       {/* About This Pier — unique content */}
       <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-6 shadow-sm">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">About {pier.name}</h2>
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">About {displayName}</h2>
         <p className="text-gray-600 leading-relaxed text-sm">
-          {pier.name} is a fishing pier located in {pier.city ? `${pier.city}, ` : ""}{stName}. {pier.amenities && pier.amenities.length > 0 ? `This pier offers amenities including ${pier.amenities.slice(0, 3).join(", ").toLowerCase()}.` : "This pier provides public fishing access."} GPS coordinates for navigation: {pier.latitude.toFixed(4)}, {pier.longitude.toFixed(4)}.
+          {displayName} is a fishing pier located in {pier.city ? `${pier.city}, ` : ""}{stName}. {pier.amenities && pier.amenities.length > 0 ? `This pier offers amenities including ${pier.amenities.slice(0, 3).join(", ").toLowerCase()}.` : "This pier provides public fishing access."} GPS coordinates for navigation: {pier.latitude.toFixed(4)}, {pier.longitude.toFixed(4)}.
         </p>
         {pier.rating > 0 && (
           <p className="text-gray-600 leading-relaxed text-sm mt-3">
-            Based on {pier.totalRatings} review{pier.totalRatings !== 1 ? "s" : ""}, {pier.name} has a {pier.rating}/5 rating. {pier.rating >= 4 ? "Anglers rate this as a top fishing spot." : "Check recent reviews before planning your trip."}
+            Based on {pier.totalRatings} review{pier.totalRatings !== 1 ? "s" : ""}, {displayName} has a {pier.rating}/5 rating. {pier.rating >= 4 ? "Anglers rate this as a top fishing spot." : "Check recent reviews before planning your trip."}
           </p>
         )}
       </div>
 
       {/* Tips */}
       <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
-        <h3 className="font-[Cabin] font-bold text-ocean mb-3">Tips for Fishing at {pier.name}</h3>
+        <h3 className="font-[Cabin] font-bold text-ocean mb-3">Tips for Fishing at {displayName}</h3>
         <ul className="space-y-2 text-sm text-gray-700">
           <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Check {stName} fishing license requirements before heading out &mdash; most states require one for pier fishing.</li>
           <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Best times to fish from piers are early morning, late afternoon, and around tidal changes.</li>
