@@ -94,8 +94,9 @@ const stateMap: Record<string, { code: string; prefix: string }> = {
   "rhode-island": { code: "RI", prefix: "ri" }, "south-carolina": { code: "SC", prefix: "sc" },
   "south-dakota": { code: "SD", prefix: "sd" }, "tennessee": { code: "TN", prefix: "tn" },
   "texas": { code: "TX", prefix: "tx" }, "utah": { code: "UT", prefix: "ut" },
-  "virginia": { code: "VA", prefix: "va" }, "washington": { code: "WA", prefix: "wa" },
-  "west-virginia": { code: "WV", prefix: "wv" }, "wyoming": { code: "WY", prefix: "wy" },
+  "vermont": { code: "VT", prefix: "vt" }, "virginia": { code: "VA", prefix: "va" },
+  "washington": { code: "WA", prefix: "wa" }, "west-virginia": { code: "WV", prefix: "wv" },
+  "wisconsin": { code: "WI", prefix: "wi" }, "wyoming": { code: "WY", prefix: "wy" },
 };
 
 // Dynamically import all state pier files
