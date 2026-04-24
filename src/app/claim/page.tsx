@@ -1,12 +1,11 @@
 "use client";
 
-import { use, useState } from "react";
+import { useState } from "react";
 import Link from "next/link";
 
-export default function ClaimPage({ searchParams }: { searchParams: Promise<{ pier?: string; name?: string }> }) {
-  const params = use(searchParams);
-  const pierId = params.pier || "";
-  const pierName = params.name || "";
+export default function ClaimPage({ searchParams }: { searchParams: { pier?: string; name?: string } }) {
+  const pierId = searchParams.pier || "";
+  const pierName = searchParams.name || "";
 
   const [formData, setFormData] = useState({
     pierName: pierName,

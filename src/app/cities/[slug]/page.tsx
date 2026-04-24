@@ -1,6 +1,6 @@
 "use client";
 
-import { use, useState, useMemo } from "react";
+import { useState, useMemo } from "react";
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import { unified } from "@/data/all-piers";
@@ -12,8 +12,8 @@ const PierMap = dynamic(() => import("@/components/PierMap"), { ssr: false, load
 interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
 const allCityPages = cityPages as CityPage[];
 
-export default function CityPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = use(params);
+export default function CityPage({ params }: { params: { slug: string } }) {
+  const { slug } = params;
   const cityInfo = allCityPages.find((c) => `${c.stateSlug}-${c.citySlug}` === slug);
 
   const piers = useMemo(() => {

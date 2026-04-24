@@ -1,6 +1,6 @@
 "use client";
 
-import { use, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
 import categoriesData from "@/data/categories.json";
 
@@ -8,8 +8,8 @@ interface CatState { code: string; name: string; slug: string; count: number; }
 interface Category { slug: string; title: string; description: string; totalCount: number; states: CatState[]; }
 const categories = categoriesData as Category[];
 
-export default function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = use(params);
+export default function CategoryPage({ params }: { params: { slug: string } }) {
+  const { slug } = params;
   const category = useMemo(() => categories.find(c => c.slug === slug), [slug]);
 
   if (!category) return <div className="max-w-2xl mx-auto px-4 py-20 text-center"><h1 className="font-[Cabin] text-3xl font-bold text-charcoal mb-4">Category Not Found</h1><Link href="/" className="text-ocean hover:underline">Back to Home</Link></div>;

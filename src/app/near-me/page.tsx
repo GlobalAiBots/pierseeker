@@ -1,5 +1,5 @@
 "use client";
-import { use, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-piers";
 
@@ -9,9 +9,8 @@ function haversine(lat1: number, lon1: number, lat2: number, lon2: number): numb
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-export default function NearMePage({ searchParams }: { searchParams: Promise<{ lat?: string; lng?: string }> }) {
-  const params = use(searchParams);
-  const lat = parseFloat(params.lat || "0"), lng = parseFloat(params.lng || "0");
+export default function NearMePage({ searchParams }: { searchParams: { lat?: string; lng?: string } }) {
+  const lat = parseFloat(searchParams.lat || "0"), lng = parseFloat(searchParams.lng || "0");
   const nearby = useMemo(() => {
     if (!lat || !lng) return [];
     return unified.map(p => ({ ...p, distance: haversine(lat, lng, p.latitude, p.longitude) })).filter(p => p.distance <= 50).sort((a, b) => a.distance - b.distance).slice(0, 20);
