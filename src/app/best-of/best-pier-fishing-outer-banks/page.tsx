@@ -47,22 +47,22 @@ export default function BestPierFishingOuterBanks() {
 
         <h2 className="text-2xl font-bold text-charcoal mt-10 mb-4 font-[Cabin]">1. Jennette&apos;s Pier &mdash; Nags Head</h2>
         <p>
-          <Link href="/piers/osm_616934949" className="text-ocean hover:underline font-semibold">Jennette&apos;s Pier</Link> is the modern flagship of OBX pier fishing. Rebuilt in concrete after Hurricane Isabel and operated by the NC Aquarium, it stretches over 1,000 feet into the Atlantic and serves as an educational facility alongside a working fishing pier. The fall red drum run at Jennette&apos;s is legendary &mdash; big drum, serious anglers, long waits for the right tide. Standard pier fishing runs year-round with species shifting by season: flounder and trout in spring, Spanish mackerel through summer, citation-class drum in fall.
+          <Link href="/piers/nc-jennettes-pier" className="text-ocean hover:underline font-semibold">Jennette&apos;s Pier</Link> is the modern flagship of OBX pier fishing. Rebuilt in concrete after Hurricane Isabel and operated by the NC Aquarium, it stretches over 1,000 feet into the Atlantic and serves as an educational facility alongside a working fishing pier. The fall red drum run at Jennette&apos;s is legendary &mdash; big drum, serious anglers, long waits for the right tide. Standard pier fishing runs year-round with species shifting by season: flounder and trout in spring, Spanish mackerel through summer, citation-class drum in fall.
         </p>
 
         <h2 className="text-2xl font-bold text-charcoal mt-10 mb-4 font-[Cabin]">2. Nags Head Fishing Pier &mdash; Nags Head</h2>
         <p>
-          <Link href="/piers/osm_164841037" className="text-ocean hover:underline font-semibold">Nags Head Fishing Pier</Link> is the classic wooden pier that anchors the Nags Head oceanfront. Privately operated and open to the public for day fees, it has a more laid-back vibe than Jennette&apos;s &mdash; you&apos;re more likely to chat with the regulars than fight elbow-to-elbow at the rail. Good spot for families learning pier fishing alongside serious anglers working the end. Species are similar to Jennette&apos;s, which isn&apos;t surprising given they&apos;re only a couple miles apart.
+          <Link href="/piers/nc-nags-head-fishing-pier" className="text-ocean hover:underline font-semibold">Nags Head Fishing Pier</Link> is the classic wooden pier that anchors the Nags Head oceanfront. Privately operated and open to the public for day fees, it has a more laid-back vibe than Jennette&apos;s &mdash; you&apos;re more likely to chat with the regulars than fight elbow-to-elbow at the rail. Good spot for families learning pier fishing alongside serious anglers working the end. Species are similar to Jennette&apos;s, which isn&apos;t surprising given they&apos;re only a couple miles apart.
         </p>
 
         <h2 className="text-2xl font-bold text-charcoal mt-10 mb-4 font-[Cabin]">3. Outer Banks Fishing Pier &mdash; Nags Head</h2>
         <p>
-          <Link href="/piers/osm_164841175" className="text-ocean hover:underline font-semibold">Outer Banks Fishing Pier</Link> sits on South Nags Head and is a favorite of locals who&apos;ve fished the banks for decades. The pier is known for honest, no-frills fishing &mdash; check-in at the tackle shop, grab a rig, walk out. Puppy drum (slot-size red drum), bluefish, and spot runs keep a steady stream of anglers around. Fewer tourists, more people who know how to fish.
+          <Link href="/piers/nc-outer-banks-fishing-pier" className="text-ocean hover:underline font-semibold">Outer Banks Fishing Pier</Link> sits on South Nags Head and is a favorite of locals who&apos;ve fished the banks for decades. The pier is known for honest, no-frills fishing &mdash; check-in at the tackle shop, grab a rig, walk out. Puppy drum (slot-size red drum), bluefish, and spot runs keep a steady stream of anglers around. Fewer tourists, more people who know how to fish.
         </p>
 
         <h2 className="text-2xl font-bold text-charcoal mt-10 mb-4 font-[Cabin]">4. Kitty Hawk Pier &mdash; Kitty Hawk</h2>
         <p>
-          <Link href="/piers/osm_515561505" className="text-ocean hover:underline font-semibold">Kitty Hawk Pier</Link> has a long history on the north end of the banks. The pier has been rebuilt and repaired multiple times over the years; always confirm current access and hours before driving up (hurricanes and nor&apos;easters do serious damage this far north). Best fishing is spring through fall with bluefish, Spanish mackerel, sea mullet, and croaker.
+          <Link href="/piers/nc-kitty-hawk-pier" className="text-ocean hover:underline font-semibold">Kitty Hawk Pier</Link> has a long history on the north end of the banks. The pier has been rebuilt and repaired multiple times over the years; always confirm current access and hours before driving up (hurricanes and nor&apos;easters do serious damage this far north). Best fishing is spring through fall with bluefish, Spanish mackerel, sea mullet, and croaker.
         </p>
 
         <h2 className="text-2xl font-bold text-charcoal mt-10 mb-4 font-[Cabin]">5. Avon Pier &mdash; Hatteras Island</h2>
