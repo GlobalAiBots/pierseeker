@@ -70,15 +70,16 @@ export default function Home() {
         potentialAction: { "@type": "SearchAction", target: "https://www.pierseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
 
-      {/* HERO */}
-      <section className="relative py-20 md:py-32 text-center px-4 text-white overflow-hidden">
-        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('/images/hero-pier.jpg')" }} />
-        <div className="absolute inset-0 bg-gradient-to-b from-[#0A3D62]/80 via-[#0A3D62]/60 to-[#0A3D62]/80" />
+      {/* HERO — Full-bleed dramatic */}
+      <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/images/hero-pier.jpg" alt={`Anglers fishing from a wooden pier at sunset — find ${unified.length.toLocaleString()}+ fishing piers across America on PierSeeker`} className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(10,61,98,0.85) 0%, rgba(10,61,98,0.4) 50%, transparent 100%)' }} />
 
-        <div className="relative z-10">
+        <div className="relative z-10 text-center px-4 max-w-3xl mx-auto pt-8">
           <p className="text-white/80 text-sm font-semibold tracking-widest uppercase mb-4">Fishing Pier Directory</p>
-          <h1 className="font-[Cabin] text-5xl md:text-7xl font-bold text-white leading-tight max-w-3xl mx-auto">Every Fishing Pier in America</h1>
-          <p className="text-white/70 mt-4 max-w-lg mx-auto">{unified.length.toLocaleString()}+ fishing piers across {stateList.length} states. Find your spot.</p>
+          <h1 className="font-[Cabin] text-5xl md:text-7xl font-bold text-white leading-tight">Every Fishing Pier in America</h1>
+          <p className="text-white/80 mt-4 max-w-lg mx-auto text-lg">{unified.length.toLocaleString()}+ fishing piers across {stateList.length} states. Find your spot.</p>
 
           <div className="max-w-xl mx-auto mt-8 relative">
             <input type="text" value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search by state, city, water body, or pier name..." className="w-full px-5 py-4 rounded-xl bg-white border border-gray-200 text-charcoal outline-none focus:border-ocean focus:ring-2 focus:ring-ocean/20 transition shadow-2xl text-sm" />
@@ -105,11 +106,21 @@ export default function Home() {
             ))}
             <a href="#browse-states" className="text-white/70 hover:text-white font-semibold px-4 py-2 text-xs transition">Browse all {stateList.length} states &darr;</a>
           </div>
+        </div>
 
-          <div className="flex flex-wrap justify-center gap-8 md:gap-16 text-center mt-12">
-            {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: "27,700+", label: "Boat Ramps" },{ value: "9,000+", label: "Marinas" },{ value: "48", label: "States" }].map((s) => (
-              <div key={s.label}><p className="font-[Cabin] text-3xl md:text-4xl font-bold text-white">{s.value}</p><p className="text-white/50 text-xs uppercase tracking-wider mt-1">{s.label}</p></div>
-            ))}
+        {/* Hero footer: seasonal accent strip + integrated stats bar */}
+        <div className="relative z-10 w-full mt-auto">
+          <div className="bg-coral/90 backdrop-blur-sm py-2.5 text-center">
+            <Link href={(() => { const m = new Date().getMonth(); if (m >= 2 && m <= 4) return "/blog/best-pier-fishing-by-season"; if (m >= 5 && m <= 7) return "/blog/best-fishing-piers-in-america"; if (m >= 8 && m <= 10) return "/blog/best-pier-fishing-states"; return "/blog/how-to-catch-sheepshead"; })()} className="text-white font-bold text-sm hover:underline transition">
+              {(() => { const m = new Date().getMonth(); if (m >= 2 && m <= 4) return "🎣 Spring Pier Season: Crappie + Bass Run →"; if (m >= 5 && m <= 7) return "☀️ Peak Pier Fishing: Find Spots →"; if (m >= 8 && m <= 10) return "🐟 Fall Run: Striper + Walleye Season →"; return "❄️ Winter Pier Fishing: Cold-Water Spots →"; })()}
+            </Link>
+          </div>
+          <div className="bg-ocean/85 backdrop-blur-sm border-t border-white/10 py-6">
+            <div className="max-w-5xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
+              {[{ value: unified.length.toLocaleString(), label: "Fishing Piers" },{ value: "27,700+", label: "Boat Ramps" },{ value: "9,000+", label: "Marinas" },{ value: "48", label: "States" }].map((s) => (
+                <div key={s.label}><p className="font-[Cabin] text-3xl md:text-4xl font-bold text-white">{s.value}</p><p className="text-white/50 text-xs uppercase tracking-wider mt-1">{s.label}</p></div>
+              ))}
+            </div>
           </div>
         </div>
       </section>
