@@ -52,9 +52,11 @@ export default function CityPage({ params }: { params: { slug: string } }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "FAQPage",
         mainEntity: [
-          { "@type": "Question", name: `How many fishing piers are in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName}. Browse them all on PierSeeker with maps and directions.` } },
-          { "@type": "Question", name: `Where is the closest fishing pier in ${cityInfo.city}?`, acceptedAnswer: { "@type": "Answer", text: `PierSeeker lists all ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName} with exact GPS locations. Click any listing for directions.` } },
-          { "@type": "Question", name: `Can I fish at night from piers in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `Night fishing rules vary by pier and jurisdiction in ${cityInfo.city}. Many public piers allow night fishing but check local regulations. PierSeeker lists amenities like lighting for each pier.` } },
+          { "@type": "Question", name: `How many fishing piers are in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName} listed on PierSeeker with maps, amenities, and directions for each location.` } },
+          { "@type": "Question", name: `Do I need a fishing license to fish from piers in ${cityInfo.city}?`, acceptedAnswer: { "@type": "Answer", text: `Most public piers in ${cityInfo.stateName} require a current state fishing license for anglers 16 and older. A handful of municipal piers offer license-free fishing — check each pier's detail page for specifics.` } },
+          { "@type": "Question", name: `What fish species are common at ${cityInfo.city} piers?`, acceptedAnswer: { "@type": "Answer", text: `Anglers fishing piers near ${cityInfo.city} typically catch species like flounder, redfish, croaker, sheepshead, and bluefish in saltwater areas, or bass, crappie, and catfish at freshwater piers. Local bait shops post current catch reports.` } },
+          { "@type": "Question", name: `Are any of the ${cityInfo.city} fishing piers free?`, acceptedAnswer: { "@type": "Answer", text: `Many public piers near ${cityInfo.city} are free to access. Some city- or county-managed piers charge a small daily fee, and a license fee may still apply — see each pier's detail page for cost specifics.` } },
+          { "@type": "Question", name: `Is PierSeeker free to use?`, acceptedAnswer: { "@type": "Answer", text: `Yes. PierSeeker is 100% free for anglers. Browse all ${piers.length} piers in ${cityInfo.city}, save GPS coordinates, and get directions — no account required.` } },
         ],
       }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
@@ -85,16 +87,20 @@ export default function CityPage({ params }: { params: { slug: string } }) {
       {/* Intro */}
       <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Fishing Piers in {cityInfo.city}, {cityInfo.stateName}</h2>
-        <p className="text-gray-600 leading-relaxed text-sm">{cityInfo.city}, {cityInfo.stateName} has {piers.length} fishing pier{piers.length !== 1 ? "s" : ""} listed on PierSeeker. Browse all piers above with maps, amenities, and directions to plan your next fishing trip.</p>
+        <p className="text-gray-600 leading-relaxed text-sm">
+          {cityInfo.city}, {cityInfo.stateName} offers {piers.length} fishing pier{piers.length !== 1 ? "s" : ""} for local anglers and visiting fishermen. {cityInfo.city} provides shoreline access for both saltwater and freshwater anglers, depending on the pier — from sunrise sessions chasing flounder and croaker to evening trips for bass and catfish. Whether you&apos;re bringing kids out for their first cast, targeting trophy species, or just looking for a quiet morning over the water, the {piers.length} pier{piers.length !== 1 ? "s" : ""} below serve {cityInfo.city} and the surrounding area with verified GPS coordinates, amenity details, and turn-by-turn directions. Most public piers are open year-round, though seasonal closures and license rules can affect access &mdash; always check current regulations before heading out.
+        </p>
       </div>
 
       {/* Tips */}
       <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
         <h3 className="font-[Cabin] font-bold text-ocean mb-3">Tips for Pier Fishing in {cityInfo.city}</h3>
         <ul className="space-y-2 text-sm text-gray-700">
-          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Check that your fishing license is current before heading out.</li>
-          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Early morning and late afternoon are usually the best times to fish from piers.</li>
-          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Bring a variety of bait &mdash; live shrimp, cut bait, and artificial lures each work for different species.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Make sure your {cityInfo.stateName} fishing license is current &mdash; <Link href={`/${cityInfo.stateSlug}`} className="text-ocean hover:underline">see {cityInfo.stateName} pier guide</Link>.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Early morning and late afternoon tend to produce the best bites at most {cityInfo.city} piers.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Bring a variety of bait &mdash; live shrimp, cut bait, and artificial lures each target different species.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Check tide charts before heading to coastal piers &mdash; many pier species feed actively on a moving tide.</li>
+          <li className="flex items-start gap-2"><span className="text-ocean mt-0.5">&#10003;</span> Stop at a local bait shop near the pier for current catch reports and the most effective rigs of the season.</li>
         </ul>
       </div>
 
@@ -103,9 +109,11 @@ export default function CityPage({ params }: { params: { slug: string } }) {
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
           {[
-            { q: `How many fishing piers are in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `There are ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName} listed on PierSeeker with maps and directions.` },
-            { q: `Are fishing piers in ${cityInfo.city} free?`, a: `Most public fishing piers in ${cityInfo.city} are free to access. Some may charge a small fee or require a fishing license.` },
-            { q: `What fish can I catch from piers in ${cityInfo.city}?`, a: `Species vary by season and location. Check individual pier listings on PierSeeker for local catch reports and tips.` },
+            { q: `How many fishing piers are in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `There are ${piers.length} fishing piers in ${cityInfo.city}, ${cityInfo.stateName} listed on PierSeeker with maps, amenities, and directions for each location.` },
+            { q: `Do I need a fishing license to fish from piers in ${cityInfo.city}?`, a: `Most public piers in ${cityInfo.stateName} require a current state fishing license for anglers 16 and older. A handful of municipal piers offer license-free fishing — check each pier's detail page for specifics.` },
+            { q: `What fish species are common at ${cityInfo.city} piers?`, a: `Anglers fishing piers near ${cityInfo.city} typically catch species like flounder, redfish, croaker, sheepshead, and bluefish in saltwater areas, or bass, crappie, and catfish at freshwater piers. Local bait shops post current catch reports.` },
+            { q: `Are any of the ${cityInfo.city} fishing piers free?`, a: `Many public piers near ${cityInfo.city} are free to access. Some city- or county-managed piers charge a small daily fee, and a license fee may still apply — see each pier's detail page for cost specifics.` },
+            { q: `Is PierSeeker free to use?`, a: `Yes. PierSeeker is 100% free for anglers. Browse all ${piers.length} piers in ${cityInfo.city}, save GPS coordinates, and get directions — no account required.` },
           ].map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-ocean transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
