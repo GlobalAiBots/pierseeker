@@ -3,13 +3,19 @@
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-piers";
+import cityPages from "@/data/city-pages.json";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
 import NearMeButton from "@/components/NearMeButton";
-import { blogPosts } from "@/data/blog-posts";
 import GearRecommendation from "@/components/GearRecommendation";
 import SeasonalPicks from "@/components/SeasonalPicks";
+
+const featuredPosts = [
+  { slug: "best-fishing-piers-florida", title: "Best Fishing Piers in Florida: Saltwater Spots You Need to Visit", date: "Apr 5, 2026", readTime: "6 min read", category: "Destinations", img: "/images/blog/florida-pier.jpg" },
+  { slug: "night-pier-fishing-tips", title: "Night Pier Fishing: Tips for Catching More After Dark", date: "Apr 12, 2026", readTime: "7 min read", category: "Tips", img: "/images/blog/night-fishing.jpg" },
+  { slug: "pier-fishing-tips-for-beginners", title: "Pier Fishing Tips for Beginners: Everything You Need to Know", date: "Apr 8, 2026", readTime: "8 min read", category: "Beginner", img: "/images/blog/beginner-fishing.jpg" },
+];
 
 const stateList: { name: string; slug: string; code: string }[] = [
   { name: "Alabama", slug: "alabama", code: "AL" },{ name: "Arizona", slug: "arizona", code: "AZ" },
@@ -52,6 +58,13 @@ export default function Home() {
   const [expanded, setExpanded] = useState(false);
   const visibleStates = useMemo(() => statesWithCounts.filter(s => s.count > 0), [statesWithCounts]);
   const showToggle = visibleStates.length > 15;
+
+  const topCities = useMemo(() => {
+    return [...(cityPages as Array<{ city: string; citySlug: string; count: number; stateSlug: string; stateName: string; state: string }>)]
+      .filter(c => c.count >= 3)
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 6);
+  }, []);
 
   const suggestions = useMemo(() => {
     if (query.length < 2) return [];
@@ -180,6 +193,31 @@ export default function Home() {
         )}
       </section>
 
+      {/* POPULAR CITIES */}
+      {topCities.length > 0 && (
+        <section className="py-10" style={{ background: 'linear-gradient(135deg, #EFF6FF 0%, #F8FAFB 100%)' }}>
+          <div className="max-w-5xl mx-auto px-4">
+            <div className="flex items-center justify-between mb-4">
+              <div>
+                <h2 className="font-[Cabin] text-xl font-bold text-charcoal">Popular Cities for Pier Fishing</h2>
+                <p className="text-gray-400 text-sm">Cities with the most public fishing piers on PierSeeker.</p>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+              {topCities.map((c) => (
+                <Link key={`${c.stateSlug}-${c.citySlug}`} href={`/cities/${c.stateSlug}-${c.citySlug}`} className="group bg-white rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-coral" style={{ boxShadow: '0 2px 8px rgba(0,0,0,0.06)' }}>
+                  <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-ocean transition text-sm">{c.city}</h3>
+                  <div className="flex items-center gap-2 mt-1">
+                    <span className="text-xs font-semibold bg-ocean/10 text-ocean px-2 py-0.5 rounded">{c.count} piers</span>
+                    <span className="text-gray-400 text-xs">&middot; {c.stateName}</span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       <AdSlot position="homepage-mid" />
 
       <section className="max-w-5xl mx-auto px-4 py-10">
@@ -278,15 +316,15 @@ export default function Home() {
           <Link href="/blog" className="text-sm font-semibold text-coral hover:text-coral-dark transition">All posts &rarr;</Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          {blogPosts.slice(0, 3).map((p) => (
+          {featuredPosts.map((p) => (
             <Link key={p.slug} href={`/blog/${p.slug}`} className="group bg-white rounded-xl overflow-hidden hover:shadow-lg hover:-translate-y-0.5 transition-all" style={{ boxShadow: '0 2px 8px rgba(0,0,0,0.06)' }}>
-              <div className="aspect-[16/9] flex items-center justify-center" style={{ background: p.gradient }}>
-                <span className="text-white/30 text-4xl font-bold font-[Cabin]">{p.category}</span>
+              <div className="overflow-hidden">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={p.img} alt={p.title} loading="lazy" decoding="async" className="w-full aspect-[16/9] object-cover group-hover:scale-105 transition-transform duration-500" />
               </div>
               <div className="p-4">
                 <p className="text-gray-400 text-xs mb-1">{p.date} &middot; {p.readTime}</p>
                 <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-ocean transition text-sm">{p.title}</h3>
-                <p className="text-gray-500 text-xs mt-2 leading-relaxed">{(p.description || "").substring(0, 120)}...</p>
               </div>
             </Link>
           ))}
