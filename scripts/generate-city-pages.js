@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
+const lastmod = new Date().toISOString().slice(0, 10);
+
 function slugify(s) { return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""); }
 
 const STATE_SLUGS = {AL:"alabama",AK:"alaska",AZ:"arizona",AR:"arkansas",CA:"california",CO:"colorado",CT:"connecticut",DE:"delaware",FL:"florida",GA:"georgia",HI:"hawaii",ID:"idaho",IL:"illinois",IN:"indiana",IA:"iowa",KS:"kansas",KY:"kentucky",LA:"louisiana",ME:"maine",MD:"maryland",MA:"massachusetts",MI:"michigan",MN:"minnesota",MS:"mississippi",MO:"missouri",MT:"montana",NE:"nebraska",NV:"nevada",NH:"new-hampshire",NJ:"new-jersey",NM:"new-mexico",NY:"new-york",NC:"north-carolina",ND:"north-dakota",OH:"ohio",OK:"oklahoma",OR:"oregon",PA:"pennsylvania",RI:"rhode-island",SC:"south-carolina",SD:"south-dakota",TN:"tennessee",TX:"texas",UT:"utah",VT:"vermont",VA:"virginia",WA:"washington",WV:"west-virginia",WI:"wisconsin",WY:"wyoming"};
@@ -42,7 +44,7 @@ const cities = Object.values(cityGroups).filter(c => c.count >= 2).map(c => ({
 
 fs.writeFileSync(path.join(dataDir, "city-pages.json"), JSON.stringify(cities, null, 2));
 
-const sitemapLines = cities.map(c => `  <url><loc>https://www.pierseeker.com/cities/${c.stateSlug}-${c.citySlug}</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
+const sitemapLines = cities.map(c => `  <url><loc>https://www.pierseeker.com/cities/${c.stateSlug}-${c.citySlug}</loc><lastmod>${lastmod}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
 fs.writeFileSync(path.join(__dirname, "..", "public", "sitemap-cities.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapLines.join("\n")}\n</urlset>`);
 
 console.log(`City pages: ${cities.length}`);
