@@ -79,12 +79,32 @@ export default function Home() {
     return results.slice(0, 8);
   }, [query]);
 
+  const faqItems = [
+    { q: "Do I need a fishing license to fish from a public pier?", a: "Most states exempt saltwater pier anglers from licensing, but freshwater pier fishing typically requires a state fishing license. Rules vary — check your state's fish and wildlife agency. Some municipal piers have additional permit requirements." },
+    { q: "What's the best time of day to fish from a pier?", a: "Early morning (dawn to mid-morning) and late afternoon (two hours before sunset) are typically the most productive windows. Tide changes matter more than time of day on saltwater piers — incoming tide tends to outproduce slack water." },
+    { q: "What's the difference between a fishing pier and a dock?", a: "A fishing pier is built for public angling — usually with rod holders, cleaning stations, and sometimes lights. A dock is primarily for boat access. PierSeeker lists both, but our directory tags pier-specific amenities clearly on each listing." },
+    { q: "Are most fishing piers free?", a: "Most public ocean and lake piers are free. Some commercial piers charge $5-10 daily access fees. Annual passes are common at popular saltwater piers in the Carolinas, Florida, and California. Fee information is included on PierSeeker listings where verified." },
+    { q: "Is PierSeeker free to use?", a: "Yes, completely free. No login, no account, no paid tier. We're funded by display advertising and listing partnerships. Find your pier and go." },
+  ];
+
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "WebSite", name: "PierSeeker", url: "https://www.pierseeker.com",
         description: `Find fishing piers across the United States. ${unified.length.toLocaleString()}+ piers with GPS coordinates, amenities, and tips.`,
         potentialAction: { "@type": "SearchAction", target: "https://www.pierseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
+      }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "Article",
+        headline: "How to Find a Fishing Pier Near You: The Complete Guide",
+        description: "Practical guide to choosing public fishing piers — saltwater vs. freshwater, tide windows, licensing rules, bait and rigs, and pier etiquette every angler should know.",
+        author: { "@type": "Organization", name: "PierSeeker Editorial", url: "https://www.pierseeker.com" },
+        publisher: { "@type": "Organization", name: "PierSeeker", url: "https://www.pierseeker.com" },
+        datePublished: "2026-04-29",
+        dateModified: "2026-04-29",
+        mainEntityOfPage: { "@type": "WebPage", "@id": "https://www.pierseeker.com" },
+        articleSection: "Fishing",
+        keywords: ["how to find a fishing pier", "pier fishing license", "saltwater pier fishing", "freshwater pier fishing", "tide windows pier", "pier fishing tackle", "pier fishing etiquette"],
       }) }} />
 
       {/* HERO — Full-bleed dramatic */}
@@ -171,6 +191,16 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ARTICLE HEADER */}
+      <article id="pier-guide" className="max-w-3xl mx-auto px-4 pt-12 pb-8">
+        <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-6 leading-tight">How to Find a Fishing Pier Near You: The Complete Guide</h1>
+        <div className="text-gray-700 leading-relaxed space-y-5">
+          <p>Pier fishing is the most accessible form of saltwater and freshwater fishing in America. No boat, no license restrictions on most public piers, no expensive gear required &mdash; just a rod, some bait, and a few hours. But the pier you choose makes more difference than the tackle you bring. Tide-flushed ocean piers near deepwater channels can produce king mackerel and tarpon. Lake piers in the right spot at the right hour deliver crappie, bass, and catfish. Pick the wrong pier and you&apos;ll spend the day watching someone else catch fish from a better one a mile away.</p>
+          <p>PierSeeker indexes more than 31,000 fishing piers, jetties, and public docks across 44 states, sourced from coastal management agencies, state fish and wildlife departments, municipal park systems, and OpenStreetMap contributors. We list pier length, amenity availability, and what species local anglers actually catch from each location &mdash; not just generic pier info copy-pasted across listings.</p>
+          <p>Below is PierSeeker&apos;s directory of fishing piers organized by state. Continue reading below the directory for the complete guide to choosing the right pier for your target species, understanding tide and weather windows, reading licensing rules state by state, and selecting bait and rigs that match the water you&apos;re fishing.</p>
+        </div>
+      </article>
+
       <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
         <div className={`grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2 ${showToggle ? "mb-6" : "mb-0"}`}>
@@ -192,6 +222,42 @@ export default function Home() {
           </div>
         )}
       </section>
+
+      {/* ARTICLE CONTINUATION */}
+      <article className="max-w-3xl mx-auto px-4 py-12">
+        <div className="border-t border-ocean/30 pt-6 mb-8">
+          <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold font-[Cabin]">Complete Guide Continues</p>
+        </div>
+        <div className="text-gray-700 leading-relaxed space-y-5">
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-2 mb-3">Why Choosing the Right Pier Matters</h2>
+          <p>Pier fishing rewards research more than almost any other shore-based fishing. The same stretch of coast can have one pier producing king mackerel during the morning incoming tide and another half a mile away producing nothing but sand sharks. Lake piers are the same &mdash; a public pier on a creek arm with submerged structure outproduces a flat shoreline pier by an order of magnitude on the right day. Picking the wrong pier costs you the fishable window. By the time you realize the bite is happening at the next pier over, the tide has shifted or the school has moved on.</p>
+          <p>The right pier matters most for visiting anglers who don&apos;t know the water. Locals know which pier holds bait in summer, which one warms up first in spring, and which one to avoid in afternoon onshore wind. A directory listing with amenity tags, species notes, and pier length gets you most of the way to local knowledge without the trial and error.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Saltwater vs. Freshwater Piers: What Changes</h2>
+          <p>Saltwater piers run on tides. Incoming tide pushes baitfish into the pier zone and predator species follow. Slack tide is dead time at most ocean piers, and outgoing tide can be productive but rarely matches an incoming. Saltwater also corrodes everything &mdash; line, hooks, swivels, reel components &mdash; so dedicated saltwater gear isn&apos;t optional if you&apos;re fishing more than a few times a year. Rod choice trends heavier: 7-to-9-foot medium-heavy or heavy spinning rods handle the larger species and longer casts pier fishing demands.</p>
+          <p>Freshwater piers have stable water levels and stable structure. Bass, crappie, catfish, and panfish are the typical targets, and lighter tackle works fine. Freshwater piers are usually less crowded and more relaxed than saltwater destinations, especially on weekday mornings. The trade-off is species variety &mdash; saltwater piers can hold a dozen catchable species in season; freshwater piers usually have three or four primary targets. Match your gear and expectations to the water type before you load the truck.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Reading Tides, Currents, and Weather Windows</h2>
+          <p>The best pier anglers think in tide windows, not clock hours. On saltwater piers, the most productive time is usually two hours either side of an incoming high tide &mdash; baitfish concentrate, predators feed actively, and currents carry scent toward the pier. NOAA tide tables and apps like Tide Charts make this simple to plan. Slack water (no tidal movement) is typically dead. Outgoing tides can produce, but the bite usually winds down quickly.</p>
+          <p>Weather amplifies or kills a tide window. Falling barometric pressure ahead of a front is famously productive &mdash; fish feed actively before the storm. Stable high pressure after a front is usually slow until conditions normalize. Onshore wind (blowing from water toward shore) pushes baitfish into the pier zone and is generally good. Strong offshore wind pushes bait away and makes casting miserable.</p>
+          <p>Time of day matters less than the tide and weather. That said, dawn and dusk are usually productive across pier types &mdash; light levels favor predators and bait moves into the shallows. Plan around the tide first, time of day second.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Licensing Rules: When You Need One, When You Don&apos;t</h2>
+          <p>Saltwater pier fishing is where the rules get generous. Florida, Texas, North Carolina, South Carolina, and several other states exempt anglers fishing from public ocean piers from saltwater fishing license requirements &mdash; the pier itself often holds a blanket license that covers everyone fishing from it. California has specific pier-fishing exemptions on most public piers. New Jersey and New York have similar provisions. Always confirm with the state&apos;s fish and wildlife agency, especially when crossing state lines.</p>
+          <p>Freshwater pier fishing almost always requires a state freshwater fishing license, and the rules are stricter. Senior, disabled, and youth exemptions exist in most states but vary in age cutoffs and proof requirements. A few states (Pennsylvania, for example) have specific lake-by-lake rules that override state-wide policy.</p>
+          <p>Some piers &mdash; especially commercial saltwater piers in Florida, North Carolina, and California &mdash; charge a daily access fee that includes the license coverage. Check the pier&apos;s posted rules before you fish, and keep a printed or digital copy of any required license on your phone. Wardens will check, and the fines exceed the license cost by ten times or more.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Bait, Rigs, and Tackle for Pier Fishing</h2>
+          <p>Saltwater pier rigs are simpler than most beginners assume. A standard fish-finder rig (sliding egg sinker above a swivel, two-foot leader, bait hook) handles most species. Pyramid sinkers in the 2-to-4-ounce range hold bottom in moderate current. Live or fresh-cut shrimp is the most universally productive bait &mdash; it catches everything from whiting and sheepshead to flounder and small mackerel. Cut squid, fresh mullet, and live finger mullet expand the range. For species like Spanish mackerel and bluefish, casting Gotcha plugs and metal spoons during a feeding blitz outperforms bait.</p>
+          <p>Freshwater pier setups are even simpler. A 6-to-7-foot medium spinning rod with 8-to-12-pound mono or braid handles most species. A slip bobber rig with live minnows or worms catches crappie, panfish, and small bass. For catfish, a basic Carolina rig with cut bait or chicken liver works. Don&apos;t overcomplicate the tackle box &mdash; three or four rigs and four or five bait options handle nearly every situation. Fancy gear catches anglers more than it catches fish.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Pier Fishing Etiquette and Safety</h2>
+          <p>A crowded pier is a shared workspace, and the regulars notice when someone doesn&apos;t follow the rules. Don&apos;t cast over other anglers&apos; lines &mdash; give at least one rod-length of clearance before you cast, and shorten your cast if the pier is shoulder-to-shoulder. If your line crosses someone else&apos;s, reel in fast and apologize. Repeat offenders get talked to; chronic offenders get reported.</p>
+          <p>Use the cleaning station. Most public piers have designated areas for cleaning fish, and the rules around discarding carcasses (back into water vs. trash) vary by location. Cleaning fish where people are walking is universally bad form.</p>
+          <p>Watch your footing. Pier boards get slick from spray, fish slime, and bait juice. Wear shoes with grippy soles &mdash; boat shoes, deck shoes, or trail runners. Flip-flops on a wet pier are how anglers end up in the water with a broken ankle. If a kid or beginner has a fish on, help them land it before you worry about your own line. Pier culture rewards this. So does watching a kid land their first decent fish.</p>
+        </div>
+      </article>
 
       {/* POPULAR CITIES */}
       {topCities.length > 0 && (
@@ -334,14 +400,13 @@ export default function Home() {
       <AdSlot position="homepage-pre-faq" />
 
       <section className="max-w-4xl mx-auto px-4 py-10">
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org", "@type": "FAQPage",
+          mainEntity: faqItems.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+        }) }} />
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
-          {[
-            { q: "How many fishing piers does PierSeeker cover?", a: `We have data on ${unified.length.toLocaleString()}+ fishing piers, docks, and jetties across ${stateList.length} states.` },
-            { q: "Is PierSeeker free?", a: "Yes, completely free. No login, no account needed. Just find your pier and go fish." },
-            { q: "What types of piers are included?", a: "Saltwater piers, freshwater docks, public jetties, fishing platforms, and any public fishing access point." },
-            { q: "Can I submit a pier you're missing?", a: "Yes! Email hello@pierseeker.com with the pier name and location." },
-          ].map((f, i) => (
+          {faqItems.map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-ocean transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
               <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
