@@ -35,3 +35,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .env.local
+
+# geocoding script progress (resumable, no need to track)
+scripts/.geocode-progress.json
