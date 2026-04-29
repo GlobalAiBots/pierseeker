@@ -1,0 +1,3535 @@
+[
+  {
+    "place_id": "osm_way_42186867",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2875698,
+    "longitude": -157.8421411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "man_made": "pier",
+      "mooring": "yes"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_42186874",
+    "name": "G",
+    "formatted_address": "",
+    "latitude": 21.284376,
+    "longitude": -157.8401331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_42186879",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2871617,
+    "longitude": -157.8430206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "man_made": "pier",
+      "mooring": "yes"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_99974741",
+    "name": "45 RBM",
+    "formatted_address": "",
+    "latitude": 21.9498905,
+    "longitude": -159.3600278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_100100063",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.9017373,
+    "longitude": -159.5895786,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_112677414",
+    "name": "Hanalei Pier",
+    "formatted_address": "",
+    "latitude": 22.212672,
+    "longitude": -159.4975675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "bicycle": "yes",
+      "floating": "no",
+      "foot": "yes",
+      "historic": "yes",
+      "horse": "no",
+      "man_made": "pier",
+      "motor_vehicle": "no",
+      "name": "Hanalei Pier",
+      "ref:nrhp": "79000757",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_131567939",
+    "name": "Kailua Pier",
+    "formatted_address": "",
+    "latitude": 19.6391669,
+    "longitude": -155.9969656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "historic": "monument",
+      "man_made": "pier",
+      "name": "Kailua Pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_144677122",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2783319,
+    "longitude": -157.7056374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_159940090",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.450909,
+    "longitude": -157.7780126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_164010905",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4185851,
+    "longitude": -157.7903779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_164011267",
+    "name": "Fuel Dock",
+    "formatted_address": "",
+    "latitude": 21.4380131,
+    "longitude": -157.7648367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "marines",
+      "mooring": "private",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_165627415",
+    "name": "F-5",
+    "formatted_address": "",
+    "latitude": 21.3624464,
+    "longitude": -157.9534605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "alt_name": "S378",
+      "area": "yes",
+      "description": "In 1992 a large pier was built alongside the 1944 F 5 pier, and the new one kept the same designations (F 5 mooring and Fac. S 378). Originally intended for an aircraft carrier, the USS Missouri is now moored here.",
+      "floating": "no",
+      "man_made": "pier",
+      "mooring": "yes",
+      "name": "F-5",
+      "note": "Name from NOAA Electronic Nautical Chart",
+      "seamark:berth:name": "F-5",
+      "seamark:type": "berth",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "start_date": "1992",
+      "surface": "concrete",
+      "tourism": "attraction"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_165627422",
+    "name": "USS Nevada BB-36 Mooring Quay",
+    "formatted_address": "",
+    "latitude": 21.3645899,
+    "longitude": -157.9497908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_165628661",
+    "name": "F9",
+    "formatted_address": "",
+    "latitude": 21.3658589,
+    "longitude": -157.9662602,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "alt_name": "S384",
+      "area": "yes",
+      "description": "wharf",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "image": "https://www.dvidshub.net/image/2246529/coast-guard-station-honolulu-tactical-small-boat-training",
+      "landuse": "commercial",
+      "man_made": "pier",
+      "mooring": "yes",
+      "name": "F9",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "seamark:berth:name": "F9",
+      "seamark:type": "berth",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1941",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_165628663",
+    "name": "S382",
+    "formatted_address": "",
+    "latitude": 21.3705823,
+    "longitude": -157.960053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "description": "wharf",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "name": "S382",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1943",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_192238897",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.5942423,
+    "longitude": -158.1049724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_192389574",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3288269,
+    "longitude": -158.1200335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "source": "Bing"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_193043163",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.6691356,
+    "longitude": -156.0232142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_193043164",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.6693926,
+    "longitude": -156.0219305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_205182846",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.7418519,
+    "longitude": -156.8886121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_209815621",
+    "name": "Makai Pier",
+    "formatted_address": "",
+    "latitude": 21.3192408,
+    "longitude": -157.6690895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Makai Pier",
+      "tiger:cfcc": "A71",
+      "tiger:county": "Honolulu, HI",
+      "tiger:name_base": "Makai Pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_221439808",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3249965,
+    "longitude": -157.9742599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_222640135",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3117437,
+    "longitude": -157.919423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_223216361",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3165247,
+    "longitude": -157.9527595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "yes",
+      "landuse": "recreation_ground",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_223216363",
+    "name": "Pier No. 1",
+    "formatted_address": "",
+    "latitude": 21.3300149,
+    "longitude": -157.9670536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "army",
+      "mooring": "yes",
+      "name": "Pier No. 1",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0900/hi0925/data/hi0925data.pdf",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_232197820",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.449689,
+    "longitude": -158.1976723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_232197821",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4492144,
+    "longitude": -158.1971606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_232237548",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.7562314,
+    "longitude": -155.9820339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_232497682",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.7273834,
+    "longitude": -155.0693642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_286900390",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.8719579,
+    "longitude": -156.6787337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_288995871",
+    "name": "Ahukini State Recreational Pier",
+    "formatted_address": "",
+    "latitude": 21.9924479,
+    "longitude": -159.332544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "Ahukini State Recreational Pier",
+      "website": "https://dlnr.hawaii.gov/dsp/parks/kauai/ahukini-state-recreational-pier/"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_289835432",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.896207,
+    "longitude": -156.4781501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "mooring": "yes"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_289835433",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.895519,
+    "longitude": -156.4652569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_303421044",
+    "name": "29 RBS",
+    "formatted_address": "",
+    "latitude": 20.7902778,
+    "longitude": -156.5122679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_305092199",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2920715,
+    "longitude": -157.856356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_305092201",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2929182,
+    "longitude": -157.8556456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_317144661",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2804322,
+    "longitude": -157.8382388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_317845561",
+    "name": "16 & 17",
+    "formatted_address": "",
+    "latitude": 21.3133609,
+    "longitude": -157.8664635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "name": "16 & 17"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_325519682",
+    "name": "37",
+    "formatted_address": "",
+    "latitude": 21.316572,
+    "longitude": -157.878329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "37"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_325564944",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3205202,
+    "longitude": -157.8931685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_325564949",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3181478,
+    "longitude": -157.8922545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_325564955",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3171573,
+    "longitude": -157.8916999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_345954551",
+    "name": "S370",
+    "formatted_address": "",
+    "latitude": 21.3599751,
+    "longitude": -157.9579772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "industrial": "port",
+      "landuse": "industrial",
+      "man_made": "pier",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_391038061",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.5614826,
+    "longitude": -155.9623795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_391045876",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.561152,
+    "longitude": -155.9625598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_421395968",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.8297982,
+    "longitude": -156.8110105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_435849261",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2882307,
+    "longitude": -157.8321495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_447039756",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.78099,
+    "longitude": -156.4629183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_447239141",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 20.7910558,
+    "longitude": -156.5131472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_447543561",
+    "name": "Heʻeia Kea State Pier",
+    "formatted_address": "",
+    "latitude": 21.4433621,
+    "longitude": -157.8105529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "alt_name": "Kaneohe Fishing Pier",
+      "area": "yes",
+      "man_made": "pier",
+      "name": "Heʻeia Kea State Pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_449507778",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.5108906,
+    "longitude": -157.8481574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_449507780",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.512368,
+    "longitude": -157.8458427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_451679468",
+    "name": "Hotel Pier",
+    "formatted_address": "",
+    "latitude": 21.3663217,
+    "longitude": -157.939594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_452831988",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4324617,
+    "longitude": -157.7908665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_452831989",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4328553,
+    "longitude": -157.7902564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "mooring": "private"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_462014686",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.7149347,
+    "longitude": -155.0731012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_462872703",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3786362,
+    "longitude": -157.9662604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_527816028",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4174496,
+    "longitude": -157.7877241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_527816033",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.417063,
+    "longitude": -157.7874858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_527816062",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4120027,
+    "longitude": -157.777041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_527816069",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4125826,
+    "longitude": -157.7759772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_530019272",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4273915,
+    "longitude": -157.791266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_589106708",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.7306542,
+    "longitude": -155.0566809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_589524987",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.7323622,
+    "longitude": -155.0287869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_624976521",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.5056617,
+    "longitude": -157.8511395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_624978292",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.5138376,
+    "longitude": -157.8440466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_633802394",
+    "name": "Waimea State Recreation Pier",
+    "formatted_address": "",
+    "latitude": 21.9540481,
+    "longitude": -159.6705398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "covered": "yes",
+      "floating": "no",
+      "lit": "no",
+      "man_made": "pier",
+      "name": "Waimea State Recreation Pier",
+      "website": "https://hawaiistateparks.org/parks/kauai/waimea-state-recreational-pier/",
+      "width": "3"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_657974960",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 22.0462753,
+    "longitude": -159.3407861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_659804760",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 22.0634374,
+    "longitude": -159.400559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_672985426",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3303173,
+    "longitude": -158.1170167,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_672985429",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3265586,
+    "longitude": -158.1205331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_818162135",
+    "name": "S35",
+    "formatted_address": "",
+    "latitude": 21.36459,
+    "longitude": -157.9745732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "note": "Not included in Pearl Harbor Naval Station National Historic Landmark",
+      "protection_title": "U.S. Navy",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_886441058",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.9532118,
+    "longitude": -159.3588857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_886441062",
+    "name": "Pier 2",
+    "formatted_address": "",
+    "latitude": 21.9547025,
+    "longitude": -159.353532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_886502448",
+    "name": "5",
+    "formatted_address": "",
+    "latitude": 21.3031931,
+    "longitude": -157.8642685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_886504937",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2751865,
+    "longitude": -157.7593998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_886504948",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.273494,
+    "longitude": -157.7572484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_886655246",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3074253,
+    "longitude": -157.873351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "landuse": "military",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_886655247",
+    "name": "Patrol Boat Pier",
+    "formatted_address": "",
+    "latitude": 21.3079919,
+    "longitude": -157.8737322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "waterway:type": "boat_lift"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_887043588",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3120755,
+    "longitude": -157.8896029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_887363143",
+    "name": "Pier 52",
+    "formatted_address": "",
+    "latitude": 21.3122826,
+    "longitude": -157.8788669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "Pier 52",
+      "source_ref": "https://hidot.hawaii.gov/harbors/files/2012/10/Honolulu-Harbor-Oahu.pdf"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_887363145",
+    "name": "Pier 51A",
+    "formatted_address": "",
+    "latitude": 21.3139142,
+    "longitude": -157.8850478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "Pier 51A",
+      "source_ref": "https://hidot.hawaii.gov/harbors/files/2012/10/Honolulu-Harbor-Oahu.pdf"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_887553114",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.367789,
+    "longitude": -157.9636947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_929383174",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3706974,
+    "longitude": -157.9373876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_929383175",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.370292,
+    "longitude": -157.937696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "floating": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_935468923",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4171091,
+    "longitude": -157.7674644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_935468924",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4174965,
+    "longitude": -157.7685837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_935468925",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.4179676,
+    "longitude": -157.7676858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1004457074",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3690498,
+    "longitude": -157.9458086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "bridge:support": "pier",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1013185075",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2919948,
+    "longitude": -157.8575047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1020377459",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3205003,
+    "longitude": -158.1159391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1119258976",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 19.0842308,
+    "longitude": -155.5506242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "abandoned": "yes",
+      "man_made": "pier",
+      "ruins": "yes"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1254597045",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3135229,
+    "longitude": -157.8949014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1255945862",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.316409,
+    "longitude": -157.9484571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1256561086",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3254704,
+    "longitude": -157.9654254,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "brownfield",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1256590315",
+    "name": "Army Wharf",
+    "formatted_address": "",
+    "latitude": 21.3260007,
+    "longitude": -157.9706084,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "description": "This Army pier was at Fort Weaver, which is now part of the Navy's Iroquois Point housing area. The Navy had to rebuild this pier in 1937, as a result of dredging the channel under a Navy contract.",
+      "disused": "yes",
+      "historic": "military",
+      "landuse": "brownfield",
+      "man_made": "pier",
+      "name": "Army Wharf",
+      "protection_title": "U.S. Navy",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "start_date": "1937",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1256599564",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3318811,
+    "longitude": -157.9727883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "yes",
+      "landuse": "recreation_ground",
+      "man_made": "pier",
+      "mooring": "yes"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1256599567",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3343523,
+    "longitude": -157.9730161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1257060053",
+    "name": "Coal Dock O1",
+    "formatted_address": "",
+    "latitude": 21.3444201,
+    "longitude": -157.9655676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "area": "yes",
+      "description": "Originally built as a coaling dock. The coal facilities were removed by the start of WWII.",
+      "disused": "yes",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "no",
+      "name": "Coal Dock O1",
+      "note": "Name from NOAA Electronic Nautical Chart",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "source_ref2": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0800/hi0802/data/hi0802data.pdf",
+      "start_date": "1915",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1258127827",
+    "name": "C Landing",
+    "formatted_address": "",
+    "latitude": 21.3517446,
+    "longitude": -157.9643492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "alt_name": "S773",
+      "area": "yes",
+      "description": "Boat Landing",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "name": "C Landing",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1940",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1258127837",
+    "name": "Repair Pier GD1-2",
+    "formatted_address": "",
+    "latitude": 21.3526642,
+    "longitude": -157.9585148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "name": "Repair Pier GD1-2",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1944",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1258127838",
+    "name": "Repair Pier B3-4",
+    "formatted_address": "",
+    "latitude": 21.3562728,
+    "longitude": -157.9546088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "area": "yes",
+      "description": "Repair Pier",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "name": "Repair Pier B3-4",
+      "note": "Name from NOAA Electronic Nautical Chart",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1928",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1258127842",
+    "name": "Repair Pier B10-12",
+    "formatted_address": "",
+    "latitude": 21.3552618,
+    "longitude": -157.9523822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "area": "yes",
+      "description": "Repair Pier",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "name": "Repair Pier B10-12",
+      "note": "Name from NOAA Electronic Nautical Chart",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1928",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1262816709",
+    "name": "S10",
+    "formatted_address": "",
+    "latitude": 21.354643,
+    "longitude": -157.9442333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1262816712",
+    "name": "1193",
+    "formatted_address": "",
+    "latitude": 21.352947,
+    "longitude": -157.9399939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "description": "finger pier",
+      "floating": "yes",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "mooring": "private",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1945"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1262816716",
+    "name": "S19",
+    "formatted_address": "",
+    "latitude": 21.3590353,
+    "longitude": -157.941871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "description": "Berthing Pier",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1944",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1262816726",
+    "name": "Supply Wharf",
+    "formatted_address": "",
+    "latitude": 21.3606685,
+    "longitude": -157.946288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "name": "Supply Wharf",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1940",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1263209387",
+    "name": "S22",
+    "formatted_address": "",
+    "latitude": 21.3730265,
+    "longitude": -157.9360348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1263441687",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3627244,
+    "longitude": -157.968081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1263441688",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3606683,
+    "longitude": -157.9688342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1263441689",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3569287,
+    "longitude": -157.9661124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1263441693",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3676643,
+    "longitude": -157.9476523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1264755666",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3487226,
+    "longitude": -157.9895929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "protection_title": "U.S. Navy",
+      "source": "Historic American Engineering Record (HAER) Hawaii-53 (HI-53)",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "start_date": "1943",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1264755667",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3503739,
+    "longitude": -157.9928584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "man_made": "pier",
+      "seamark:mooring:category": "dolphin",
+      "seamark:type": "mooring"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1264755674",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3529116,
+    "longitude": -157.9985861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "private",
+      "protection_title": "U.S. Navy",
+      "source": "Historic American Engineering Record (HAER) Hawaii-53 (HI-53)",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "start_date": "1932",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1264762163",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3583671,
+    "longitude": -158.021799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "floating": "no",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1264772065",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.367098,
+    "longitude": -158.0185697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1264772066",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3666377,
+    "longitude": -158.0174032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1264959491",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3702988,
+    "longitude": -158.0203443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1265105415",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3748676,
+    "longitude": -157.977572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1265105417",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3754728,
+    "longitude": -157.9764593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "abandoned": "pier",
+      "area": "yes",
+      "man_made": "pier",
+      "mooring": "no",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1265105425",
+    "name": "V-2",
+    "formatted_address": "",
+    "latitude": 21.3699759,
+    "longitude": -157.9703491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "name": "V-2",
+      "protection_title": "U.S. Navy",
+      "source": "Historic American Engineering Record (HAER) Hawaii-53 (HI-53)",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1265105426",
+    "name": "V-1",
+    "formatted_address": "",
+    "latitude": 21.3713172,
+    "longitude": -157.9729191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "name": "V-1",
+      "protection_title": "U.S. Navy",
+      "source": "Historic American Engineering Record (HAER) Hawaii-53 (HI-53)",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1265127453",
+    "name": "V-4",
+    "formatted_address": "",
+    "latitude": 21.3727148,
+    "longitude": -157.967134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "floating": "no",
+      "historic": "naval",
+      "landuse": "military",
+      "man_made": "pier",
+      "military_service": "navy",
+      "mooring": "yes",
+      "name": "V-4",
+      "protection_title": "U.S. Navy",
+      "source": "Historic American Engineering Record (HAER) Hawaii-53 (HI-53)",
+      "source_ref": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1267280468",
+    "name": "K1",
+    "formatted_address": "",
+    "latitude": 21.3583011,
+    "longitude": -157.9483757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "description": "Supply Wharf",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "name": "K1",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "seamark:berth:name": "K1",
+      "seamark:type": "berth",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1912"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1267280475",
+    "name": "K10",
+    "formatted_address": "",
+    "latitude": 21.3625088,
+    "longitude": -157.9446937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "description": "Supply Wharf",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "name": "K10",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "seamark:berth:name": "K10",
+      "seamark:type": "berth",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1940"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1268138563",
+    "name": "M2",
+    "formatted_address": "",
+    "latitude": 21.3517218,
+    "longitude": -157.9435165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "description": "Berth Wharf",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "mooring": "yes",
+      "name": "M2",
+      "note": "Name from NOAA Electronic Nautical Chart",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "seamark:berth:name": "M2",
+      "seamark:type": "berth",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1922",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1268176809",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3627782,
+    "longitude": -157.9533041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "alt_name": "S378",
+      "area": "yes",
+      "description": "One of two remaining historic pier remnants that remain from the original F5/S378 pier built in 1944.",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "mooring": "no",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "source_ref2": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0600/hi0645/data/hi0645data.pdf",
+      "start_date": "1944",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1269876586",
+    "name": "GD4",
+    "formatted_address": "",
+    "latitude": 21.3522704,
+    "longitude": -157.9599983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "description": "Repair Wharf",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "mooring": "yes",
+      "name": "GD4",
+      "note": "Name from NOAA Electronic Nautical Chart",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "seamark:berth:name": "GD4",
+      "seamark:type": "berth",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1944",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1269876598",
+    "name": "B19",
+    "formatted_address": "",
+    "latitude": 21.3522619,
+    "longitude": -157.9522324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "private",
+      "description": "Repair Wharf",
+      "floating": "no",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+      "historic": "naval",
+      "man_made": "pier",
+      "mooring": "yes",
+      "name": "B19",
+      "note": "Name from NOAA Electronic Nautical Chart",
+      "nrhp:criteria": "(A)",
+      "nrhp:inscription_date": "1975-01-27",
+      "nrhp:nhl": "yes",
+      "protection_title": "U.S. Navy",
+      "ref:nrhp": "66000940",
+      "seamark:berth:name": "B19",
+      "seamark:type": "berth",
+      "source_ref": "https://catalog.archives.gov/id/63815536",
+      "start_date": "1928",
+      "surface": "concrete"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1300978937",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3846342,
+    "longitude": -157.9899055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "area": "yes",
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1447084651",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2875466,
+    "longitude": -157.8426384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225817",
+    "name": "24",
+    "formatted_address": "",
+    "latitude": 21.3114985,
+    "longitude": -157.8704465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "24"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225828",
+    "name": "39A",
+    "formatted_address": "",
+    "latitude": 21.318691,
+    "longitude": -157.8794854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "39A"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225840",
+    "name": "41",
+    "formatted_address": "",
+    "latitude": 21.3184264,
+    "longitude": -157.8830131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "41"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225844",
+    "name": "60",
+    "formatted_address": "",
+    "latitude": 21.3237233,
+    "longitude": -157.894244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "60"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225845",
+    "name": "14",
+    "formatted_address": "",
+    "latitude": 21.3116244,
+    "longitude": -157.8654942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "ref": "15"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225850",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.2977464,
+    "longitude": -157.8684095,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "ref": "1"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225851",
+    "name": "Fishing Pier",
+    "formatted_address": "",
+    "latitude": 21.3011864,
+    "longitude": -157.8659085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "ref": "2"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_1459225854",
+    "name": "32",
+    "formatted_address": "",
+    "latitude": 21.3129632,
+    "longitude": -157.8766557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "man_made": "pier",
+      "name": "32"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_node_7202704326",
+    "name": "May's Landing",
+    "formatted_address": "",
+    "latitude": 20.6467642,
+    "longitude": -156.0685952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "May's Landing",
+      "waterway": "dock"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  },
+  {
+    "place_id": "osm_way_450126453",
+    "name": "Kihei Boat Ramp Harbor",
+    "formatted_address": "",
+    "latitude": 20.7079405,
+    "longitude": -156.4464362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": null,
+    "types": [
+      "fishing_pier"
+    ],
+    "business_status": null,
+    "osm_type": "way",
+    "osm_tags": {
+      "harbour": "yes",
+      "name": "Kihei Boat Ramp Harbor",
+      "waterway": "dock"
+    },
+    "state": "Hawaii",
+    "stateAbbr": "HI"
+  }
+]

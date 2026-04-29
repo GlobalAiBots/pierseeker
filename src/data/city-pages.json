@@ -20,6 +20,26 @@
     "lng": -81.04456188490565
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Anne Arundel County",
+    "citySlug": "anne-arundel-county",
+    "count": 104,
+    "lat": 38.96485016826924,
+    "lng": -76.51167902115381
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Queen Anne's County",
+    "citySlug": "queen-anne-s-county",
+    "count": 104,
+    "lat": 38.947211384615414,
+    "lng": -76.24196631634616
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -40,6 +60,36 @@
     "lng": -87.748570145977
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Talbot County",
+    "citySlug": "talbot-county",
+    "count": 83,
+    "lat": 38.75976209156628,
+    "lng": -76.12230653253016
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Dorchester County",
+    "citySlug": "dorchester-county",
+    "count": 80,
+    "lat": 38.46998198875,
+    "lng": -76.0870460125
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Saint Mary's County",
+    "citySlug": "saint-mary-s-county",
+    "count": 78,
+    "lat": 38.18713288076923,
+    "lng": -76.56179896794872
+  },
+  {
     "state": "ID",
     "stateName": "Idaho",
     "stateSlug": "idaho",
@@ -48,6 +98,16 @@
     "count": 73,
     "lat": 47.645678497260256,
     "lng": -116.7617498945205
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Kent County",
+    "citySlug": "kent-county",
+    "count": 70,
+    "lat": 39.234967811428575,
+    "lng": -76.13560152857139
   },
   {
     "state": "DE",
@@ -70,6 +130,16 @@
     "lng": -81.87039016521736
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Charles County",
+    "citySlug": "charles-county",
+    "count": 65,
+    "lat": 38.37547522615384,
+    "lng": -77.0137755430769
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -90,6 +160,16 @@
     "lng": -68.8632322063492
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Caroline County",
+    "citySlug": "caroline-county",
+    "count": 63,
+    "lat": 38.81178443174602,
+    "lng": -75.92855270317457
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -98,6 +178,16 @@
     "count": 59,
     "lat": 29.971507006779664,
     "lng": -90.02800793050845
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Spotsylvania County",
+    "citySlug": "spotsylvania-county",
+    "count": 59,
+    "lat": 38.11640881016949,
+    "lng": -77.77228914576274
   },
   {
     "state": "CA",
@@ -120,6 +210,16 @@
     "lng": -89.69221264561405
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Dundalk",
+    "citySlug": "dundalk",
+    "count": 56,
+    "lat": 39.26199221607144,
+    "lng": -76.46312917321428
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -128,6 +228,26 @@
     "count": 55,
     "lat": 29.92918657818182,
     "lng": -90.14124121818178
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Louisa County",
+    "citySlug": "louisa-county",
+    "count": 54,
+    "lat": 38.06073081296296,
+    "lng": -77.84472672037037
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Cecil County",
+    "citySlug": "cecil-county",
+    "count": 54,
+    "lat": 39.49634938888888,
+    "lng": -75.93303126666667
   },
   {
     "state": "ME",
@@ -148,6 +268,26 @@
     "count": 51,
     "lat": 38.03453439411764,
     "lng": -89.02524012549019
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Stafford County",
+    "citySlug": "stafford-county",
+    "count": 50,
+    "lat": 38.43475308599999,
+    "lng": -77.37259341
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Worcester County",
+    "citySlug": "worcester-county",
+    "count": 49,
+    "lat": 38.285159126530615,
+    "lng": -75.18488140816328
   },
   {
     "state": "ID",
@@ -220,6 +360,16 @@
     "lng": -81.29630029761904
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Somerset County",
+    "citySlug": "somerset-county",
+    "count": 42,
+    "lat": 38.126817247619044,
+    "lng": -75.9046583809524
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -230,6 +380,26 @@
     "lng": -93.90274870769231
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Towson",
+    "citySlug": "towson",
+    "count": 39,
+    "lat": 39.50377733846154,
+    "lng": -76.6108434923077
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Fairfax County",
+    "citySlug": "fairfax-county",
+    "count": 38,
+    "lat": 38.70831276578947,
+    "lng": -77.18526715
+  },
+  {
     "state": "IL",
     "stateName": "Illinois",
     "stateSlug": "illinois",
@@ -238,6 +408,16 @@
     "count": 37,
     "lat": 37.6680785,
     "lng": -89.02826393513514
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Harford County",
+    "citySlug": "harford-county",
+    "count": 37,
+    "lat": 39.48236006756756,
+    "lng": -76.28902500000001
   },
   {
     "state": "FL",
@@ -290,6 +470,16 @@
     "lng": -81.75097660882355
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Glen Burnie",
+    "citySlug": "glen-burnie",
+    "count": 34,
+    "lat": 39.12534232058823,
+    "lng": -76.55593654411767
+  },
+  {
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
@@ -330,6 +520,16 @@
     "lng": -70.65998378125
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Prince William County",
+    "citySlug": "prince-william-county",
+    "count": 32,
+    "lat": 38.64362615625,
+    "lng": -77.32161879687499
+  },
+  {
     "state": "GA",
     "stateName": "Georgia",
     "stateSlug": "georgia",
@@ -348,6 +548,16 @@
     "count": 30,
     "lat": 41.92405337333334,
     "lng": -87.82327743333332
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Calvert County",
+    "citySlug": "calvert-county",
+    "count": 30,
+    "lat": 38.41725251333333,
+    "lng": -76.48935185333335
   },
   {
     "state": "AL",
@@ -378,6 +588,16 @@
     "count": 29,
     "lat": 44.27917422758622,
     "lng": -68.40553206206897
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Wicomico County",
+    "citySlug": "wicomico-county",
+    "count": 29,
+    "lat": 38.32802621724137,
+    "lng": -75.77561472758622
   },
   {
     "state": "ID",
@@ -778,6 +998,26 @@
     "count": 18,
     "lat": 43.152355099999994,
     "lng": -70.65510563888887
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Baltimore",
+    "citySlug": "baltimore",
+    "count": 18,
+    "lat": 39.23493299444445,
+    "lng": -76.58496501666667
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Washington",
+    "citySlug": "washington",
+    "count": 18,
+    "lat": 38.86441838333333,
+    "lng": -77.02634527777779
   },
   {
     "state": "LA",
@@ -1300,6 +1540,26 @@
     "lng": -86.09844606666667
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Carroll County",
+    "citySlug": "carroll-county",
+    "count": 12,
+    "lat": 39.550300933333325,
+    "lng": -77.00377917499999
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Prince George's County",
+    "citySlug": "prince-george-s-county",
+    "count": 12,
+    "lat": 38.749524975,
+    "lng": -76.84722874166665
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -1660,6 +1920,16 @@
     "lng": -70.44696274
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Baltimore County",
+    "citySlug": "baltimore-county",
+    "count": 10,
+    "lat": 39.49157666,
+    "lng": -76.65425375999999
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -1868,6 +2138,26 @@
     "count": 9,
     "lat": 43.95256185555555,
     "lng": -69.30491092222222
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Montgomery County",
+    "citySlug": "montgomery-county",
+    "count": 9,
+    "lat": 39.16808883333333,
+    "lng": -77.30650138888889
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Westmoreland County",
+    "citySlug": "westmoreland-county",
+    "count": 9,
+    "lat": 38.18983875555555,
+    "lng": -76.84277958888889
   },
   {
     "state": "AL",
@@ -2248,6 +2538,66 @@
     "count": 8,
     "lat": 43.9949904,
     "lng": -69.3939428625
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "King George County",
+    "citySlug": "king-george-county",
+    "count": 8,
+    "lat": 38.2820256125,
+    "lng": -77.1415406625
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Fauquier County",
+    "citySlug": "fauquier-county",
+    "count": 8,
+    "lat": 38.681300225,
+    "lng": -77.7879514
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Loudoun County",
+    "citySlug": "loudoun-county",
+    "count": 8,
+    "lat": 38.9804293625,
+    "lng": -77.562767975
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Colonial Beach",
+    "citySlug": "colonial-beach",
+    "count": 8,
+    "lat": 38.2430815125,
+    "lng": -76.9646365625
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Orange County",
+    "citySlug": "orange-county",
+    "count": 8,
+    "lat": 38.1939605625,
+    "lng": -78.067048725
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Albemarle County",
+    "citySlug": "albemarle-county",
+    "count": 8,
+    "lat": 38.0963090875,
+    "lng": -78.5053679375
   },
   {
     "state": "AL",
@@ -3048,6 +3398,26 @@
     "count": 6,
     "lat": 43.86673931666667,
     "lng": -69.56219001666666
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Frederick County",
+    "citySlug": "frederick-county",
+    "count": 6,
+    "lat": 39.235580299999995,
+    "lng": -78.15906033333333
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Madison County",
+    "citySlug": "madison-county",
+    "count": 6,
+    "lat": 38.34976708333334,
+    "lng": -78.18915021666668
   },
   {
     "state": "AL",
@@ -5030,6 +5400,56 @@
     "lng": -70.556486375
   },
   {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Annapolis",
+    "citySlug": "annapolis",
+    "count": 4,
+    "lat": 38.96868125,
+    "lng": -76.48514345
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Reston",
+    "citySlug": "reston",
+    "count": 4,
+    "lat": 38.917858675,
+    "lng": -77.33058234999999
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Ocean City",
+    "citySlug": "ocean-city",
+    "count": 4,
+    "lat": 38.371985699999996,
+    "lng": -75.07381667499999
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Culpeper County",
+    "citySlug": "culpeper-county",
+    "count": 4,
+    "lat": 38.46695475,
+    "lng": -78.0299088
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Howard County",
+    "citySlug": "howard-county",
+    "count": 4,
+    "lat": 39.340595975,
+    "lng": -77.039865175
+  },
+  {
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
@@ -6508,6 +6928,106 @@
     "count": 3,
     "lat": 47.47210116666667,
     "lng": -70.903371
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Berkeley County",
+    "citySlug": "berkeley-county",
+    "count": 3,
+    "lat": 39.49377466666667,
+    "lng": -78.06714806666666
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Havre de Grace",
+    "citySlug": "havre-de-grace",
+    "count": 3,
+    "lat": 39.545296,
+    "lng": -76.09002476666666
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Columbia",
+    "citySlug": "columbia",
+    "count": 3,
+    "lat": 39.17988286666667,
+    "lng": -76.83406146666665
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Pocomoke City",
+    "citySlug": "pocomoke-city",
+    "count": 3,
+    "lat": 38.077999999999996,
+    "lng": -75.56949543333333
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Page County",
+    "citySlug": "page-county",
+    "count": 3,
+    "lat": 38.606457666666664,
+    "lng": -78.41846106666667
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Morgan County",
+    "citySlug": "morgan-county",
+    "count": 3,
+    "lat": 39.525492533333335,
+    "lng": -78.32067210000001
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Charlestown",
+    "citySlug": "charlestown",
+    "count": 3,
+    "lat": 39.57171563333333,
+    "lng": -75.97138273333333
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Augusta County",
+    "citySlug": "augusta-county",
+    "count": 3,
+    "lat": 38.19851233333333,
+    "lng": -79.22922496666666
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Alexandria",
+    "citySlug": "alexandria",
+    "count": 3,
+    "lat": 38.8021738,
+    "lng": -77.06059143333333
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Sussex County",
+    "citySlug": "sussex-county",
+    "count": 3,
+    "lat": 38.4683967,
+    "lng": -75.09186443333334
   },
   {
     "state": "AL",
@@ -9128,5 +9648,85 @@
     "count": 2,
     "lat": 47.423961649999995,
     "lng": -69.47185465000001
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Gaithersburg",
+    "citySlug": "gaithersburg",
+    "count": 2,
+    "lat": 39.117126150000004,
+    "lng": -77.1981517
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Chesapeake City",
+    "citySlug": "chesapeake-city",
+    "count": 2,
+    "lat": 39.52794075,
+    "lng": -75.81200415
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Denton",
+    "citySlug": "denton",
+    "count": 2,
+    "lat": 38.87971025,
+    "lng": -75.836669
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Rappahannock County",
+    "citySlug": "rappahannock-county",
+    "count": 2,
+    "lat": 38.65847585,
+    "lng": -78.20323545
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Washington County",
+    "citySlug": "washington-county",
+    "count": 2,
+    "lat": 39.494910450000006,
+    "lng": -77.6719659
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Grant County",
+    "citySlug": "grant-county",
+    "count": 2,
+    "lat": 39.029216149999996,
+    "lng": -79.2123857
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Salisbury",
+    "citySlug": "salisbury",
+    "count": 2,
+    "lat": 38.362676750000006,
+    "lng": -75.60535375
+  },
+  {
+    "state": "MD",
+    "stateName": "Maryland",
+    "stateSlug": "maryland",
+    "city": "Rockingham County",
+    "citySlug": "rockingham-county",
+    "count": 2,
+    "lat": 38.35898025,
+    "lng": -78.73042485
   }
 ]
