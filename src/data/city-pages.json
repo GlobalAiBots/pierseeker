@@ -5,9 +5,9 @@
     "stateSlug": "alabama",
     "city": "Baldwin County",
     "citySlug": "baldwin-county",
-    "count": 166,
-    "lat": 30.48007984036147,
-    "lng": -87.7946800301205
+    "count": 167,
+    "lat": 30.48026736766469,
+    "lng": -87.79260900179644
   },
   {
     "state": "IL",
@@ -58,6 +58,26 @@
     "count": 88,
     "lat": 29.486917634090904,
     "lng": -89.66666418863637
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Diego",
+    "citySlug": "san-diego",
+    "count": 86,
+    "lat": 32.75331463023255,
+    "lng": -117.20044807441862
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Placer County",
+    "citySlug": "placer-county",
+    "count": 83,
+    "lat": 39.15917757108433,
+    "lng": -120.18008174216867
   },
   {
     "state": "MD",
@@ -140,6 +160,26 @@
     "lng": -81.87039016521736
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Sitka",
+    "citySlug": "sitka",
+    "count": 68,
+    "lat": 57.03377282941175,
+    "lng": -135.2619504455882
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Francisco",
+    "citySlug": "san-francisco",
+    "count": 68,
+    "lat": 37.782851383823555,
+    "lng": -122.41019673088233
+  },
+  {
     "state": "MD",
     "stateName": "Maryland",
     "stateSlug": "maryland",
@@ -148,6 +188,16 @@
     "count": 65,
     "lat": 38.37547522615384,
     "lng": -77.0137755430769
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Matanuska-Susitna Borough",
+    "citySlug": "matanuska-susitna-borough",
+    "count": 64,
+    "lat": 61.74943422656251,
+    "lng": -149.78481519375
   },
   {
     "state": "ME",
@@ -190,16 +240,6 @@
     "lng": -77.77228914576274
   },
   {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "San Diego",
-    "citySlug": "san-diego",
-    "count": 58,
-    "lat": 32.74719682586206,
-    "lng": -117.21232542413796
-  },
-  {
     "state": "IL",
     "stateName": "Illinois",
     "stateSlug": "illinois",
@@ -218,6 +258,16 @@
     "count": 56,
     "lat": 39.26199221607144,
     "lng": -76.46312917321428
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Unorganized Borough",
+    "citySlug": "unorganized-borough",
+    "count": 55,
+    "lat": 58.22797139272727,
+    "lng": -142.18521076727274
   },
   {
     "state": "LA",
@@ -248,6 +298,16 @@
     "count": 54,
     "lat": 39.49634938888888,
     "lng": -75.93303126666667
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Juneau",
+    "citySlug": "juneau",
+    "count": 53,
+    "lat": 58.35709182452829,
+    "lng": -134.5400051245283
   },
   {
     "state": "ME",
@@ -300,6 +360,16 @@
     "lng": -114.20559216874999
   },
   {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "El Dorado County",
+    "citySlug": "el-dorado-county",
+    "count": 47,
+    "lat": 38.95062580638297,
+    "lng": -120.08778042340425
+  },
+  {
     "state": "IL",
     "stateName": "Illinois",
     "stateSlug": "illinois",
@@ -310,16 +380,6 @@
     "lng": -88.57842047872339
   },
   {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "San Francisco",
-    "citySlug": "san-francisco",
-    "count": 46,
-    "lat": 37.792733095652174,
-    "lng": -122.41241620869562
-  },
-  {
     "state": "IL",
     "stateName": "Illinois",
     "stateSlug": "illinois",
@@ -328,6 +388,26 @@
     "count": 46,
     "lat": 42.34493519130435,
     "lng": -88.02502307391308
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Kenai Peninsula Borough",
+    "citySlug": "kenai-peninsula-borough",
+    "count": 45,
+    "lat": 60.03094387777779,
+    "lng": -151.20329494666663
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Lake County",
+    "citySlug": "lake-county",
+    "count": 44,
+    "lat": 39.001614393181825,
+    "lng": -122.75713625681823
   },
   {
     "state": "ME",
@@ -350,6 +430,16 @@
     "lng": -87.5672691095238
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Prince of Wales-Hyder",
+    "citySlug": "prince-of-wales-hyder",
+    "count": 42,
+    "lat": 55.57093060476191,
+    "lng": -133.10551249285714
+  },
+  {
     "state": "GA",
     "stateName": "Georgia",
     "stateSlug": "georgia",
@@ -368,6 +458,16 @@
     "count": 42,
     "lat": 38.126817247619044,
     "lng": -75.9046583809524
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Los Angeles",
+    "citySlug": "los-angeles",
+    "count": 40,
+    "lat": 33.82234866,
+    "lng": -118.30617420500002
   },
   {
     "state": "LA",
@@ -400,6 +500,16 @@
     "lng": -77.18526715
   },
   {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Los Angeles County",
+    "citySlug": "los-angeles-county",
+    "count": 37,
+    "lat": 33.79583565405405,
+    "lng": -118.48385664324323
+  },
+  {
     "state": "IL",
     "stateName": "Illinois",
     "stateSlug": "illinois",
@@ -418,6 +528,16 @@
     "count": 37,
     "lat": 39.48236006756756,
     "lng": -76.28902500000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Bernardino County",
+    "citySlug": "san-bernardino-county",
+    "count": 35,
+    "lat": 34.30846343428571,
+    "lng": -117.06556938000001
   },
   {
     "state": "FL",
@@ -480,6 +600,26 @@
     "lng": -76.55593654411767
   },
   {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Contra Costa County",
+    "citySlug": "contra-costa-county",
+    "count": 33,
+    "lat": 38.020248796969696,
+    "lng": -122.05878618484846
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Alameda",
+    "citySlug": "alameda",
+    "count": 33,
+    "lat": 37.77255686363637,
+    "lng": -122.27064271212122
+  },
+  {
     "state": "ME",
     "stateName": "Maine",
     "stateSlug": "maine",
@@ -540,6 +680,26 @@
     "lng": -77.32161879687499
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Kodiak Island Borough",
+    "citySlug": "kodiak-island-borough",
+    "count": 31,
+    "lat": 57.69933246774193,
+    "lng": -152.97520457096775
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Marin County",
+    "citySlug": "marin-county",
+    "count": 31,
+    "lat": 38.07837062903225,
+    "lng": -122.73819587096776
+  },
+  {
     "state": "GA",
     "stateName": "Georgia",
     "stateSlug": "georgia",
@@ -548,6 +708,16 @@
     "count": 31,
     "lat": 34.23308146451613,
     "lng": -83.94694217096774
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Long Beach",
+    "citySlug": "long-beach",
+    "count": 30,
+    "lat": 33.755073339999996,
+    "lng": -118.1793218
   },
   {
     "state": "IL",
@@ -570,14 +740,34 @@
     "lng": -76.48935185333335
   },
   {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Sitka",
-    "citySlug": "sitka",
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Richmond",
+    "citySlug": "richmond",
     "count": 29,
-    "lat": 57.09068577931035,
-    "lng": -135.26542889655173
+    "lat": 37.9284085,
+    "lng": -122.38433029310347
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Oakland",
+    "citySlug": "oakland",
+    "count": 29,
+    "lat": 37.7857148,
+    "lng": -122.25539279310343
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Shasta County",
+    "citySlug": "shasta-county",
+    "count": 29,
+    "lat": 40.77709216206895,
+    "lng": -122.26251065862071
   },
   {
     "state": "DE",
@@ -608,6 +798,46 @@
     "count": 29,
     "lat": 38.32802621724137,
     "lng": -75.77561472758622
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area A (North Skeena)",
+    "citySlug": "area-a-north-skeena",
+    "count": 28,
+    "lat": 54.42247394642857,
+    "lng": -130.34790593571427
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Anchorage",
+    "citySlug": "anchorage",
+    "count": 28,
+    "lat": 61.14049988571427,
+    "lng": -149.78208013214288
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Unalaska",
+    "citySlug": "unalaska",
+    "count": 28,
+    "lat": 53.874331349999984,
+    "lng": -166.54896341071432
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Douglas County",
+    "citySlug": "douglas-county",
+    "count": 28,
+    "lat": 39.04004165357143,
+    "lng": -119.94995575
   },
   {
     "state": "ID",
@@ -670,6 +900,16 @@
     "lng": -69.63800534444447
   },
   {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Washoe County",
+    "citySlug": "washoe-county",
+    "count": 26,
+    "lat": 39.25284836923077,
+    "lng": -119.96083702307692
+  },
+  {
     "state": "FL",
     "stateName": "Florida",
     "stateSlug": "florida",
@@ -690,6 +930,26 @@
     "lng": -90.33129573076923
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Ketchikan",
+    "citySlug": "ketchikan",
+    "count": 25,
+    "lat": 55.34835814400001,
+    "lng": -131.667869652
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Valdez",
+    "citySlug": "valdez",
+    "count": 25,
+    "lat": 61.10525582799999,
+    "lng": -146.37313547999997
+  },
+  {
     "state": "IL",
     "stateName": "Illinois",
     "stateSlug": "illinois",
@@ -708,6 +968,36 @@
     "count": 25,
     "lat": 43.823923355999995,
     "lng": -70.509690772
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Prince Rupert",
+    "citySlug": "prince-rupert",
+    "count": 24,
+    "lat": 54.30113798333332,
+    "lng": -130.30797922916665
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Clark County",
+    "citySlug": "clark-county",
+    "count": 24,
+    "lat": 34.08138462083332,
+    "lng": -93.10538129583334
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Fresno County",
+    "citySlug": "fresno-county",
+    "count": 24,
+    "lat": 37.06886170833333,
+    "lng": -119.21858376666665
   },
   {
     "state": "FL",
@@ -753,11 +1043,21 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Kenai Peninsula Borough",
-    "citySlug": "kenai-peninsula-borough",
+    "city": "Stikine Region",
+    "citySlug": "stikine-region",
     "count": 23,
-    "lat": 59.97306637391304,
-    "lng": -151.3358404347826
+    "lat": 59.5014556826087,
+    "lng": -132.2057379521739
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Ketchikan Gateway Borough",
+    "citySlug": "ketchikan-gateway-borough",
+    "count": 23,
+    "lat": 55.46539937826087,
+    "lng": -131.6008663608696
   },
   {
     "state": "AZ",
@@ -783,21 +1083,11 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Richmond",
-    "citySlug": "richmond",
+    "city": "Redwood City",
+    "citySlug": "redwood-city",
     "count": 22,
-    "lat": 37.92555948636364,
-    "lng": -122.37757070909092
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Oakland",
-    "citySlug": "oakland",
-    "count": 22,
-    "lat": 37.77937205909091,
-    "lng": -122.25410734545453
+    "lat": 37.511079209090916,
+    "lng": -122.21540218181818
   },
   {
     "state": "GA",
@@ -848,26 +1138,6 @@
     "count": 21,
     "lat": 30.40945876190476,
     "lng": -87.21464598571428
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Prince of Wales-Hyder",
-    "citySlug": "prince-of-wales-hyder",
-    "count": 21,
-    "lat": 55.659461980952386,
-    "lng": -133.1778737047619
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "San Bernardino County",
-    "citySlug": "san-bernardino-county",
-    "count": 21,
-    "lat": 34.26010456666667,
-    "lng": -117.01039757142858
   },
   {
     "state": "GA",
@@ -923,11 +1193,11 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Unorganized Borough",
-    "citySlug": "unorganized-borough",
+    "city": "Kodiak",
+    "citySlug": "kodiak",
     "count": 20,
-    "lat": 56.91996069500001,
-    "lng": -134.66520392
+    "lat": 57.782640795000006,
+    "lng": -152.414226685
   },
   {
     "state": "AZ",
@@ -938,6 +1208,36 @@
     "count": 20,
     "lat": 35.113898649999996,
     "lng": -114.599314395
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Diego County",
+    "citySlug": "san-diego-county",
+    "count": 20,
+    "lat": 32.865581575,
+    "lng": -116.91861241
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Eureka",
+    "citySlug": "eureka",
+    "count": 20,
+    "lat": 40.799010295,
+    "lng": -124.17592905
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Humboldt County",
+    "citySlug": "humboldt-county",
+    "count": 20,
+    "lat": 40.805899355,
+    "lng": -123.88243506999997
   },
   {
     "state": "IL",
@@ -960,24 +1260,64 @@
     "lng": -69.618894865
   },
   {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Los Angeles",
-    "citySlug": "los-angeles",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Jefferson County",
+    "citySlug": "jefferson-county",
     "count": 19,
-    "lat": 33.821352600000004,
-    "lng": -118.2879382894737
+    "lat": 34.25522643157894,
+    "lng": -91.93680163684212
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Memphis",
+    "citySlug": "memphis",
+    "count": 19,
+    "lat": 35.13888111052633,
+    "lng": -90.01309789473684
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Shasta County",
-    "citySlug": "shasta-county",
+    "city": "San Luis Obispo County",
+    "citySlug": "san-luis-obispo-county",
     "count": 19,
-    "lat": 40.768429531578946,
-    "lng": -122.34878910526318
+    "lat": 35.39130471052631,
+    "lng": -120.79052357894733
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Newport Beach",
+    "citySlug": "newport-beach",
+    "count": 19,
+    "lat": 33.611920621052626,
+    "lng": -117.90525476842102
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Vallejo",
+    "citySlug": "vallejo",
+    "count": 19,
+    "lat": 38.09533073684211,
+    "lng": -122.26001337894738
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sonoma County",
+    "citySlug": "sonoma-county",
+    "count": 19,
+    "lat": 38.39698203684211,
+    "lng": -122.94457319473685
   },
   {
     "state": "FL",
@@ -1030,14 +1370,34 @@
     "lng": -70.52525994736843
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Wrangell",
+    "citySlug": "wrangell",
+    "count": 18,
+    "lat": 56.29550126666667,
+    "lng": -132.35069292222224
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "DeSoto County",
+    "citySlug": "desoto-county",
+    "count": 18,
+    "lat": 34.89528352777777,
+    "lng": -90.00688157777776
+  },
+  {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Fresno County",
-    "citySlug": "fresno-county",
+    "city": "Solano County",
+    "citySlug": "solano-county",
     "count": 18,
-    "lat": 37.00788121666667,
-    "lng": -119.2548695888889
+    "lat": 38.180942011111114,
+    "lng": -122.06425621666669
   },
   {
     "state": "ME",
@@ -1080,6 +1440,16 @@
     "lng": -86.95002455882353
   },
   {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Bella Vista",
+    "citySlug": "bella-vista",
+    "count": 17,
+    "lat": 36.46551658823529,
+    "lng": -94.26260594117647
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -1113,21 +1483,31 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Stikine Region",
-    "citySlug": "stikine-region",
+    "city": "Area D (Graham Island)",
+    "citySlug": "area-d-graham-island",
     "count": 16,
-    "lat": 59.50240098125,
-    "lng": -131.7071177625
+    "lat": 53.764801825,
+    "lng": -132.50459880625002
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Bristol Bay Borough",
+    "citySlug": "bristol-bay-borough",
+    "count": 16,
+    "lat": 58.69802560625,
+    "lng": -156.82317805000002
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Redwood City",
-    "citySlug": "redwood-city",
+    "city": "San Mateo County",
+    "citySlug": "san-mateo-county",
     "count": 16,
-    "lat": 37.50845861875001,
-    "lng": -122.20687598125
+    "lat": 37.53877559375,
+    "lng": -122.38911035625
   },
   {
     "state": "GA",
@@ -1210,6 +1590,16 @@
     "lng": -68.27855701874999
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area D (Iskut/Big Raven)",
+    "citySlug": "area-d-iskut-big-raven",
+    "count": 15,
+    "lat": 57.57710723333333,
+    "lng": -130.32810642
+  },
+  {
     "state": "AR",
     "stateName": "Arkansas",
     "stateSlug": "arkansas",
@@ -1223,21 +1613,21 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Alameda",
-    "citySlug": "alameda",
+    "city": "Coronado",
+    "citySlug": "coronado",
     "count": 15,
-    "lat": 37.77062352666667,
-    "lng": -122.27087501999999
+    "lat": 32.66341681333333,
+    "lng": -117.15554911333334
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Los Angeles County",
-    "citySlug": "los-angeles-county",
+    "city": "Foster City",
+    "citySlug": "foster-city",
     "count": 15,
-    "lat": 33.51539282666666,
-    "lng": -118.42688589333332
+    "lat": 37.585654446666666,
+    "lng": -122.23846598666665
   },
   {
     "state": "FL",
@@ -1283,21 +1673,31 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Prince Rupert",
-    "citySlug": "prince-rupert",
+    "city": "Area C (South Skeena)",
+    "citySlug": "area-c-south-skeena",
     "count": 14,
-    "lat": 54.316581921428565,
-    "lng": -130.31944315714287
+    "lat": 53.93656576428571,
+    "lng": -130.1315617642857
   },
   {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Marin County",
-    "citySlug": "marin-county",
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Seward",
+    "citySlug": "seward",
     "count": 14,
-    "lat": 38.019622299999995,
-    "lng": -122.60868775000002
+    "lat": 60.10738393571428,
+    "lng": -149.41927999285713
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Petersburg Borough",
+    "citySlug": "petersburg-borough",
+    "count": 14,
+    "lat": 56.73232792857142,
+    "lng": -132.97112730714284
   },
   {
     "state": "FL",
@@ -1393,21 +1793,61 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Juneau",
-    "citySlug": "juneau",
+    "city": "Port Edward",
+    "citySlug": "port-edward",
     "count": 13,
-    "lat": 58.29666686923076,
-    "lng": -134.41965710000002
+    "lat": 54.21988626923077,
+    "lng": -130.20116797692307
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Homer",
+    "citySlug": "homer",
+    "count": 13,
+    "lat": 59.620685223076926,
+    "lng": -151.4536958
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Horn Lake",
+    "citySlug": "horn-lake",
+    "count": 13,
+    "lat": 34.93574350000001,
+    "lng": -90.03905053076922
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Humboldt County",
-    "citySlug": "humboldt-county",
+    "city": "Ventura County",
+    "citySlug": "ventura-county",
     "count": 13,
-    "lat": 40.7856464923077,
-    "lng": -124.19913132307693
+    "lat": 34.12365515384616,
+    "lng": -119.28360930769229
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Rafael",
+    "citySlug": "san-rafael",
+    "count": 13,
+    "lat": 37.96900289230769,
+    "lng": -122.49411603076922
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Truckee",
+    "citySlug": "truckee",
+    "count": 13,
+    "lat": 39.32517664615385,
+    "lng": -120.26396237692308
   },
   {
     "state": "FL",
@@ -1483,51 +1923,71 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Area D (Graham Island)",
-    "citySlug": "area-d-graham-island",
+    "city": "Cordova",
+    "citySlug": "cordova",
     "count": 12,
-    "lat": 53.753552891666665,
-    "lng": -132.50749441666667
+    "lat": 60.55273753333333,
+    "lng": -145.75374799166667
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Area D (Iskut/Big Raven)",
-    "citySlug": "area-d-iskut-big-raven",
+    "city": "Haines Borough",
+    "citySlug": "haines-borough",
     "count": 12,
-    "lat": 57.497865575,
-    "lng": -130.21104035
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Ketchikan",
-    "citySlug": "ketchikan",
-    "count": 12,
-    "lat": 55.34205640833333,
-    "lng": -131.653620975
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Homer",
-    "citySlug": "homer",
-    "count": 12,
-    "lat": 59.61929419166666,
-    "lng": -151.4496088
+    "lat": 58.954738049999996,
+    "lng": -135.46421791666668
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Eureka",
-    "citySlug": "eureka",
+    "city": "Tuolumne County",
+    "citySlug": "tuolumne-county",
     "count": 12,
-    "lat": 40.794552816666666,
-    "lng": -124.18136034999999
+    "lat": 37.87317146666667,
+    "lng": -120.39946524166668
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sacramento",
+    "citySlug": "sacramento",
+    "count": 12,
+    "lat": 38.591502375000005,
+    "lng": -121.5194409583333
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santa Barbara County",
+    "citySlug": "santa-barbara-county",
+    "count": 12,
+    "lat": 34.40086396666666,
+    "lng": -119.96941044166668
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Mendocino County",
+    "citySlug": "mendocino-county",
+    "count": 12,
+    "lat": 39.29803175833333,
+    "lng": -123.56755284999998
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Jose",
+    "citySlug": "san-jose",
+    "count": 12,
+    "lat": 37.375047458333334,
+    "lng": -121.91306794166667
   },
   {
     "state": "DE",
@@ -1680,6 +2140,16 @@
     "lng": -76.84722874166665
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area E (Moresby Island)",
+    "citySlug": "area-e-moresby-island",
+    "count": 11,
+    "lat": 53.13016930909091,
+    "lng": -131.98642762727275
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -1698,6 +2168,36 @@
     "count": 11,
     "lat": 33.57560425454545,
     "lng": -111.51302887272726
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sacramento County",
+    "citySlug": "sacramento-county",
+    "count": 11,
+    "lat": 38.27456501818181,
+    "lng": -121.41250579090911
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Monterey County",
+    "citySlug": "monterey-county",
+    "count": 11,
+    "lat": 36.68051154545455,
+    "lng": -121.74517661818182
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "San Joaquin County",
+    "citySlug": "san-joaquin-county",
+    "count": 11,
+    "lat": 38.028596954545456,
+    "lng": -121.46185935454547
   },
   {
     "state": "GA",
@@ -1830,54 +2330,44 @@
     "lng": -87.26294504
   },
   {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Area A (North Skeena)",
-    "citySlug": "area-a-north-skeena",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Pope County",
+    "citySlug": "pope-county",
     "count": 10,
-    "lat": 54.397017819999995,
-    "lng": -130.33824286000004
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Kodiak Island Borough",
-    "citySlug": "kodiak-island-borough",
-    "count": 10,
-    "lat": 57.725958500000004,
-    "lng": -152.94251453
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Wrangell",
-    "citySlug": "wrangell",
-    "count": 10,
-    "lat": 56.52416991,
-    "lng": -132.38733411
+    "lat": 35.264243900000004,
+    "lng": -93.15037425
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Contra Costa County",
-    "citySlug": "contra-costa-county",
+    "city": "Hayward",
+    "citySlug": "hayward",
     "count": 10,
-    "lat": 38.03958408999999,
-    "lng": -122.08518732
+    "lat": 37.617374330000004,
+    "lng": -122.15597233999999
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Sonoma County",
-    "citySlug": "sonoma-county",
+    "city": "San Mateo",
+    "citySlug": "san-mateo",
     "count": 10,
-    "lat": 38.34404654,
-    "lng": -123.02336654999999
+    "lat": 37.57228214,
+    "lng": -122.30228702
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sausalito",
+    "citySlug": "sausalito",
+    "count": 10,
+    "lat": 37.859928890000006,
+    "lng": -122.48622526
   },
   {
     "state": "DE",
@@ -2083,11 +2573,21 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Kodiak",
-    "citySlug": "kodiak",
+    "city": "Sand Point",
+    "citySlug": "sand-point",
     "count": 9,
-    "lat": 57.78263983333333,
-    "lng": -152.41288258888892
+    "lat": 55.33280775555556,
+    "lng": -160.50231727777776
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Whittier",
+    "citySlug": "whittier",
+    "count": 9,
+    "lat": 60.777412177777784,
+    "lng": -148.68970779999998
   },
   {
     "state": "AZ",
@@ -2100,64 +2600,104 @@
     "lng": -111.9365469111111
   },
   {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "San Diego County",
-    "citySlug": "san-diego-county",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Pulaski County",
+    "citySlug": "pulaski-county",
     "count": 9,
-    "lat": 32.808878288888884,
-    "lng": -117.00935636666665
+    "lat": 34.79200785555555,
+    "lng": -92.3565438
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Garland County",
+    "citySlug": "garland-county",
+    "count": 9,
+    "lat": 34.599693155555556,
+    "lng": -93.2190797111111
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Ventura County",
-    "citySlug": "ventura-county",
+    "city": "Morro Bay",
+    "citySlug": "morro-bay",
     "count": 9,
-    "lat": 34.120314622222224,
-    "lng": -119.31035413333335
+    "lat": 35.35851676666667,
+    "lng": -120.84990569999998
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "San Mateo County",
-    "citySlug": "san-mateo-county",
+    "city": "Berkeley",
+    "citySlug": "berkeley",
     "count": 9,
-    "lat": 37.56580032222222,
-    "lng": -122.42024093333332
+    "lat": 37.86274812222222,
+    "lng": -122.31124447777776
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "San Rafael",
-    "citySlug": "san-rafael",
+    "city": "Benicia",
+    "citySlug": "benicia",
     "count": 9,
-    "lat": 37.97104035555556,
-    "lng": -122.49478347777777
+    "lat": 38.04914534444444,
+    "lng": -122.15918239999999
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Washoe County",
-    "citySlug": "washoe-county",
+    "city": "Martinez",
+    "citySlug": "martinez",
     "count": 9,
-    "lat": 39.25240658888889,
-    "lng": -119.92920375555556
+    "lat": 38.029264355555554,
+    "lng": -122.12648188888888
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Lake County",
-    "citySlug": "lake-county",
+    "city": "Oxnard",
+    "citySlug": "oxnard",
     "count": 9,
-    "lat": 39.10084145555555,
-    "lng": -122.89112078888888
+    "lat": 34.177378444444436,
+    "lng": -119.22629307777778
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Alameda County",
+    "citySlug": "alameda-county",
+    "count": 9,
+    "lat": 37.71031022222222,
+    "lng": -121.99515486666668
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Mono County",
+    "citySlug": "mono-county",
+    "count": 9,
+    "lat": 37.90746907777778,
+    "lng": -119.18106437777776
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Lakeport",
+    "citySlug": "lakeport",
+    "count": 9,
+    "lat": 39.04278078888889,
+    "lng": -122.91277957777778
   },
   {
     "state": "FL",
@@ -2333,11 +2873,41 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Sand Point",
-    "citySlug": "sand-point",
+    "city": "Area A (Nass Valley/Bell Irving)",
+    "citySlug": "area-a-nass-valley-bell-irving",
     "count": 8,
-    "lat": 55.331907725,
-    "lng": -160.5045537
+    "lat": 55.590395262499996,
+    "lng": -129.6433692
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Yakutat",
+    "citySlug": "yakutat",
+    "count": 8,
+    "lat": 59.4957141,
+    "lng": -139.57482942500002
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Daajing Giids",
+    "citySlug": "daajing-giids",
+    "count": 8,
+    "lat": 53.2486054875,
+    "lng": -132.0697844375
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Aleutians East Borough",
+    "citySlug": "aleutians-east-borough",
+    "count": 8,
+    "lat": 55.411907187500006,
+    "lng": -161.74686615000002
   },
   {
     "state": "AZ",
@@ -2350,24 +2920,54 @@
     "lng": -112.27023766250001
   },
   {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Sausalito",
-    "citySlug": "sausalito",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Arkansas County",
+    "citySlug": "arkansas-county",
     "count": 8,
-    "lat": 37.8632855,
-    "lng": -122.48839835
+    "lat": 34.023648237500005,
+    "lng": -91.223627675
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Truckee",
-    "citySlug": "truckee",
+    "city": "Tiburon",
+    "citySlug": "tiburon",
     "count": 8,
-    "lat": 39.325852187500004,
-    "lng": -120.27211137500001
+    "lat": 37.8743279875,
+    "lng": -122.45005257500002
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Riverside County",
+    "citySlug": "riverside-county",
+    "count": 8,
+    "lat": 33.67275947500001,
+    "lng": -116.85105846250002
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santa Clara County",
+    "citySlug": "santa-clara-county",
+    "count": 8,
+    "lat": 37.35919235,
+    "lng": -122.0094240625
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Canyon Lake",
+    "citySlug": "canyon-lake",
+    "count": 8,
+    "lat": 33.685066737499994,
+    "lng": -117.26574541250001
   },
   {
     "state": "FL",
@@ -2790,24 +3390,94 @@
     "lng": -87.94770037142858
   },
   {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Morro Bay",
-    "citySlug": "morro-bay",
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area F (Dease Lake)",
+    "citySlug": "area-f-dease-lake",
     "count": 7,
-    "lat": 35.36216497142857,
-    "lng": -120.85214702857142
+    "lat": 58.7187222,
+    "lng": -130.05010907142858
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Port Clements",
+    "citySlug": "port-clements",
+    "count": 7,
+    "lat": 53.66998805714285,
+    "lng": -132.23252211428573
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Oxnard",
-    "citySlug": "oxnard",
+    "city": "Santa Cruz",
+    "citySlug": "santa-cruz",
     "count": 7,
-    "lat": 34.18067595714285,
-    "lng": -119.22609937142856
+    "lat": 36.96453795714286,
+    "lng": -122.01278445714286
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Fremont",
+    "citySlug": "fremont",
+    "count": 7,
+    "lat": 37.55516118571428,
+    "lng": -122.01801257142857
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Huntington Beach",
+    "citySlug": "huntington-beach",
+    "count": 7,
+    "lat": 33.70539368571429,
+    "lng": -118.04683370000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Ventura",
+    "citySlug": "ventura",
+    "count": 7,
+    "lat": 34.250057371428575,
+    "lng": -119.26820045714284
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Stockton",
+    "citySlug": "stockton",
+    "count": 7,
+    "lat": 37.95601084285715,
+    "lng": -121.33360442857142
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "National City",
+    "citySlug": "national-city",
+    "count": 7,
+    "lat": 32.66460732857143,
+    "lng": -117.11846425714285
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sunnyvale",
+    "citySlug": "sunnyvale",
+    "count": 7,
+    "lat": 37.43403601428572,
+    "lng": -122.03614314285713
   },
   {
     "state": "FL",
@@ -3073,41 +3743,111 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Whittier",
-    "citySlug": "whittier",
+    "city": "Stewart",
+    "citySlug": "stewart",
     "count": 6,
-    "lat": 60.77763625,
-    "lng": -148.69406651666665
+    "lat": 55.91209236666666,
+    "lng": -130.00364736666666
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Valdez",
-    "citySlug": "valdez",
+    "city": "Thorne Bay",
+    "citySlug": "thorne-bay",
     "count": 6,
-    "lat": 61.111359516666674,
-    "lng": -146.35678626666666
+    "lat": 55.673987950000004,
+    "lng": -132.51967298333332
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Daajing Giids",
-    "citySlug": "daajing-giids",
+    "city": "Gustavus",
+    "citySlug": "gustavus",
     "count": 6,
-    "lat": 53.250268150000004,
-    "lng": -132.05099371666665
+    "lat": 58.4271034,
+    "lng": -135.80646881666667
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Bristol Bay Borough",
-    "citySlug": "bristol-bay-borough",
+    "city": "Kake",
+    "citySlug": "kake",
     "count": 6,
-    "lat": 58.67805943333334,
-    "lng": -156.7161375
+    "lat": 56.95855845,
+    "lng": -133.9160209
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Craig",
+    "citySlug": "craig",
+    "count": 6,
+    "lat": 55.47822865,
+    "lng": -133.1446949
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Inuvik Region",
+    "citySlug": "inuvik-region",
+    "count": 6,
+    "lat": 69.30666961666667,
+    "lng": -133.2137264
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Fairbanks North Star Borough",
+    "citySlug": "fairbanks-north-star-borough",
+    "count": 6,
+    "lat": 64.76638681666667,
+    "lng": -147.39700621666665
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "King Cove",
+    "citySlug": "king-cove",
+    "count": 6,
+    "lat": 55.059697199999995,
+    "lng": -162.3244917166667
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Lake and Peninsula Borough",
+    "citySlug": "lake-and-peninsula-borough",
+    "count": 6,
+    "lat": 60.20442141666666,
+    "lng": -154.31077288333336
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Aleknagik",
+    "citySlug": "aleknagik",
+    "count": 6,
+    "lat": 59.26895793333333,
+    "lng": -158.61618888333336
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Nunapitchuk",
+    "citySlug": "nunapitchuk",
+    "count": 6,
+    "lat": 60.89692203333333,
+    "lng": -162.46073338333335
   },
   {
     "state": "AZ",
@@ -3120,134 +3860,44 @@
     "lng": -114.45623741666667
   },
   {
-    "state": "AR",
-    "stateName": "Arkansas",
-    "stateSlug": "arkansas",
-    "city": "Pope County",
-    "citySlug": "pope-county",
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Yuba County",
+    "citySlug": "yuba-county",
     "count": 6,
-    "lat": 35.238019216666665,
-    "lng": -93.12569433333334
-  },
-  {
-    "state": "AR",
-    "stateName": "Arkansas",
-    "stateSlug": "arkansas",
-    "city": "Memphis",
-    "citySlug": "memphis",
-    "count": 6,
-    "lat": 35.07649473333333,
-    "lng": -90.13826401666667
+    "lat": 39.2593338,
+    "lng": -121.3073419
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Placer County",
-    "citySlug": "placer-county",
+    "city": "Monterey",
+    "citySlug": "monterey",
     "count": 6,
-    "lat": 39.229195866666664,
-    "lng": -120.18596129999999
+    "lat": 36.6045059,
+    "lng": -121.89071903333335
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Santa Cruz",
-    "citySlug": "santa-cruz",
+    "city": "Santa Cruz County",
+    "citySlug": "santa-cruz-county",
     "count": 6,
-    "lat": 36.965309833333336,
-    "lng": -122.01170375
+    "lat": 37.037296500000004,
+    "lng": -121.99750278333335
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Sacramento County",
-    "citySlug": "sacramento-county",
+    "city": "Mountain View",
+    "citySlug": "mountain-view",
     "count": 6,
-    "lat": 38.315901450000005,
-    "lng": -121.27846576666667
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Newport Beach",
-    "citySlug": "newport-beach",
-    "count": 6,
-    "lat": 33.60883548333333,
-    "lng": -117.9156291166667
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Berkeley",
-    "citySlug": "berkeley",
-    "count": 6,
-    "lat": 37.86144826666666,
-    "lng": -122.31052938333333
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Long Beach",
-    "citySlug": "long-beach",
-    "count": 6,
-    "lat": 33.75428971666667,
-    "lng": -118.20620996666668
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Vallejo",
-    "citySlug": "vallejo",
-    "count": 6,
-    "lat": 38.104343916666664,
-    "lng": -122.2602326
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Sacramento",
-    "citySlug": "sacramento",
-    "count": 6,
-    "lat": 38.5727379,
-    "lng": -121.51218984999998
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Santa Barbara County",
-    "citySlug": "santa-barbara-county",
-    "count": 6,
-    "lat": 34.43648445,
-    "lng": -120.00578853333333
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "El Dorado County",
-    "citySlug": "el-dorado-county",
-    "count": 6,
-    "lat": 38.89909166666667,
-    "lng": -120.10807213333334
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Mendocino County",
-    "citySlug": "mendocino-county",
-    "count": 6,
-    "lat": 39.33795543333334,
-    "lng": -123.56022866666666
+    "lat": 37.43381711666667,
+    "lng": -122.08352776666668
   },
   {
     "state": "CA",
@@ -3258,6 +3908,36 @@
     "count": 6,
     "lat": 34.08568293333333,
     "lng": -117.80492466666665
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Chula Vista",
+    "citySlug": "chula-vista",
+    "count": 6,
+    "lat": 32.629530949999996,
+    "lng": -117.08319803333335
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "West Sacramento",
+    "citySlug": "west-sacramento",
+    "count": 6,
+    "lat": 38.557533883333335,
+    "lng": -121.54793109999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Plumas County",
+    "citySlug": "plumas-county",
+    "count": 6,
+    "lat": 40.25963865,
+    "lng": -121.12503396666666
   },
   {
     "state": "CA",
@@ -3713,11 +4393,21 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Seward",
-    "citySlug": "seward",
+    "city": "Cold Bay",
+    "citySlug": "cold-bay",
     "count": 5,
-    "lat": 60.11339808,
-    "lng": -149.42194913999998
+    "lat": 55.217384319999994,
+    "lng": -162.71614572
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Chignik",
+    "citySlug": "chignik",
+    "count": 5,
+    "lat": 56.298806719999995,
+    "lng": -158.39218154
   },
   {
     "state": "AK",
@@ -3733,41 +4423,31 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Petersburg Borough",
-    "citySlug": "petersburg-borough",
+    "city": "Kenai",
+    "citySlug": "kenai",
     "count": 5,
-    "lat": 56.810719000000006,
-    "lng": -132.96574706
+    "lat": 60.539997240000005,
+    "lng": -151.23525286
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Yakutat",
-    "citySlug": "yakutat",
+    "city": "False Pass",
+    "citySlug": "false-pass",
     "count": 5,
-    "lat": 59.55449532,
-    "lng": -139.7432166
+    "lat": 54.85393424,
+    "lng": -163.40043724000003
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Haines Borough",
-    "citySlug": "haines-borough",
+    "city": "North Slope Borough",
+    "citySlug": "north-slope-borough",
     "count": 5,
-    "lat": 58.89454316,
-    "lng": -135.4313186
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Craig",
-    "citySlug": "craig",
-    "count": 5,
-    "lat": 55.4783687,
-    "lng": -133.14282076
+    "lat": 69.79266174,
+    "lng": -152.36659952
   },
   {
     "state": "AZ",
@@ -3783,6 +4463,76 @@
     "state": "AR",
     "stateName": "Arkansas",
     "stateSlug": "arkansas",
+    "city": "Washington County",
+    "citySlug": "washington-county",
+    "count": 5,
+    "lat": 34.4408667,
+    "lng": -92.30621052000001
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Pine Bluff",
+    "citySlug": "pine-bluff",
+    "count": 5,
+    "lat": 34.248661000000006,
+    "lng": -91.97940174
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Southaven",
+    "citySlug": "southaven",
+    "count": 5,
+    "lat": 34.941977460000004,
+    "lng": -89.93659167999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Faulkner County",
+    "citySlug": "faulkner-county",
+    "count": 5,
+    "lat": 35.132592939999995,
+    "lng": -92.35705222
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Montgomery County",
+    "citySlug": "montgomery-county",
+    "count": 5,
+    "lat": 34.6052465,
+    "lng": -93.47526984
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Mississippi County",
+    "citySlug": "mississippi-county",
+    "count": 5,
+    "lat": 35.811881979999995,
+    "lng": -90.03339953999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Germantown",
+    "citySlug": "germantown",
+    "count": 5,
+    "lat": 35.06749504,
+    "lng": -89.76089624000001
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
     "city": "Searcy",
     "citySlug": "searcy",
     "count": 5,
@@ -3793,61 +4543,121 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Solano County",
-    "citySlug": "solano-county",
+    "city": "Siskiyou County",
+    "citySlug": "siskiyou-county",
     "count": 5,
-    "lat": 38.15172304,
-    "lng": -121.99868382
+    "lat": 41.43620654,
+    "lng": -122.28184138000002
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "San Mateo",
-    "citySlug": "san-mateo",
+    "city": "Lafayette",
+    "citySlug": "lafayette",
     "count": 5,
-    "lat": 37.582907660000004,
-    "lng": -122.31055097999999
+    "lat": 37.88262546000001,
+    "lng": -122.14016278
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Monterey County",
-    "citySlug": "monterey-county",
+    "city": "Palo Alto",
+    "citySlug": "palo-alto",
     "count": 5,
-    "lat": 36.6083934,
-    "lng": -121.65092958
+    "lat": 37.39434176,
+    "lng": -122.14656946
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Martinez",
-    "citySlug": "martinez",
+    "city": "Redondo Beach",
+    "citySlug": "redondo-beach",
     "count": 5,
-    "lat": 38.03052986,
-    "lng": -122.13041395999998
+    "lat": 33.845514879999996,
+    "lng": -118.39607908
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Stockton",
-    "citySlug": "stockton",
+    "city": "Santee",
+    "citySlug": "santee",
     "count": 5,
-    "lat": 37.95696388,
-    "lng": -121.34652772
+    "lat": 32.86000058,
+    "lng": -117.00696442
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Plumas County",
-    "citySlug": "plumas-county",
+    "city": "Inyo County",
+    "citySlug": "inyo-county",
     "count": 5,
-    "lat": 40.2635895,
-    "lng": -121.13458206
+    "lat": 36.93624856,
+    "lng": -118.3942377
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Del Norte County",
+    "citySlug": "del-norte-county",
+    "count": 5,
+    "lat": 41.70544968,
+    "lng": -124.1620429
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Oceanside",
+    "citySlug": "oceanside",
+    "count": 5,
+    "lat": 33.205007619999996,
+    "lng": -117.39240626
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Bel Marin Keys",
+    "citySlug": "bel-marin-keys",
+    "count": 5,
+    "lat": 38.08293552,
+    "lng": -122.51432606
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Yolo County",
+    "citySlug": "yolo-county",
+    "count": 5,
+    "lat": 38.475466860000004,
+    "lng": -121.58999596000001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Napa",
+    "citySlug": "napa",
+    "count": 5,
+    "lat": 38.28333578,
+    "lng": -122.28360525999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "South Lake Tahoe",
+    "citySlug": "south-lake-tahoe",
+    "count": 5,
+    "lat": 38.935844460000006,
+    "lng": -120.00446964
   },
   {
     "state": "CO",
@@ -4613,21 +5423,41 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Area A (Nass Valley/Bell Irving)",
-    "citySlug": "area-a-nass-valley-bell-irving",
+    "city": "Adak",
+    "citySlug": "adak",
     "count": 4,
-    "lat": 55.744749775,
-    "lng": -129.49551515
+    "lat": 51.866870625,
+    "lng": -176.63729217499997
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Chignik",
-    "citySlug": "chignik",
+    "city": "Port Lions",
+    "citySlug": "port-lions",
     "count": 4,
-    "lat": 56.29936685,
-    "lng": -158.39293985
+    "lat": 57.86952335,
+    "lng": -152.865513625
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Angoon",
+    "citySlug": "angoon",
+    "count": 4,
+    "lat": 57.485225549999996,
+    "lng": -134.57190027500002
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Skagway",
+    "citySlug": "skagway",
+    "count": 4,
+    "lat": 59.449071025,
+    "lng": -135.32151755
   },
   {
     "state": "AK",
@@ -4643,11 +5473,11 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Port Clements",
-    "citySlug": "port-clements",
+    "city": "муниципальный округ Эгвекинот",
+    "citySlug": "",
     "count": 4,
-    "lat": 53.666496125,
-    "lng": -132.24390775
+    "lat": 67.60214094999999,
+    "lng": -179.26391415
   },
   {
     "state": "AK",
@@ -4658,16 +5488,6 @@
     "count": 4,
     "lat": 57.205544225,
     "lng": -153.3030439
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Kenai",
-    "citySlug": "kenai",
-    "count": 4,
-    "lat": 60.5395065,
-    "lng": -151.23919790000002
   },
   {
     "state": "AK",
@@ -4688,6 +5508,46 @@
     "count": 4,
     "lat": 55.5586765,
     "lng": -133.093419375
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Dillingham",
+    "citySlug": "dillingham",
+    "count": 4,
+    "lat": 59.04539335,
+    "lng": -158.458967725
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Bethel",
+    "citySlug": "bethel",
+    "count": 4,
+    "lat": 60.79459045,
+    "lng": -161.757575375
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "St. George",
+    "citySlug": "st-george",
+    "count": 4,
+    "lat": 56.576999975,
+    "lng": -169.637799725
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "St. Paul",
+    "citySlug": "st-paul",
+    "count": 4,
+    "lat": 57.1244499,
+    "lng": -170.28053
   },
   {
     "state": "AZ",
@@ -4733,21 +5593,61 @@
     "state": "AR",
     "stateName": "Arkansas",
     "stateSlug": "arkansas",
-    "city": "Mississippi County",
-    "citySlug": "mississippi-county",
+    "city": "Olive Branch",
+    "citySlug": "olive-branch",
     "count": 4,
-    "lat": 35.793743775,
-    "lng": -90.098244925
+    "lat": 34.94702585,
+    "lng": -89.8944529
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Little Rock",
+    "citySlug": "little-rock",
+    "count": 4,
+    "lat": 34.719153425,
+    "lng": -92.37835747500002
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Cleburne County",
+    "citySlug": "cleburne-county",
+    "count": 4,
+    "lat": 35.49675905,
+    "lng": -92.02195365
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "San Luis Obispo County",
-    "citySlug": "san-luis-obispo-county",
+    "city": "Kern County",
+    "citySlug": "kern-county",
     "count": 4,
-    "lat": 35.358963949999996,
-    "lng": -120.89596030000001
+    "lat": 35.2867911,
+    "lng": -118.60149707500001
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Tehama County",
+    "citySlug": "tehama-county",
+    "count": 4,
+    "lat": 40.0448991,
+    "lng": -122.27147929999998
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Marin City",
+    "citySlug": "marin-city",
+    "count": 4,
+    "lat": 37.874055825,
+    "lng": -122.5042996
   },
   {
     "state": "CA",
@@ -4758,16 +5658,6 @@
     "count": 4,
     "lat": 33.34765905,
     "lng": -118.32553877500001
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Tiburon",
-    "citySlug": "tiburon",
-    "count": 4,
-    "lat": 37.869970800000004,
-    "lng": -122.44561470000001
   },
   {
     "state": "CA",
@@ -4793,26 +5683,6 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Benicia",
-    "citySlug": "benicia",
-    "count": 4,
-    "lat": 38.04776495,
-    "lng": -122.1596031
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Coronado",
-    "citySlug": "coronado",
-    "count": 4,
-    "lat": 32.666617175,
-    "lng": -117.16139765
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
     "city": "Dana Point",
     "citySlug": "dana-point",
     "count": 4,
@@ -4823,21 +5693,21 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Fremont",
-    "citySlug": "fremont",
+    "city": "Belvedere",
+    "citySlug": "belvedere",
     "count": 4,
-    "lat": 37.55374665,
-    "lng": -122.04841819999999
+    "lat": 37.8713912,
+    "lng": -122.464160075
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Monterey",
-    "citySlug": "monterey",
+    "city": "Petaluma",
+    "citySlug": "petaluma",
     "count": 4,
-    "lat": 36.60605905,
-    "lng": -121.89179910000001
+    "lat": 38.231459975,
+    "lng": -122.622292175
   },
   {
     "state": "CA",
@@ -4853,21 +5723,21 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Chula Vista",
-    "citySlug": "chula-vista",
+    "city": "Anaheim",
+    "citySlug": "anaheim",
     "count": 4,
-    "lat": 32.630518425,
-    "lng": -117.071365625
+    "lat": 33.81062515,
+    "lng": -117.92053455
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Santee",
-    "citySlug": "santee",
+    "city": "Merced County",
+    "citySlug": "merced-county",
     "count": 4,
-    "lat": 32.85846385,
-    "lng": -117.00691925000001
+    "lat": 37.23455025,
+    "lng": -120.79132915
   },
   {
     "state": "CA",
@@ -4883,21 +5753,11 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "San Jose",
-    "citySlug": "san-jose",
+    "city": "Larkspur",
+    "citySlug": "larkspur",
     "count": 4,
-    "lat": 37.361026100000004,
-    "lng": -121.84641462500001
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "San Joaquin County",
-    "citySlug": "san-joaquin-county",
-    "count": 4,
-    "lat": 37.982590724999994,
-    "lng": -121.44889965
+    "lat": 37.9423531,
+    "lng": -122.51980627500001
   },
   {
     "state": "DE",
@@ -5903,61 +6763,41 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Area F (Dease Lake)",
-    "citySlug": "area-f-dease-lake",
+    "city": "Area C (Butedale/Kitlope/Kitsumkalum)",
+    "citySlug": "area-c-butedale-kitlope-kitsumkalum",
     "count": 3,
-    "lat": 58.8040164,
-    "lng": -130.01037996666665
+    "lat": 53.21062106666667,
+    "lng": -129.2949411
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Area C (South Skeena)",
-    "citySlug": "area-c-south-skeena",
+    "city": "Seldovia",
+    "citySlug": "seldovia",
     "count": 3,
-    "lat": 53.852184599999994,
-    "lng": -130.04631876666664
+    "lat": 59.43742366666667,
+    "lng": -151.71546853333334
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Adak",
-    "citySlug": "adak",
+    "city": "Whitehorse",
+    "citySlug": "whitehorse",
     "count": 3,
-    "lat": 51.8590766,
-    "lng": -176.64192089999997
+    "lat": 60.69516593333333,
+    "lng": -135.0377333
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Port Lions",
-    "citySlug": "port-lions",
+    "city": "Kotzebue",
+    "citySlug": "kotzebue",
     "count": 3,
-    "lat": 57.87242693333334,
-    "lng": -152.8672233
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Gustavus",
-    "citySlug": "gustavus",
-    "count": 3,
-    "lat": 58.43302533333334,
-    "lng": -135.83494856666667
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Anchorage",
-    "citySlug": "anchorage",
-    "count": 3,
-    "lat": 61.2118187,
-    "lng": -149.93612133333332
+    "lat": 66.8912157,
+    "lng": -162.556496
   },
   {
     "state": "AK",
@@ -5968,6 +6808,16 @@
     "count": 3,
     "lat": 56.11075603333333,
     "lng": -133.11965853333334
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Egegik",
+    "citySlug": "egegik",
+    "count": 3,
+    "lat": 58.21515416666667,
+    "lng": -157.37494136666666
   },
   {
     "state": "AZ",
@@ -5993,21 +6843,111 @@
     "state": "AR",
     "stateName": "Arkansas",
     "stateSlug": "arkansas",
-    "city": "Faulkner County",
-    "citySlug": "faulkner-county",
+    "city": "Hot Springs",
+    "citySlug": "hot-springs",
     "count": 3,
-    "lat": 35.237237,
-    "lng": -92.3422162
+    "lat": 34.44445806666667,
+    "lng": -93.0257497
   },
   {
     "state": "AR",
     "stateName": "Arkansas",
     "stateSlug": "arkansas",
-    "city": "Cleburne County",
-    "citySlug": "cleburne-county",
+    "city": "North Little Rock",
+    "citySlug": "north-little-rock",
     "count": 3,
-    "lat": 35.4946284,
-    "lng": -91.9977292
+    "lat": 34.7887818,
+    "lng": -92.29155540000001
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Greenville",
+    "citySlug": "greenville",
+    "count": 3,
+    "lat": 33.40427473333333,
+    "lng": -91.07170186666667
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Bartlett",
+    "citySlug": "bartlett",
+    "count": 3,
+    "lat": 35.24257523333333,
+    "lng": -89.80723339999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Dunklin County",
+    "citySlug": "dunklin-county",
+    "count": 3,
+    "lat": 36.24258186666666,
+    "lng": -89.96257816666666
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Conway",
+    "citySlug": "conway",
+    "count": 3,
+    "lat": 35.0827679,
+    "lng": -92.46096299999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Texarkana",
+    "citySlug": "texarkana",
+    "count": 3,
+    "lat": 33.47696156666667,
+    "lng": -94.05374793333333
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Baxter County",
+    "citySlug": "baxter-county",
+    "count": 3,
+    "lat": 36.28743863333333,
+    "lng": -92.35968166666667
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Russellville",
+    "citySlug": "russellville",
+    "count": 3,
+    "lat": 35.297426,
+    "lng": -93.1478803
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Rogers",
+    "citySlug": "rogers",
+    "count": 3,
+    "lat": 36.33767856666666,
+    "lng": -94.09895213333334
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Sequoyah County",
+    "citySlug": "sequoyah-county",
+    "count": 3,
+    "lat": 35.3608927,
+    "lng": -94.5474541
   },
   {
     "state": "AR",
@@ -6018,46 +6958,6 @@
     "count": 3,
     "lat": 36.0005666,
     "lng": -90.70130206666666
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Tuolumne County",
-    "citySlug": "tuolumne-county",
-    "count": 3,
-    "lat": 37.76256796666667,
-    "lng": -120.2228477
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Tehama County",
-    "citySlug": "tehama-county",
-    "count": 3,
-    "lat": 40.1236675,
-    "lng": -122.23993753333332
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Siskiyou County",
-    "citySlug": "siskiyou-county",
-    "count": 3,
-    "lat": 41.381183633333336,
-    "lng": -122.09269880000001
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Marin City",
-    "citySlug": "marin-city",
-    "count": 3,
-    "lat": 37.87342983333333,
-    "lng": -122.50293506666667
   },
   {
     "state": "CA",
@@ -6083,21 +6983,11 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Belvedere",
-    "citySlug": "belvedere",
+    "city": "Nevada County",
+    "citySlug": "nevada-county",
     "count": 3,
-    "lat": 37.87204643333333,
-    "lng": -122.46228576666665
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Yuba County",
-    "citySlug": "yuba-county",
-    "count": 3,
-    "lat": 39.366931099999995,
-    "lng": -121.24988566666666
+    "lat": 39.19975323333333,
+    "lng": -120.9157627
   },
   {
     "state": "CA",
@@ -6113,16 +7003,6 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Huntington Beach",
-    "citySlug": "huntington-beach",
-    "count": 3,
-    "lat": 33.6939334,
-    "lng": -118.03192443333334
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
     "city": "La Quinta",
     "citySlug": "la-quinta",
     "count": 3,
@@ -6133,11 +7013,11 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Santa Cruz County",
-    "citySlug": "santa-cruz-county",
+    "city": "Napa County",
+    "citySlug": "napa-county",
     "count": 3,
-    "lat": 37.103330766666666,
-    "lng": -122.11150356666667
+    "lat": 38.52263476666666,
+    "lng": -122.2574264
   },
   {
     "state": "CA",
@@ -6148,6 +7028,126 @@
     "count": 3,
     "lat": 34.14948813333333,
     "lng": -119.20830256666666
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Madera County",
+    "citySlug": "madera-county",
+    "count": 3,
+    "lat": 37.25303456666666,
+    "lng": -119.5173802
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Amador County",
+    "citySlug": "amador-county",
+    "count": 3,
+    "lat": 38.45828876666667,
+    "lng": -120.44082503333334
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Escondido",
+    "citySlug": "escondido",
+    "count": 3,
+    "lat": 33.161535433333334,
+    "lng": -117.04866326666668
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sutter County",
+    "citySlug": "sutter-county",
+    "count": 3,
+    "lat": 39.0763378,
+    "lng": -121.74356306666665
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Indio",
+    "citySlug": "indio",
+    "count": 3,
+    "lat": 33.73646743333334,
+    "lng": -116.22716453333332
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Belmont",
+    "citySlug": "belmont",
+    "count": 3,
+    "lat": 37.52452283333333,
+    "lng": -122.28274496666667
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Sparks",
+    "citySlug": "sparks",
+    "count": 3,
+    "lat": 39.533551966666664,
+    "lng": -119.7285768
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Carlsbad",
+    "citySlug": "carlsbad",
+    "count": 3,
+    "lat": 33.1355789,
+    "lng": -117.32953823333334
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Henderson",
+    "citySlug": "henderson",
+    "count": 3,
+    "lat": 36.0589747,
+    "lng": -114.92124439999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Santa Rosa",
+    "citySlug": "santa-rosa",
+    "count": 3,
+    "lat": 38.45373136666666,
+    "lng": -122.65794286666666
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Rio Vista",
+    "citySlug": "rio-vista",
+    "count": 3,
+    "lat": 38.15474536666667,
+    "lng": -121.68921919999998
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Nye County",
+    "citySlug": "nye-county",
+    "count": 3,
+    "lat": 38.344470333333334,
+    "lng": -115.14535723333334
   },
   {
     "state": "CO",
@@ -7683,101 +8683,41 @@
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Cold Bay",
-    "citySlug": "cold-bay",
+    "city": "Pelican",
+    "citySlug": "pelican",
     "count": 2,
-    "lat": 55.20087035,
-    "lng": -162.69863099999998
+    "lat": 57.9582456,
+    "lng": -136.2275529
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Stewart",
-    "citySlug": "stewart",
+    "city": "Tenakee Springs",
+    "citySlug": "tenakee-springs",
     "count": 2,
-    "lat": 55.9019617,
-    "lng": -129.9987189
+    "lat": 57.77873235,
+    "lng": -135.2116638
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Ketchikan Gateway Borough",
-    "citySlug": "ketchikan-gateway-borough",
+    "city": "Port Alexander",
+    "citySlug": "port-alexander",
     "count": 2,
-    "lat": 55.43000965,
-    "lng": -131.6425774
+    "lat": 56.249115450000005,
+    "lng": -134.6478616
   },
   {
     "state": "AK",
     "stateName": "Alaska",
     "stateSlug": "alaska",
-    "city": "Seldovia",
-    "citySlug": "seldovia",
+    "city": "Ouzinkie",
+    "citySlug": "ouzinkie",
     "count": 2,
-    "lat": 59.43841745,
-    "lng": -151.71724295
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Thorne Bay",
-    "citySlug": "thorne-bay",
-    "count": 2,
-    "lat": 55.685047499999996,
-    "lng": -132.5289444
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Angoon",
-    "citySlug": "angoon",
-    "count": 2,
-    "lat": 57.483269899999996,
-    "lng": -134.5661886
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Skagway",
-    "citySlug": "skagway",
-    "count": 2,
-    "lat": 59.449452750000006,
-    "lng": -135.3222525
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Cordova",
-    "citySlug": "cordova",
-    "count": 2,
-    "lat": 60.5453103,
-    "lng": -145.7668482
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "муниципальный округ Эгвекинот",
-    "citySlug": "",
-    "count": 2,
-    "lat": 68.88766344999999,
-    "lng": -179.41744645
-  },
-  {
-    "state": "AK",
-    "stateName": "Alaska",
-    "stateSlug": "alaska",
-    "city": "Whitehorse",
-    "citySlug": "whitehorse",
-    "count": 2,
-    "lat": 60.68239535,
-    "lng": -135.0317273
+    "lat": 57.92133575,
+    "lng": -152.49745755
   },
   {
     "state": "AK",
@@ -7808,6 +8748,26 @@
     "count": 2,
     "lat": 55.963107300000004,
     "lng": -133.6223311
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Atka",
+    "citySlug": "atka",
+    "count": 2,
+    "lat": 52.21847485,
+    "lng": -174.18410075
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Anderson",
+    "citySlug": "anderson",
+    "count": 2,
+    "lat": 64.2968982,
+    "lng": -149.1897373
   },
   {
     "state": "AZ",
@@ -7873,6 +8833,176 @@
     "state": "AR",
     "stateName": "Arkansas",
     "stateSlug": "arkansas",
+    "city": "Little River County",
+    "citySlug": "little-river-county",
+    "count": 2,
+    "lat": 33.65320855,
+    "lng": -94.2073729
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Phillips County",
+    "citySlug": "phillips-county",
+    "count": 2,
+    "lat": 34.468287950000004,
+    "lng": -90.69144835
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Maumelle",
+    "citySlug": "maumelle",
+    "count": 2,
+    "lat": 34.850183,
+    "lng": -92.41192365
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Panola County",
+    "citySlug": "panola-county",
+    "count": 2,
+    "lat": 34.40119795,
+    "lng": -89.79135685
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Chicot County",
+    "citySlug": "chicot-county",
+    "count": 2,
+    "lat": 33.29867365,
+    "lng": -91.2761725
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Bolivar County",
+    "citySlug": "bolivar-county",
+    "count": 2,
+    "lat": 33.814980649999995,
+    "lng": -91.0212094
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Caddo Valley",
+    "citySlug": "caddo-valley",
+    "count": 2,
+    "lat": 34.194688,
+    "lng": -93.08112009999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Columbia County",
+    "citySlug": "columbia-county",
+    "count": 2,
+    "lat": 33.17230825,
+    "lng": -93.25490454999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Shelby County",
+    "citySlug": "shelby-county",
+    "count": 2,
+    "lat": 35.26955595,
+    "lng": -89.93537015000001
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Tipton County",
+    "citySlug": "tipton-county",
+    "count": 2,
+    "lat": 35.5158819,
+    "lng": -89.94807035
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Fayetteville",
+    "citySlug": "fayetteville",
+    "count": 2,
+    "lat": 36.13819785,
+    "lng": -94.1329997
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Crittenden County",
+    "citySlug": "crittenden-county",
+    "count": 2,
+    "lat": 35.12934075,
+    "lng": -90.07712244999999
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Fort Smith",
+    "citySlug": "fort-smith",
+    "count": 2,
+    "lat": 35.3281317,
+    "lng": -94.34691325
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Sebastian County",
+    "citySlug": "sebastian-county",
+    "count": 2,
+    "lat": 35.1787441,
+    "lng": -94.27206555000001
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Barling",
+    "citySlug": "barling",
+    "count": 2,
+    "lat": 35.34887525,
+    "lng": -94.2982212
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "White County",
+    "citySlug": "white-county",
+    "count": 2,
+    "lat": 35.247040150000004,
+    "lng": -91.7524455
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
+    "city": "Van Buren County",
+    "citySlug": "van-buren-county",
+    "count": 2,
+    "lat": 35.5537274,
+    "lng": -92.26595835
+  },
+  {
+    "state": "AR",
+    "stateName": "Arkansas",
+    "stateSlug": "arkansas",
     "city": "Jonesboro",
     "citySlug": "jonesboro",
     "count": 2,
@@ -7893,16 +9023,6 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Hayward",
-    "citySlug": "hayward",
-    "count": 2,
-    "lat": 37.6371014,
-    "lng": -122.15437299999999
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
     "city": "Bard Lake",
     "citySlug": "bard-lake",
     "count": 2,
@@ -7913,31 +9033,31 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Lafayette",
-    "citySlug": "lafayette",
+    "city": "Seal Beach",
+    "citySlug": "seal-beach",
     "count": 2,
-    "lat": 37.883662400000006,
-    "lng": -122.1398533
+    "lat": 33.736589949999995,
+    "lng": -118.09965865
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Palo Alto",
-    "citySlug": "palo-alto",
+    "city": "Unincorporated Tiburon",
+    "citySlug": "unincorporated-tiburon",
     "count": 2,
-    "lat": 37.459292250000004,
-    "lng": -122.1034774
+    "lat": 37.893980400000004,
+    "lng": -122.45389745
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Nevada County",
-    "citySlug": "nevada-county",
+    "city": "Antioch",
+    "citySlug": "antioch",
     "count": 2,
-    "lat": 39.1792339,
-    "lng": -120.74210515
+    "lat": 38.0190245,
+    "lng": -121.81783335
   },
   {
     "state": "CA",
@@ -7953,51 +9073,11 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Redondo Beach",
-    "citySlug": "redondo-beach",
+    "city": "Mill Valley",
+    "citySlug": "mill-valley",
     "count": 2,
-    "lat": 33.84252535,
-    "lng": -118.3926035
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Ventura",
-    "citySlug": "ventura",
-    "count": 2,
-    "lat": 34.2453456,
-    "lng": -119.26291855
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Mountain View",
-    "citySlug": "mountain-view",
-    "count": 2,
-    "lat": 37.43399475,
-    "lng": -122.0750567
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Anaheim",
-    "citySlug": "anaheim",
-    "count": 2,
-    "lat": 33.80843965,
-    "lng": -117.9217357
-  },
-  {
-    "state": "CA",
-    "stateName": "California",
-    "stateSlug": "california",
-    "city": "Riverside County",
-    "citySlug": "riverside-county",
-    "count": 2,
-    "lat": 33.8673296,
-    "lng": -117.1772864
+    "lat": 37.8920008,
+    "lng": -122.5218284
   },
   {
     "state": "CA",
@@ -8013,51 +9093,151 @@
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Alameda County",
-    "citySlug": "alameda-county",
+    "city": "Clark County",
+    "citySlug": "clark-county",
     "count": 2,
-    "lat": 37.65194015,
-    "lng": -121.9034804
+    "lat": 36.1136291,
+    "lng": -115.0979651
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Napa County",
-    "citySlug": "napa-county",
+    "city": "Irvine",
+    "citySlug": "irvine",
     "count": 2,
-    "lat": 38.53705595,
-    "lng": -122.30618715
+    "lat": 33.67750455,
+    "lng": -117.79957105
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Del Norte County",
-    "citySlug": "del-norte-county",
+    "city": "Lancaster",
+    "citySlug": "lancaster",
     "count": 2,
-    "lat": 41.7430596,
-    "lng": -124.18336
+    "lat": 34.742687950000004,
+    "lng": -118.20236165
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Larkspur",
-    "citySlug": "larkspur",
+    "city": "Atascadero",
+    "citySlug": "atascadero",
     "count": 2,
-    "lat": 37.94096605,
-    "lng": -122.5269027
+    "lat": 35.46684235,
+    "lng": -120.667521
   },
   {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
-    "city": "Belmont",
-    "citySlug": "belmont",
+    "city": "Imperial County",
+    "citySlug": "imperial-county",
     "count": 2,
-    "lat": 37.5322786,
-    "lng": -122.2699408
+    "lat": 32.99315805,
+    "lng": -115.81207615
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Stanislaus County",
+    "citySlug": "stanislaus-county",
+    "count": 2,
+    "lat": 37.62555595,
+    "lng": -120.58988984999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Westlake Village",
+    "citySlug": "westlake-village",
+    "count": 2,
+    "lat": 34.13697735,
+    "lng": -118.82361585
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Menlo Park",
+    "citySlug": "menlo-park",
+    "count": 2,
+    "lat": 37.49135645,
+    "lng": -122.12819205
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Poway",
+    "citySlug": "poway",
+    "count": 2,
+    "lat": 33.006458249999994,
+    "lng": -117.01211515
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Redding",
+    "citySlug": "redding",
+    "count": 2,
+    "lat": 40.5892271,
+    "lng": -122.38566829999999
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Folsom",
+    "citySlug": "folsom",
+    "count": 2,
+    "lat": 38.647223350000004,
+    "lng": -121.17258505
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Menifee",
+    "citySlug": "menifee",
+    "count": 2,
+    "lat": 33.69837375,
+    "lng": -117.1561245
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Elko County",
+    "citySlug": "elko-county",
+    "count": 2,
+    "lat": 41.269641899999996,
+    "lng": -116.01564675
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Carpinteria",
+    "citySlug": "carpinteria",
+    "count": 2,
+    "lat": 34.3845569,
+    "lng": -119.50766425
+  },
+  {
+    "state": "CA",
+    "stateName": "California",
+    "stateSlug": "california",
+    "city": "Paradise Cay",
+    "citySlug": "paradise-cay",
+    "count": 2,
+    "lat": 37.915671700000004,
+    "lng": -122.4773032
   },
   {
     "state": "CO",

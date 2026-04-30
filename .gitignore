@@ -36,5 +36,6 @@ yarn-error.log*
 next-env.d.ts
 .env.local
 
-# geocoding script progress (resumable, no need to track)
+# geocoding script progress + per-batch logs (debug-only, not worth tracking)
 scripts/.geocode-progress.json
+scripts/geocode-batch*.log
