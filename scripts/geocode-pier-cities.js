@@ -89,29 +89,47 @@ async function main() {
         return;
       }
 
-      try {
-        const result = await reverseGeocode(lat, lng);
-        const city = extractCity(result);
-        if (city) {
-          data[i].city = city;
-          stateChanged = true;
-          geocoded++;
-        }
-        progress.done[id] = true;
-        sessionCount++;
-        if (sessionCount % 100 === 0) {
-          console.log(`  ${sessionCount} attempts (${geocoded} populated) — at ${file}[${i}]`);
-        }
-        await sleep(550);
-      } catch (e) {
-        console.error(`  ERR ${file}[${i}] ${lat},${lng}: ${e.message}`);
-        progress.done[id] = true;
-        sessionCount++;
-        if (/rate limit|429/i.test(e.message)) {
-          console.log("Rate-limit error — saving progress and exiting.");
-          if (stateChanged) fs.writeFileSync(fullPath, JSON.stringify(data, null, 2));
-          fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2));
-          return;
+      let attempts = 0;
+      let success = false;
+      while (attempts < 3 && !success) {
+        attempts++;
+        try {
+          const result = await reverseGeocode(lat, lng);
+          const city = extractCity(result);
+          if (city) {
+            data[i].city = city;
+            stateChanged = true;
+            geocoded++;
+          }
+          progress.done[id] = true;
+          sessionCount++;
+          if (sessionCount % 100 === 0) {
+            console.log(`  ${sessionCount} attempts (${geocoded} populated) — at ${file}[${i}]`);
+            // Periodic save so a hard kill doesn't lose progress
+            if (stateChanged) fs.writeFileSync(fullPath, JSON.stringify(data, null, 2));
+            fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2));
+          }
+          success = true;
+          await sleep(1100);
+        } catch (e) {
+          const isRateLimit = /rate limit|429|minute/i.test(e.message);
+          const isNetwork = /ENOTFOUND|ETIMEDOUT|ECONNRESET|ECONNREFUSED|EAI_AGAIN|socket hang up|getaddrinfo/i.test(e.message);
+          if ((isRateLimit || isNetwork) && attempts < 3) {
+            const wait = isRateLimit ? 65000 : 5000;
+            console.log(`  ${isRateLimit ? "rate-limit" : "network"} (attempt ${attempts}/3) at ${file}[${i}] — sleeping ${wait}ms`);
+            if (stateChanged) fs.writeFileSync(fullPath, JSON.stringify(data, null, 2));
+            fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2));
+            await sleep(wait);
+            continue;
+          }
+          console.error(`  ERR ${file}[${i}] ${lat},${lng}: ${e.message}`);
+          // Do NOT mark network failures as done — they should retry on next session.
+          // Only persistent non-retryable errors should advance.
+          if (!isNetwork && !isRateLimit) {
+            progress.done[id] = true;
+          }
+          sessionCount++;
+          break;
         }
       }
     }

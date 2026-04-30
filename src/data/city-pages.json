@@ -1,5 +1,15 @@
 [
   {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Baldwin County",
+    "citySlug": "baldwin-county",
+    "count": 166,
+    "lat": 30.48007984036147,
+    "lng": -87.7946800301205
+  },
+  {
     "state": "IL",
     "stateName": "Illinois",
     "stateSlug": "illinois",
@@ -48,16 +58,6 @@
     "count": 88,
     "lat": 29.486917634090904,
     "lng": -89.66666418863637
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Baldwin County",
-    "citySlug": "baldwin-county",
-    "count": 87,
-    "lat": 30.398033096551735,
-    "lng": -87.748570145977
   },
   {
     "state": "MD",
@@ -110,6 +110,16 @@
     "lng": -76.13560152857139
   },
   {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Escambia County",
+    "citySlug": "escambia-county",
+    "count": 69,
+    "lat": 30.381444756521727,
+    "lng": -87.28133466231887
+  },
+  {
     "state": "DE",
     "stateName": "Delaware",
     "stateSlug": "delaware",
@@ -138,16 +148,6 @@
     "count": 65,
     "lat": 38.37547522615384,
     "lng": -77.0137755430769
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Escambia County",
-    "citySlug": "escambia-county",
-    "count": 63,
-    "lat": 30.38344838253967,
-    "lng": -87.28450515714287
   },
   {
     "state": "ME",
@@ -490,6 +490,16 @@
     "lng": -68.87106074545453
   },
   {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Okaloosa County",
+    "citySlug": "okaloosa-county",
+    "count": 32,
+    "lat": 30.454842215624996,
+    "lng": -86.54176028437499
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -560,14 +570,14 @@
     "lng": -76.48935185333335
   },
   {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Okaloosa County",
-    "citySlug": "okaloosa-county",
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Sitka",
+    "citySlug": "sitka",
     "count": 29,
-    "lat": 30.453342517241374,
-    "lng": -86.54480836551723
+    "lat": 57.09068577931035,
+    "lng": -135.26542889655173
   },
   {
     "state": "DE",
@@ -740,6 +750,16 @@
     "lng": -88.0548854304348
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Kenai Peninsula Borough",
+    "citySlug": "kenai-peninsula-borough",
+    "count": 23,
+    "lat": 59.97306637391304,
+    "lng": -151.3358404347826
+  },
+  {
     "state": "AZ",
     "stateName": "Arizona",
     "stateSlug": "arizona",
@@ -830,6 +850,16 @@
     "lng": -87.21464598571428
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Prince of Wales-Hyder",
+    "citySlug": "prince-of-wales-hyder",
+    "count": 21,
+    "lat": 55.659461980952386,
+    "lng": -133.1778737047619
+  },
+  {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
@@ -868,6 +898,36 @@
     "count": 21,
     "lat": 44.94923548095238,
     "lng": -70.73795633333334
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Lauderdale County",
+    "citySlug": "lauderdale-county",
+    "count": 20,
+    "lat": 34.82557902,
+    "lng": -87.50166214500001
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "count": 20,
+    "lat": 30.2465781,
+    "lng": -87.74559336500002
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Unorganized Borough",
+    "citySlug": "unorganized-borough",
+    "count": 20,
+    "lat": 56.91996069500001,
+    "lng": -134.66520392
   },
   {
     "state": "AZ",
@@ -970,16 +1030,6 @@
     "lng": -70.52525994736843
   },
   {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Gulf Shores",
-    "citySlug": "gulf-shores",
-    "count": 18,
-    "lat": 30.246679049999997,
-    "lng": -87.74767205000002
-  },
-  {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
@@ -1020,6 +1070,16 @@
     "lng": -77.02634527777779
   },
   {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Santa Rosa County",
+    "citySlug": "santa-rosa-county",
+    "count": 17,
+    "lat": 30.484814694117645,
+    "lng": -86.95002455882353
+  },
+  {
     "state": "LA",
     "stateName": "Louisiana",
     "stateSlug": "louisiana",
@@ -1050,24 +1110,14 @@
     "lng": -87.11826125
   },
   {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Santa Rosa County",
-    "citySlug": "santa-rosa-county",
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Stikine Region",
+    "citySlug": "stikine-region",
     "count": 16,
-    "lat": 30.48990310625,
-    "lng": -86.9572054875
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Lauderdale County",
-    "citySlug": "lauderdale-county",
-    "count": 16,
-    "lat": 34.83136640625,
-    "lng": -87.47093693750001
+    "lat": 59.50240098125,
+    "lng": -131.7071177625
   },
   {
     "state": "CA",
@@ -1230,6 +1280,16 @@
     "lng": -86.19537584999999
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Prince Rupert",
+    "citySlug": "prince-rupert",
+    "count": 14,
+    "lat": 54.316581921428565,
+    "lng": -130.31944315714287
+  },
+  {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
@@ -1330,6 +1390,16 @@
     "lng": -86.24307656923078
   },
   {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Juneau",
+    "citySlug": "juneau",
+    "count": 13,
+    "lat": 58.29666686923076,
+    "lng": -134.41965710000002
+  },
+  {
     "state": "CA",
     "stateName": "California",
     "stateSlug": "california",
@@ -1393,11 +1463,61 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
+    "city": "Tuscaloosa",
+    "citySlug": "tuscaloosa",
+    "count": 12,
+    "lat": 33.26612484166667,
+    "lng": -87.56734900833334
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
     "city": "Decatur",
     "citySlug": "decatur",
     "count": 12,
     "lat": 34.591765933333335,
     "lng": -86.96646325
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area D (Graham Island)",
+    "citySlug": "area-d-graham-island",
+    "count": 12,
+    "lat": 53.753552891666665,
+    "lng": -132.50749441666667
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area D (Iskut/Big Raven)",
+    "citySlug": "area-d-iskut-big-raven",
+    "count": 12,
+    "lat": 57.497865575,
+    "lng": -130.21104035
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Ketchikan",
+    "citySlug": "ketchikan",
+    "count": 12,
+    "lat": 55.34205640833333,
+    "lng": -131.653620975
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Homer",
+    "citySlug": "homer",
+    "count": 12,
+    "lat": 59.61929419166666,
+    "lng": -151.4496088
   },
   {
     "state": "CA",
@@ -1693,11 +1813,11 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Tuscaloosa",
-    "citySlug": "tuscaloosa",
+    "city": "Huntsville",
+    "citySlug": "huntsville",
     "count": 10,
-    "lat": 33.276960630000005,
-    "lng": -87.56511421
+    "lat": 34.63832513999999,
+    "lng": -86.59207682
   },
   {
     "state": "AL",
@@ -1708,6 +1828,36 @@
     "count": 10,
     "lat": 34.71911409,
     "lng": -87.26294504
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area A (North Skeena)",
+    "citySlug": "area-a-north-skeena",
+    "count": 10,
+    "lat": 54.397017819999995,
+    "lng": -130.33824286000004
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Kodiak Island Borough",
+    "citySlug": "kodiak-island-borough",
+    "count": 10,
+    "lat": 57.725958500000004,
+    "lng": -152.94251453
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Wrangell",
+    "citySlug": "wrangell",
+    "count": 10,
+    "lat": 56.52416991,
+    "lng": -132.38733411
   },
   {
     "state": "CA",
@@ -1930,14 +2080,14 @@
     "lng": -76.65425375999999
   },
   {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Huntsville",
-    "citySlug": "huntsville",
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Kodiak",
+    "citySlug": "kodiak",
     "count": 9,
-    "lat": 34.62953432222221,
-    "lng": -86.58323735555555
+    "lat": 57.78263983333333,
+    "lng": -152.41288258888892
   },
   {
     "state": "AZ",
@@ -2178,6 +2328,16 @@
     "count": 8,
     "lat": 34.418279775,
     "lng": -86.286210475
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Sand Point",
+    "citySlug": "sand-point",
+    "count": 8,
+    "lat": 55.331907725,
+    "lng": -160.5045537
   },
   {
     "state": "AZ",
@@ -2603,6 +2763,26 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
+    "city": "Dauphin Island",
+    "citySlug": "dauphin-island",
+    "count": 7,
+    "lat": 30.26108667142857,
+    "lng": -88.11029345714284
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Spanish Fort",
+    "citySlug": "spanish-fort",
+    "count": 7,
+    "lat": 30.673292914285714,
+    "lng": -87.92675351428572
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
     "city": "Franklin County",
     "citySlug": "franklin-county",
     "count": 7,
@@ -2873,11 +3053,61 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Dauphin Island",
-    "citySlug": "dauphin-island",
+    "city": "Tishomingo County",
+    "citySlug": "tishomingo-county",
     "count": 6,
-    "lat": 30.2629171,
-    "lng": -88.09680796666667
+    "lat": 34.7588421,
+    "lng": -88.28434811666666
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Mobile County",
+    "citySlug": "mobile-county",
+    "count": 6,
+    "lat": 30.567172350000003,
+    "lng": -88.1205496
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Whittier",
+    "citySlug": "whittier",
+    "count": 6,
+    "lat": 60.77763625,
+    "lng": -148.69406651666665
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Valdez",
+    "citySlug": "valdez",
+    "count": 6,
+    "lat": 61.111359516666674,
+    "lng": -146.35678626666666
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Daajing Giids",
+    "citySlug": "daajing-giids",
+    "count": 6,
+    "lat": 53.250268150000004,
+    "lng": -132.05099371666665
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Bristol Bay Borough",
+    "citySlug": "bristol-bay-borough",
+    "count": 6,
+    "lat": 58.67805943333334,
+    "lng": -156.7161375
   },
   {
     "state": "AZ",
@@ -3423,31 +3653,11 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Tishomingo County",
-    "citySlug": "tishomingo-county",
-    "count": 5,
-    "lat": 34.71236244000001,
-    "lng": -88.29097894000002
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
     "city": "Tuscaloosa County",
     "citySlug": "tuscaloosa-county",
     "count": 5,
     "lat": 33.293347340000004,
     "lng": -87.68212028
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Mobile County",
-    "citySlug": "mobile-county",
-    "count": 5,
-    "lat": 30.487858640000002,
-    "lng": -88.14758144000001
   },
   {
     "state": "AL",
@@ -3478,6 +3688,86 @@
     "count": 5,
     "lat": 34.602812220000004,
     "lng": -86.97362664
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Destin",
+    "citySlug": "destin",
+    "count": 5,
+    "lat": 30.39909708,
+    "lng": -86.49940425999999
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Gadsden",
+    "citySlug": "gadsden",
+    "count": 5,
+    "lat": 33.9899536,
+    "lng": -86.00776616
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Seward",
+    "citySlug": "seward",
+    "count": 5,
+    "lat": 60.11339808,
+    "lng": -149.42194913999998
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Hoonah",
+    "citySlug": "hoonah",
+    "count": 5,
+    "lat": 58.11126767999999,
+    "lng": -135.44958223999998
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Petersburg Borough",
+    "citySlug": "petersburg-borough",
+    "count": 5,
+    "lat": 56.810719000000006,
+    "lng": -132.96574706
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Yakutat",
+    "citySlug": "yakutat",
+    "count": 5,
+    "lat": 59.55449532,
+    "lng": -139.7432166
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Haines Borough",
+    "citySlug": "haines-borough",
+    "count": 5,
+    "lat": 58.89454316,
+    "lng": -135.4313186
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Craig",
+    "citySlug": "craig",
+    "count": 5,
+    "lat": 55.4783687,
+    "lng": -133.14282076
   },
   {
     "state": "AZ",
@@ -4223,6 +4513,16 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
+    "city": "Lowndes County",
+    "citySlug": "lowndes-county",
+    "count": 4,
+    "lat": 32.8937985,
+    "lng": -87.56924455
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
     "city": "Cullman County",
     "citySlug": "cullman-county",
     "count": 4,
@@ -4253,16 +4553,6 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Spanish Fort",
-    "citySlug": "spanish-fort",
-    "count": 4,
-    "lat": 30.6692543,
-    "lng": -87.931320625
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
     "city": "Marengo County",
     "citySlug": "marengo-county",
     "count": 4,
@@ -4283,11 +4573,21 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Gadsden",
-    "citySlug": "gadsden",
+    "city": "Florence",
+    "citySlug": "florence",
     "count": 4,
-    "lat": 33.9946162,
-    "lng": -86.002154125
+    "lat": 34.80975565,
+    "lng": -87.63137342499999
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Fairhope",
+    "citySlug": "fairhope",
+    "count": 4,
+    "lat": 30.51507925,
+    "lng": -87.91212475
   },
   {
     "state": "AL",
@@ -4298,6 +4598,96 @@
     "count": 4,
     "lat": 34.5265131,
     "lng": -86.090651475
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Pickensville",
+    "citySlug": "pickensville",
+    "count": 4,
+    "lat": 33.216280850000004,
+    "lng": -88.28892412500001
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area A (Nass Valley/Bell Irving)",
+    "citySlug": "area-a-nass-valley-bell-irving",
+    "count": 4,
+    "lat": 55.744749775,
+    "lng": -129.49551515
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Chignik",
+    "citySlug": "chignik",
+    "count": 4,
+    "lat": 56.29936685,
+    "lng": -158.39293985
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Masset",
+    "citySlug": "masset",
+    "count": 4,
+    "lat": 54.006601124999996,
+    "lng": -132.14392075
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Port Clements",
+    "citySlug": "port-clements",
+    "count": 4,
+    "lat": 53.666496125,
+    "lng": -132.24390775
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Old Harbor",
+    "citySlug": "old-harbor",
+    "count": 4,
+    "lat": 57.205544225,
+    "lng": -153.3030439
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Kenai",
+    "citySlug": "kenai",
+    "count": 4,
+    "lat": 60.5395065,
+    "lng": -151.23919790000002
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Coffman Cove",
+    "citySlug": "coffman-cove",
+    "count": 4,
+    "lat": 56.01221295,
+    "lng": -132.83417075
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Klawock",
+    "citySlug": "klawock",
+    "count": 4,
+    "lat": 55.5586765,
+    "lng": -133.093419375
   },
   {
     "state": "AZ",
@@ -5453,16 +5843,6 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Lowndes County",
-    "citySlug": "lowndes-county",
-    "count": 3,
-    "lat": 32.680699733333334,
-    "lng": -87.25926373333333
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
     "city": "Pike Road",
     "citySlug": "pike-road",
     "count": 3,
@@ -5483,26 +5863,6 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Florence",
-    "citySlug": "florence",
-    "count": 3,
-    "lat": 34.811731333333334,
-    "lng": -87.63085456666666
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
-    "city": "Fairhope",
-    "citySlug": "fairhope",
-    "count": 3,
-    "lat": 30.507622533333333,
-    "lng": -87.9144356
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
     "city": "St. Clair County",
     "citySlug": "st-clair-county",
     "count": 3,
@@ -5513,11 +5873,101 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
+    "city": "Calhoun County",
+    "citySlug": "calhoun-county",
+    "count": 3,
+    "lat": 33.771118333333334,
+    "lng": -86.04648733333333
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
     "city": "Autauga County",
     "citySlug": "autauga-county",
     "count": 3,
     "lat": 32.53261643333334,
     "lng": -86.74361186666665
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Creola",
+    "citySlug": "creola",
+    "count": 3,
+    "lat": 30.893612,
+    "lng": -87.983939
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area F (Dease Lake)",
+    "citySlug": "area-f-dease-lake",
+    "count": 3,
+    "lat": 58.8040164,
+    "lng": -130.01037996666665
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Area C (South Skeena)",
+    "citySlug": "area-c-south-skeena",
+    "count": 3,
+    "lat": 53.852184599999994,
+    "lng": -130.04631876666664
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Adak",
+    "citySlug": "adak",
+    "count": 3,
+    "lat": 51.8590766,
+    "lng": -176.64192089999997
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Port Lions",
+    "citySlug": "port-lions",
+    "count": 3,
+    "lat": 57.87242693333334,
+    "lng": -152.8672233
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Gustavus",
+    "citySlug": "gustavus",
+    "count": 3,
+    "lat": 58.43302533333334,
+    "lng": -135.83494856666667
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Anchorage",
+    "citySlug": "anchorage",
+    "count": 3,
+    "lat": 61.2118187,
+    "lng": -149.93612133333332
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Whale Pass",
+    "citySlug": "whale-pass",
+    "count": 3,
+    "lat": 56.11075603333333,
+    "lng": -133.11965853333334
   },
   {
     "state": "AZ",
@@ -7143,16 +7593,6 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Destin",
-    "citySlug": "destin",
-    "count": 2,
-    "lat": 30.408922150000002,
-    "lng": -86.48804315000001
-  },
-  {
-    "state": "AL",
-    "stateName": "Alabama",
-    "stateSlug": "alabama",
     "city": "Bayou La Batre",
     "citySlug": "bayou-la-batre",
     "count": 2,
@@ -7213,11 +7653,161 @@
     "state": "AL",
     "stateName": "Alabama",
     "stateSlug": "alabama",
-    "city": "Creola",
-    "citySlug": "creola",
+    "city": "Coffee County",
+    "citySlug": "coffee-county",
     "count": 2,
-    "lat": 30.88707105,
-    "lng": -87.98792585
+    "lat": 31.36226935,
+    "lng": -86.11515215
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Loxley",
+    "citySlug": "loxley",
+    "count": 2,
+    "lat": 30.68268655,
+    "lng": -87.73570864999999
+  },
+  {
+    "state": "AL",
+    "stateName": "Alabama",
+    "stateSlug": "alabama",
+    "city": "Etowah County",
+    "citySlug": "etowah-county",
+    "count": 2,
+    "lat": 34.1553144,
+    "lng": -86.1919663
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Cold Bay",
+    "citySlug": "cold-bay",
+    "count": 2,
+    "lat": 55.20087035,
+    "lng": -162.69863099999998
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Stewart",
+    "citySlug": "stewart",
+    "count": 2,
+    "lat": 55.9019617,
+    "lng": -129.9987189
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Ketchikan Gateway Borough",
+    "citySlug": "ketchikan-gateway-borough",
+    "count": 2,
+    "lat": 55.43000965,
+    "lng": -131.6425774
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Seldovia",
+    "citySlug": "seldovia",
+    "count": 2,
+    "lat": 59.43841745,
+    "lng": -151.71724295
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Thorne Bay",
+    "citySlug": "thorne-bay",
+    "count": 2,
+    "lat": 55.685047499999996,
+    "lng": -132.5289444
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Angoon",
+    "citySlug": "angoon",
+    "count": 2,
+    "lat": 57.483269899999996,
+    "lng": -134.5661886
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Skagway",
+    "citySlug": "skagway",
+    "count": 2,
+    "lat": 59.449452750000006,
+    "lng": -135.3222525
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Cordova",
+    "citySlug": "cordova",
+    "count": 2,
+    "lat": 60.5453103,
+    "lng": -145.7668482
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "муниципальный округ Эгвекинот",
+    "citySlug": "",
+    "count": 2,
+    "lat": 68.88766344999999,
+    "lng": -179.41744645
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Whitehorse",
+    "citySlug": "whitehorse",
+    "count": 2,
+    "lat": 60.68239535,
+    "lng": -135.0317273
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Larsen Bay",
+    "citySlug": "larsen-bay",
+    "count": 2,
+    "lat": 57.53463285,
+    "lng": -154.00008145
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Kotlik",
+    "citySlug": "kotlik",
+    "count": 2,
+    "lat": 63.03429335,
+    "lng": -163.55332575
+  },
+  {
+    "state": "AK",
+    "stateName": "Alaska",
+    "stateSlug": "alaska",
+    "city": "Edna Bay",
+    "citySlug": "edna-bay",
+    "count": 2,
+    "lat": 55.963107300000004,
+    "lng": -133.6223311
   },
   {
     "state": "AZ",
