@@ -115,9 +115,78 @@ export const STATE_EDITORIAL: Record<string, StateEditorial> = {
       }
     ]
   },
+  michigan: {
+    introOverride:
+      "Michigan has 1,608 piers spanning 3,288 miles of Great Lakes coastline (more than any other state), the densest inland-lake system in the country at 11,000+ named lakes, the Detroit River and Lake St. Clair fishery, the Saginaw Bay and Thumb shoreline, and the Upper Peninsula's Lake Superior and Lake Michigan harbors. Whether you're casting off the Frankfort Lighthouse Pier for a fall coho run, jigging for walleye on a Saginaw Bay pier, surf-fishing for steelhead from Manistee North Pier, or pulling perch off Lake St. Clair docks, the directory below shows piers with verified locations, public-access status, parking availability, and amenity details.",
+    h2Blocks: [
+      {
+        heading: "Michigan's Pier Landscape",
+        body:
+          "Michigan runs the largest Great Lakes pier market in the country, with piers serving four of the five Great Lakes plus Lake St. Clair and the densest inland-lake system in the Lower 48. Lake Michigan's eastern shore — New Buffalo, St. Joseph, South Haven, Saugatuck-Holland, Grand Haven, Muskegon, Pentwater, Ludington, Manistee, Frankfort, Leland, and Charlevoix — hosts iconic concrete and stone breakwall piers that double as both navigation aids and fishing platforms. The Manistee, Pentwater, Frankfort, and St. Joseph piers rank among the country's most productive Great Lakes piers for chinook and coho salmon (peak runs August-October), steelhead (April-May and September-November), and brown trout. Lake Huron's Sunrise Coast (Cheboygan, Alpena, Tawas, Au Gres, Bay City) supports walleye, brown trout, and pike piers. The Thumb shoreline (Caseville, Port Austin, Harbor Beach, Lexington, Port Huron) hosts walleye, perch, and Atlantic salmon piers serving the Saginaw Bay fishery. Lake St. Clair and the Detroit River — heavily fished urban-shore piers — focus on smallmouth bass, walleye, perch, muskie, and steelhead. Lake Superior on the Upper Peninsula (Marquette, Munising, Grand Marais, Houghton, Copper Harbor, Sault Ste. Marie) hosts smaller and more remote piers with lake trout, coaster brook trout, and salmon focus. Inland, Michigan's 11,000+ lakes support a vast pier network — Houghton Lake, Higgins Lake, Lake Charlevoix, Torch Lake, Mullett Lake, Burt Lake, and the Brainerd-style cabin-lake chains throughout the Lower Peninsula's central regions."
+      },
+      {
+        heading: "Salmon Runs, Ice-In Season, and Big Lake Weather",
+        body:
+          "Three Michigan-specific factors shape every pier outing. Great Lakes salmon and steelhead runs drive pier fishing seasonality dramatically. Chinook salmon peak August through October at Lake Michigan piers (Manistee, Pentwater, Frankfort, Ludington especially); coho run alongside in similar timing; pink salmon (in odd-numbered years) provide bonus fishing. Steelhead runs hit eastern Lake Michigan piers in April-May and again September-November. Brown trout fish year-round at most Lake Michigan piers but peak in spring and fall. Lake Huron walleye runs hit Saginaw Bay piers in April-May. Lake St. Clair smallmouth bass peak May-June and September-October. Ice-in dictates open-water pier season for all but Lake Michigan and Lake Huron, which rarely freeze enough to prevent shore-pier fishing — most inland piers are accessible mid-April through late October, with northern Lower Peninsula and Upper Peninsula lakes freezing earlier and reopening later. Big Lake weather is the dominant safety factor: Lakes Michigan, Superior, and Huron generate sea-state conditions that rival ocean fishing, with sustained northwest blows over 25 knots producing 8-12 foot wave heights. Pier walls become dangerous in heavy weather — many piers post warnings and some close during major storm events. NOAA marine forecasts and the Great Lakes Marine Weather page are essential. A Michigan fishing license is required for anyone 17+; the all-species license costs $26 (resident) or $76 (non-resident)."
+      },
+      {
+        heading: "Regional Patterns Across the State",
+        body:
+          "Michigan's pier market splits into six distinct regions. Lake Michigan southeast and Harbor Country (New Buffalo, St. Joseph, South Haven, Saugatuck, Holland, Grand Haven): summer beach-tourist demand, salmon and steelhead piers, parking premiums in summer. Lake Michigan northeast and Up North (Muskegon, Ludington, Manistee, Frankfort, Charlevoix, Petoskey): heaviest salmon-pier action, peak August-October, multiple iconic concrete and stone piers. Saginaw Bay and the Thumb (Bay City, Caseville, Port Austin, Harbor Beach): walleye and perch focus, lower demand than west shore, traditional fishing scene. Detroit River, Lake St. Clair, and Lake Erie corridor (Detroit, St. Clair Shores, Algonac, Monroe): urban-shore piers, smallmouth bass and walleye dominance, year-round access at protected piers. Lake Superior and Upper Peninsula (Marquette, Munising, Houghton, Copper Harbor): remote pier fishing, lake trout and coaster brook trout focus, shortest open-water season. Inland lakes (Houghton, Higgins, Charlevoix, Torch, Mullett, Burt, plus the Cadillac and Traverse City regions): pontoon and runabout pier scene, pier fishing for smallmouth, perch, walleye, and pike. The directory above includes coverage across all six regions."
+      }
+    ],
+    faqExtra: [
+      {
+        q: "When is the best salmon fishing on a Michigan pier?",
+        a: "Chinook salmon peak August through October at Lake Michigan piers — Manistee, Pentwater, Frankfort, and Ludington consistently rank as the country's most productive Great Lakes salmon piers. Coho run alongside chinook in similar timing. Pink salmon run in odd-numbered years. Steelhead hit eastern Lake Michigan piers in April-May and again September-November. Spawning runs concentrate fish near pier mouths during these windows, making pier fishing exceptionally productive at sunrise and sunset."
+      },
+      {
+        q: "Do I need a Michigan fishing license to fish from a pier?",
+        a: "Yes — Michigan fishing licenses are required for anyone 17 or older fishing from any pier, public or private, on the Great Lakes or inland waters. The all-species license costs $26 for residents and $76 for non-residents. A 24-hour permit ($10) is available for short trips. Senior discounts apply at age 65. All licenses are issued through the Michigan DNR online portal or at most tackle shops and resort sporting goods stores."
+      },
+      {
+        q: "Are Michigan Great Lakes piers safe during storms?",
+        a: "No — Lakes Michigan, Superior, and Huron generate ocean-like sea-state conditions during storms, with sustained northwest blows producing 8-12 foot wave heights regularly. Pier walls become dangerous and have caused fatalities during major storm events. Most public piers post warning signs; some close during major storms. Always check the NOAA Great Lakes Marine Weather forecast before heading out, watch posted warnings, and avoid piers when sustained winds exceed 25 knots from any onshore direction."
+      }
+    ]
+  },
+  california: {
+    introOverride:
+      "California has 1,527 piers spanning the 840-mile Pacific coastline from Crescent City to San Diego, the San Francisco Bay system with public piers across nine counties, the 1,100-square-mile Sacramento-San Joaquin Delta, alpine lakes from Tahoe to Big Bear, the desert reservoirs at Lake Havasu and the Salton Sea, and the Colorado River corridor. Whether you're surf-fishing for halibut off the Crystal Pier in Pacific Beach, casting for striped bass from a Delta pier, jigging for kokanee at Lake Tahoe, or fishing for largemouth bass off a Castaic Lake pier, the directory below shows piers with verified locations, public-access status, parking availability, and amenity details.",
+    h2Blocks: [
+      {
+        heading: "California's Pier Landscape",
+        body:
+          "California has the most geographically split pier market in the country, with three distinct waters supporting completely different fisheries. Pacific coast piers form one of America's most iconic public-fishing scenes — Pacific Beach Pier, Crystal Pier, Oceanside Pier, San Clemente Pier, Newport Pier, Huntington Beach Pier, Seal Beach Pier, Belmont Pier, Manhattan Beach Pier, Hermosa Beach Pier, Redondo Beach Pier, Santa Monica Pier, Malibu Pier, Goleta Pier, Stearns Wharf, Cayucos Pier, Avila Beach Pier, Morro Bay's North T-Pier, San Simeon Pier, Capitola Pier, Santa Cruz Wharf, San Mateo Pier, and Pacifica Pier all rank among the country's most-fished public piers. Catches include surf perch, halibut, white croaker, jacksmelt, mackerel, leopard shark, bonito, and seasonally yellowtail and bonito. San Francisco Bay piers (Berkeley, Emeryville, Pier 7 in San Francisco, Pacifica Coast Guard Pier, Candlestick Point, Oyster Point, Coyote Point) host striped bass, sturgeon, halibut, leopard shark, and Dungeness crab fisheries — uniquely, San Francisco Bay piers are among the few California piers where pier crabbing is permitted year-round. The Sacramento-San Joaquin Delta supports striped bass, sturgeon, salmon, largemouth, and catfish piers throughout the 1,100-square-mile back-bay system. Sierra and southern alpine lakes (Tahoe, Donner, June, Big Bear, Castaic, Pyramid, Diamond Valley, San Vicente, Lake Skinner) host kokanee, rainbow trout, lake trout (mackinaw), and trophy largemouth bass piers. Colorado River and desert reservoirs (Havasu, Mead, Mojave) round out the inland market with striped bass and largemouth bass focus."
+      },
+      {
+        heading: "License Categories, Pier Exemptions, and Drought Effects",
+        body:
+          "Three California-specific factors shape every pier outing. California sport fishing licenses come in distinct categories — a freshwater license for inland piers, an Ocean Enhancement Validation for saltwater south of Point Arguello, and a Bay Delta Stamp for the Sacramento-San Joaquin Delta and Bay striped bass and sturgeon fishing. The 'public pier exemption' is a uniquely California feature: anyone fishing from a CDFW-designated public pier (most coastal city piers) does NOT need a fishing license — among the most generous pier-fishing rules in the country. Fishing from anywhere else (even a private dock or shore) requires a license. Confirm the pier's CDFW exemption status with posted signage before fishing without a license. Ocean and Bay piers also have specific bag and size limits regulated by CDFW that change yearly. Drought directly affects inland piers: Lake Oroville, Folsom, Shasta, New Melones, and Pyramid have all dropped 100+ feet from full pool in recent dry cycles, exposing or closing pier docks at low water. The Sacramento Delta is sea-level-driven and not affected by drought. Sierra alpine lakes see less drought impact but still vary seasonally. Wildfire smoke (typically July-October) periodically closes Sierra and inland-lake piers when air quality reaches hazardous levels."
+      },
+      {
+        heading: "Regional Patterns Across the State",
+        body:
+          "California's pier market splits into five distinct regions. Southern California coast (San Diego through Santa Barbara): year-round operation, public-pier exemption applies to most municipal piers, halibut and surf perch focus, peak demand May-September. Central Coast (Morro Bay, Cambria, Cayucos, Avila, Pismo Beach, Santa Cruz): smaller working piers, salmon and rockfish focus during open seasons, fog-prone summer mornings. San Francisco Bay: dense Bay Area pier cluster across nine counties, striped bass and sturgeon dominance, year-round Dungeness crab access (uniquely permitted on Bay piers), tidal-current-aware fishing. Sacramento Delta: largest inland pier market in California, 1,100-square-mile back-bay system, summer peak with strong shoulder-season demand, drought-resistant water levels. Sierra and Mountain Lakes plus desert reservoirs (Tahoe, Donner, Big Bear, Castaic, Diamond Valley, Pyramid, Lake Havasu, Lake Mead): seasonal alpine pier access (May-October at Sierra lakes), year-round at southern reservoirs, drought-vulnerable inland reservoirs, kokanee and lake trout focus. The directory above includes coverage across all five regions."
+      }
+    ],
+    faqExtra: [
+      {
+        q: "Do I need a fishing license to fish from a California pier?",
+        a: "Not always — California has a unique 'public pier exemption' that allows fishing from CDFW-designated public piers without a sport fishing license. This includes most municipal coastal piers (Pacific Beach Pier, Newport Pier, Santa Monica Pier, etc.). The exemption applies only to specifically designated piers; check posted signage at each pier to confirm. Fishing from anywhere else (private docks, shore, jetties, breakwaters) requires a California sport fishing license. Anyone 16+ fishing inland or anywhere not exempted needs a license through CDFW."
+      },
+      {
+        q: "Can I crab from California piers?",
+        a: "Yes — Dungeness and rock crab can be taken from many San Francisco Bay piers year-round (with size and bag limits set by CDFW). Pacific coast pier crabbing for Dungeness opens during the recreational Dungeness crab season, typically November through July with regional variations and occasional closures driven by domoic acid testing. A California sport fishing license is required for crabbing (the public-pier exemption does NOT cover crabbing — crabbing requires a license everywhere). Check current CDFW season status before each trip."
+      },
+      {
+        q: "What's the best fishing on a California pier?",
+        a: "Surf perch year-round on Southern California coastal piers. Halibut May-September across coastal piers, with Pacific Beach, Newport, and Capitola consistently productive. White croaker, jacksmelt, and mackerel are reliable Pacific coast pier targets. Striped bass and sturgeon at SF Bay and Delta piers October-March. Bonito and yellowtail at Southern California piers in summer when warm currents push fish near shore. Kokanee and rainbow trout at Sierra lake piers May-September. Largemouth bass at Castaic, Pyramid, and Diamond Valley piers year-round."
+      }
+    ]
+  },
   // Remaining top-10 entries will be added in batches:
-  // michigan, california, maryland, new-york, north-carolina,
-  // illinois, virginia
+  // maryland, new-york, north-carolina, illinois, virginia
 };
 
 export function getStateEditorial(stateSlug: string): StateEditorial | null {
