@@ -255,8 +255,111 @@ export const STATE_EDITORIAL: Record<string, StateEditorial> = {
       }
     ]
   },
-  // Remaining top-10 entries will be added in batches:
-  // north-carolina, illinois, virginia
+  "north-carolina": {
+    introOverride:
+      "North Carolina has 1,337 piers spanning the Outer Banks barrier-island chain, the Pamlico and Albemarle Sounds (the second-largest estuarine system on the East Coast), the Intracoastal Waterway from Currituck to South Carolina, the Cape Fear River and Wilmington's busy port, and inland lakes like Jordan, Falls, and Lake Norman. Whether you're casting for kingfish off the Avalon Pier on Nags Head, surf-fishing for drum from the Frisco Pier ruins, jigging from the Sunset Beach Pier, or fishing for crappie off a Falls Lake dock, the directory below shows piers with verified locations, public-access status, parking availability, and amenity details.",
+    h2Blocks: [
+      {
+        heading: "North Carolina's Pier Landscape",
+        body:
+          "North Carolina runs the Atlantic coast's most concentrated ocean-pier scene. The Outer Banks alone host iconic public fishing piers — Avalon Pier (Kill Devil Hills), Nags Head Pier, Jennette's Pier (Nags Head), Outer Banks Pier (South Nags Head), Avon Pier (Hatteras Island), Rodanthe Pier, and Ocracoke's smaller public access points. These piers consistently rank among the East Coast's most-fished, supporting kingfish, pompano, drum, mackerel, mahi (when warm currents push close), bluefish, and seasonally cobia. The Crystal Coast (Atlantic Beach, Indian Beach, Emerald Isle, Bogue Inlet Pier) extends the ocean pier scene south. Topsail Beach, Surf City, Wrightsville Beach (Johnnie Mercer's Pier), Carolina Beach (Carolina Beach Pier), Kure Beach, Sunset Beach (Sunset Beach Pier — the iconic 'pier on stilts'), and Oak Island Pier round out the southern coast. Pamlico and Albemarle Sounds host pier fishing for striped bass, white perch, blue crab, and seasonal speckled trout — public access at Hatteras-side piers, Manteo, Edenton, Bath, and the back-side of the Outer Banks. Wilmington and the Cape Fear River support a mix of urban-shore piers and Carolina Beach access. Inland, Jordan Lake, Falls Lake, Lake Norman (the largest man-made lake in NC at 32,500 acres), Lake Gaston, and High Rock Lake support bass-tournament-grade pier fishing for largemouth, striper (in Jordan and Falls), crappie, and catfish."
+      },
+      {
+        heading: "Hurricane Aftermath, Migrations, and Public Access",
+        body:
+          "Three North Carolina-specific factors shape every pier outing. Hurricane aftermath is the dominant factor on Outer Banks and southern coast piers. Hurricane Florence (2018), Dorian (2019), Matthew (2016), Isaias (2020), and recent storms have destroyed or closed multiple iconic piers — the Frisco Pier was destroyed; the Outer Banks Pier was reduced; Jennette's Pier (rebuilt as a state-park concrete pier) and Avalon Pier survived. Always confirm current pier status before driving out, especially after named storms. Many piers operate on reduced sections; some remain fully closed pending reconstruction. Migrations dominate seasonal pier fishing. Spring kingfish runs hit Outer Banks and southern coast piers in May-June. Cobia migrations move through OBX piers in May. Spanish mackerel and bluefish run May-October. Fall drum runs hit OBX and Hatteras-side piers October-November. The fall striper run hits Sound and inland-lake piers October-November. Public access is excellent on the ocean side — most NC ocean piers charge daily fishing fees ($10-15) and may charge separate parking fees. State-park piers (Jennette's, Apache, Hatteras Island) typically charge slightly higher fees. Inland-lake piers are typically free with paid parking. A North Carolina Coastal Recreational Fishing License is required for all saltwater fishing including pier fishing; an inland fishing license is required for non-saltwater piers and lakes."
+      },
+      {
+        heading: "Regional Patterns Across the State",
+        body:
+          "North Carolina's pier market splits into five distinct regions. Outer Banks (Currituck, Dare, Hyde counties): country's most concentrated ocean-pier scene, hurricane-vulnerable, multiple iconic piers including Jennette's (state park), Avalon, Nags Head, Avon, and Rodanthe, summer peak with strong shoulder-season demand. Crystal Coast (Carteret, Onslow): Bogue Inlet Pier, Oceanana Pier (Atlantic Beach), Surf City Pier, Emerald Isle's smaller public access, military-adjacent demand from Camp Lejeune. Cape Fear and southern coast (New Hanover, Brunswick): Wrightsville Beach (Johnnie Mercer's Pier), Carolina Beach, Kure Beach, Oak Island Pier, Sunset Beach Pier (the iconic stilt pier), Holden Beach. Pamlico and Albemarle Sounds (Hyde, Tyrrell, Dare, Beaufort, Washington counties): striper, white perch, blue crab and speckled trout, quieter back-bay scene. Inland lakes (Wake, Durham, Mecklenburg, Iredell, Granville, Vance, Davidson, Rowan, Mecklenburg counties — Falls, Jordan, Lake Norman, High Rock, Kerr, Gaston): bass-tournament dominance, year-round access, pier fishing for largemouth, striped bass (Jordan, Falls), crappie, and catfish. The directory above includes coverage across all five regions."
+      }
+    ],
+    faqExtra: [
+      {
+        q: "Which Outer Banks piers are open after recent hurricanes?",
+        a: "Hurricane damage from Florence (2018), Dorian (2019), Matthew (2016), Isaias (2020), and subsequent storms has closed multiple Outer Banks piers — the Frisco Pier was destroyed; some piers remain partially closed. Jennette's Pier (Nags Head, NC State Parks concrete construction) and Avalon Pier (Kill Devil Hills) generally survive storms intact and reopen quickly. Always check current pier status with the operator or NC State Parks before driving out — conditions change after each named storm season."
+      },
+      {
+        q: "Do I need a fishing license to fish from a North Carolina pier?",
+        a: "Yes — saltwater pier fishing requires a North Carolina Coastal Recreational Fishing License (CRFL). Inland and freshwater piers (Jordan, Falls, Lake Norman, Kerr, etc.) require a separate inland fishing license. Both licenses cover anyone 16 or older. Many ocean piers also charge daily fishing access fees ($10-15) on top of the license. Senior discounts apply at age 65. Licenses are issued through NCWRC (inland) and NC Marine Fisheries (saltwater) online or at most tackle shops."
+      },
+      {
+        q: "When is the best fishing on a North Carolina pier?",
+        a: "Spring kingfish runs hit OBX and southern coast piers in May-June. Cobia migrations move through Outer Banks piers in May. Spanish mackerel and bluefish run May through October. Fall drum runs hit OBX and Hatteras-side piers October-November. Pompano on southern coast piers fall and spring. Inland striped bass at Jordan and Falls Lakes peak in spring (post-spawn) and fall. Crappie in Lake Norman and inland lakes peak March-May."
+      }
+    ]
+  },
+  illinois: {
+    introOverride:
+      "Illinois has 1,113 piers spanning Lake Michigan's 63-mile shoreline (Chicago through the North Shore), the Mississippi River from Galena to Cairo, the Illinois River, the Fox River, the Rock River, the Kankakee River, and inland reservoirs like Carlyle Lake, Rend Lake, Lake Shelbyville, and Lake Springfield. Whether you're casting for coho salmon off Montrose Harbor's piers in Chicago, jigging for walleye on a Mississippi River dock, fishing for catfish at Carlyle Lake, or chasing perch off a North Shore breakwall, the directory below shows piers with verified locations, public-access status, parking availability, and amenity details.",
+    h2Blocks: [
+      {
+        heading: "Illinois's Pier Landscape",
+        body:
+          "Illinois runs an unusual pier market shaped by Chicago's 63-mile Lake Michigan shoreline at one extreme and the Mississippi River and downstate reservoirs at the other. Chicago's lakefront piers — Montrose Harbor, Belmont Harbor, Diversey Harbor, Burnham Harbor, the 31st Street and 63rd Street beach piers, plus the iconic Navy Pier — host one of the country's most concentrated urban-shore fisheries. Coho salmon, chinook salmon (limited harvest), brown trout, lake trout, smallmouth bass, perch, and seasonal alewives all fish from Chicago lakefront piers, with peak action during spring (May-June) and fall (September-November) salmon runs. The North Shore from Evanston through Wilmette, Highland Park, Lake Forest, and Waukegan extends the Lake Michigan pier scene with smaller harbor and breakwall piers. The Mississippi River corridor (Galena, Savanna, Quincy, Alton, East St. Louis, Cairo) hosts pier fishing for walleye, sauger, smallmouth, catfish, and seasonal striped hybrid bass and white bass. The Illinois River anchors a similar inland fishery at Peoria, Pekin, and along the lower river. The Fox, Rock, Kankakee, Sangamon, and Vermilion rivers host smaller pier scenes. Inland reservoirs — Carlyle Lake (Illinois's largest at 26,000 acres), Rend Lake (19,000 acres), Lake Shelbyville (11,100 acres), Clinton Lake, Lake Springfield, and Lake of Egypt — support bass-tournament-grade pier fishing plus catfish, crappie, walleye, and white bass."
+      },
+      {
+        heading: "Lake Michigan Salmon, River Walleye, and License Logistics",
+        body:
+          "Three Illinois-specific factors shape every pier outing. Lake Michigan salmon runs drive Chicago and North Shore pier fishing seasonality. Coho salmon peak May through June and again September through October on Chicago lakefront piers. Chinook salmon are catchable but heavily restricted with strict possession limits. Brown trout fish year-round at Chicago piers but peak in spring and fall. Lake trout fish year-round with summer harvest restrictions. Spring perch runs hit Chicago piers in late April through May. Fall perch returns October-November. River walleye drive downstate pier fishing — the Mississippi River walleye and sauger run hits Mississippi piers in spring (March-April) post-spawn and again in fall (September-October). White bass runs hit Mississippi and Illinois River piers in spring. Catfish (channel, blue, flathead) fish year-round at all river piers. License logistics are straightforward: an Illinois Sportsman's License covers fishing statewide for residents (16-64); non-residents need a non-resident fishing license. A Lake Michigan salmon stamp ($6.50) is required for fishing salmon and trout on Lake Michigan. A separate Trout Stamp ($6.50) is required for inland trout fishing. All licenses are issued through Illinois DNR. Daily and three-day permits are available for short trips."
+      },
+      {
+        heading: "Regional Patterns Across the State",
+        body:
+          "Illinois's pier market splits into four distinct regions. Chicago Lake Michigan lakefront (Cook County): Chicago harbors and beach piers, year-round access at protected harbor piers, salmon and perch focus, urban-shore fishing density, peak demand May-June and September-November. North Shore Lake Michigan (Lake County): Evanston through Waukegan, smaller harbor and breakwall piers, similar salmon and trout fishery as Chicago, less crowded. Mississippi River corridor (Jo Daviess, Carroll, Whiteside, Rock Island, Henderson, Adams, Calhoun, Madison, St. Clair, Monroe, Randolph, Jackson, Union, Alexander counties): walleye, sauger, smallmouth, catfish, white bass focus, river-pier fishing patterns, peak spring and fall. Inland reservoirs and southern Illinois (DuPage, Kane, Will, Kankakee, Iroquois, Champaign, Vermilion, Macon, Sangamon, Christian, Coles, Effingham, Fayette, Marion, Williamson, Saline, Pope, Hardin counties — Carlyle, Rend, Shelbyville, Clinton, Springfield, Lake of Egypt): bass-tournament dominance, mixed warmwater fishery, year-round pier access at most reservoirs. The directory above includes coverage across all four regions."
+      }
+    ],
+    faqExtra: [
+      {
+        q: "When is the best salmon fishing on Chicago lakefront piers?",
+        a: "Coho salmon peak May through June at Chicago lakefront piers (Montrose Harbor, Belmont Harbor, Diversey Harbor, 31st Street). The fall coho run hits in September-October. Chinook salmon are catchable year-round but heavily restricted with strict possession limits. Brown trout fish year-round, peaking in spring and fall. Spring perch runs hit Chicago piers in late April-May; fall perch returns October-November. Confirm current Lake Michigan rules with Illinois DNR before each trip — possession and size limits adjust seasonally."
+      },
+      {
+        q: "Do I need a fishing license to fish from an Illinois pier?",
+        a: "Yes — Illinois requires a fishing license for anyone 16 or older. The Sportsman's License covers fishing statewide for residents under 65; non-residents need a non-resident fishing license. A Lake Michigan salmon stamp ($6.50) is required for fishing salmon and trout on Lake Michigan. A separate Trout Stamp ($6.50) is required for inland trout fishing. Daily and three-day permits are available for short trips. All licenses are issued through Illinois DNR."
+      },
+      {
+        q: "What's the best fishing on a Mississippi River pier in Illinois?",
+        a: "Walleye and sauger runs peak in spring (March-April) post-spawn and again in fall (September-October) at Mississippi River piers from Galena south through Alton. Smallmouth bass fish year-round, peaking May-June and September-October. White bass runs hit in spring (April-May). Catfish (channel, blue, flathead) fish year-round, with summer evenings most productive. Striped hybrid bass appear seasonally below dam tailwaters."
+      }
+    ]
+  },
+  virginia: {
+    introOverride:
+      "Virginia has 1,078 piers spanning the Chesapeake Bay's southern reach (Hampton Roads, the Lower Bay, the Eastern Shore), the four major rivers feeding the Bay (the Potomac, Rappahannock, York, James), the Atlantic coast at Virginia Beach, and inland reservoirs like Smith Mountain Lake, Lake Anna, Kerr Lake, and Lake Gaston. Whether you're casting for striped bass off the Rudee Inlet jetty, jigging for spot from the Buckroe Beach Pier in Hampton, fishing for catfish on the James River, or chasing largemouth off a Smith Mountain Lake pier, the directory below shows piers with verified locations, public-access status, parking availability, and amenity details.",
+    h2Blocks: [
+      {
+        heading: "Virginia's Pier Landscape",
+        body:
+          "Virginia runs one of the most varied Bay-and-river pier markets on the East Coast. Hampton Roads (Norfolk, Portsmouth, Newport News, Hampton, Virginia Beach) anchors the southern Bay pier scene — Buckroe Beach Pier (Hampton, on the Bay), Ocean View Pier (Norfolk, on the Bay), Lynnhaven Inlet Pier, Rudee Inlet Jetty (Virginia Beach, Atlantic side), and the Virginia Beach Fishing Pier all rank among the most-fished piers on the southern Bay and Virginia Beach Atlantic shore. Targets include striped bass, croaker, spot, flounder, bluefish, and seasonal red drum and cobia. The four river systems feeding the Bay each anchor their own pier scenes — the Potomac (lower stretch from Colonial Beach south through Reedville and Coles Point) hosts striped bass, snakehead, blue catfish, and smallmouth piers; the Rappahannock (Tappahannock, Urbanna, Deltaville, Kilmarnock) hosts striper and white perch piers; the York (Yorktown, West Point, Gloucester Point) supports striper and croaker; the James (Williamsburg, Surry, Charles City, Hopewell, Richmond) hosts blue catfish (some of the country's largest) and smallmouth bass piers. Eastern Shore piers (Cape Charles, Onancock, Wachapreague, Chincoteague) offer Atlantic and Bay-side access for flounder, croaker, and seasonal cobia. Inland, Smith Mountain Lake (the largest lake in VA at 20,600 acres) anchors a year-round bass-tournament scene; Lake Anna, Kerr Lake (shared with NC), Lake Gaston (shared with NC), and Claytor Lake support smaller bass and crappie pier fisheries."
+      },
+      {
+        heading: "Striper Cycle, ICW Migrations, and Hurricane Exposure",
+        body:
+          "Three Virginia-specific factors shape every pier outing. The striper cycle is the year's most-tracked event for Bay anglers. Trophy spring season runs roughly mid-April through mid-May for fish above 28 inches; summer slot season follows; fall run runs September through November as fish school heading south. Pier fishing at Buckroe Beach, Ocean View, and the Lynnhaven peaks during these windows. Virginia Marine Resources Commission (VMRC) sets exact dates and slot limits annually; rules change yearly. ICW migrations bring fall and spring transient fish populations through Hampton Roads, with cobia migrations in May and bluefish runs in late summer through fall. Atlantic-side patterns differ on the Virginia Beach side: the Virginia Beach Fishing Pier and Rudee Inlet jetty see kingfish and flounder runs in spring through summer, then bluefish and Spanish mackerel migrations in late summer and fall. Hurricane exposure is real for Hampton Roads and the lower Bay — Hurricanes Isabel (2003), Sandy (2012), Florence (2018), and recent named storms have produced surge damage. Hampton Roads' deep-water port location funnels storm surge dramatically up the rivers during hurricanes. Confirm pier status before driving out after named-storm seasons. A Virginia saltwater fishing license is required for anyone 16+ fishing tidal waters; a separate freshwater license covers everything above the head of tide. The Virginia Saltwater License is required at all coastal and Bay piers."
+      },
+      {
+        heading: "Regional Patterns Across the State",
+        body:
+          "Virginia's pier market splits into five distinct regions. Hampton Roads (Norfolk, Portsmouth, Newport News, Hampton): largest concentration, year-round access, multiple iconic piers — Buckroe Beach (Bay), Ocean View (Bay), Lynnhaven Inlet, ICW southern terminus drives heavy fall and spring transient traffic. Virginia Beach Atlantic coast: Virginia Beach Fishing Pier, Rudee Inlet jetty, kingfish and flounder runs, summer-peak demand, hurricane vulnerability. Bay rivers — Potomac, Rappahannock, York, James (Colonial Beach, Reedville, Tappahannock, Urbanna, Deltaville, Kilmarnock, Yorktown, Williamsburg, Hopewell, Richmond): traditional cruising market, sailing club scene strong on the Rappahannock, blue catfish dominance on the James, lower pier-fishing demand than coast. Eastern Shore (Cape Charles, Onancock, Wachapreague, Chincoteague): quieter Atlantic and Bay-side pier scene, lower density, the most remote pier market in Virginia. Inland reservoirs (Smith Mountain Lake, Lake Anna, Kerr, Gaston, Claytor): bass-tournament dominance, year-round access, freshwater pier fishing. The directory above includes coverage across all five regions."
+      }
+    ],
+    faqExtra: [
+      {
+        q: "When is striper season in Virginia?",
+        a: "Trophy spring season runs roughly mid-April through mid-May for fish above 28 inches; summer slot season follows; fall run runs September through November. Pier fishing at Buckroe Beach, Ocean View, and Lynnhaven peaks during these windows. Virginia Marine Resources Commission sets exact dates and slot limits annually — rules change yearly, so check before each trip. Confirm current limits with VMRC before fishing."
+      },
+      {
+        q: "Do I need a fishing license to fish from a Virginia pier?",
+        a: "Yes — Virginia requires a saltwater fishing license for anyone 16 or older fishing tidal waters (Bay and tributaries to head of tide, plus the Atlantic Ocean). The Virginia Saltwater License covers all coastal and Bay piers. A separate freshwater license is required for non-tidal piers (above head of tide) and inland-lake piers. Senior discounts apply at age 65. All licenses are issued through Virginia Department of Wildlife Resources online or at most tackle shops."
+      },
+      {
+        q: "What's the best fishing on a Virginia pier?",
+        a: "Spring kingfish runs hit Virginia Beach Atlantic piers in May-June. Cobia migrations move through Hampton Roads in May. Spanish mackerel and bluefish run May-October at coastal piers. Trophy striper runs hit Buckroe Beach and Ocean View piers mid-April through mid-May. Blue catfish dominate the James River piers year-round, with some of the country's largest blue cats caught there. Smith Mountain Lake bass peaks in spring (post-spawn) and fall. Crappie at inland lakes peak March-May."
+      }
+    ]
+  }
 };
 
 export function getStateEditorial(stateSlug: string): StateEditorial | null {
