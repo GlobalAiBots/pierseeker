@@ -185,8 +185,78 @@ export const STATE_EDITORIAL: Record<string, StateEditorial> = {
       }
     ]
   },
+  maryland: {
+    introOverride:
+      "Maryland has 1,510 piers concentrated overwhelmingly on the Chesapeake Bay and its tributaries — the country's largest estuary — plus the Atlantic coast at Ocean City and Assateague, the Potomac River from the D.C. line south, and the Susquehanna Flats at the Bay's head. Whether you're casting for striped bass off the Chesapeake Beach Pier on a fall run, jigging for white perch from a Solomons pier at sunrise, surf-fishing the Ocean City Pier for kingfish, or fishing for snakeheads on the Potomac, the directory below shows piers with verified locations, public-access status, parking availability, and amenity details.",
+    h2Blocks: [
+      {
+        heading: "Maryland's Pier Landscape",
+        body:
+          "Maryland runs the most Bay-concentrated pier market in the country. The Chesapeake Bay and its tributaries hold over 90% of the state's piers, making this the densest cruising-grade and fishing-pier concentration on the East Coast. Public fishing piers anchor the Bay's recreational fishery: Chesapeake Beach Pier, Solomons Island, Matapeake Pier (a former ferry terminal converted to a fishing pier on Kent Island), Sandy Point State Park Pier, North East Community Park Pier, and Romancoke Pier all rank among the most-fished public piers on the Bay. Striped bass (rockfish), white perch, blue crab, and seasonal bluefish are the universal targets across the Bay system. The four major rivers feeding the Bay each support their own pier scenes — the Potomac (lower stretch from Colonial Beach south through Reedville and Coles Point), the Patuxent (Solomons through Lexington Park), the Choptank (Cambridge, Easton, Oxford), and the Severn (Annapolis area). Eastern Shore piers (Crisfield, Cambridge, St. Michael's, Tilghman Island, Chesapeake City) host quieter scenes with strong waterfowling heritage and working-waterfront character. The Susquehanna Flats at the Bay's head (Havre de Grace, North East, Charlestown, Port Deposit) support a freshwater-influenced market specializing in trophy spring striped bass. Ocean City and the Atlantic coast offer offshore-charter pier access at Ocean City Inlet and the Ocean City Boardwalk Pier — the Atlantic side targets kingfish, flounder, sharks, and seasonally bluefish and Spanish mackerel. The Potomac River from D.C. south to Point Lookout is its own boating fishery with snakehead, smallmouth bass, blue catfish, and seasonal striped bass."
+      },
+      {
+        heading: "Striper Cycle, Crabbing-From-Piers, and Atlantic Patterns",
+        body:
+          "Three Maryland-specific factors shape every pier outing. The striper cycle is the year's most-tracked event for Bay anglers. The Maryland trophy spring season runs roughly mid-April through mid-May for fish 28 inches and over (post-spawn rockfish moving up the Bay); summer slot season follows with smaller fish; the fall run runs September through November as fish school heading south. Pier fishing peaks during all three windows but is most productive at sunrise and sunset on the trophy spring run. Maryland DNR sets exact dates and slot limits annually — rules change yearly, so confirm before each trip. Crabbing-from-piers is a Maryland tradition: Chesapeake blue crab can be caught from public piers using hand lines, dip nets, collapsible traps (no commercial-style pots from public piers), or trotlines. Recreational crab licenses are required above small thresholds; check Maryland DNR for current rules. Atlantic-side patterns differ entirely: Ocean City Pier and the Boardwalk fishing piers see kingfish and flounder runs in spring through summer, then bluefish and Spanish mackerel migrations late summer and fall. A Maryland fishing license is required for anyone 16+ fishing tidal waters (Bay and tributaries to head of tide); a separate non-tidal license covers everything above. The Chesapeake Bay Sport Fishing License covers tidal waters only. Many fishing piers post which license they require."
+      },
+      {
+        heading: "Regional Patterns Across the State",
+        body:
+          "Maryland's pier market splits into five distinct regions. Western shore mid-Bay (Annapolis, Chesapeake Beach, Solomons, Calvert County): heaviest pier-fishing concentration, year-round access, striper and white perch focus, peak spring trophy season demand. Susquehanna Flats and upper Bay (Havre de Grace, North East, Rock Hall, Chestertown): trophy spring striper market, freshwater-influenced fishing, mid-priced public access. Eastern Shore (Cambridge, St. Michael's, Easton, Crisfield, Tilghman): quieter cruising and fishing, historic working-waterfront heritage, lower demand than western shore, strong crabbing scene. Atlantic Ocean City corridor (Ocean City Pier, Boardwalk piers, Assateague): offshore charter access, kingfish and flounder runs, summer-peak demand, hurricane vulnerability. Potomac and southern Maryland (Colonial Beach, Coltons Point, Point Lookout, Lexington Park): freshwater-influenced fishing in the Potomac, snakehead and blue catfish dominance, lower-density piers. The directory above includes coverage across all five regions."
+      }
+    ],
+    faqExtra: [
+      {
+        q: "When is striper season in Maryland?",
+        a: "Maryland's trophy spring striper season runs approximately mid-April through mid-May, when post-spawn rockfish above 28 inches are catchable on the upper Bay. Summer slot season follows with smaller fish (typically 19-24 inches). The fall run runs September through November as fish school heading south. Winter catch-and-release continues on the Susquehanna Flats. Maryland DNR sets exact dates and slot limits annually — rules change yearly, so check before each trip. Most pier fishing peaks at sunrise and sunset during these windows."
+      },
+      {
+        q: "Can I crab from Maryland piers?",
+        a: "Yes — blue crab can be caught from most public Bay piers using hand lines, dip nets, collapsible traps, or trotlines. Commercial-style pots are not allowed from public piers. Recreational crab licenses are required above small thresholds (current rules through Maryland DNR). Crabbing season runs roughly April through November, peaking July-September. Many piers post crabbing rules and license requirements at the entrance."
+      },
+      {
+        q: "Do I need a fishing license to fish from a Maryland pier?",
+        a: "Yes — Maryland requires a fishing license for anyone 16 or older. Tidal waters (Chesapeake Bay and tributaries to the head of tide) require a Tidal or Chesapeake Bay Sport Fishing license. Non-tidal waters require a separate freshwater license. Buy whichever matches where you fish, or both for full state coverage. Senior discounts apply at age 65. All licenses are issued through Maryland DNR."
+      }
+    ]
+  },
+  "new-york": {
+    introOverride:
+      "New York has 1,456 piers spanning the Hudson River from Manhattan to the Adirondacks, the Long Island Sound and Long Island south shore, the Erie Canal system, the Finger Lakes, Lake Champlain, the Lake Ontario and Lake Erie shorelines, and the upstate inland-lake fleet. Whether you're casting for stripers off the Battery or Coney Island, jigging for walleye from a Lake Erie pier in Buffalo, fly-fishing the Salmon River piers for fall king salmon, or fishing for landlocked salmon on Lake George, the directory below shows piers with verified locations, public-access status, parking availability, and amenity details.",
+    h2Blocks: [
+      {
+        heading: "New York's Pier Landscape",
+        body:
+          "New York runs the most varied freshwater-and-saltwater pier market in the Northeast. New York City and the lower Hudson host iconic urban piers — the Battery, Coney Island Pier, Sheepshead Bay Pier, Canarsie Pier, Steeplechase Pier, Pier 25, Pier 84, Pier 95 — supporting striped bass, bluefish, fluke, blackfish (tautog), porgy, and seasonal bonito and false albacore. Long Island Sound piers (Throgs Neck, City Island, Glen Cove, Port Washington) host porgy, blackfish, fluke, and weakfish. Long Island's south shore (Captree State Park Piers, Smith Point, Robert Moses, Heckscher State Park) provides Atlantic surf and bay access for striped bass, fluke, blowfish, and seasonal mahi and tuna near the inlets. Montauk piers anchor the country's most legendary striped bass scene. Upstate, Lake Ontario shoreline (Niagara, Wilson, Olcott, Sodus Bay, Oswego) hosts the country's most productive salmon and brown trout pier fishery — chinook, coho, atlantic salmon, lake trout, and steelhead all migrate through these waters with the Salmon River's Pulaski piers ranking among the world's most-fished piers during fall salmon runs. Lake Erie shoreline (Buffalo, Dunkirk, Barcelona) supports walleye, smallmouth bass, perch, and steelhead piers. The Erie Canal corridor and Finger Lakes (Cayuga, Seneca, Owasco, Skaneateles, Keuka, Canandaigua) host inland pier fishing. Lake Champlain and the Adirondack lakes (George, Schroon, Saranac) round out the inland system."
+      },
+      {
+        heading: "Salmon Runs, Striper Migration, and Hurricane Aftermath",
+        body:
+          "Three New York-specific factors shape every pier outing. Lake Ontario salmon runs drive the country's most concentrated freshwater pier fishery. King (chinook) salmon peak August through October at the Salmon River, Oswego, Sodus Bay, and Wilson piers. Coho salmon run alongside in similar timing. Steelhead runs hit the Salmon River and Niagara River piers in October-November and again in March-April. Brown trout fish year-round at most Ontario piers. Striper migrations dominate downstate pier fishing. The Hudson River runs see post-spawn fish moving south April-May; the spring run hits LI Sound and south shore in May. Summer slot season runs through Labor Day. Fall striper runs hit Montauk and the south shore September-November as fish migrate south. The Hudson River's lower stretch sees year-round striper presence with peak action November-March for trophy fish. Hurricane Sandy (2012) destroyed multiple New York piers and reshaped public-pier access in NYC and the south shore for years; some piers remain closed or operate on reduced sections. Always confirm current pier status with the relevant state park or DEC office before driving out. New York fishing licenses are required for anyone 16+; saltwater fishing requires a separate Marine Registry (free) but no separate license. Inland and Hudson River freshwater fishing requires a regular NY fishing license."
+      },
+      {
+        heading: "Regional Patterns Across the State",
+        body:
+          "New York's pier market splits into five distinct regions. NYC and lower Hudson (Manhattan, Brooklyn, Queens, Staten Island, Bronx, lower Westchester): urban-shore piers, year-round striper and seasonal bluefish/false albacore, post-Sandy reconstruction in progress at multiple piers. Long Island Sound (upper Westchester, Nassau, Suffolk through Sound shore): porgy, blackfish, fluke, and weakfish, traditional Sound pier scene. Long Island south shore and Montauk (south Nassau, south Suffolk through Montauk): legendary striper fishery, surf and bay access, summer-peak demand, Captree and Heckscher state-park piers. Lake Ontario shoreline (Niagara, Orleans, Monroe, Wayne, Cayuga, Oswego): country's most productive salmon and brown trout pier fishery, fall king salmon peak, Salmon River piers among the world's most-fished. Lake Erie, Erie Canal, and inland (Erie, Chautauqua, Cattaraugus counties on Lake Erie; Mohawk Valley canal corridor; Finger Lakes; Lake Champlain; Adirondack lakes): walleye, smallmouth, lake trout, landlocked salmon, mixed inland-pier fishery with seasonal patterns. The directory above includes coverage across all five regions."
+      }
+    ],
+    faqExtra: [
+      {
+        q: "When is salmon season on New York's Lake Ontario piers?",
+        a: "King (chinook) salmon peak August through October on the Salmon River, Oswego, Sodus Bay, and Wilson piers — the Salmon River's Pulaski piers (Salmon River Lighthouse Pier and DSR piers) rank among the world's most-fished piers during this window. Coho salmon run alongside chinook. Steelhead runs hit the Salmon River and Niagara River piers in October-November and again in March-April. Brown trout fish year-round, peaking in spring and fall. Confirm current Lake Ontario regulations with NYDEC before each trip — fish limits and possession rules can adjust seasonally."
+      },
+      {
+        q: "Do I need a fishing license to fish from a New York pier?",
+        a: "Yes — New York requires a fishing license for anyone 16 or older. Inland and Hudson River freshwater fishing requires a regular New York State fishing license through NYDEC. Saltwater fishing (Long Island Sound, NYC waters, south shore, Montauk) requires a separate free Marine Registry but does NOT require a paid fishing license. Licenses are issued through NYDEC's online portal or at most tackle shops and sporting goods stores."
+      },
+      {
+        q: "What's the best striper fishing on a New York pier?",
+        a: "Spring striper runs hit Long Island Sound and the south shore in May. Hudson River fish migrate south April-May. Summer slot season runs through Labor Day. The fall run is the legendary window: schools of striped bass migrating south hit Montauk and the south shore September-November, with peak action late September through October. Hudson River trophy season runs November-March for resident fish over 30+ inches. Sunrise and sunset are most productive across all regions."
+      }
+    ]
+  },
   // Remaining top-10 entries will be added in batches:
-  // maryland, new-york, north-carolina, illinois, virginia
+  // north-carolina, illinois, virginia
 };
 
 export function getStateEditorial(stateSlug: string): StateEditorial | null {
