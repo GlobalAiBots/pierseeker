@@ -57,6 +57,76 @@ export const STATE_INFO: Record<string, StateInfo> = {
       }
     ]
   },
+  "alaska": {
+    "slug": "alaska",
+    "code": "AK",
+    "name": "Alaska",
+    "introParagraph": "Alaska offers ${stateTotal.toLocaleString()}+ fishing piers, docks, and jetties across the state. From the Inside Passage and Kenai Peninsula to Kodiak and the Aleutians, there's no shortage of places to cast a line. Popular catches include salmon, halibut, and rockfish.",
+    "tips": [
+      "Check Alaska's fishing license requirements — most states require one even for pier fishing.",
+      "Best times to fish from piers are early morning, late afternoon, and around tidal changes.",
+      "Bring a variety of bait — shrimp, cut bait, and artificial lures all work from piers.",
+      "Always check weather and water conditions before heading to any pier.",
+      "Read our pier fishing tips guide for more advice."
+    ],
+    "faqItems": [
+      {
+        "q": "How many fishing piers are in Alaska?",
+        "a": "PierSeeker lists ${stateTotal}+ fishing piers, docks, and jetties across Alaska."
+      },
+      {
+        "q": "Do I need a fishing license in Alaska?",
+        "a": "Most states require a fishing license even when fishing from a public pier. Check Alaska's fish and wildlife department for current requirements."
+      },
+      {
+        "q": "What fish can I catch from piers in Alaska?",
+        "a": "Popular catches from Alaska piers include salmon, halibut, and rockfish. Species vary by location and season."
+      },
+      {
+        "q": "Are fishing piers in Alaska free?",
+        "a": "Many fishing piers in Alaska are free to access. Some popular piers may charge a small fee during peak season."
+      },
+      {
+        "q": "Is PierSeeker free?",
+        "a": "Yes, completely free. No login, no account, no fees. Just find your pier and go fish."
+      }
+    ]
+  },
+  "hawaii": {
+    "slug": "hawaii",
+    "code": "HI",
+    "name": "Hawaii",
+    "introParagraph": "Hawaii offers ${stateTotal.toLocaleString()}+ fishing piers, docks, and jetties across the islands. From Oahu and Maui to the Big Island and Kauai, there's no shortage of places to cast a line. Popular catches include ulua (giant trevally), papio, and bonefish.",
+    "tips": [
+      "Check Hawaii's fishing license requirements — most states require one even for pier fishing.",
+      "Best times to fish from piers are early morning, late afternoon, and around tidal changes.",
+      "Bring a variety of bait — shrimp, cut bait, and artificial lures all work from piers.",
+      "Always check weather and water conditions before heading to any pier.",
+      "Read our pier fishing tips guide for more advice."
+    ],
+    "faqItems": [
+      {
+        "q": "How many fishing piers are in Hawaii?",
+        "a": "PierSeeker lists ${stateTotal}+ fishing piers, docks, and jetties across Hawaii."
+      },
+      {
+        "q": "Do I need a fishing license in Hawaii?",
+        "a": "Hawaii does not require a recreational saltwater fishing license, but freshwater fishing requires a license from the Hawaii Division of Aquatic Resources."
+      },
+      {
+        "q": "What fish can I catch from piers in Hawaii?",
+        "a": "Popular catches from Hawaii piers include ulua (giant trevally), papio, and bonefish. Species vary by island and season."
+      },
+      {
+        "q": "Are fishing piers in Hawaii free?",
+        "a": "Many fishing piers in Hawaii are free to access. Some popular piers may charge a small fee during peak season."
+      },
+      {
+        "q": "Is PierSeeker free?",
+        "a": "Yes, completely free. No login, no account, no fees. Just find your pier and go fish."
+      }
+    ]
+  },
   "arizona": {
     "slug": "arizona",
     "code": "AZ",
@@ -1756,5 +1826,7 @@ export const ALL_STATE_SLUGS: string[] = [
   "washington",
   "west-virginia",
   "wisconsin",
-  "wyoming"
+  "wyoming",
+  "alaska",
+  "hawaii"
 ];
